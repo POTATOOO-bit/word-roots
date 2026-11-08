@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Word Roots 3D</title>
+<style>
+:root{
+  --bg:#05070d; --fg:#e8edf7; --mut:#8c97ae; --panel:rgba(12,16,28,.86); --line:rgba(255,255,255,.12);
+  --root:#2dd4bf; --prefix:#a78bfa; --suffix:#fb923c;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;height:100%;background:radial-gradient(120% 120% at 50% 0%,#0d1324 0%,var(--bg) 60%);color:var(--fg);
+  font-family:-apple-system,"Thonburi","Sarabun","Noto Sans Thai",system-ui,sans-serif;overflow:hidden}
+#graph{position:fixed;inset:0}
+.top{position:fixed;z-index:5;left:0;right:0;top:0;padding:max(10px,env(safe-area-inset-top)) 12px 0;display:flex;flex-direction:column;gap:8px;pointer-events:none}
+.top>*{pointer-events:auto}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
+.stat{font-size:12px;color:var(--mut)}
+.search{position:relative;flex:1;min-width:180px;max-width:420px}
+.search input{width:100%;height:38px;border-radius:19px;border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:0 16px;font-size:16px;outline:none}
+.search input:focus{border-color:#5b6b92}
+.dd{position:absolute;top:44px;left:0;right:0;background:rgba(14,18,32,.97);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:none}
+.dd button{display:flex;width:100%;justify-content:space-between;gap:10px;text-align:left;background:none;border:0;color:var(--fg);padding:10px 14px;font-size:15px;border-bottom:1px solid var(--line)}
+.dd button:last-child{border-bottom:0}
+.dd small{color:var(--mut)}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;height:30px;padding:0 12px;border-radius:15px;border:1px solid var(--line);background:var(--panel);color:var(--fg);font-size:13px;display:inline-flex;align-items:center;gap:6px;cursor:pointer;user-select:none}
+.chip i{width:9px;height:9px;border-radius:50%;display:inline-block;background:var(--c,#999)}
+.chip.off{opacity:.38}
+.sep{flex:none;width:1px;background:var(--line);margin:4px 2px}
+#panel{position:fixed;z-index:6;left:10px;bottom:max(10px,env(safe-area-inset-bottom));width:min(430px,calc(100% - 20px));max-height:44vh;overflow:auto;
+  background:var(--panel);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid var(--line);border-radius:18px;padding:14px 16px;display:none}
+#panel .x{position:absolute;right:10px;top:8px;background:none;border:0;color:var(--mut);font-size:22px;line-height:1;padding:6px}
+#panel h2{margin:0 28px 2px 0;font-size:22px}
+#panel .sub{color:var(--mut);font-size:13px;margin-bottom:10px}
+.badge{display:inline-block;padding:1px 8px;border-radius:9px;font-size:12px;font-weight:700;color:#0a0d16;margin-left:6px;vertical-align:middle}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:8px 0 12px;background:rgba(255,255,255,.08)}
+.lv{font-size:12px;color:var(--mut);margin:10px 0 5px}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--fg);border-radius:12px;padding:5px 10px;font-size:14px}
+.tag small{color:var(--mut);margin-left:4px}
+#msg{position:fixed;inset:0;display:none;align-items:center;justify-content:center;text-align:center;padding:30px;color:var(--mut);z-index:9;font-size:15px;line-height:1.6}
+</style>
+</head>
+<body>
+<div id="graph"></div>
+<div id="msg">กำลังโหลด…</div>
+
+<div class="top">
+  <div class="row">
+    <h1>Word Roots 3D</h1>
+    <span class="stat" id="stat"></span>
+  </div>
+  <div class="row">
+    <div class="search">
+      <input id="q" type="search" placeholder="ค้นหาคำ / ราก / คำแปลไทย" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <div class="dd" id="dd"></div>
+    </div>
+  </div>
+  <div class="chips" id="chips"></div>
+</div>
+
+<aside id="panel"><button class="x" id="px" aria-label="ปิด">×</button><div id="pc"></div></aside>
+
+<!--EMBED-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.70.19/dist/3d-force-graph.min.js"></script>
+<script>
+const LV=["A1","A2","B1","B2","C1"];
+const LVC={A1:"#34d399",A2:"#a3e635",B1:"#facc15",B2:"#fb923c",C1:"#f87171"};
+const KC={root:"#2dd4bf",prefix:"#a78bfa",suffix:"#fb923c"};
+const KL={root:"ราก",prefix:"Prefix",suffix:"Suffix"};
+const FONT='-apple-system,"Thonburi","Sarabun","Noto Sans Thai",sans-serif';
+
+//<parse>
+function parseInto(text,store){
+  for(const raw of text.split(/\r?\n/)){
+    const line=raw.trim();
+    if(!line||line.startsWith("#"))continue;
+    const p=line.split("|");
+    if(p.length<5)continue;
+    const kind=p[0].trim(), names=p[1].split(",").map(s=>s.trim()).filter(Boolean);
+    if(!names.length||!KC[kind])continue;
+    const key=kind+":"+names[0];
+    let r=store.roots.get(key);
+    if(!r){r={id:"r:"+key,type:"root",kind,names,th:p[2].trim(),en:p[3].trim(),words:[]};store.roots.set(key,r);}
+    for(const it of p.slice(4).join("|").split(";")){
+      const parts=it.split(":"); const w=(parts[0]||"").trim(); if(!w)continue;
+      const cefr=(parts[1]||"B1").trim().toUpperCase();
+      const th=parts.slice(2).join(":").trim();
+      let wd=store.words.get(w);
+      if(!wd){wd={id:"w:"+w,type:"word",word:w,cefr:LV.includes(cefr)?cefr:"B1",th,roots:[]};store.words.set(w,wd);}
+      if(!wd.roots.includes(r))wd.roots.push(r);
+      if(!r.words.includes(wd))r.words.push(wd);
+    }
+  }
+}
+//</parse>
+
+const store={roots:new Map(),words:new Map()};
+const state={kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
+let Graph=null;
+
+const labelOf=r=>r.kind==="prefix"?r.names[0]+"-":r.kind==="suffix"?"-"+r.names[0]:r.names.join(" / ");
+const nid=x=>typeof x==="object"?x:(x[0]==="r"?[...store.roots.values()].find(r=>r.id===x):store.words.get(x.slice(2)));
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+async function load(){
+  const msg=document.getElementById("msg");
+  msg.style.display="flex";
+  let files={};
+  if(window.__EMBEDDED__){files=window.__EMBEDDED__;}
+  else{
+    try{
+      const base=new URL("data/",location.href);
+      const man=await (await fetch(new URL("manifest.json",base),{cache:"no-cache"})).json();
+      for(const f of man){files[f]=await (await fetch(new URL(f,base),{cache:"no-cache"})).text();}
+    }catch(e){
+      msg.innerHTML="โหลดไฟล์ข้อมูลไม่ได้<br>ถ้าเปิดไฟล์จากเครื่องโดยตรง ให้ใช้ <b>standalone.html</b> หรือเปิดผ่าน GitHub Pages";
+      return;
+    }
+  }
+  for(const k of Object.keys(files))parseInto(files[k],store);
+  msg.style.display="none";
+  build();
+}
+
+/* ---------- textures ---------- */
+const texCache=new Map();
+function canvasTex(w,h,draw){const c=document.createElement("canvas");c.width=w;c.height=h;draw(c.getContext("2d"),w,h);const t=new THREE.CanvasTexture(c);t.anisotropy=4;return t;}
+function fit(g,txt,max,size,weight){let s=size;g.font=`${weight} ${s}px ${FONT}`;while(g.measureText(txt).width>max&&s>14){s-=2;g.font=`${weight} ${s}px ${FONT}`;}return txt;}
+function clip(g,txt,max){let t=txt;while(g.measureText(t).width>max&&t.length>2)t=t.slice(0,-1);return t===txt?t:t+"…";}
+
+function rootSprite(r,rad){
+  const tex=canvasTex(512,256,(g,W,H)=>{
+    g.textAlign="center";g.textBaseline="middle";g.shadowColor="rgba(0,0,0,.85)";g.shadowBlur=10;
+    const name=labelOf(r);fit(g,name,W-50,84,700);g.fillStyle="#fff";g.fillText(name,W/2,88);
+    g.font=`500 38px ${FONT}`;g.fillStyle="rgba(255,255,255,.88)";g.fillText(clip(g,r.th,W-50),W/2,148);
+    g.shadowBlur=0;const bw=320,bh=12,bx=(W-bw)/2,by=190,tot=r.words.length||1;let x=bx;
+    g.fillStyle="rgba(255,255,255,.12)";g.fillRect(bx,by,bw,bh);
+    for(const l of LV){const n=r.words.filter(w=>w.cefr===l).length;if(!n)continue;const w=bw*n/tot;g.fillStyle=LVC[l];g.fillRect(x,by,w,bh);x+=w;}
+    g.font=`600 26px ${FONT}`;g.fillStyle="rgba(255,255,255,.7)";g.fillText(r.words.length+" คำ",W/2,230);
+  });
+  const sp=new THREE.Sprite(new THREE.SpriteMaterial({map:tex,transparent:true,depthWrite:false}));
+  sp.scale.set(rad*3.4,rad*1.7,1);return sp;
+}
+function wordSprite(w){
+  const two=state.showTh&&w.th;
+  const key=w.id+"|"+(two?1:0);
+  let tex=texCache.get(key);
+  if(!tex){
+    const H=two?96:64;
+    tex=canvasTex(256,H,(g,W)=>{
+      g.textAlign="center";g.textBaseline="middle";g.shadowColor="rgba(0,0,0,.9)";g.shadowBlur=6;
+      fit(g,w.word,W-16,40,600);g.fillStyle=LVC[w.cefr];g.fillText(w.word,W/2,two?30:H/2);
+      if(two){g.font=`500 28px ${FONT}`;g.fillStyle="rgba(255,255,255,.85)";g.fillText(clip(g,w.th,W-16),W/2,70);}
+    });
+    texCache.set(key,tex);
+  }
+  const sp=new THREE.Sprite(new THREE.SpriteMaterial({map:tex,transparent:true,depthWrite:false}));
+  sp.scale.set(18,two?6.75:4.5,1);sp.position.set(0,-5.2,0);return sp;
+}
+
+/* ---------- graph ---------- */
+const wordGeo=new THREE.SphereGeometry(2,12,12);
+const wordMat={};LV.forEach(l=>wordMat[l]=new THREE.MeshBasicMaterial({color:LVC[l],transparent:true,opacity:.92}));
+const rad=r=>5+Math.sqrt(r.words.length)*1.7;
+
+function makeNode(n){
+  const g=new THREE.Group();
+  if(n.type==="root"){
+    const R=rad(n),c=KC[n.kind];
+    g.add(new THREE.Mesh(new THREE.SphereGeometry(R,32,32),new THREE.MeshPhongMaterial({color:c,emissive:c,emissiveIntensity:.28,transparent:true,opacity:.34,shininess:100,depthWrite:false})));
+    g.add(rootSprite(n,R));
+  }else{
+    g.add(new THREE.Mesh(wordGeo,wordMat[n.cefr]));
+    g.add(wordSprite(n));
+  }
+  return g;
+}
+function nodeVis(n){
+  if(n.type==="root")return state.kinds.has(n.kind);
+  return state.levels.has(n.cefr)&&n.roots.some(r=>state.kinds.has(r.kind));
+}
+function linkColor(l){
+  const s=nid(l.source),t=nid(l.target);
+  if(!state.sel)return "#7f8fb0";
+  return (s===state.sel||t===state.sel)?"#ffffff":"#2c3550";
+}
+function refreshStyle(){
+  Graph.nodeVisibility(nodeVis).linkVisibility(l=>nodeVis(nid(l.source))&&nodeVis(nid(l.target))).linkColor(linkColor);
+}
+
+function build(){
+  const roots=[...store.roots.values()],words=[...store.words.values()];
+  const links=[];roots.forEach(r=>r.words.forEach(w=>links.push({source:r.id,target:w.id})));
+  document.getElementById("stat").textContent=`${roots.length} กลุ่ม · ${words.length} คำ`;
+  Graph=ForceGraph3D({controlType:"orbit"})(document.getElementById("graph"))
+    .backgroundColor("rgba(0,0,0,0)")
+    .graphData({nodes:[...roots,...words],links})
+    .nodeThreeObject(makeNode)
+    .nodeLabel(n=>n.type==="root"?esc(labelOf(n))+" — "+esc(n.th):esc(n.word)+" — "+esc(n.th)+" ("+n.cefr+")")
+    .linkOpacity(.32).linkWidth(.35)
+    .onNodeClick(n=>select(n,true))
+    .onBackgroundClick(()=>{state.sel=null;closePanel();refreshStyle();})
+    .cooldownTime(9000);
+  Graph.d3Force("charge").strength(n=>n.type==="root"?-130:-24);
+  Graph.d3Force("link").distance(l=>{const r=nid(l.source);return 14+rad(r)*2.2;}).strength(.5);
+  refreshStyle();
+  const resize=()=>Graph.width(innerWidth).height(innerHeight);resize();addEventListener("resize",resize);
+  setTimeout(()=>Graph.zoomToFit(900,40),3500);
+  initUI();
+}
+
+function focus(n){
+  if(n.x===undefined)return;
+  const d=n.type==="root"?rad(n)*4.2+30:60,k=1+d/Math.max(1,Math.hypot(n.x,n.y,n.z));
+  Graph.cameraPosition({x:n.x*k,y:n.y*k,z:n.z*k},n,900);
+}
+function select(n,doFocus){
+  state.sel=n;refreshStyle();renderPanel(n);if(doFocus)focus(n);
+}
+function closePanel(){document.getElementById("panel").style.display="none";}
+
+function mix(r){
+  const tot=r.words.length||1;
+  return `<div class="bar">${LV.map(l=>{const n=r.words.filter(w=>w.cefr===l).length;return n?`<span style="width:${100*n/tot}%;background:${LVC[l]}"></span>`:"";}).join("")}</div>`;
+}
+function renderPanel(n){
+  const p=document.getElementById("panel"),c=document.getElementById("pc");
+  let h="";
+  if(n.type==="word"){
+    h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>
+       <div class="lv">รากศัพท์ / Affix</div><div class="tags">${n.roots.map(r=>`<button class="tag" data-id="${esc(r.id)}" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></button>`).join("")}</div>`;
+  }else{
+    h=`<h2 style="color:${KC[n.kind]}">${esc(labelOf(n))}</h2><div class="sub">${KL[n.kind]} · ${esc(n.th)} (${esc(n.en)}) · ${n.words.length} คำ</div>${mix(n)}`;
+    for(const l of LV){
+      const g=n.words.filter(w=>w.cefr===l).sort((a,b)=>a.word.localeCompare(b.word));
+      if(!g.length)continue;
+      h+=`<div class="lv"><b style="color:${LVC[l]}">${l}</b></div><div class="tags">${g.map(w=>`<button class="tag" data-id="${esc(w.id)}">${esc(w.word)}<small>${esc(w.th)}</small></button>`).join("")}</div>`;
+    }
+  }
+  c.innerHTML=h;p.style.display="block";p.scrollTop=0;
+  c.querySelectorAll(".tag").forEach(b=>b.onclick=()=>{const t=nid(b.dataset.id);if(t)select(t,true);});
+}
+
+/* ---------- UI ---------- */
+function initUI(){
+  const chips=document.getElementById("chips");
+  const mk=(label,color,on,fn)=>{const b=document.createElement("button");b.className="chip"+(on?"":" off");b.innerHTML=(color?`<i style="--c:${color}"></i>`:"")+label;b.onclick=()=>{const v=fn();b.classList.toggle("off",!v);};chips.appendChild(b);return b;};
+  for(const k of ["root","prefix","suffix"])mk(KL[k],KC[k],true,()=>{state.kinds.has(k)?state.kinds.delete(k):state.kinds.add(k);refreshStyle();return state.kinds.has(k);});
+  const s=document.createElement("span");s.className="sep";chips.appendChild(s);
+  for(const l of LV)mk(l,LVC[l],true,()=>{state.levels.has(l)?state.levels.delete(l):state.levels.add(l);refreshStyle();return state.levels.has(l);});
+  const s2=document.createElement("span");s2.className="sep";chips.appendChild(s2);
+  mk("แสดงคำแปล",null,false,()=>{state.showTh=!state.showTh;Graph.nodeThreeObject(makeNode);return state.showTh;});
+  mk("หมุนอัตโนมัติ",null,false,()=>{state.rotate=!state.rotate;const c=Graph.controls();c.autoRotate=state.rotate;c.autoRotateSpeed=1.2;return state.rotate;});
+  mk("ดูทั้งหมด",null,true,()=>{state.sel=null;closePanel();refreshStyle();Graph.zoomToFit(800,40);return true;});
+  document.getElementById("px").onclick=()=>{state.sel=null;closePanel();refreshStyle();};
+
+  const q=document.getElementById("q"),dd=document.getElementById("dd");
+  const all=()=>[...store.roots.values(),...store.words.values()];
+  q.oninput=()=>{
+    const v=q.value.trim().toLowerCase();
+    if(!v){dd.style.display="none";return;}
+    const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)))
+      .sort((a,b)=>{const an=(a.type==="root"?a.names[0]:a.word).toLowerCase(),bn=(b.type==="root"?b.names[0]:b.word).toLowerCase();return (an.startsWith(v)?0:1)-(bn.startsWith(v)?0:1)||an.length-bn.length;}).slice(0,8);
+    dd.innerHTML=hit.map(n=>`<button data-id="${esc(n.id)}"><span>${esc(n.type==="root"?labelOf(n):n.word)}</span><small>${esc(n.th)}${n.type==="word"?" · "+n.cefr:" · "+KL[n.kind]}</small></button>`).join("");
+    dd.style.display=hit.length?"block":"none";
+    dd.querySelectorAll("button").forEach(b=>b.onclick=()=>{const t=nid(b.dataset.id);dd.style.display="none";q.blur();if(t)select(t,true);});
+  };
+  q.onkeydown=e=>{if(e.key==="Enter"){const b=dd.querySelector("button");if(b)b.click();}};
+}
+load();
+</script>
+</body>
+</html>
