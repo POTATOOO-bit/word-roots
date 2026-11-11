@@ -31,7 +31,7 @@ h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
 .chip i{width:9px;height:9px;border-radius:50%;display:inline-block;background:var(--c,#999)}
 .chip.off{opacity:.38}
 .sep{flex:none;width:1px;background:var(--line);margin:4px 2px}
-#panel{position:fixed;z-index:6;left:10px;bottom:max(10px,env(safe-area-inset-bottom));width:min(430px,calc(100% - 20px));max-height:44vh;overflow:auto;
+#panel{position:fixed;z-index:6;left:10px;bottom:max(10px,env(safe-area-inset-bottom));width:min(430px,calc(100% - 20px));max-height:58vh;overflow:auto;
   background:var(--panel);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid var(--line);border-radius:18px;padding:14px 16px;display:none}
 #panel .x{position:absolute;right:10px;top:8px;background:none;border:0;color:var(--mut);font-size:22px;line-height:1;padding:6px}
 #panel h2{margin:0 28px 2px 0;font-size:22px}
@@ -42,6 +42,13 @@ h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
 .tags{display:flex;flex-wrap:wrap;gap:6px}
 .tag{border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--fg);border-radius:12px;padding:5px 10px;font-size:14px}
 .tag small{color:var(--mut);margin-left:4px}
+.syn{display:flex;flex-direction:column;gap:6px}
+.sr{display:grid;grid-template-columns:auto minmax(0,1fr);gap:1px 10px;align-items:baseline;text-align:left;background:rgba(255,255,255,.05);border:1px solid var(--line);color:var(--fg);border-radius:12px;padding:8px 12px;font:inherit;width:100%;cursor:pointer}
+.sr.me{border-color:#8ea0c8;background:rgba(142,160,200,.14)}
+.sw{font-weight:700;font-size:16px}
+.sth{font-size:14px}
+.sn{grid-column:1/-1;color:var(--mut);font-size:13px;line-height:1.45}
+.nu{font-size:14px;color:var(--mut);margin-bottom:6px}
 #msg{position:fixed;inset:0;display:none;align-items:center;justify-content:center;text-align:center;padding:30px;color:var(--mut);z-index:9;font-size:15px;line-height:1.6}
 </style>
 </head>
@@ -81,6 +88,19 @@ function parseInto(text,store){
     const line=raw.trim();
     if(!line||line.startsWith("#"))continue;
     const p=line.split("|");
+    if(p[0].trim()==="syn"){
+      const id=(p[1]||"").trim(),title=(p[2]||id).trim();
+      if(!id)continue;
+      let c=store.syn.get(id);
+      if(!c){c={id,title,items:[]};store.syn.set(id,c);}
+      for(const it of p.slice(3).join("|").split(";")){
+        const q=it.split(":"),w=(q[0]||"").trim().toLowerCase();
+        if(!w||c.items.some(i=>i.word===w))continue;
+        const cf=(q[1]||"B1").trim().toUpperCase();
+        c.items.push({word:w,cefr:LV.includes(cf)?cf:"B1",th:(q[2]||"").trim(),nuance:q.slice(3).join(":").trim()});
+      }
+      continue;
+    }
     if(p.length<5)continue;
     const kind=p[0].trim(), names=p[1].split(",").map(s=>s.trim()).filter(Boolean);
     if(!names.length||!KC[kind])continue;
@@ -100,13 +120,33 @@ function parseInto(text,store){
 }
 //</parse>
 
-const store={roots:new Map(),words:new Map()};
+const store={roots:new Map(),words:new Map(),syn:new Map()};
 const state={kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
 
 const labelOf=r=>r.kind==="prefix"?r.names[0]+"-":r.kind==="suffix"?"-"+r.names[0]:r.names.join(" / ");
-const nid=x=>typeof x==="object"?x:(x[0]==="r"?[...store.roots.values()].find(r=>r.id===x):store.words.get(x.slice(2)));
+const nid=x=>typeof x==="object"?x:(x[0]==="r"?[...store.roots.values()].find(r=>r.id===x):x[0]==="s"?synNode(x.slice(2)):store.words.get(x.slice(2)));
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* ---------- synonym clusters ---------- */
+const synIndex=new Map();
+function buildSyn(){
+  synIndex.clear();
+  for(const c of store.syn.values())for(const it of c.items){
+    if(!synIndex.has(it.word))synIndex.set(it.word,[]);
+    const a=synIndex.get(it.word);if(!a.includes(c))a.push(c);
+  }
+}
+function synItem(w){for(const c of synIndex.get(w)||[]){const it=c.items.find(i=>i.word===w);if(it)return it;}return null;}
+function synNode(w){const it=synItem(w);return it?{id:"s:"+w,type:"syn",word:w,cefr:it.cefr,th:it.th,nuance:it.nuance}:null;}
+function synRow(it,cur){
+  return `<button class="sr${it.word===cur?" me":""}" type="button" data-syn="${esc(it.word)}"><span class="sw" style="color:${LVC[it.cefr]}">${esc(it.word)}</span><span class="sth">${esc(it.th)}</span>${it.nuance?`<span class="sn">${esc(it.nuance)}</span>`:""}</button>`;
+}
+function synBlock(word){
+  const cs=synIndex.get(word);
+  if(!cs||!cs.length)return "";
+  return cs.map(c=>`<div class="lv">คำที่ความหมายใกล้เคียง · ${esc(c.title)}</div><div class="syn">${c.items.map(it=>synRow(it,word)).join("")}</div>`).join("");
+}
 
 async function load(){
   const msg=document.getElementById("msg");
@@ -124,6 +164,7 @@ async function load(){
     }
   }
   for(const k of Object.keys(files))parseInto(files[k],store);
+  buildSyn();
   msg.style.display="none";
   build();
 }
@@ -197,7 +238,7 @@ function refreshStyle(){
 function build(){
   const roots=[...store.roots.values()],words=[...store.words.values()];
   const links=[];roots.forEach(r=>r.words.forEach(w=>links.push({source:r.id,target:w.id})));
-  document.getElementById("stat").textContent=`${roots.length} กลุ่ม · ${words.length} คำ`;
+  document.getElementById("stat").textContent=`${roots.length} กลุ่มราก · ${words.length} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
   Graph=ForceGraph3D({controlType:"orbit"})(document.getElementById("graph"))
     .backgroundColor("rgba(0,0,0,0)")
     .graphData({nodes:[...roots,...words],links})
@@ -234,7 +275,7 @@ function renderPanel(n){
   let h="";
   if(n.type==="word"){
     h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>
-       <div class="lv">รากศัพท์ / Affix</div><div class="tags">${n.roots.map(r=>`<button class="tag" data-id="${esc(r.id)}" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></button>`).join("")}</div>`;
+       <div class="lv">รากศัพท์ / Affix</div><div class="tags">${n.roots.map(r=>`<button class="tag" data-id="${esc(r.id)}" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></button>`).join("")}</div>`+synBlock(n.word);
   }else{
     h=`<h2 style="color:${KC[n.kind]}">${esc(labelOf(n))}</h2><div class="sub">${KL[n.kind]} · ${esc(n.th)} (${esc(n.en)}) · ${n.words.length} คำ</div>${mix(n)}`;
     for(const l of LV){
@@ -244,7 +285,31 @@ function renderPanel(n){
     }
   }
   c.innerHTML=h;p.style.display="block";p.scrollTop=0;
+  bindPanel(c);
+}
+function setPanel(h){
+  const p=document.getElementById("panel"),c=document.getElementById("pc");
+  c.innerHTML=h;p.style.display="block";p.scrollTop=0;bindPanel(c);
+}
+function bindPanel(c){
   c.querySelectorAll(".tag").forEach(b=>b.onclick=()=>{const t=nid(b.dataset.id);if(t)select(t,true);});
+  c.querySelectorAll(".sr").forEach(b=>b.onclick=()=>openWord(b.dataset.syn));
+  c.querySelectorAll(".cl").forEach(b=>b.onclick=()=>renderCluster(store.syn.get(b.dataset.cl)));
+}
+function openWord(w){
+  const n=store.words.get(w);
+  if(n){select(n,true);return;}
+  const it=synItem(w);if(!it)return;
+  state.sel=null;if(Graph)refreshStyle();
+  setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
+}
+function renderCluster(c){
+  if(!c)return;
+  setPanel(`<h2>${esc(c.title)}</h2><div class="sub">${c.items.length} คำ · แตะคำเพื่อดูรายละเอียด</div><div class="syn">${c.items.map(it=>synRow(it,null)).join("")}</div>`);
+}
+function showClusters(){
+  const list=[...store.syn.values()];
+  setPanel(`<h2>กลุ่มคำที่ความหมายใกล้เคียง</h2><div class="sub">${list.length} กลุ่ม เลือกกลุ่มเพื่อเทียบว่าแต่ละคำใช้ในอารมณ์ต่างกันยังไง</div><div class="tags">${list.map(c=>`<button class="tag cl" type="button" data-cl="${esc(c.id)}">${esc(c.title)}<small>${c.items.length}</small></button>`).join("")}</div>`);
 }
 
 /* ---------- UI ---------- */
@@ -257,19 +322,20 @@ function initUI(){
   const s2=document.createElement("span");s2.className="sep";chips.appendChild(s2);
   mk("แสดงคำแปล",null,false,()=>{state.showTh=!state.showTh;Graph.nodeThreeObject(makeNode);return state.showTh;});
   mk("หมุนอัตโนมัติ",null,false,()=>{state.rotate=!state.rotate;const c=Graph.controls();c.autoRotate=state.rotate;c.autoRotateSpeed=1.2;return state.rotate;});
+  mk("กลุ่มคำใกล้เคียง",null,true,()=>{showClusters();return true;});
   mk("ดูทั้งหมด",null,true,()=>{state.sel=null;closePanel();refreshStyle();Graph.zoomToFit(800,40);return true;});
   document.getElementById("px").onclick=()=>{state.sel=null;closePanel();refreshStyle();};
 
   const q=document.getElementById("q"),dd=document.getElementById("dd");
-  const all=()=>[...store.roots.values(),...store.words.values()];
+  const all=()=>[...store.roots.values(),...store.words.values(),...[...synIndex.keys()].filter(w=>!store.words.has(w)).map(synNode)];
   q.oninput=()=>{
     const v=q.value.trim().toLowerCase();
     if(!v){dd.style.display="none";return;}
-    const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)))
+    const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)||(n.nuance||"").toLowerCase().includes(v)))
       .sort((a,b)=>{const an=(a.type==="root"?a.names[0]:a.word).toLowerCase(),bn=(b.type==="root"?b.names[0]:b.word).toLowerCase();return (an.startsWith(v)?0:1)-(bn.startsWith(v)?0:1)||an.length-bn.length;}).slice(0,8);
-    dd.innerHTML=hit.map(n=>`<button data-id="${esc(n.id)}"><span>${esc(n.type==="root"?labelOf(n):n.word)}</span><small>${esc(n.th)}${n.type==="word"?" · "+n.cefr:" · "+KL[n.kind]}</small></button>`).join("");
+    dd.innerHTML=hit.map(n=>`<button data-id="${esc(n.id)}"><span>${esc(n.type==="root"?labelOf(n):n.word)}</span><small>${esc(n.th)}${n.type==="root"?" · "+KL[n.kind]:" · "+n.cefr}</small></button>`).join("");
     dd.style.display=hit.length?"block":"none";
-    dd.querySelectorAll("button").forEach(b=>b.onclick=()=>{const t=nid(b.dataset.id);dd.style.display="none";q.blur();if(t)select(t,true);});
+    dd.querySelectorAll("button").forEach(b=>b.onclick=()=>{const t=nid(b.dataset.id);dd.style.display="none";q.blur();if(!t)return;if(t.type==="syn")openWord(t.word);else select(t,true);});
   };
   q.onkeydown=e=>{if(e.key==="Enter"){const b=dd.querySelector("button");if(b)b.click();}};
 }
