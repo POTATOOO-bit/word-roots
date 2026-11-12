@@ -50,16 +50,46 @@ h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
 .sn{grid-column:1/-1;color:var(--mut);font-size:13px;line-height:1.45}
 .nu{font-size:14px;color:var(--mut);margin-bottom:6px}
 #msg{position:fixed;inset:0;display:none;align-items:center;justify-content:center;text-align:center;padding:30px;color:var(--mut);z-index:9;font-size:15px;line-height:1.6}
+.pr{font-size:16px;color:var(--mut);margin:0 0 8px}
+.pr .st{color:#fbbf24;font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.pr .dsh{opacity:.5;margin:0 1px}
+.dr{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:6px}
+.spk{height:30px;min-width:34px;padding:0 10px;border-radius:15px;border:1px solid var(--line);background:rgba(255,255,255,.07);color:var(--fg);font-size:13px;cursor:pointer}
+.spk:active{background:rgba(255,255,255,.2)}
+.modes{display:inline-flex;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel)}
+.modes button{height:30px;padding:0 14px;border:0;background:none;color:var(--mut);font-size:13px;font-weight:600;cursor:pointer}
+.modes button.on{background:#e8edf7;color:#0a0d16}
+#dict{position:fixed;inset:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(var(--hh,140px) + 4px) 12px calc(40px + env(safe-area-inset-bottom));display:none;z-index:3}
+#dict .in{max-width:760px;margin:0 auto}
+body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-bottom:10px}
+.letters{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;margin:6px 0}
+.letters::-webkit-scrollbar{display:none}
+.letters button{flex:none;width:28px;height:28px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--fg);font-size:13px;font-weight:600}
+.letters button.dis{opacity:.25}
+.dcount{font-size:12px;color:var(--mut);margin:4px 0}
+.dh{font-size:20px;font-weight:800;margin:18px 0 6px;color:var(--mut)}
+.de{border:1px solid var(--line);background:rgba(255,255,255,.04);border-radius:14px;margin-bottom:6px;overflow:hidden}
+.dm{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;align-items:center;padding:10px 12px;cursor:pointer}
+.dw{font-size:18px;font-weight:700}
+.dw .badge{font-size:11px;margin-left:8px}
+.dt{grid-column:1/-1;font-size:14px}
+.dm .pr{margin:0}
+.dm .dr{margin:0}
+.dd2{padding:0 12px 12px;display:none}
+.de.open .dd2{display:block}
+.go{margin-top:10px;height:32px;padding:0 14px;border-radius:16px;border:1px solid var(--line);background:rgba(255,255,255,.08);color:var(--fg);font-size:13px;cursor:pointer}
 </style>
 </head>
 <body>
 <div id="graph"></div>
 <div id="msg">กำลังโหลด…</div>
+<div id="dict"><div class="in"></div></div>
 
 <div class="top">
   <div class="row">
     <h1>Word Roots 3D</h1>
     <span class="stat" id="stat"></span>
+    <span class="modes" id="modes"><button data-m="graph" class="on">กราฟ 3D</button><button data-m="dict">พจนานุกรม</button></span>
   </div>
   <div class="row">
     <div class="search">
@@ -101,6 +131,7 @@ function parseInto(text,store){
       }
       continue;
     }
+    if(p.length===3&&!KC[p[0].trim()]){const w=p[0].trim().toLowerCase();if(w&&p[1].trim())store.pron.set(w,{r:p[1].trim(),s:parseInt(p[2],10)||1});continue;}
     if(p.length<5)continue;
     const kind=p[0].trim(), names=p[1].split(",").map(s=>s.trim()).filter(Boolean);
     if(!names.length||!KC[kind])continue;
@@ -120,8 +151,8 @@ function parseInto(text,store){
 }
 //</parse>
 
-const store={roots:new Map(),words:new Map(),syn:new Map()};
-const state={kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
+const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map()};
+const state={mode:"graph",dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
 
 const labelOf=r=>r.kind==="prefix"?r.names[0]+"-":r.kind==="suffix"?"-"+r.names[0]:r.names.join(" / ");
@@ -148,6 +179,96 @@ function synBlock(word){
   return cs.map(c=>`<div class="lv">คำที่ความหมายใกล้เคียง · ${esc(c.title)}</div><div class="syn">${c.items.map(it=>synRow(it,word)).join("")}</div>`).join("");
 }
 
+
+/* ---------- pronunciation + audio ---------- */
+function pronHTML(w){
+  const p=store.pron.get(w);if(!p)return "";
+  const sy=p.r.split("-");
+  return `<span class="pr">${sy.map((x,i)=>i+1===p.s?`<b class="st">${esc(x)}</b>`:esc(x)).join('<span class="dsh">·</span>')}</span>`;
+}
+function speak(w,slow){
+  try{
+    const ss=window.speechSynthesis;if(!ss)return;
+    ss.cancel();
+    const u=new SpeechSynthesisUtterance(w);u.lang=state.acc;u.rate=slow?0.5:0.9;
+    const v=ss.getVoices().find(x=>x.lang.replace("_","-")===state.acc);if(v)u.voice=v;
+    ss.speak(u);
+  }catch(e){}
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest&&e.target.closest(".spk");
+  if(b&&b.dataset.w)speak(b.dataset.w,!!b.dataset.slow);
+});
+try{window.speechSynthesis&&window.speechSynthesis.getVoices();}catch(e){}
+function pronBlock(w){
+  const w2=esc(w);
+  return `<div class="dr">${pronHTML(w)}<button class="spk" type="button" data-w="${w2}" aria-label="ฟังเสียง">🔊</button><button class="spk" type="button" data-w="${w2}" data-slow="1" aria-label="ฟังช้า">🐢 ช้า</button></div>`;
+}
+
+
+/* ---------- dictionary mode ---------- */
+let dictList=null;
+function buildDict(){
+  const m=new Map();
+  for(const w of store.words.values())m.set(w.word,{word:w.word,cefr:w.cefr,th:w.th,roots:w.roots,nuance:""});
+  for(const w of synIndex.keys()){
+    const it=synItem(w);
+    if(m.has(w)){if(it&&it.nuance)m.get(w).nuance=it.nuance;continue;}
+    m.set(w,{word:w,cefr:it.cefr,th:it.th,roots:[],nuance:it.nuance});
+  }
+  dictList=[...m.values()].sort((a,b)=>a.word.localeCompare(b.word));
+}
+function dictDetail(d){
+  let h="";
+  if(d.nuance)h+=`<div class="nu">${esc(d.nuance)}</div>`;
+  if(d.roots.length)h+=`<div class="lv">รากศัพท์ / Affix</div><div class="tags">${d.roots.map(r=>`<span class="tag" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></span>`).join("")}</div>`;
+  h+=synBlock(d.word);
+  if(store.words.has(d.word))h+=`<button class="go" type="button" data-go="${esc(d.word)}">ดูในกราฟ 3D →</button>`;
+  return h;
+}
+function renderDict(){
+  if(!dictList)buildDict();
+  const box=document.querySelector("#dict .in"),v=document.getElementById("q").value.trim().toLowerCase();
+  const list=dictList.filter(d=>state.dl.has(d.cefr)&&(!v||d.word.includes(v)||d.th.includes(v)||(d.nuance||"").toLowerCase().includes(v)));
+  const avail=new Set(list.map(d=>d.word[0].toUpperCase()));
+  let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
+  h+=`<div class="letters">${"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(c=>`<button data-a="${c}"${avail.has(c)?"":' class="dis"'}>${c}</button>`).join("")}</div>`;
+  h+=`<div class="dcount">${list.length} คำ · <b style="color:#fbbf24">ตัวหนาเหลือง</b> = พยางค์ที่เน้น · แตะแถวเพื่อดูรายละเอียด</div>`;
+  let cur="";
+  for(const d of list){
+    const L=d.word[0].toUpperCase();
+    if(L!==cur){cur=L;h+=`<div class="dh" id="L-${L}">${L}</div>`;}
+    const w2=esc(d.word);
+    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="spk" type="button" data-w="${w2}">🔊</button><button class="spk" type="button" data-w="${w2}" data-slow="1">🐢</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
+  }
+  box.innerHTML=h;
+  box.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{const l=b.dataset.l;state.dl.has(l)?state.dl.delete(l):state.dl.add(l);renderDict();});
+  box.querySelector("#accb").onclick=()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}renderDict();};
+  box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const t=document.getElementById("L-"+b.dataset.a);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});});
+  box.querySelectorAll(".dm").forEach(m=>m.onclick=()=>{
+    const e=m.parentNode,dd=e.querySelector(".dd2");
+    if(!dd.innerHTML){dd.innerHTML=dictDetail(dictList.find(x=>x.word===e.dataset.w));
+      dd.querySelectorAll(".sr").forEach(b=>b.onclick=()=>{document.getElementById("q").value=b.dataset.syn;renderDict();});
+      dd.querySelectorAll(".go").forEach(b=>b.onclick=()=>{setMode("graph");const n=store.words.get(b.dataset.go);if(n)setTimeout(()=>select(n,true),700);});}
+    e.classList.toggle("open");
+  });
+}
+function hh(){const t=document.querySelector(".top");document.documentElement.style.setProperty("--hh",t.offsetHeight+"px");}
+addEventListener("resize",hh);
+function setMode(m){
+  state.mode=m;try{localStorage.setItem("wr-mode",m);}catch(e){}
+  document.querySelectorAll("#modes button").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+  const g=m==="graph",q=document.getElementById("q");
+  document.getElementById("graph").style.display=g?"block":"none";
+  document.getElementById("chips").style.display=g?"flex":"none";
+  document.getElementById("dict").style.display=g?"none":"block";
+  document.getElementById("dd").style.display="none";
+  q.value="";q.placeholder=g?"ค้นหาคำ / ราก / คำแปลไทย":"ค้นหาในพจนานุกรม (อังกฤษ / ไทย)";
+  closePanel();document.body.classList.toggle("dm",!g);hh();
+  if(g){if(!Graph)build();else Graph.width(innerWidth).height(innerHeight);}
+  else renderDict();
+}
+
 async function load(){
   const msg=document.getElementById("msg");
   msg.style.display="flex";
@@ -165,8 +286,13 @@ async function load(){
   }
   for(const k of Object.keys(files))parseInto(files[k],store);
   buildSyn();
+  try{state.acc=localStorage.getItem("wr-acc")||"en-US";}catch(e){}
   msg.style.display="none";
-  build();
+  document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${store.words.size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
+  initUI();
+  document.querySelectorAll("#modes button").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
+  let m="graph";try{m=localStorage.getItem("wr-mode")||"graph";}catch(e){}
+  setMode(m==="dict"?"dict":"graph");
 }
 
 /* ---------- textures ---------- */
@@ -238,7 +364,6 @@ function refreshStyle(){
 function build(){
   const roots=[...store.roots.values()],words=[...store.words.values()];
   const links=[];roots.forEach(r=>r.words.forEach(w=>links.push({source:r.id,target:w.id})));
-  document.getElementById("stat").textContent=`${roots.length} กลุ่มราก · ${words.length} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
   Graph=ForceGraph3D({controlType:"orbit"})(document.getElementById("graph"))
     .backgroundColor("rgba(0,0,0,0)")
     .graphData({nodes:[...roots,...words],links})
@@ -253,7 +378,6 @@ function build(){
   refreshStyle();
   const resize=()=>Graph.width(innerWidth).height(innerHeight);resize();addEventListener("resize",resize);
   setTimeout(()=>Graph.zoomToFit(900,40),3500);
-  initUI();
 }
 
 function focus(n){
@@ -274,7 +398,7 @@ function renderPanel(n){
   const p=document.getElementById("panel"),c=document.getElementById("pc");
   let h="";
   if(n.type==="word"){
-    h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>
+    h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>${pronBlock(n.word)}
        <div class="lv">รากศัพท์ / Affix</div><div class="tags">${n.roots.map(r=>`<button class="tag" data-id="${esc(r.id)}" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></button>`).join("")}</div>`+synBlock(n.word);
   }else{
     h=`<h2 style="color:${KC[n.kind]}">${esc(labelOf(n))}</h2><div class="sub">${KL[n.kind]} · ${esc(n.th)} (${esc(n.en)}) · ${n.words.length} คำ</div>${mix(n)}`;
@@ -301,7 +425,7 @@ function openWord(w){
   if(n){select(n,true);return;}
   const it=synItem(w);if(!it)return;
   state.sel=null;if(Graph)refreshStyle();
-  setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
+  setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${pronBlock(w)}${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
 }
 function renderCluster(c){
   if(!c)return;
@@ -320,15 +444,17 @@ function initUI(){
   const s=document.createElement("span");s.className="sep";chips.appendChild(s);
   for(const l of LV)mk(l,LVC[l],true,()=>{state.levels.has(l)?state.levels.delete(l):state.levels.add(l);refreshStyle();return state.levels.has(l);});
   const s2=document.createElement("span");s2.className="sep";chips.appendChild(s2);
-  mk("แสดงคำแปล",null,false,()=>{state.showTh=!state.showTh;Graph.nodeThreeObject(makeNode);return state.showTh;});
-  mk("หมุนอัตโนมัติ",null,false,()=>{state.rotate=!state.rotate;const c=Graph.controls();c.autoRotate=state.rotate;c.autoRotateSpeed=1.2;return state.rotate;});
+  mk("แสดงคำแปล",null,false,()=>{state.showTh=!state.showTh;if(Graph)Graph.nodeThreeObject(makeNode);return state.showTh;});
+  mk("หมุนอัตโนมัติ",null,false,()=>{state.rotate=!state.rotate;if(!Graph)return state.rotate;const c=Graph.controls();c.autoRotate=state.rotate;c.autoRotateSpeed=1.2;return state.rotate;});
+  mk("เสียง US",null,true,()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}return true;}).onclick=function(){state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}this.lastChild.textContent=state.acc==="en-US"?"เสียง US":"เสียง UK";};
   mk("กลุ่มคำใกล้เคียง",null,true,()=>{showClusters();return true;});
-  mk("ดูทั้งหมด",null,true,()=>{state.sel=null;closePanel();refreshStyle();Graph.zoomToFit(800,40);return true;});
+  mk("ดูทั้งหมด",null,true,()=>{state.sel=null;closePanel();refreshStyle();if(Graph)Graph.zoomToFit(800,40);return true;});
   document.getElementById("px").onclick=()=>{state.sel=null;closePanel();refreshStyle();};
 
   const q=document.getElementById("q"),dd=document.getElementById("dd");
   const all=()=>[...store.roots.values(),...store.words.values(),...[...synIndex.keys()].filter(w=>!store.words.has(w)).map(synNode)];
   q.oninput=()=>{
+    if(state.mode==="dict"){renderDict();return;}
     const v=q.value.trim().toLowerCase();
     if(!v){dd.style.display="none";return;}
     const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)||(n.nuance||"").toLowerCase().includes(v)))
