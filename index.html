@@ -81,7 +81,14 @@ body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-botto
 .ex{background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:12px;padding:8px 12px;margin-bottom:4px}
 .exr{display:flex;align-items:center;gap:8px;justify-content:space-between}
 .exe{font-size:15px;line-height:1.5}
-.xw{color:#fbbf24}
+.tw{cursor:pointer;border-bottom:1px dotted rgba(255,255,255,.3)}
+.tw.xw{color:#fbbf24;font-weight:700}
+.tw.on{background:rgba(251,191,36,.25);border-radius:4px}
+.tip{margin-top:8px;padding:8px 10px;border-radius:10px;background:rgba(251,191,36,.12);border:1px solid rgba(251,191,36,.35);font-size:14px}
+.tip[hidden]{display:none}
+.tip b{font-size:16px}
+.hint{font-size:11px;color:var(--mut);margin-top:4px}
+.tip a{color:#8ab4ff}
 .exth{font-size:13px;color:var(--mut);margin-top:2px}
 </style>
 </head>
@@ -213,15 +220,49 @@ document.addEventListener("click",e=>{
   if(b&&b.dataset.w)speak(b.dataset.w,!!b.dataset.slow);
 });
 try{window.speechSynthesis&&window.speechSynthesis.getVoices();}catch(e){}
+
+/* ---------- tap a word in a sentence to translate ---------- */
+let wmap=null;
+function buildWmap(){
+  wmap=new Map();
+  for(const d of store.dict.values())wmap.set(d.word,{cefr:d.cefr,th:d.th});
+  for(const it of synIndex.keys()){const i=synItem(it);if(i)wmap.set(it,{cefr:i.cefr,th:i.th});}
+  for(const w of store.words.values())wmap.set(w.word,{cefr:w.cefr,th:w.th});
+}
+function lookupWord(t){
+  if(!wmap)buildWmap();
+  t=t.toLowerCase().replace(/['’]s$/,"");
+  const c=[t];
+  if(t.endsWith("ies"))c.push(t.slice(0,-3)+"y");
+  if(t.endsWith("es"))c.push(t.slice(0,-2));
+  if(t.endsWith("s"))c.push(t.slice(0,-1));
+  if(t.endsWith("ied"))c.push(t.slice(0,-3)+"y");
+  if(t.endsWith("ed")){c.push(t.slice(0,-2));c.push(t.slice(0,-1));}
+  if(t.endsWith("ing")){c.push(t.slice(0,-3));c.push(t.slice(0,-3)+"e");if(t.length>5&&t[t.length-4]===t[t.length-5])c.push(t.slice(0,-4));}
+  if(t.endsWith("ly"))c.push(t.slice(0,-2));
+  if(t.endsWith("er")||t.endsWith("est"))c.push(t.replace(/(er|est)$/,""));
+  for(const k of c){if(wmap.has(k))return {w:k,...wmap.get(k)};}
+  return null;
+}
+document.addEventListener("click",e=>{
+  const s=e.target.closest&&e.target.closest(".tw");if(!s)return;
+  const box=s.closest(".ex"),tip=box.querySelector(".tip");
+  box.querySelectorAll(".tw.on").forEach(x=>x.classList.remove("on"));s.classList.add("on");
+  const t=s.dataset.t,r=lookupWord(t);
+  const gt=`https://translate.google.com/?sl=en&tl=th&text=${encodeURIComponent(t)}&op=translate`;
+  tip.hidden=false;
+  tip.innerHTML=r?`<b>${esc(t)}</b>${r.w!==t?` <small>(${esc(r.w)})</small>`:""} <span class="badge" style="background:${LVC[r.cefr]}">${r.cefr}</span> ${esc(r.th)} <button class="spk" type="button" data-w="${esc(t)}">🔊</button>`:`<b>${esc(t)}</b> ยังไม่มีในพจนานุกรม · <a href="${gt}" target="_blank" rel="noopener">ดูคำแปลใน Google แปลภาษา</a> <button class="spk" type="button" data-w="${esc(t)}">🔊</button>`;
+});
+
 function exBlock(w){
   const x=store.ex.get(w);if(!x)return "";
   const re=new RegExp("\\b("+w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\w*)","i");
-  const en=esc(x.en).replace(re,'<b class="xw">$1</b>');
-  return `<div class="lv">ตัวอย่างประโยค</div><div class="ex"><div class="exr"><span class="exe">${en}</span><button class="spk" type="button" data-w="${esc(x.en)}" aria-label="ฟังประโยค">🔊</button></div>${x.th?`<div class="exth">${esc(x.th)}</div>`:""}</div>`;
+  const en=esc(x.en).split(/([A-Za-z][A-Za-z'’-]*)/).map(t=>/^[A-Za-z]/.test(t)?`<span class="tw${re.test(t)?" xw":""}" data-t="${esc(t.toLowerCase())}">${esc(t)}</span>`:t).join("");
+  return `<div class="lv">ตัวอย่างประโยค</div><div class="ex"><div class="exr"><span class="exe">${en}</span><button class="spk" type="button" data-w="${esc(x.en)}" aria-label="ฟังประโยค">🔊</button></div>${x.th?`<div class="exth">${esc(x.th)}</div>`:""}<div class="tip" hidden></div><div class="hint">แตะคำในประโยคเพื่อดูคำแปล</div></div>`;
 }
 function pronBlock(w){
   const w2=esc(w);
-  return `<div class="dr">${pronHTML(w)}<button class="spk" type="button" data-w="${w2}" aria-label="ฟังเสียง">🔊</button><button class="spk" type="button" data-w="${w2}" data-slow="1" aria-label="ฟังช้า">🐢 ช้า</button></div>`;
+  return `<div class="dr">${pronHTML(w)}<button class="spk" type="button" data-w="${w2}" aria-label="ฟังเสียง">🔊</button></div>`;
 }
 
 
@@ -260,7 +301,7 @@ function renderDict(){
     const L=d.word[0].toUpperCase();
     if(L!==cur){cur=L;h+=`<div class="dh" id="L-${L}">${L}</div>`;}
     const w2=esc(d.word);
-    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="spk" type="button" data-w="${w2}">🔊</button><button class="spk" type="button" data-w="${w2}" data-slow="1">🐢</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
+    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="spk" type="button" data-w="${w2}">🔊</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
   }
   box.innerHTML=h;
   box.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{const l=b.dataset.l;state.dl.has(l)?state.dl.delete(l):state.dl.add(l);renderDict();});
@@ -444,6 +485,7 @@ function bindPanel(c){
 function openWord(w){
   const n=store.words.get(w);
   if(n){select(n,true);return;}
+  const dd=store.dict.get(w);if(dd&&!synItem(w)){state.sel=null;if(Graph)refreshStyle();setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[dd.cefr]}">${dd.cefr}</span></h2><div class="sub">${esc(dd.th)}</div>${pronBlock(w)}${exBlock(w)}`);return;}
   const it=synItem(w);if(!it)return;
   state.sel=null;if(Graph)refreshStyle();
   setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${pronBlock(w)}${exBlock(w)}${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
