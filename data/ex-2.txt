@@ -1,0 +1,325 @@
+# ชุด 2: D–I (คำชุดแรก)
+e|dangerous|It's dangerous to swim here at night.|ว่ายน้ำที่นี่ตอนกลางคืนอันตราย
+e|daring|It was a daring escape.|เป็นการหนีที่กล้าหาญมาก
+e|darkness|We sat in darkness when the power went out.|เรานั่งอยู่ในความมืดตอนไฟดับ
+e|deafening|The noise from the concert was deafening.|เสียงจากคอนเสิร์ตดังหนวกหู
+e|deceive|Don't try to deceive me.|อย่าพยายามหลอกฉัน
+e|decent|They offer decent food at a fair price.|พวกเขาขายอาหารดีพอใช้ในราคายุติธรรม
+e|decide|I can't decide what to wear.|ฉันตัดสินใจไม่ได้ว่าจะใส่อะไรดี
+e|decision|It was a difficult decision.|เป็นการตัดสินใจที่ยาก
+e|decline|Sales declined last month.|ยอดขายลดลงเมื่อเดือนที่แล้ว
+e|decrease|The number of visitors decreased this year.|จำนวนผู้มาเยือนลดลงปีนี้
+e|defer|She deferred her studies for a year.|เธอเลื่อนการเรียนออกไปหนึ่งปี
+e|deflect|He tried to deflect the blame onto others.|เขาพยายามโยนความผิดไปให้คนอื่น
+e|delayed|Our flight was delayed by two hours.|เที่ยวบินของเราล่าช้าไปสองชั่วโมง
+e|delighted|I'm delighted to meet you.|ยินดีที่ได้พบคุณมาก
+e|demand|There is a high demand for engineers.|มีความต้องการวิศวกรสูง
+e|demanding|My boss is very demanding.|เจ้านายของฉันเรียกร้องสูงมาก
+e|demonstrate|The chef demonstrated how to make pasta.|เชฟสาธิตวิธีทำพาสต้า
+e|dentist|I have a dentist appointment tomorrow.|พรุ่งนี้ฉันมีนัดหมอฟัน
+e|department|She works in the sales department.|เธอทำงานในแผนกขาย
+e|depend|It depends on the weather.|ขึ้นอยู่กับสภาพอากาศ
+e|deploy|The team will deploy the new app next week.|ทีมจะปล่อยแอปใหม่สัปดาห์หน้า
+e|deposit|I paid a deposit to reserve the room.|ฉันจ่ายเงินมัดจำเพื่อจองห้อง
+e|depress|Rainy days depress me.|วันฝนตกทำให้ฉันหดหู่
+e|describe|Can you describe the man you saw?|คุณช่วยบรรยายลักษณะผู้ชายที่เห็นได้ไหม
+e|description|The description on the website was accurate.|คำบรรยายบนเว็บไซต์ถูกต้อง
+e|deserve|You deserve a long vacation.|คุณสมควรได้พักร้อนยาว ๆ
+e|design|She designs clothes for children.|เธอออกแบบเสื้อผ้าเด็ก
+e|designer|He works as a graphic designer.|เขาทำงานเป็นนักออกแบบกราฟิก
+e|desire|He had a strong desire to travel.|เขามีความปรารถนาอย่างแรงกล้าที่จะเดินทาง
+e|desolate|The village looked desolate after the storm.|หมู่บ้านดูรกร้างหลังพายุ
+e|despise|I despise people who lie.|ฉันรังเกียจคนโกหก
+e|destitute|The flood left many families destitute.|น้ำท่วมทำให้หลายครอบครัวยากไร้
+e|destroy|The storm destroyed many houses.|พายุทำลายบ้านเรือนหลายหลัง
+e|detest|She detests waking up early.|เธอเกลียดการตื่นเช้ามาก
+e|development|The development of the city is very fast.|การพัฒนาของเมืองนี้เร็วมาก
+e|devour|The kids devoured the pizza in minutes.|เด็ก ๆ กินพิซซ่าเกลี้ยงในไม่กี่นาที
+e|diagram|The teacher drew a diagram on the board.|ครูวาดแผนภาพบนกระดาน
+e|dialogue|Read the dialogue and answer the questions.|อ่านบทสนทนาแล้วตอบคำถาม
+e|dictate|The teacher dictated a short paragraph.|ครูบอกให้จดข้อความสั้น ๆ
+e|dictionary|Look up the word in a dictionary.|ลองเปิดพจนานุกรมหาคำนั้นดู
+e|different|This phone is different from mine.|มือถือเครื่องนี้ต่างจากของฉัน
+e|difficult|English grammar can be difficult.|ไวยากรณ์ภาษาอังกฤษอาจยาก
+e|difficulty|She had difficulty sleeping.|เธอนอนหลับยาก
+e|dilemma|I'm in a dilemma about which job to take.|ฉันกำลังลังเลว่าจะรับงานไหนดี
+e|diligent|He is a diligent student.|เขาเป็นนักเรียนที่ขยันขันแข็ง
+e|diminish|The pain will diminish in a few days.|อาการปวดจะลดลงในไม่กี่วัน
+e|director|The director of the film is famous.|ผู้กำกับหนังเรื่องนี้มีชื่อเสียง
+e|dirty|My shoes are dirty.|รองเท้าฉันสกปรก
+e|disability|The building has access for people with a disability.|อาคารมีทางเข้าสำหรับผู้พิการ
+e|disadvantage|The only disadvantage is the high price.|ข้อเสียอย่างเดียวคือราคาแพง
+e|disagree|I disagree with that idea.|ฉันไม่เห็นด้วยกับความคิดนั้น
+e|disappear|My keys disappeared again.|กุญแจฉันหายไปอีกแล้ว
+e|disappoint|I don't want to disappoint my parents.|ฉันไม่อยากทำให้พ่อแม่ผิดหวัง
+e|disappointed|She was disappointed with the results.|เธอผิดหวังกับผลลัพธ์
+e|disconnect|Please disconnect the charger when it's full.|กรุณาถอดที่ชาร์จเมื่อแบตเต็ม
+e|discover|Scientists discovered a new species.|นักวิทยาศาสตร์ค้นพบสายพันธุ์ใหม่
+e|discredit|They tried to discredit the witness.|พวกเขาพยายามทำให้พยานไม่น่าเชื่อถือ
+e|discussion|We had a long discussion about the budget.|เราคุยกันยาวเรื่องงบประมาณ
+e|disguise|He wore a wig as a disguise.|เขาใส่วิกผมเพื่อพรางตัว
+e|dislike|I dislike crowded places.|ฉันไม่ชอบที่แออัด
+e|dismiss|The teacher dismissed the class early.|ครูปล่อยนักเรียนเร็ว
+e|disorder|She suffers from a sleep disorder.|เธอมีอาการผิดปกติเกี่ยวกับการนอน
+e|disoriented|I felt disoriented after the long flight.|ฉันรู้สึกมึนงงหลังเดินทางไกล
+e|display|The shop has a nice display in the window.|ร้านจัดโชว์หน้าต่างสวยดี
+e|disrespectful|It's disrespectful to interrupt your elders.|การขัดจังหวะผู้ใหญ่เป็นการไม่เคารพ
+e|disrupt|The storm disrupted all train services.|พายุทำให้รถไฟทุกสายหยุดชะงัก
+e|distract|Don't distract me while I'm driving.|อย่ากวนสมาธิฉันตอนขับรถ
+e|diverse|The city has a diverse population.|เมืองนี้มีประชากรหลากหลาย
+e|divert|Traffic was diverted because of the accident.|รถถูกเบี่ยงเส้นทางเพราะอุบัติเหตุ
+e|doctor|You should see a doctor.|คุณควรไปหาหมอ
+e|donate|He donated clothes to the charity.|เขาบริจาคเสื้อผ้าให้การกุศล
+e|doubt|I doubt he will come.|ฉันสงสัยว่าเขาจะมา
+e|drained|I felt drained after the exam.|ฉันรู้สึกหมดแรงหลังสอบ
+e|dreadful|The weather was dreadful all week.|อากาศแย่มากทั้งสัปดาห์
+e|driver|The taxi driver was very friendly.|คนขับแท็กซี่เป็นมิตรมาก
+e|drop|Be careful not to drop your phone.|ระวังอย่าทำมือถือหล่น
+e|drowsy|This medicine makes me drowsy.|ยานี้ทำให้ฉันง่วง
+e|dull|The lecture was long and dull.|การบรรยายทั้งยาวและน่าเบื่อ
+e|eager|The kids are eager to start the trip.|เด็ก ๆ กระตือรือร้นที่จะเริ่มเดินทาง
+e|earn|She earns a good salary.|เธอได้เงินเดือนดี
+e|easy|The test was easy.|ข้อสอบง่าย
+e|eat|What would you like to eat?|คุณอยากกินอะไร
+e|eccentric|My uncle is a bit eccentric.|ลุงของฉันค่อนข้างแปลกประหลาด
+e|ecology|She studies the ecology of coral reefs.|เธอศึกษานิเวศวิทยาของแนวปะการัง
+e|economical|This car is very economical.|รถคันนี้ประหยัดมาก
+e|ecstatic|She was ecstatic when she won the prize.|เธอดีใจสุดขีดตอนได้รางวัล
+e|educate|We must educate children about safety.|เราต้องให้ความรู้เด็ก ๆ เรื่องความปลอดภัย
+e|education|Education is the key to success.|การศึกษาเป็นกุญแจสู่ความสำเร็จ
+e|effect|The medicine had no effect.|ยานั้นไม่ได้ผล
+e|effective|This is an effective way to learn words.|นี่เป็นวิธีจำคำศัพท์ที่ได้ผล
+e|effortless|The dancer made it look effortless.|นักเต้นทำให้มันดูง่ายดายไร้ความพยายาม
+e|eject|The machine will eject the card automatically.|เครื่องจะคายบัตรออกมาอัตโนมัติ
+e|elated|He was elated at the good news.|เขาปลาบปลื้มกับข่าวดี
+e|elderly|The bus has seats for elderly people.|รถบัสมีที่นั่งสำหรับผู้สูงอายุ
+e|elect|They elected a new president.|พวกเขาเลือกประธานาธิบดีคนใหม่
+e|election|The election will be held in March.|การเลือกตั้งจะจัดในเดือนมีนาคม
+e|elegant|She wore an elegant black dress.|เธอใส่ชุดสีดำเรียบหรู
+e|eliminate|We need to eliminate waste.|เราต้องกำจัดของเสียให้หมด
+e|embarrassed|I was embarrassed when I forgot his name.|ฉันอายที่ลืมชื่อเขา
+e|emerge|A new leader emerged from the crowd.|ผู้นำคนใหม่โผล่ขึ้นมาจากฝูงชน
+e|emit|The car emits a lot of smoke.|รถคันนี้ปล่อยควันเยอะ
+e|emotion|He couldn't hide his emotion.|เขาซ่อนอารมณ์ไม่อยู่
+e|employ|The company employs 200 people.|บริษัทจ้างพนักงาน 200 คน
+e|employee|Every employee gets a day off on their birthday.|พนักงานทุกคนได้หยุดในวันเกิด
+e|endeavor|We will endeavor to answer all your questions.|เราจะพยายามตอบทุกคำถามของคุณ
+e|engineer|My brother is a software engineer.|พี่ชายฉันเป็นวิศวกรซอฟต์แวร์
+e|enjoy|I enjoy walking in the park.|ฉันชอบเดินเล่นในสวน
+e|enormous|They live in an enormous house.|พวกเขาอยู่บ้านหลังมหึมา
+e|entertain|The magician entertained the children.|นักมายากลทำให้เด็ก ๆ สนุก
+e|entertaining|It was an entertaining show.|เป็นการแสดงที่สนุก
+e|enthusiastic|She is enthusiastic about learning English.|เธอกระตือรือร้นเรื่องเรียนภาษาอังกฤษ
+e|envious|I'm envious of your holiday.|ฉันอิจฉาวันหยุดของคุณ
+e|environment|We should protect the environment.|เราควรปกป้องสิ่งแวดล้อม
+e|equipment|The gym has modern equipment.|ยิมมีอุปกรณ์ทันสมัย
+e|erupt|The volcano erupted last night.|ภูเขาไฟปะทุเมื่อคืน
+e|especially|I love fruit, especially mangoes.|ฉันชอบผลไม้ โดยเฉพาะมะม่วง
+e|essential|Water is essential for life.|น้ำจำเป็นต่อชีวิต
+e|establish|The company was established in 1990.|บริษัทก่อตั้งในปี 1990
+e|event|The event starts at seven o'clock.|งานเริ่มตอนเจ็ดโมง
+e|eventually|We eventually found the hotel.|ในที่สุดเราก็เจอโรงแรม
+e|evidence|There is no evidence of that.|ไม่มีหลักฐานเรื่องนั้น
+e|evolve|Technology evolves very quickly.|เทคโนโลยีพัฒนาเร็วมาก
+e|examine|The doctor examined my throat.|หมอตรวจคอฉัน
+e|excellent|The service was excellent.|บริการยอดเยี่ยม
+e|except|Everyone came except Tom.|ทุกคนมา ยกเว้นทอม
+e|exception|There is an exception to every rule.|ทุกกฎมีข้อยกเว้น
+e|exchange|Can I exchange this shirt for a bigger size?|ขอเปลี่ยนเสื้อตัวนี้เป็นไซส์ใหญ่ได้ไหม
+e|excited|I'm so excited about the trip!|ฉันตื่นเต้นกับการเดินทางมาก
+e|exclude|The price excludes tax.|ราคานี้ไม่รวมภาษี
+e|excursion|We went on a day excursion to the island.|เราไปทัวร์เกาะแบบไปเช้าเย็นกลับ
+e|exhausted|I'm exhausted after the long flight.|ฉันเหนื่อยล้าหลังเที่ยวบินยาว
+e|exhibit|The museum has a new dinosaur exhibit.|พิพิธภัณฑ์มีนิทรรศการไดโนเสาร์ใหม่
+e|exhibition|We went to an art exhibition.|เราไปชมนิทรรศการศิลปะ
+e|exist|Do ghosts really exist?|ผีมีอยู่จริงไหม
+e|exit|The exit is on your left.|ทางออกอยู่ทางซ้ายมือ
+e|expand|The company plans to expand abroad.|บริษัทวางแผนขยายไปต่างประเทศ
+e|expect|I didn't expect to see you here.|ฉันไม่คิดว่าจะเจอคุณที่นี่
+e|expense|Travel is my biggest expense.|การเดินทางเป็นค่าใช้จ่ายก้อนใหญ่ที่สุดของฉัน
+e|expensive|That restaurant is too expensive.|ร้านนั้นแพงเกินไป
+e|explain|Can you explain how this works?|ช่วยอธิบายหน่อยว่ามันทำงานอย่างไร
+e|explicit|The instructions were explicit.|คำแนะนำชัดเจนมาก
+e|explore|We explored the old town on foot.|เราเดินสำรวจเมืองเก่า
+e|export|Thailand exports a lot of rice.|ประเทศไทยส่งออกข้าวจำนวนมาก
+e|expose|Don't expose the film to light.|อย่าให้ฟิล์มโดนแสง
+e|express|It's hard to express my feelings in English.|การแสดงความรู้สึกเป็นภาษาอังกฤษเป็นเรื่องยาก
+e|expression|She had a worried expression.|เธอมีสีหน้ากังวล
+e|extend|Can we extend the deadline?|ขอขยายเวลาส่งได้ไหม
+e|extensive|The hotel has extensive gardens.|โรงแรมมีสวนกว้างขวาง
+e|extract|She extracted the data from the report.|เธอดึงข้อมูลออกมาจากรายงาน
+e|facility|The hotel has a gym and other facilities.|โรงแรมมียิมและสิ่งอำนวยความสะดวกอื่น ๆ
+e|fact|It's a fact that the earth is round.|เป็นข้อเท็จจริงที่ว่าโลกกลม
+e|factory|He works in a car factory.|เขาทำงานในโรงงานผลิตรถยนต์
+e|famous|Paris is famous for its food.|ปารีสมีชื่อเสียงเรื่องอาหาร
+e|fantastic|The view from the top is fantastic.|วิวจากบนยอดสุดยอดมาก
+e|fascinating|It's a fascinating story.|เป็นเรื่องที่น่าสนใจมาก
+e|fast|He drives too fast.|เขาขับเร็วเกินไป
+e|fearless|The fearless climber reached the top.|นักปีนเขาผู้ไม่กลัวอะไรขึ้นถึงยอด
+e|feast|We had a feast on New Year's Eve.|เรากินเลี้ยงใหญ่ในคืนก่อนปีใหม่
+e|fed up|I'm fed up with this weather.|ฉันเบื่อสภาพอากาศแบบนี้เต็มทน
+e|fetch|Can you fetch my bag from the car?|ช่วยไปเอากระเป๋าฉันจากรถหน่อยได้ไหม
+e|filthy|The kitchen was filthy.|ห้องครัวสกปรกมาก
+e|finally|We finally arrived at midnight.|ในที่สุดเราก็มาถึงตอนเที่ยงคืน
+e|finish|I finished my homework early.|ฉันทำการบ้านเสร็จเร็ว
+e|fitness|He goes to the gym to improve his fitness.|เขาไปยิมเพื่อเพิ่มความฟิต
+e|flaw|The plan has a serious flaw.|แผนนี้มีข้อบกพร่องร้ายแรง
+e|flexibility|The job offers a lot of flexibility.|งานนี้มีความยืดหยุ่นมาก
+e|flexible|I'm flexible about the time.|ฉันยืดหยุ่นเรื่องเวลา
+e|form|Please fill out this form.|กรุณากรอกแบบฟอร์มนี้
+e|format|What format is the file in?|ไฟล์นี้อยู่ในรูปแบบอะไร
+e|formula|There is no magic formula for success.|ไม่มีสูตรวิเศษสู่ความสำเร็จ
+e|frank|To be frank, I didn't like the movie.|พูดตรง ๆ ฉันไม่ชอบหนังเรื่องนั้น
+e|freezing|It's freezing in here. Can you close the window?|ในนี้หนาวมาก ช่วยปิดหน้าต่างหน่อยได้ไหม
+e|fresh|The fish is very fresh.|ปลาสดมาก
+e|friendship|Their friendship lasted for decades.|มิตรภาพของพวกเขายืนยาวหลายสิบปี
+e|frightened|The child was frightened by the thunder.|เด็กตกใจเสียงฟ้าร้อง
+e|frosty|It was a frosty morning.|เช้านั้นเย็นยะเยือกเป็นน้ำค้างแข็ง
+e|frustrated|I get frustrated when the Wi-Fi is slow.|ฉันหงุดหงิดเวลา Wi-Fi ช้า
+e|fundamental|Respect is fundamental to any relationship.|ความเคารพเป็นพื้นฐานของทุกความสัมพันธ์
+e|funny|He told a funny story.|เขาเล่าเรื่องตลก
+e|furious|She was furious when she saw the bill.|เธอโกรธจัดตอนเห็นบิล
+e|gain|You can gain experience by volunteering.|คุณได้ประสบการณ์จากการเป็นอาสาสมัคร
+e|gaze|They gazed at the stars.|พวกเขาจ้องมองดวงดาว
+e|gender|The form asks for your name and gender.|แบบฟอร์มถามชื่อและเพศ
+e|gene|Eye color is determined by genes.|สีตาถูกกำหนดโดยยีน
+e|general|The general idea is clear.|แนวคิดโดยรวมชัดเจน
+e|generate|Solar panels generate electricity.|แผงโซลาร์เซลล์ผลิตไฟฟ้า
+e|generation|My generation grew up with the internet.|คนรุ่นฉันโตมากับอินเทอร์เน็ต
+e|generous|He is generous with his time.|เขาให้เวลาอย่างใจกว้าง
+e|genius|Einstein was a genius.|ไอน์สไตน์เป็นอัจฉริยะ
+e|genre|What genre of music do you like?|คุณชอบเพลงแนวไหน
+e|gentle|Be gentle with the baby.|เบามือกับเด็กทารกหน่อย
+e|genuine|This is a genuine leather bag.|นี่เป็นกระเป๋าหนังแท้
+e|geographic|The country has great geographic variety.|ประเทศนี้มีความหลากหลายทางภูมิศาสตร์
+e|geography|Geography was my favorite class.|ภูมิศาสตร์เป็นวิชาที่ฉันชอบที่สุด
+e|geology|He studies geology at university.|เขาเรียนธรณีวิทยาที่มหาวิทยาลัย
+e|geometry|We learned about triangles in geometry.|เราเรียนเรื่องสามเหลี่ยมในวิชาเรขาคณิต
+e|geothermal|Iceland uses geothermal energy.|ไอซ์แลนด์ใช้พลังงานความร้อนใต้พิภพ
+e|get|I need to get some sleep.|ฉันต้องนอนบ้าง
+e|gigantic|They built a gigantic statue.|พวกเขาสร้างรูปปั้นขนาดมหึมา
+e|giggle|The girls giggled at the joke.|เด็กผู้หญิงหัวเราะคิกคักกับมุกตลก
+e|give|Can you give me a hand?|ช่วยหน่อยได้ไหม
+e|glad|I'm glad you could come.|ดีใจที่คุณมาได้
+e|glance|She glanced at her watch.|เธอเหลือบมองนาฬิกา
+e|glimpse|I caught a glimpse of the actor.|ฉันเห็นนักแสดงคนนั้นแวบเดียว
+e|gloomy|It was a gloomy, rainy day.|เป็นวันที่ฝนตกและหม่นหมอง
+e|good|This is a good idea.|นี่เป็นความคิดที่ดี
+e|gorgeous|The sunset was gorgeous.|พระอาทิตย์ตกสวยงามมาก
+e|government|The government announced a new law.|รัฐบาลประกาศกฎหมายใหม่
+e|gradual|There has been a gradual improvement.|มีการปรับปรุงดีขึ้นทีละน้อย
+e|grammar|Her grammar is very good.|ไวยากรณ์ของเธอดีมาก
+e|grant|She received a grant to study abroad.|เธอได้รับทุนไปเรียนต่างประเทศ
+e|graph|The graph shows a rise in prices.|กราฟแสดงว่าราคาเพิ่มขึ้น
+e|grateful|I'm grateful for your help.|ฉันซาบซึ้งที่คุณช่วย
+e|great|That's a great idea!|ความคิดนั้นยอดเยี่ยม
+e|grieving|The grieving family thanked everyone for their support.|ครอบครัวที่โศกเศร้าขอบคุณทุกคนที่ให้กำลังใจ
+e|grimy|The windows were grimy.|หน้าต่างเปื้อนฝุ่นคราบสกปรก
+e|grin|He grinned from ear to ear.|เขายิ้มกว้างสุดแก้ม
+e|grow|Plants grow faster in summer.|พืชโตเร็วในหน้าร้อน
+e|guess|Guess what happened today!|ทายสิว่าวันนี้เกิดอะไรขึ้น
+e|gulp|He gulped down his water.|เขากรอกน้ำลงคอรวดเดียว
+e|gutsy|It was a gutsy move to start a business alone.|การเปิดธุรกิจคนเดียวเป็นการตัดสินใจที่กล้า
+e|hand|Could you hand me that book?|ช่วยส่งหนังสือเล่มนั้นให้หน่อยได้ไหม
+e|happiness|Money can't buy happiness.|เงินซื้อความสุขไม่ได้
+e|happy|I'm happy to see you.|ดีใจที่ได้เจอคุณ
+e|hard|This exercise is really hard.|แบบฝึกหัดนี้ยากมาก
+e|hard-working|She is a hard-working student.|เธอเป็นนักเรียนที่ขยันมาก
+e|harmless|Don't worry, the dog is harmless.|ไม่ต้องห่วง หมาตัวนี้ไม่ทำร้ายใคร
+e|hassle|Booking online saves a lot of hassle.|การจองออนไลน์ช่วยลดความยุ่งยากได้มาก
+e|hasty|Don't make a hasty decision.|อย่าตัดสินใจผลีผลาม
+e|hate|I hate waiting in line.|ฉันเกลียดการต่อแถว
+e|headphones|I listen to music on my headphones.|ฉันฟังเพลงผ่านหูฟัง
+e|heartbroken|She was heartbroken when her dog died.|เธออกหักตอนหมาตาย
+e|hectic|I've had a hectic week.|ฉันมีสัปดาห์ที่วุ่นวายมาก
+e|help|Can you help me with my bags?|ช่วยถือกระเป๋าให้หน่อยได้ไหม
+e|helpful|The staff were very helpful.|พนักงานช่วยเหลือดีมาก
+e|heroic|The firefighter's heroic act saved a life.|การกระทำอันกล้าหาญของนักดับเพลิงช่วยชีวิตคนไว้
+e|hide|The cat is hiding under the bed.|แมวซ่อนอยู่ใต้เตียง
+e|hike|We went on a hike in the mountains.|เราไปเดินป่าบนภูเขา
+e|hilarious|The movie was hilarious.|หนังเรื่องนี้ตลกสุด ๆ
+e|homeless|Many homeless people sleep in the park.|คนไร้บ้านหลายคนนอนในสวน
+e|homesick|I felt homesick during my first week abroad.|ฉันคิดถึงบ้านตลอดสัปดาห์แรกที่อยู่ต่างประเทศ
+e|honest|Please be honest with me.|กรุณาตอบฉันตามตรง
+e|hope|I hope you feel better soon.|หวังว่าคุณจะหายไวไว
+e|hopeful|We are hopeful about the future.|เรามีความหวังกับอนาคต
+e|hopeless|I'm hopeless at cooking.|ฉันทำอาหารไม่เอาไหนเลย
+e|horrible|The traffic was horrible this morning.|เช้านี้รถติดแย่มาก
+e|hot|It's really hot today.|วันนี้ร้อนมาก
+e|huge|They have a huge garden.|พวกเขามีสวนใหญ่มาก
+e|humid|Bangkok is hot and humid.|กรุงเทพฯ ร้อนและชื้น
+e|humiliated|He felt humiliated in front of everyone.|เขารู้สึกอับอายต่อหน้าทุกคน
+e|humorous|He gave a humorous speech.|เขากล่าวสุนทรพจน์แบบมีอารมณ์ขัน
+e|hunch|I have a hunch that she will win.|ฉันมีลางสังหรณ์ว่าเธอจะชนะ
+e|hurt|My back hurts.|หลังฉันเจ็บ
+e|hushed|They spoke in hushed voices.|พวกเขาพูดกันด้วยเสียงกระซิบ
+e|hygienic|The kitchen must be clean and hygienic.|ห้องครัวต้องสะอาดถูกสุขลักษณะ
+e|idea|That's a great idea!|เป็นความคิดที่ดีมาก
+e|identify|Can you identify the man in the photo?|คุณช่วยระบุตัวผู้ชายในรูปได้ไหม
+e|identity|Please show your identity card.|กรุณาแสดงบัตรประจำตัว
+e|idle|The machines stood idle all day.|เครื่องจักรว่างงานทั้งวัน
+e|illegal|It's illegal to park here.|การจอดรถที่นี่ผิดกฎหมาย
+e|illness|He missed work because of illness.|เขาขาดงานเพราะป่วย
+e|imagine|Imagine you are on a beach.|ลองจินตนาการว่าคุณอยู่ที่ชายหาด
+e|immediately|Please call me immediately.|กรุณาโทรหาฉันทันที
+e|immense|The project needs an immense amount of work.|โปรเจกต์นี้ต้องใช้งานมหาศาล
+e|impatient|Don't be so impatient.|อย่าใจร้อนนักสิ
+e|imply|His silence implied that he disagreed.|ความเงียบของเขาบ่งบอกว่าเขาไม่เห็นด้วย
+e|impolite|It's impolite to talk with your mouth full.|การพูดตอนอาหารเต็มปากเป็นการไม่สุภาพ
+e|import|Thailand imports oil from other countries.|ประเทศไทยนำเข้าน้ำมันจากประเทศอื่น
+e|important|It's important to drink enough water.|การดื่มน้ำให้พอเป็นเรื่องสำคัญ
+e|impose|Don't impose your opinion on others.|อย่าบังคับให้คนอื่นยอมรับความเห็นของคุณ
+e|impossible|It's impossible to finish by tonight.|เป็นไปไม่ได้ที่จะเสร็จภายในคืนนี้
+e|impress|The interview didn't impress me.|การสัมภาษณ์ไม่ได้ทำให้ฉันประทับใจ
+e|impression|She made a good impression on everyone.|เธอสร้างความประทับใจให้ทุกคน
+e|inactive|The account has been inactive for a year.|บัญชีนี้ไม่ได้ใช้งานมาหนึ่งปี
+e|incomplete|The form was incomplete.|แบบฟอร์มกรอกไม่ครบ
+e|incorrect|The answer is incorrect.|คำตอบไม่ถูกต้อง
+e|increase|Prices increased by 10 percent.|ราคาเพิ่มขึ้น 10 เปอร์เซ็นต์
+e|incredible|The view was incredible.|วิวสวยเหลือเชื่อ
+e|indebted|I'm indebted to my teacher.|ฉันเป็นหนี้บุญคุณครู
+e|independent|She is a very independent person.|เธอเป็นคนที่พึ่งตัวเองได้มาก
+e|indicate|The sign indicates the way to the beach.|ป้ายบอกทางไปชายหาด
+e|indifferent|He seemed indifferent to the news.|เขาดูเฉยเมยต่อข่าวนั้น
+e|induce|The medicine can induce sleep.|ยานี้ทำให้หลับได้
+e|industry|Tourism is a big industry in Thailand.|การท่องเที่ยวเป็นอุตสาหกรรมใหญ่ในประเทศไทย
+e|inexpensive|It's an inexpensive hotel near the beach.|เป็นโรงแรมราคาไม่แพงใกล้ชายหาด
+e|infer|We can infer from the data that sales are rising.|เราอนุมานจากข้อมูลได้ว่ายอดขายเพิ่มขึ้น
+e|inform|Please inform us if you change your plans.|กรุณาแจ้งเราหากคุณเปลี่ยนแผน
+e|informal|It was an informal meeting.|เป็นการประชุมแบบไม่เป็นทางการ
+e|information|Can I get some information about the tour?|ขอข้อมูลเกี่ยวกับทัวร์หน่อยได้ไหม
+e|initiate|She initiated the project last year.|เธอเป็นผู้ริเริ่มโปรเจกต์เมื่อปีที่แล้ว
+e|inject|The nurse injected the vaccine.|พยาบาลฉีดวัคซีน
+e|innate|Children have an innate curiosity.|เด็กมีความอยากรู้อยากเห็นโดยกำเนิด
+e|innovative|It's an innovative design.|เป็นดีไซน์ที่ล้ำสมัย
+e|inquire|I'd like to inquire about the room price.|ขอสอบถามราคาห้องหน่อยครับ
+e|insight|The book gives great insight into Thai culture.|หนังสือเล่มนี้ให้ความเข้าใจลึกซึ้งเรื่องวัฒนธรรมไทย
+e|insist|He insisted on paying for dinner.|เขายืนกรานที่จะจ่ายค่าอาหารเย็น
+e|inspect|The officer inspected our passports.|เจ้าหน้าที่ตรวจหนังสือเดินทางของเรา
+e|instruct|The teacher instructed us to open our books.|ครูสั่งให้เราเปิดหนังสือ
+e|instruction|Please follow the instructions carefully.|กรุณาทำตามคำแนะนำอย่างระมัดระวัง
+e|intellect|She is a woman of great intellect.|เธอเป็นผู้หญิงที่มีสติปัญญาเฉียบแหลม
+e|intend|I intend to study abroad next year.|ฉันตั้งใจจะไปเรียนต่างประเทศปีหน้า
+e|intense|The heat was intense.|อากาศร้อนจัดมาก
+e|interact|Children learn by interacting with others.|เด็กเรียนรู้จากการมีปฏิสัมพันธ์กับผู้อื่น
+e|intercept|The police intercepted the car.|ตำรวจสกัดรถคันนั้นไว้
+e|interesting|That's an interesting question.|เป็นคำถามที่น่าสนใจ
+e|interfere|Please don't interfere with my work.|กรุณาอย่ามายุ่งกับงานของฉัน
+e|international|It's an international airport.|เป็นสนามบินนานาชาติ
+e|internet|The internet is very slow today.|วันนี้อินเทอร์เน็ตช้ามาก
+e|interrogate|The police interrogated the suspect.|ตำรวจสอบปากคำผู้ต้องสงสัย
+e|interrupt|Sorry to interrupt, but I have a question.|ขอโทษที่ขัดจังหวะ แต่ผมมีคำถาม
+e|intersection|Turn left at the next intersection.|เลี้ยวซ้ายที่สี่แยกหน้า
+e|interval|There will be a short interval after the second act.|จะมีช่วงพักสั้น ๆ หลังองก์ที่สอง
+e|intervene|The teacher had to intervene in the fight.|ครูต้องเข้าแทรกแซงการทะเลาะกัน
+e|interview|I have a job interview tomorrow.|พรุ่งนี้ฉันมีสัมภาษณ์งาน
+e|intriguing|It's an intriguing mystery.|เป็นปริศนาที่น่าสนใจ
+e|introduce|Let me introduce my friend.|ขอแนะนำเพื่อนของฉัน
+e|invent|Who invented the telephone?|ใครเป็นคนประดิษฐ์โทรศัพท์
+e|inventor|He is the inventor of the light bulb.|เขาเป็นผู้ประดิษฐ์หลอดไฟ
+e|invest|She invested in a small coffee shop.|เธอลงทุนในร้านกาแฟเล็ก ๆ
+e|invisible|The stars are invisible in the city.|ในเมืองมองไม่เห็นดวงดาว
+e|irregular|His work hours are irregular.|เวลางานของเขาไม่แน่นอน
+e|irritated|I was irritated by the noise.|ฉันหงุดหงิดกับเสียงดัง
+e|isolated|The village is isolated in the mountains.|หมู่บ้านอยู่โดดเดี่ยวบนภูเขา
+e|issue|We need to discuss this issue.|เราต้องคุยเรื่องนี้กัน
