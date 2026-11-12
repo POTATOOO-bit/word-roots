@@ -131,6 +131,13 @@ function parseInto(text,store){
       }
       continue;
     }
+    if(p[0].trim()==="d"){
+      const w=(p[1]||"").trim().toLowerCase();if(!w)continue;
+      const cf=(p[2]||"B1").trim().toUpperCase();
+      if(!store.dict.has(w))store.dict.set(w,{word:w,cefr:LV.includes(cf)?cf:"B1",th:(p[3]||"").trim()});
+      if((p[4]||"").trim())store.pron.set(w,{r:p[4].trim(),s:parseInt(p[5],10)||1});
+      continue;
+    }
     if(p.length===3&&!KC[p[0].trim()]){const w=p[0].trim().toLowerCase();if(w&&p[1].trim())store.pron.set(w,{r:p[1].trim(),s:parseInt(p[2],10)||1});continue;}
     if(p.length<5)continue;
     const kind=p[0].trim(), names=p[1].split(",").map(s=>s.trim()).filter(Boolean);
@@ -151,7 +158,7 @@ function parseInto(text,store){
 }
 //</parse>
 
-const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map()};
+const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map()};
 const state={mode:"graph",dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
 
@@ -216,6 +223,7 @@ function buildDict(){
     if(m.has(w)){if(it&&it.nuance)m.get(w).nuance=it.nuance;continue;}
     m.set(w,{word:w,cefr:it.cefr,th:it.th,roots:[],nuance:it.nuance});
   }
+  for(const d of store.dict.values())if(!m.has(d.word))m.set(d.word,{word:d.word,cefr:d.cefr,th:d.th,roots:[],nuance:""});
   dictList=[...m.values()].sort((a,b)=>a.word.localeCompare(b.word));
 }
 function dictDetail(d){
@@ -288,7 +296,7 @@ async function load(){
   buildSyn();
   try{state.acc=localStorage.getItem("wr-acc")||"en-US";}catch(e){}
   msg.style.display="none";
-  document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${store.words.size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
+  document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${new Set([...store.words.keys(),...synIndex.keys(),...store.dict.keys()]).size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
   initUI();
   document.querySelectorAll("#modes button").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
   let m="graph";try{m=localStorage.getItem("wr-mode")||"graph";}catch(e){}
