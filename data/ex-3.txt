@@ -1,0 +1,290 @@
+# ชุด 3: J–R (คำชุดแรก)
+e|jealous|She felt jealous of her sister's success.|เธออิจฉาความสำเร็จของพี่สาว
+e|justify|How can you justify spending so much money?|คุณอธิบายเหตุผลของการใช้เงินมากขนาดนี้ได้อย่างไร
+e|keen|He is keen on photography.|เขาสนใจการถ่ายภาพมาก
+e|kind|She is very kind to everyone.|เธอใจดีกับทุกคน
+e|kindness|Thank you for your kindness.|ขอบคุณสำหรับความเมตตาของคุณ
+e|laid-back|The owner is laid-back and friendly.|เจ้าของร้านสบาย ๆ และเป็นมิตร
+e|large|I'd like a large coffee, please.|ขอกาแฟแก้วใหญ่ครับ
+e|latest|Have you seen the latest news?|คุณดูข่าวล่าสุดหรือยัง
+e|laugh|Her jokes always make me laugh.|มุกของเธอทำให้ฉันหัวเราะทุกที
+e|launch|The company will launch a new phone in May.|บริษัทจะเปิดตัวมือถือรุ่นใหม่ในเดือนพฤษภาคม
+e|lazy|I felt lazy on Sunday.|วันอาทิตย์ฉันรู้สึกขี้เกียจ
+e|leadership|Good leadership is about listening.|ภาวะผู้นำที่ดีคือการรับฟัง
+e|lecture|The lecture lasted two hours.|การบรรยายใช้เวลาสองชั่วโมง
+e|legend|The story is an old legend.|เรื่องนี้เป็นตำนานเก่าแก่
+e|legendary|He is a legendary football player.|เขาเป็นนักฟุตบอลระดับตำนาน
+e|leisurely|We took a leisurely walk along the river.|เราเดินเล่นสบาย ๆ ริมแม่น้ำ
+e|lethargic|I feel lethargic in the hot weather.|ฉันรู้สึกเฉื่อยชาตอนอากาศร้อน
+e|like|I like Thai food.|ฉันชอบอาหารไทย
+e|limp|He walked with a limp after the accident.|เขาเดินเป๋หลังเกิดอุบัติเหตุ
+e|little|There's a little milk left.|มีนมเหลืออยู่นิดหน่อย
+e|loathe|I loathe doing the dishes.|ฉันเกลียดการล้างจานมาก
+e|logic|There's no logic in his argument.|ข้อโต้แย้งของเขาไม่มีเหตุผล
+e|lonely|She felt lonely in the new city.|เธอรู้สึกเหงาในเมืองใหม่
+e|long for|He longed for his home in the countryside.|เขาโหยหาบ้านในชนบท
+e|look|Look at that beautiful bird!|ดูนกสวย ๆ ตัวนั้นสิ
+e|loud|The music is too loud.|เพลงดังเกินไป
+e|lousy|I had a lousy day at work.|วันนี้ฉันเจอเรื่องแย่ ๆ ที่ทำงาน
+e|love|I love spending time with my family.|ฉันรักการใช้เวลากับครอบครัว
+e|lovely|What a lovely surprise!|เซอร์ไพรส์น่ารักจัง
+e|loyal|He is a loyal friend.|เขาเป็นเพื่อนที่ซื่อสัตย์
+e|luxurious|We stayed in a luxurious hotel.|เราพักโรงแรมหรูหรา
+e|mad|She was mad at me for being late.|เธอโกรธที่ฉันมาสาย
+e|maintain|It's important to maintain a healthy diet.|การรักษาอาหารที่ดีต่อสุขภาพเป็นเรื่องสำคัญ
+e|major|There was a major problem with the system.|ระบบมีปัญหาใหญ่
+e|make|I'll make dinner tonight.|คืนนี้ฉันจะทำอาหารเย็น
+e|manageable|The workload is manageable.|ปริมาณงานจัดการได้
+e|manager|The manager asked to see us.|ผู้จัดการขอพบเรา
+e|manufacture|They manufacture car parts.|พวกเขาผลิตชิ้นส่วนรถยนต์
+e|manuscript|The author sent the manuscript to the publisher.|นักเขียนส่งต้นฉบับให้สำนักพิมพ์
+e|march|The students marched through the city.|นักเรียนเดินขบวนผ่านเมือง
+e|massive|They built a massive shopping mall.|พวกเขาสร้างห้างสรรพสินค้าขนาดใหญ่โต
+e|medical|You need medical advice.|คุณต้องได้รับคำแนะนำทางการแพทย์
+e|mediocre|The food was mediocre.|อาหารธรรมดามาก ไม่ได้ดีเด่น
+e|melancholy|The song has a melancholy tune.|เพลงนี้มีท่วงทำนองเศร้าหมอง
+e|mention|Don't mention it.|ไม่เป็นไร ไม่ต้องกล่าวถึงหรอก
+e|message|I left a message on your phone.|ฉันฝากข้อความไว้ในโทรศัพท์คุณ
+e|messy|Your room is so messy.|ห้องคุณรกมาก
+e|microphone|Please speak into the microphone.|กรุณาพูดใส่ไมโครโฟน
+e|mild|The weather is mild in spring.|อากาศอบอุ่นไม่รุนแรงในฤดูใบไม้ผลิ
+e|minor|It was just a minor injury.|เป็นแค่การบาดเจ็บเล็กน้อย
+e|minuscule|The risk is minuscule.|ความเสี่ยงเล็กน้อยมาก
+e|misbehave|The children misbehaved in class.|เด็ก ๆ ประพฤติไม่ดีในห้องเรียน
+e|mislead|The advertisement misled customers.|โฆษณานั้นทำให้ลูกค้าเข้าใจผิด
+e|mission|Their mission is to protect the forest.|ภารกิจของพวกเขาคือปกป้องป่า
+e|misspell|I always misspell this word.|ฉันสะกดคำนี้ผิดตลอด
+e|mistake|It was a big mistake.|เป็นความผิดพลาดครั้งใหญ่
+e|misunderstand|Sorry, I think I misunderstood you.|ขอโทษ ฉันคิดว่าฉันเข้าใจคุณผิด
+e|misuse|Misuse of the machine can be dangerous.|การใช้เครื่องผิดวิธีอาจเป็นอันตราย
+e|modern|The hotel has a modern design.|โรงแรมออกแบบอย่างทันสมัย
+e|modest|He is modest about his success.|เขาถ่อมตัวเรื่องความสำเร็จ
+e|modify|You can modify the settings later.|คุณปรับเปลี่ยนการตั้งค่าได้ภายหลัง
+e|monologue|The actor delivered a long monologue.|นักแสดงพูดคนเดียวยาว
+e|monotonous|The work is monotonous.|งานนี้จำเจน่าเบื่อ
+e|motion|The train is in motion.|รถไฟกำลังเคลื่อนที่
+e|motivate|A good teacher knows how to motivate students.|ครูที่ดีรู้วิธีสร้างแรงจูงใจให้นักเรียน
+e|motive|The police are looking for a motive.|ตำรวจกำลังหาแรงจูงใจ
+e|motor|The motor of the fan stopped working.|มอเตอร์ของพัดลมเสีย
+e|move|Let's move to a quieter table.|ย้ายไปนั่งโต๊ะที่เงียบกว่ากันเถอะ
+e|movement|The movement of the crowd was slow.|การเคลื่อนตัวของฝูงชนช้ามาก
+e|movie|Let's watch a movie tonight.|คืนนี้ไปดูหนังกันเถอะ
+e|muggy|It's hot and muggy today.|วันนี้ร้อนอบอ้าว
+e|multimedia|The course uses multimedia materials.|หลักสูตรนี้ใช้สื่อมัลติมีเดีย
+e|multiple|I have multiple options to choose from.|ฉันมีตัวเลือกหลายอย่าง
+e|multiply|Two multiplied by three is six.|สองคูณสามได้หก
+e|mumble|He mumbled something and left.|เขาพึมพำอะไรบางอย่างแล้วเดินออกไป
+e|munch|The kids munched on popcorn.|เด็ก ๆ นั่งเคี้ยวป๊อปคอร์น
+e|murmur|I heard a murmur of voices next door.|ฉันได้ยินเสียงพึมพำจากห้องข้าง ๆ
+e|musical|She plays a musical instrument.|เธอเล่นเครื่องดนตรี
+e|mysterious|A mysterious package arrived today.|มีพัสดุปริศนามาถึงวันนี้
+e|nation|The whole nation celebrated the victory.|คนทั้งชาติร่วมฉลองชัยชนะ
+e|national|It's a national holiday today.|วันนี้เป็นวันหยุดราชการ
+e|nationality|What's your nationality?|คุณสัญชาติอะไร
+e|native|English is not my native language.|ภาษาอังกฤษไม่ใช่ภาษาแม่ของฉัน
+e|natural|It's natural to feel nervous.|เป็นเรื่องธรรมดาที่จะรู้สึกประหม่า
+e|nature|I love spending time in nature.|ฉันชอบใช้เวลาอยู่กับธรรมชาติ
+e|neat|Her handwriting is very neat.|ลายมือของเธอเป็นระเบียบมาก
+e|need|I need some help.|ฉันต้องการความช่วยเหลือ
+e|needy|The charity helps needy families.|องค์กรการกุศลช่วยครอบครัวที่ขัดสน
+e|neglect|Don't neglect your health.|อย่าละเลยสุขภาพของตัวเอง
+e|neighborhood|It's a quiet neighborhood.|เป็นย่านที่เงียบสงบ
+e|nervous|I always feel nervous before a presentation.|ฉันประหม่าเสมอก่อนพรีเซนต์
+e|new|I bought a new phone.|ฉันซื้อมือถือเครื่องใหม่
+e|nibble|The mouse nibbled on some cheese.|หนูแทะชีสนิดหน่อย
+e|noisy|The street is very noisy at night.|ถนนเสียงดังมากตอนกลางคืน
+e|normal|It's normal to make mistakes.|เป็นเรื่องปกติที่จะทำผิดพลาด
+e|nostalgic|Old songs make me feel nostalgic.|เพลงเก่า ๆ ทำให้ฉันคิดถึงอดีต
+e|notice|Did you notice the new sign?|คุณสังเกตเห็นป้ายใหม่ไหม
+e|notion|I have no notion of what he means.|ฉันไม่รู้เลยว่าเขาหมายถึงอะไร
+e|notorious|The street is notorious for traffic jams.|ถนนสายนี้ฉาวโฉ่เรื่องรถติด
+e|object|There was a strange object on the table.|มีวัตถุแปลก ๆ อยู่บนโต๊ะ
+e|objective|The main objective is to save time.|วัตถุประสงค์หลักคือประหยัดเวลา
+e|obscure|The meaning of the sentence is obscure.|ความหมายของประโยคนี้คลุมเครือ
+e|observe|Scientists observe the stars at night.|นักวิทยาศาสตร์สังเกตดวงดาวตอนกลางคืน
+e|obsolete|This software is obsolete.|ซอฟต์แวร์นี้ล้าสมัยแล้ว
+e|obstacle|Language is the biggest obstacle for me.|ภาษาเป็นอุปสรรคใหญ่ที่สุดของฉัน
+e|obstruct|A truck obstructed the road.|รถบรรทุกขวางถนน
+e|obtain|You can obtain a visa online.|คุณขอวีซ่าได้ทางออนไลน์
+e|occupied|Sorry, this seat is occupied.|ขอโทษ ที่นั่งนี้มีคนจองแล้ว
+e|occur|Accidents can occur at any time.|อุบัติเหตุเกิดขึ้นได้ทุกเมื่อ
+e|odd|It's odd that he hasn't called.|แปลกที่เขายังไม่โทรมา
+e|offer|They offered me a job.|พวกเขาเสนองานให้ฉัน
+e|old|My phone is very old.|มือถือฉันเก่ามาก
+e|omit|Don't omit any important details.|อย่าตัดรายละเอียดสำคัญใดทิ้ง
+e|opinion|In my opinion, it's a good plan.|ในความเห็นของฉัน เป็นแผนที่ดี
+e|opponent|He defeated his opponent in the final.|เขาเอาชนะคู่แข่งในรอบชิง
+e|opportunity|This is a great opportunity to learn.|นี่เป็นโอกาสที่ดีมากในการเรียนรู้
+e|oppose|Many people oppose the new law.|หลายคนคัดค้านกฎหมายใหม่
+e|opt|She opted for the cheaper option.|เธอเลือกตัวเลือกที่ถูกกว่า
+e|optimistic|I'm optimistic about the future.|ฉันมองอนาคตในแง่ดี
+e|order|I'd like to order a pizza.|ฉันอยากสั่งพิซซ่า
+e|organize|She organized a surprise party.|เธอจัดปาร์ตี้เซอร์ไพรส์
+e|outdated|The map is outdated.|แผนที่นี้ล้าสมัยแล้ว
+e|outraged|People were outraged by the decision.|ผู้คนโกรธแค้นกับการตัดสินใจนั้น
+e|outstanding|She did an outstanding job.|เธอทำงานได้ยอดเยี่ยม
+e|overall|The overall quality is very good.|คุณภาพโดยรวมดีมาก
+e|overcome|He overcame his fear of flying.|เขาเอาชนะความกลัวการบิน
+e|overpriced|The food is overpriced.|อาหารแพงเกินจริง
+e|overseas|She studies overseas.|เธอเรียนต่างประเทศ
+e|overtime|I worked overtime all week.|ฉันทำงานล่วงเวลาทั้งสัปดาห์
+e|overweight|The doctor said he was slightly overweight.|หมอบอกว่าเขาน้ำหนักเกินเล็กน้อย
+e|pace|Walk at your own pace.|เดินตามจังหวะของตัวเองได้เลย
+e|paragraph|Read the first paragraph aloud.|อ่านย่อหน้าแรกออกเสียง
+e|participate|Everyone can participate in the contest.|ทุกคนเข้าร่วมการแข่งขันได้
+e|passport|Don't forget your passport.|อย่าลืมหนังสือเดินทาง
+e|payment|Payment is due on Friday.|ต้องชำระเงินภายในวันศุกร์
+e|peaceful|The village is quiet and peaceful.|หมู่บ้านเงียบสงบ
+e|peculiar|There's a peculiar smell in here.|มีกลิ่นแปลก ๆ ในนี้
+e|peek|She took a peek at the gifts.|เธอแอบดูของขวัญ
+e|pension|My grandfather lives on his pension.|คุณตาของฉันอยู่ได้ด้วยเงินบำนาญ
+e|perceive|Some people perceive silence as rude.|บางคนมองว่าความเงียบเป็นการเสียมารยาท
+e|percent|About 70 percent of the earth is water.|ประมาณ 70 เปอร์เซ็นต์ของโลกเป็นน้ำ
+e|perfect|The weather is perfect for a picnic.|อากาศสมบูรณ์แบบสำหรับปิกนิก
+e|perform|The band will perform tonight.|วงดนตรีจะแสดงคืนนี้
+e|permission|You need permission to enter.|คุณต้องได้รับอนุญาตจึงเข้าได้
+e|permit|Smoking is not permitted here.|ห้ามสูบบุหรี่ที่นี่
+e|perplexed|She looked perplexed by the question.|เธอดูงงกับคำถาม
+e|persevere|If you persevere, you will succeed.|ถ้าคุณอดทนสู้ต่อไป คุณจะสำเร็จ
+e|persist|If the pain persists, see a doctor.|ถ้าอาการปวดไม่หาย ให้ไปพบหมอ
+e|personal|This is a personal question.|นี่เป็นคำถามส่วนตัว
+e|perspective|Try to see it from her perspective.|ลองมองจากมุมมองของเธอดู
+e|petite|She is a petite woman.|เธอเป็นผู้หญิงรูปร่างเล็กกะทัดรัด
+e|phone|My phone is out of battery.|มือถือฉันแบตหมด
+e|phonetic|The dictionary shows the phonetic spelling.|พจนานุกรมแสดงการสะกดตามสัทอักษร
+e|photograph|She took a photograph of the temple.|เธอถ่ายรูปวัด
+e|physical|Regular physical exercise is good for you.|การออกกำลังกายสม่ำเสมอดีต่อร่างกาย
+e|pick|Pick a card, any card.|เลือกไพ่มาใบหนึ่ง ใบไหนก็ได้
+e|plan|What's your plan for the weekend?|สุดสัปดาห์นี้คุณมีแผนอะไร
+e|pleased|I'm pleased with the results.|ฉันพอใจกับผลลัพธ์
+e|plunge|He plunged into the cold water.|เขาดำดิ่งลงไปในน้ำเย็น
+e|polite|It's polite to say thank you.|การพูดขอบคุณเป็นการสุภาพ
+e|ponder|She pondered the offer for a few days.|เธอไตร่ตรองข้อเสนอนั้นอยู่หลายวัน
+e|poor|The poor family needed help.|ครอบครัวยากจนต้องการความช่วยเหลือ
+e|popular|This dish is popular with tourists.|เมนูนี้เป็นที่นิยมของนักท่องเที่ยว
+e|popularity|The game's popularity is growing.|ความนิยมของเกมนี้กำลังเพิ่มขึ้น
+e|portable|I bought a portable charger.|ฉันซื้อที่ชาร์จพกพา
+e|position|What position do you play?|คุณเล่นตำแหน่งอะไร
+e|positive|Try to stay positive.|พยายามคิดบวกไว้
+e|possessive|He is very possessive of his phone.|เขาหวงมือถือของเขามาก
+e|possible|Is it possible to change my seat?|ขอเปลี่ยนที่นั่งได้ไหม
+e|powerful|It's a powerful engine.|เป็นเครื่องยนต์ที่ทรงพลัง
+e|predecessor|My predecessor left detailed notes.|คนที่ทำหน้าที่ก่อนฉันทิ้งบันทึกละเอียดไว้
+e|predict|No one can predict the weather exactly.|ไม่มีใครทำนายอากาศได้แม่นยำ
+e|prediction|Her prediction came true.|คำทำนายของเธอเป็นจริง
+e|prefer|I prefer tea to coffee.|ฉันชอบชามากกว่ากาแฟ
+e|preheat|Preheat the oven to 180 degrees.|อุ่นเตาอบไว้ที่ 180 องศา
+e|prehistoric|We saw prehistoric paintings in the cave.|เราเห็นภาพวาดก่อนประวัติศาสตร์ในถ้ำ
+e|prepare|I need to prepare for the exam.|ฉันต้องเตรียมตัวสอบ
+e|prescribe|The doctor prescribed some medicine.|หมอสั่งยาให้
+e|present|She gave a short presentation.|เธอพรีเซนต์สั้น ๆ
+e|preserve|We must preserve our forests.|เราต้องรักษาป่าไว้
+e|press|Press the button to start.|กดปุ่มเพื่อเริ่ม
+e|pressure|I work well under pressure.|ฉันทำงานได้ดีภายใต้แรงกดดัน
+e|pretend|The kids pretended to be pirates.|เด็ก ๆ แกล้งเป็นโจรสลัด
+e|pretty|She's wearing a pretty dress.|เธอใส่ชุดสวยน่ารัก
+e|prevent|Washing hands can prevent illness.|การล้างมือช่วยป้องกันโรคได้
+e|preview|Watch the preview before you buy.|ดูตัวอย่างก่อนซื้อ
+e|previous|I missed the previous bus.|ฉันพลาดรถบัสคันก่อนหน้า
+e|pricey|This restaurant is a bit pricey.|ร้านนี้ค่อนข้างแพง
+e|principal|The principal gave a short speech.|ครูใหญ่กล่าวสุนทรพจน์สั้น ๆ
+e|problem|We have a problem.|เรามีปัญหา
+e|procure|They procured supplies for the trip.|พวกเขาจัดหาเสบียงสำหรับการเดินทาง
+e|produce|The factory produces 500 cars a month.|โรงงานผลิตรถยนต์เดือนละ 500 คัน
+e|product|This product is very popular.|สินค้านี้ได้รับความนิยมมาก
+e|production|Production will start next month.|การผลิตจะเริ่มเดือนหน้า
+e|productive|I had a productive morning.|เช้านี้ฉันทำงานได้เยอะ
+e|professional|He is a professional photographer.|เขาเป็นช่างภาพมืออาชีพ
+e|program|I'm learning to write a computer program.|ฉันกำลังเรียนเขียนโปรแกรมคอมพิวเตอร์
+e|progress|You're making great progress.|คุณก้าวหน้าไปมาก
+e|prohibit|Photography is prohibited in the museum.|ห้ามถ่ายภาพในพิพิธภัณฑ์
+e|project|We're working on a big project.|เรากำลังทำโปรเจกต์ใหญ่
+e|prominent|She's a prominent scientist.|เธอเป็นนักวิทยาศาสตร์ชั้นนำ
+e|promise|I promise I'll call you.|ฉันสัญญาว่าจะโทรหา
+e|promote|They promote healthy eating at school.|พวกเขาส่งเสริมการกินเพื่อสุขภาพที่โรงเรียน
+e|prompt|Thank you for your prompt reply.|ขอบคุณสำหรับการตอบกลับที่รวดเร็ว
+e|propose|I propose we meet at six.|ฉันเสนอว่าเราควรพบกันตอนหกโมง
+e|prospect|The prospect of traveling alone excites me.|โอกาสที่จะได้เที่ยวคนเดียวทำให้ฉันตื่นเต้น
+e|prosperous|It's a prosperous town.|เป็นเมืองที่เจริญรุ่งเรือง
+e|protect|Wear sunscreen to protect your skin.|ทาครีมกันแดดเพื่อปกป้องผิว
+e|protest|Thousands of people protested in the street.|ผู้คนหลายพันคนประท้วงบนถนน
+e|proud|I'm proud of you.|ฉันภูมิใจในตัวเธอ
+e|provide|The hotel provides free breakfast.|โรงแรมมีอาหารเช้าฟรี
+e|psychology|She studies psychology at university.|เธอเรียนจิตวิทยาที่มหาวิทยาลัย
+e|purchase|You can purchase tickets online.|คุณซื้อตั๋วทางออนไลน์ได้
+e|purpose|What is the purpose of your visit?|วัตถุประสงค์ของการมาเยือนคืออะไร
+e|pursue|She wants to pursue a career in music.|เธอต้องการทำอาชีพด้านดนตรี
+e|puzzled|He looked puzzled by the question.|เขาดูงงกับคำถาม
+e|quality|The quality of this fabric is excellent.|คุณภาพของผ้านี้ยอดเยี่ยม
+e|question|May I ask a question?|ขอถามคำถามได้ไหม
+e|quick|Let's take a quick break.|พักสั้น ๆ กันหน่อย
+e|quickly|She answered quickly.|เธอตอบเร็ว
+e|quiet|Please be quiet in the library.|กรุณาเงียบในห้องสมุด
+e|rapid|The city has seen rapid growth.|เมืองนี้เติบโตอย่างรวดเร็ว
+e|react|How did he react to the news?|เขาตอบสนองต่อข่าวอย่างไร
+e|reality|Reality is different from what I imagined.|ความเป็นจริงต่างจากที่ฉันจินตนาการ
+e|realize|I realized I had left my keys at home.|ฉันนึกขึ้นได้ว่าลืมกุญแจไว้ที่บ้าน
+e|really|I really like this place.|ฉันชอบที่นี่จริง ๆ
+e|reasonable|The price is reasonable.|ราคาสมเหตุสมผล
+e|rebuild|They are rebuilding the old bridge.|พวกเขากำลังสร้างสะพานเก่าขึ้นใหม่
+e|receipt|Can I have a receipt, please?|ขอใบเสร็จด้วยครับ
+e|receive|I received your email yesterday.|ฉันได้รับอีเมลของคุณเมื่อวาน
+e|recently|I recently moved to a new city.|ฉันเพิ่งย้ายไปอยู่เมืองใหม่เมื่อไม่นานนี้
+e|reception|Please check in at reception.|กรุณาเช็กอินที่แผนกต้อนรับ
+e|reckless|It was reckless to drive so fast.|การขับเร็วขนาดนั้นเป็นการประมาท
+e|reckon|I reckon it will rain later.|ฉันคิดว่าเดี๋ยวฝนคงตก
+e|recognize|I didn't recognize you with short hair.|ฉันจำคุณไม่ได้ตอนผมสั้น
+e|recur|The problem keeps recurring.|ปัญหานี้เกิดซ้ำอยู่เรื่อย ๆ
+e|recycle|Please recycle your plastic bottles.|กรุณารีไซเคิลขวดพลาสติก
+e|reduce|We need to reduce costs.|เราต้องลดค่าใช้จ่าย
+e|refer|Please refer to page 10.|กรุณาดูหน้า 10
+e|reference|You can use this book as a reference.|คุณใช้หนังสือเล่มนี้เป็นแหล่งอ้างอิงได้
+e|reflect|The lake reflects the mountains.|ทะเลสาบสะท้อนภาพภูเขา
+e|reflection|I saw my reflection in the window.|ฉันเห็นเงาสะท้อนของตัวเองในหน้าต่าง
+e|reflex|Blinking is a natural reflex.|การกะพริบตาเป็นรีเฟล็กซ์ตามธรรมชาติ
+e|reform|The government announced a tax reform.|รัฐบาลประกาศปฏิรูปภาษี
+e|refresh|Refresh the page if it doesn't load.|รีเฟรชหน้าถ้าโหลดไม่ขึ้น
+e|regretful|He felt regretful about what he said.|เขารู้สึกเสียใจกับสิ่งที่พูด
+e|reject|They rejected my application.|พวกเขาปฏิเสธใบสมัครของฉัน
+e|relationship|They have a good relationship.|พวกเขามีความสัมพันธ์ที่ดี
+e|relaxed|I feel relaxed after the massage.|ฉันรู้สึกผ่อนคลายหลังนวด
+e|reliable|He's a reliable person.|เขาเป็นคนที่ไว้ใจได้
+e|relieved|I was relieved to hear you were safe.|ฉันโล่งใจที่ได้ยินว่าคุณปลอดภัย
+e|remember|Do you remember my name?|คุณจำชื่อฉันได้ไหม
+e|remote|They live in a remote village.|พวกเขาอยู่ในหมู่บ้านห่างไกล
+e|remove|Please remove your shoes.|กรุณาถอดรองเท้า
+e|renowned|She is a renowned chef.|เธอเป็นเชฟที่มีชื่อเสียงโด่งดัง
+e|repeat|Could you repeat that, please?|ช่วยพูดอีกครั้งได้ไหมครับ
+e|replace|I need to replace the battery.|ฉันต้องเปลี่ยนแบตเตอรี่
+e|reply|Please reply to my email soon.|กรุณาตอบอีเมลฉันเร็ว ๆ
+e|report|He wrote a report about the project.|เขาเขียนรายงานเกี่ยวกับโปรเจกต์
+e|reproduce|The results are hard to reproduce.|ผลลัพธ์ทำซ้ำได้ยาก
+e|request|I'd like to make a request.|ฉันขอร้องอย่างหนึ่ง
+e|require|The job requires good English.|งานนี้ต้องใช้ภาษาอังกฤษที่ดี
+e|rescue|The firefighters rescued the cat.|นักดับเพลิงช่วยแมวไว้ได้
+e|resent|She resented his comments.|เธอไม่พอใจความเห็นของเขา
+e|resentful|He felt resentful of his boss.|เขารู้สึกขุ่นเคืองเจ้านาย
+e|reservation|I made a reservation for two.|ฉันจองโต๊ะไว้สองที่
+e|reserve|I'd like to reserve a table for tonight.|ขอจองโต๊ะสำหรับคืนนี้
+e|resign|She resigned from her job last week.|เธอลาออกจากงานเมื่อสัปดาห์ที่แล้ว
+e|resist|I can't resist chocolate.|ฉันต้านทานช็อกโกแลตไม่ได้
+e|respect|I respect your opinion.|ฉันเคารพความเห็นของคุณ
+e|respond|He didn't respond to my message.|เขาไม่ตอบข้อความฉัน
+e|responsible|Who is responsible for this?|ใครเป็นคนรับผิดชอบเรื่องนี้
+e|resume|The meeting will resume after lunch.|การประชุมจะกลับมาต่อหลังพักเที่ยง
+e|retain|The teacher helps students retain information.|ครูช่วยให้นักเรียนจำข้อมูลได้
+e|retire|My father will retire next year.|พ่อของฉันจะเกษียณปีหน้า
+e|retort|"Mind your own business," she retorted.|"ไม่ใช่เรื่องของคุณ" เธอโต้กลับ
+e|return|When will you return from your trip?|คุณจะกลับจากทริปเมื่อไหร่
+e|reveal|The test revealed a problem.|ผลตรวจเผยว่ามีปัญหา
+e|revenue|The company's revenue grew 20 percent.|รายได้ของบริษัทเพิ่มขึ้น 20 เปอร์เซ็นต์
+e|reverse|Please reverse the car slowly.|กรุณาถอยรถช้า ๆ
+e|review|Read the reviews before you book.|อ่านรีวิวก่อนจอง
+e|revise|I need to revise for the test.|ฉันต้องทบทวนบทเรียนสำหรับสอบ
+e|rewrite|She rewrote the essay three times.|เธอเขียนเรียงความใหม่สามรอบ
+e|rich|They are a very rich family.|พวกเขาเป็นครอบครัวที่ร่ำรวยมาก
+e|ridiculous|The price is ridiculous!|ราคาไร้สาระมาก
+e|rise|The sun rises at six.|ดวงอาทิตย์ขึ้นตอนหกโมง
+e|rowdy|The rowdy fans were asked to leave.|แฟนบอลที่เสียงดังวุ่นวายถูกขอให้ออกไป
+e|rude|It's rude to point at people.|การชี้หน้าคนอื่นเป็นการเสียมารยาท
+e|rupture|The pipe ruptured and flooded the kitchen.|ท่อแตกจนน้ำท่วมครัว

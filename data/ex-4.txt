@@ -1,0 +1,266 @@
+# ชุด 4: S–Z (คำชุดแรก)
+e|sad|The movie made me sad.|หนังเรื่องนี้ทำให้ฉันเศร้า
+e|sadness|I felt a deep sadness when she left.|ฉันรู้สึกเศร้าลึก ๆ ตอนเธอจากไป
+e|sarcastic|Don't be sarcastic with me.|อย่าพูดประชดฉันนะ
+e|satisfactory|The hotel room was satisfactory.|ห้องพักของโรงแรมใช้ได้เป็นที่น่าพอใจ
+e|satisfy|Nothing can satisfy him.|ไม่มีอะไรทำให้เขาพอใจได้
+e|savor|I savored every bite of the dessert.|ฉันละเลียดของหวานทุกคำ
+e|saxophone|He plays the saxophone in a jazz band.|เขาเล่นแซกโซโฟนในวงแจ๊ส
+e|say|What did you say?|คุณพูดว่าอะไรนะ
+e|scared|I'm scared of spiders.|ฉันกลัวแมงมุม
+e|science|Science is my favorite subject.|วิทยาศาสตร์เป็นวิชาที่ฉันชอบที่สุด
+e|scientific|They did a scientific study.|พวกเขาทำการศึกษาทางวิทยาศาสตร์
+e|scientist|The scientist discovered a new planet.|นักวิทยาศาสตร์ค้นพบดาวเคราะห์ดวงใหม่
+e|scorching|It's a scorching summer day.|เป็นวันหน้าร้อนที่ร้อนระอุ
+e|script|The actor forgot his script.|นักแสดงลืมบท
+e|secluded|They found a secluded beach.|พวกเขาเจอชายหาดที่เงียบสงบไม่มีคน
+e|secure|Is this Wi-Fi network secure?|เครือข่าย Wi-Fi นี้ปลอดภัยไหม
+e|security|Please go through airport security.|กรุณาผ่านการตรวจความปลอดภัยของสนามบิน
+e|see|I can't see the sign.|ฉันมองไม่เห็นป้าย
+e|seek|They are seeking a new manager.|พวกเขากำลังมองหาผู้จัดการคนใหม่
+e|select|Please select one option.|กรุณาเลือกหนึ่งตัวเลือก
+e|self-conscious|She felt self-conscious about her accent.|เธอรู้สึกเขินกับสำเนียงของตัวเอง
+e|selfish|Don't be so selfish.|อย่าเห็นแก่ตัวนักสิ
+e|sensation|I felt a burning sensation on my skin.|ฉันรู้สึกแสบร้อนที่ผิว
+e|sense|It makes sense to book early.|การจองล่วงหน้าก็สมเหตุสมผลดี
+e|sensible|That's a sensible choice.|เป็นทางเลือกที่สมเหตุสมผล
+e|sensitive|I have sensitive skin.|ฉันมีผิวแพ้ง่าย
+e|sensor|The light has a motion sensor.|ไฟมีเซนเซอร์จับการเคลื่อนไหว
+e|sentence|Please write a sentence using this word.|กรุณาเขียนประโยคโดยใช้คำนี้
+e|sentiment|The sentiment of the article is positive.|ความรู้สึกที่แฝงในบทความเป็นไปในทางบวก
+e|serene|The lake was calm and serene.|ทะเลสาบสงบเงียบนิ่ง
+e|serious|This is a serious problem.|นี่เป็นปัญหาร้ายแรง
+e|servant|The servant brought us tea.|คนรับใช้นำชามาให้เรา
+e|serve|The restaurant serves breakfast all day.|ร้านเสิร์ฟอาหารเช้าทั้งวัน
+e|service|The service was excellent.|บริการยอดเยี่ยม
+e|setback|The delay was a major setback.|ความล่าช้าเป็นอุปสรรคใหญ่
+e|shift|She works the night shift.|เธอทำงานกะดึก
+e|shocked|I was shocked by the news.|ฉันตกใจกับข่าวนั้น
+e|shop|I need to shop for groceries.|ฉันต้องไปซื้อของชำ
+e|shout|Don't shout at me!|อย่าตะโกนใส่ฉัน
+e|show|Can you show me the way?|ช่วยชี้ทางให้หน่อยได้ไหม
+e|shrink|My shirt shrank in the wash.|เสื้อฉันหดตอนซัก
+e|shy|He's shy around strangers.|เขาขี้อายเวลาอยู่กับคนแปลกหน้า
+e|sign|Please sign here.|กรุณาเซ็นตรงนี้
+e|signal|There's no signal in this area.|ไม่มีสัญญาณในพื้นที่นี้
+e|signature|I need your signature on this form.|ฉันต้องการลายเซ็นของคุณบนแบบฟอร์มนี้
+e|significant|There was a significant change.|มีการเปลี่ยนแปลงที่สำคัญ
+e|silent|The room was completely silent.|ห้องเงียบสนิท
+e|silly|That's a silly question.|เป็นคำถามที่งี่เง่า
+e|simple|The instructions are simple.|คำแนะนำง่ายมาก
+e|simplify|Let's simplify the process.|มาทำขั้นตอนให้ง่ายขึ้นกันเถอะ
+e|sincere|Please accept my sincere thanks.|ขอรับคำขอบคุณอย่างจริงใจจากฉัน
+e|sip|She took a sip of tea.|เธอจิบชา
+e|sleepy|I feel sleepy after lunch.|ฉันง่วงหลังอาหารกลางวัน
+e|slight|There's a slight chance of rain.|มีโอกาสฝนตกเล็กน้อย
+e|slow|The Wi-Fi is really slow.|Wi-Fi ช้ามาก
+e|slowly|Please speak slowly.|กรุณาพูดช้า ๆ
+e|sluggish|I feel sluggish in the morning.|ฉันรู้สึกเฉื่อยชาตอนเช้า
+e|small|It's a small room.|เป็นห้องเล็ก ๆ
+e|smile|She greeted us with a smile.|เธอทักทายเราด้วยรอยยิ้ม
+e|smirk|He smirked when I made a mistake.|เขายิ้มเยาะตอนฉันทำผิด
+e|smooth|The road is smooth.|ถนนเรียบ
+e|snack|I'll grab a quick snack.|ฉันจะกินของว่างสั้น ๆ
+e|snicker|They snickered behind his back.|พวกเขาหัวเราะคิกเยาะอยู่ข้างหลังเขา
+e|sniffle|He sniffled all through the movie.|เขาสูดน้ำมูกตลอดทั้งเรื่อง
+e|soar|Prices have soared this year.|ราคาพุ่งสูงปีนี้
+e|sob|The little girl sobbed quietly.|เด็กหญิงสะอื้นเงียบ ๆ
+e|social|I use social media every day.|ฉันใช้โซเชียลมีเดียทุกวัน
+e|solitary|He enjoys a solitary walk in the morning.|เขาชอบเดินเล่นคนเดียวตอนเช้า
+e|sore|My throat is sore.|เจ็บคอ
+e|spacious|The room is bright and spacious.|ห้องสว่างและกว้างขวาง
+e|speak|Do you speak English?|คุณพูดภาษาอังกฤษได้ไหม
+e|special|Today is a special day.|วันนี้เป็นวันพิเศษ
+e|species|Many species are in danger.|สัตว์หลายสายพันธุ์ใกล้สูญพันธุ์
+e|specific|Can you be more specific?|ช่วยบอกให้เจาะจงกว่านี้ได้ไหม
+e|spectator|Thousands of spectators watched the match.|ผู้ชมหลายพันคนดูการแข่งขัน
+e|speechless|I was speechless when I saw the gift.|ฉันพูดไม่ออกตอนเห็นของขวัญ
+e|speedy|We wish you a speedy recovery.|ขอให้หายป่วยไว ๆ
+e|spend|I spend too much money on coffee.|ฉันใช้เงินกับกาแฟมากเกินไป
+e|splurge|I splurged on a nice dinner.|ฉันจัดหนักกับมื้อเย็นดี ๆ
+e|spot|I spotted my friend in the crowd.|ฉันเห็นเพื่อนในฝูงชน
+e|spotless|Her house is always spotless.|บ้านเธอสะอาดเอี่ยมเสมอ
+e|sprain|I sprained my ankle yesterday.|เมื่อวานฉันข้อเท้าแพลง
+e|stable|The patient's condition is stable.|อาการของผู้ป่วยทรงตัว
+e|stained|His shirt was stained with coffee.|เสื้อเขาเปื้อนกาแฟ
+e|stand|Please stand in line.|กรุณายืนต่อแถว
+e|stare|It's rude to stare at people.|การจ้องมองคนอื่นเป็นการเสียมารยาท
+e|start|The class starts at nine.|คลาสเริ่มตอนเก้าโมง
+e|startled|The loud noise startled the cat.|เสียงดังทำให้แมวตกใจ
+e|state|Please state your name.|กรุณาแจ้งชื่อของคุณ
+e|statement|The company issued a statement.|บริษัทออกแถลงการณ์
+e|station|The train station is nearby.|สถานีรถไฟอยู่ใกล้ ๆ
+e|statue|There is a statue in the park.|มีรูปปั้นอยู่ในสวน
+e|steady|He has a steady job.|เขามีงานที่มั่นคง
+e|still|I'm still waiting.|ฉันยังรออยู่
+e|sting|A bee stung me.|ผึ้งต่อยฉัน
+e|straightforward|The instructions are straightforward.|คำแนะนำตรงไปตรงมา
+e|strange|I heard a strange noise.|ฉันได้ยินเสียงแปลก ๆ
+e|strenuous|The hike was strenuous.|การเดินป่าครั้งนี้เหนื่อยหนักมาก
+e|stride|He walked with long strides.|เขาเดินก้าวยาว ๆ
+e|strive|We strive to improve every day.|เราพยายามพัฒนาตัวเองทุกวัน
+e|stroll|We went for a stroll on the beach.|เราไปเดินเล่นริมหาด
+e|structure|The structure of the building is strong.|โครงสร้างอาคารแข็งแรง
+e|struggle|He struggled to learn the language.|เขาดิ้นรนกับการเรียนภาษา
+e|stumble|I stumbled on a rock.|ฉันสะดุดหิน
+e|stunned|She was stunned by the news.|เธอช็อกกับข่าวนั้น
+e|stunning|The view was stunning.|วิวงดงามตระการตา
+e|subject|What's your favorite subject?|วิชาที่คุณชอบที่สุดคืออะไร
+e|submarine|The submarine dived deep under the sea.|เรือดำน้ำดำลึกลงใต้ทะเล
+e|submit|Please submit your homework by Friday.|กรุณาส่งการบ้านภายในวันศุกร์
+e|subscribe|Subscribe to our channel for more videos.|กดติดตามช่องของเราเพื่อดูวิดีโอเพิ่ม
+e|subscription|I canceled my subscription.|ฉันยกเลิกการสมัครสมาชิก
+e|substitute|You can substitute butter with oil.|คุณใช้น้ำมันแทนเนยได้
+e|subtitle|I watch movies with English subtitles.|ฉันดูหนังพร้อมซับไตเติลภาษาอังกฤษ
+e|subtract|Subtract five from ten.|เอาสิบลบห้า
+e|suburb|They live in a quiet suburb.|พวกเขาอยู่ชานเมืองที่เงียบสงบ
+e|subway|I take the subway to work.|ฉันนั่งรถไฟใต้ดินไปทำงาน
+e|sudden|There was a sudden change in the weather.|อากาศเปลี่ยนกะทันหัน
+e|suddenly|Suddenly, the lights went out.|ทันใดนั้นไฟก็ดับ
+e|suffer|Many people suffer from allergies.|หลายคนทุกข์จากโรคภูมิแพ้
+e|sufficient|Two hours is sufficient.|สองชั่วโมงก็เพียงพอ
+e|summarize|Can you summarize the story?|ช่วยสรุปเรื่องหน่อยได้ไหม
+e|superb|The food was superb.|อาหารยอดเยี่ยมมาก
+e|supervise|A teacher supervised the students.|ครูคอยดูแลนักเรียน
+e|supply|The hotel supplies free towels.|โรงแรมจัดหาผ้าเช็ดตัวให้ฟรี
+e|support|Thank you for your support.|ขอบคุณสำหรับการสนับสนุน
+e|suppose|I suppose you're right.|ฉันว่าคุณคงพูดถูก
+e|suppress|He tried to suppress a laugh.|เขาพยายามกลั้นหัวเราะ
+e|surge|There was a surge in demand.|ความต้องการพุ่งสูงขึ้นอย่างฉับพลัน
+e|surprised|I was surprised to see her.|ฉันแปลกใจที่เจอเธอ
+e|suspect|I suspect he is lying.|ฉันสงสัยว่าเขากำลังโกหก
+e|suspend|The game was suspended because of rain.|เกมถูกระงับเพราะฝนตก
+e|sustain|The plan will sustain growth.|แผนนี้จะช่วยรักษาการเติบโต
+e|swallow|It hurts when I swallow.|ฉันเจ็บเวลากลืน
+e|swamped|I'm swamped with work this week.|สัปดาห์นี้ฉันงานท่วมหัว
+e|swift|The company made a swift decision.|บริษัทตัดสินใจอย่างรวดเร็ว
+e|switch|Switch off the lights, please.|กรุณาปิดไฟ
+e|symphony|The symphony played for two hours.|วงซิมโฟนีเล่นนานสองชั่วโมง
+e|talk|Can we talk for a minute?|ขอคุยด้วยสักครู่ได้ไหม
+e|teacher|My teacher is very kind.|ครูของฉันใจดีมาก
+e|technology|Technology changes quickly.|เทคโนโลยีเปลี่ยนเร็วมาก
+e|tedious|The paperwork is tedious.|งานเอกสารน่าเบื่อและยืดเยื้อ
+e|telecommunication|He works in the telecommunication industry.|เขาทำงานในอุตสาหกรรมโทรคมนาคม
+e|telegram|He sent a telegram to his family.|เขาส่งโทรเลขถึงครอบครัว
+e|telegraph|The telegraph was invented in the 1800s.|โทรเลขถูกประดิษฐ์ขึ้นในช่วงคริสต์ศตวรรษที่ 19
+e|telepathy|They seem to communicate by telepathy.|พวกเขาดูเหมือนสื่อสารกันด้วยโทรจิต
+e|telephone|The telephone rang twice.|โทรศัพท์ดังสองครั้ง
+e|telescope|We looked at the moon through a telescope.|เรามองดวงจันทร์ผ่านกล้องโทรทรรศน์
+e|television|We watched television all evening.|เราดูโทรทัศน์ตลอดเย็น
+e|tell|Can you tell me the time?|บอกเวลาหน่อยได้ไหม
+e|tendency|He has a tendency to be late.|เขามีแนวโน้มมาสาย
+e|tension|There was tension in the room.|มีความตึงเครียดในห้อง
+e|terminate|They terminated the contract.|พวกเขายกเลิกสัญญา
+e|terrible|I have a terrible headache.|ฉันปวดหัวมาก
+e|terrific|You did a terrific job!|คุณทำได้เยี่ยมมาก
+e|terrified|She was terrified of the dark.|เธอกลัวความมืดสุดขีด
+e|thankful|I'm thankful for my friends.|ฉันขอบคุณที่มีเพื่อน
+e|theory|It's just a theory.|เป็นแค่ทฤษฎี
+e|thermal|We soaked in a thermal spring.|เราแช่น้ำพุร้อน
+e|thermometer|The thermometer shows 38 degrees.|เทอร์โมมิเตอร์ขึ้น 38 องศา
+e|thermostat|Turn down the thermostat, please.|ช่วยปรับเทอร์โมสแตตให้เย็นลงหน่อย
+e|think|I think it's a good idea.|ฉันคิดว่าเป็นความคิดที่ดี
+e|thought|That's a nice thought.|เป็นความคิดที่ดี
+e|thoughtful|It was thoughtful of you to call.|คุณช่างคิดถึงกันที่โทรมา
+e|thrilled|I'm thrilled to be here.|ฉันตื่นเต้นดีใจที่ได้มาที่นี่
+e|throb|My head throbs when I'm tired.|หัวฉันปวดตุบ ๆ เวลาเหนื่อย
+e|tidy|Please keep your desk tidy.|กรุณารักษาโต๊ะให้เป็นระเบียบ
+e|tiny|The room is tiny but cozy.|ห้องเล็กจิ๋วแต่อบอุ่น
+e|tiptoe|She tiptoed past the sleeping baby.|เธอเดินเขย่งผ่านเด็กทารกที่กำลังหลับ
+e|tired|I'm tired after the trip.|ฉันเหนื่อยหลังเดินทาง
+e|touched|I was touched by your letter.|ฉันซาบซึ้งกับจดหมายของคุณ
+e|tough|It was a tough decision.|เป็นการตัดสินใจที่ยาก
+e|tourist|Many tourists visit this temple.|นักท่องเที่ยวหลายคนมาวัดนี้
+e|traction|The idea is gaining traction online.|ไอเดียนี้กำลังได้รับความนิยมมากขึ้นทางออนไลน์
+e|tractor|The farmer drove a tractor.|ชาวนาขับรถแทรกเตอร์
+e|traditional|We had a traditional Thai dinner.|เรากินอาหารเย็นแบบไทยดั้งเดิม
+e|trajectory|The ball followed a curved trajectory.|ลูกบอลเคลื่อนไปตามวิถีโค้ง
+e|tranquil|It's a tranquil place to relax.|เป็นสถานที่สงบเงียบสำหรับพักผ่อน
+e|transaction|The transaction was completed in seconds.|ธุรกรรมเสร็จภายในไม่กี่วินาที
+e|transcript|I need a copy of my transcript.|ฉันต้องการสำเนาใบแสดงผลการเรียน
+e|transfer|I want to transfer money to my friend.|ฉันอยากโอนเงินให้เพื่อน
+e|transform|The app can transform photos into drawings.|แอปนี้เปลี่ยนรูปถ่ายเป็นภาพวาดได้
+e|transition|The transition to a new job was easy.|การเปลี่ยนไปทำงานใหม่ไม่ยาก
+e|translate|Can you translate this sentence?|ช่วยแปลประโยคนี้หน่อยได้ไหม
+e|transmit|The radio transmits music all day.|วิทยุส่งสัญญาณเพลงทั้งวัน
+e|transparent|The bag is made of transparent plastic.|กระเป๋าทำจากพลาสติกใส
+e|transplant|He had a heart transplant.|เขาได้รับการปลูกถ่ายหัวใจ
+e|transport|Public transport is cheap here.|ขนส่งสาธารณะที่นี่ราคาถูก
+e|treasure|They found a hidden treasure.|พวกเขาพบสมบัติที่ซ่อนอยู่
+e|triangle|Draw a triangle on the paper.|วาดสามเหลี่ยมบนกระดาษ
+e|tricky|It's a tricky situation.|เป็นสถานการณ์ที่ยุ่งยาก
+e|trouble|I'm having trouble with my phone.|มือถือของฉันมีปัญหา
+e|trudge|We trudged through the mud.|เราเดินลากเท้าผ่านโคลน
+e|trustworthy|He is honest and trustworthy.|เขาซื่อสัตย์และไว้ใจได้
+e|try|Try this soup. It's delicious!|ลองซุปนี้ดูสิ อร่อยมาก
+e|unable|I'm unable to attend the meeting.|ฉันไม่สามารถเข้าร่วมประชุมได้
+e|uncertain|The future is uncertain.|อนาคตไม่แน่นอน
+e|uncomfortable|This chair is uncomfortable.|เก้าอี้ตัวนี้นั่งไม่สบาย
+e|unconscious|He was unconscious for a few minutes.|เขาหมดสติไปไม่กี่นาที
+e|unconventional|She has an unconventional lifestyle.|เธอมีวิถีชีวิตที่แหวกแนว
+e|underestimate|Don't underestimate the difficulty.|อย่าประเมินความยากต่ำไป
+e|undergo|He will undergo surgery next week.|เขาจะเข้ารับการผ่าตัดสัปดาห์หน้า
+e|underground|The train runs underground.|รถไฟวิ่งใต้ดิน
+e|underline|Underline the key words.|ขีดเส้นใต้คำสำคัญ
+e|understand|I don't understand this word.|ฉันไม่เข้าใจคำนี้
+e|undo|Press Ctrl+Z to undo.|กด Ctrl+Z เพื่อย้อนกลับ
+e|uneasy|I felt uneasy about the trip.|ฉันรู้สึกไม่สบายใจเรื่องการเดินทาง
+e|unfair|It's unfair to blame him.|การโทษเขาไม่ยุติธรรม
+e|unfortunately|Unfortunately, the flight was canceled.|น่าเสียดาย เที่ยวบินถูกยกเลิก
+e|unhappy|She looks unhappy today.|วันนี้เธอดูไม่มีความสุข
+e|uniform|Students must wear a uniform.|นักเรียนต้องใส่เครื่องแบบ
+e|unique|Every person is unique.|ทุกคนมีเอกลักษณ์เฉพาะตัว
+e|unite|The country united against the crisis.|ประเทศรวมกันเป็นหนึ่งเพื่อรับมือวิกฤต
+e|universe|The universe is huge.|จักรวาลกว้างใหญ่มาก
+e|university|She studies at a university in Bangkok.|เธอเรียนที่มหาวิทยาลัยแห่งหนึ่งในกรุงเทพฯ
+e|unknown|The cause is still unknown.|สาเหตุยังไม่ทราบ
+e|unlock|I can't unlock my phone.|ฉันปลดล็อกมือถือไม่ได้
+e|unusual|It's unusual for him to be late.|การที่เขามาสายเป็นเรื่องผิดปกติ
+e|upset|She was upset about the news.|เธอเสียใจกับข่าวนั้น
+e|urge|Doctors urge people to get vaccinated.|หมอกระตุ้นให้ประชาชนไปฉีดวัคซีน
+e|urgent|I have an urgent message for you.|ฉันมีข้อความด่วนถึงคุณ
+e|useful|This app is very useful.|แอปนี้มีประโยชน์มาก
+e|useless|This umbrella is useless in the storm.|ร่มนี้ใช้ไม่ได้ผลเลยตอนพายุ
+e|usually|I usually wake up at six.|ฉันมักตื่นตอนหกโมง
+e|valuable|Your time is valuable.|เวลาของคุณมีค่า
+e|various|We offer various types of coffee.|เรามีกาแฟหลายประเภท
+e|vast|The desert is vast and empty.|ทะเลทรายกว้างใหญ่ว่างเปล่า
+e|venue|The venue for the concert is a big stadium.|สถานที่จัดคอนเสิร์ตคือสนามกีฬาใหญ่
+e|verdict|The jury reached a verdict.|คณะลูกขุนตัดสินคดีแล้ว
+e|versatile|She is a versatile actress.|เธอเป็นนักแสดงที่เล่นได้หลายบทบาท
+e|version|Which version of the app do you use?|คุณใช้แอปเวอร์ชันไหน
+e|video|I watched a funny video.|ฉันดูวิดีโอตลก
+e|view|The hotel has a nice view.|โรงแรมมีวิวสวย
+e|vintage|She loves vintage clothes.|เธอชอบเสื้อผ้าวินเทจ
+e|visible|The mountains are visible from here.|มองเห็นภูเขาได้จากที่นี่
+e|vision|He has poor vision without glasses.|เขาสายตาไม่ดีถ้าไม่ใส่แว่น
+e|visit|I'd like to visit Japan.|ฉันอยากไปเยือนญี่ปุ่น
+e|visitor|We have a visitor.|เรามีแขกมาเยี่ยม
+e|visual|The app has great visual design.|แอปมีการออกแบบภาพที่ยอดเยี่ยม
+e|vital|Water is vital for life.|น้ำจำเป็นอย่างยิ่งต่อชีวิต
+e|vote|Everyone can vote for their favorite.|ทุกคนโหวตให้คนที่ชอบได้
+e|wail|The baby began to wail.|เด็กทารกเริ่มร้องไห้เสียงดัง
+e|walk|Let's go for a walk.|ไปเดินเล่นกันเถอะ
+e|wander|We wandered around the old town.|เราเดินเตร็ดเตร่ไปทั่วเมืองเก่า
+e|want|What do you want to eat?|คุณอยากกินอะไร
+e|warm|It's warm today.|วันนี้อากาศอุ่น
+e|watch|Let's watch a movie.|มาดูหนังกัน
+e|weakness|Patience is his only weakness.|ความอดทนเป็นจุดอ่อนอย่างเดียวของเขา
+e|wealthy|He comes from a wealthy family.|เขามาจากครอบครัวที่มั่งคั่ง
+e|weary|The weary travelers rested under a tree.|นักเดินทางที่เหนื่อยล้านั่งพักใต้ต้นไม้
+e|weep|She wept at the sad news.|เธอร้องไห้กับข่าวร้าย
+e|weird|That's a weird noise.|นั่นเป็นเสียงแปลกจริง ๆ
+e|well-known|He is a well-known author.|เขาเป็นนักเขียนที่มีชื่อเสียง
+e|well-off|They are a well-off family.|พวกเขาเป็นครอบครัวที่มีฐานะ
+e|whimper|The puppy whimpered in its sleep.|ลูกหมาครางเบา ๆ ในขณะหลับ
+e|whisper|Don't whisper. I can't hear you.|อย่ากระซิบ ฉันไม่ได้ยิน
+e|wish|I wish you good luck.|ขอให้คุณโชคดี
+e|wistful|She gave a wistful smile.|เธอยิ้มอย่างโหยหา
+e|witty|He is a witty speaker.|เขาเป็นผู้พูดที่มีไหวพริบ
+e|wonder|I wonder what time it is.|ไม่รู้ว่าตอนนี้กี่โมงแล้ว
+e|wonderful|We had a wonderful time.|เรามีช่วงเวลาที่วิเศษมาก
+e|worker|He is a hard worker.|เขาเป็นคนทำงานหนัก
+e|wrap up|Let's wrap up the meeting.|มาสรุปจบการประชุมกันเถอะ
+e|writer|My mother is a writer.|แม่ของฉันเป็นนักเขียน
+e|yearn|She yearned for her homeland.|เธอโหยหาบ้านเกิด
+e|yell|Don't yell at the children.|อย่าตะโกนใส่เด็ก ๆ
