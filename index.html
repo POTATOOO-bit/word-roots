@@ -78,6 +78,11 @@ body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-botto
 .dd2{padding:0 12px 12px;display:none}
 .de.open .dd2{display:block}
 .go{margin-top:10px;height:32px;padding:0 14px;border-radius:16px;border:1px solid var(--line);background:rgba(255,255,255,.08);color:var(--fg);font-size:13px;cursor:pointer}
+.ex{background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:12px;padding:8px 12px;margin-bottom:4px}
+.exr{display:flex;align-items:center;gap:8px;justify-content:space-between}
+.exe{font-size:15px;line-height:1.5}
+.xw{color:#fbbf24}
+.exth{font-size:13px;color:var(--mut);margin-top:2px}
 </style>
 </head>
 <body>
@@ -131,6 +136,7 @@ function parseInto(text,store){
       }
       continue;
     }
+    if(p[0].trim()==="e"){const w=(p[1]||"").trim().toLowerCase(),en=(p[2]||"").trim();if(w&&en&&!store.ex.has(w))store.ex.set(w,{en,th:(p[3]||"").trim()});continue;}
     if(p[0].trim()==="d"){
       const w=(p[1]||"").trim().toLowerCase();if(!w)continue;
       const cf=(p[2]||"B1").trim().toUpperCase();
@@ -158,7 +164,7 @@ function parseInto(text,store){
 }
 //</parse>
 
-const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map()};
+const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map(),ex:new Map()};
 const state={mode:"graph",dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
 
@@ -207,6 +213,12 @@ document.addEventListener("click",e=>{
   if(b&&b.dataset.w)speak(b.dataset.w,!!b.dataset.slow);
 });
 try{window.speechSynthesis&&window.speechSynthesis.getVoices();}catch(e){}
+function exBlock(w){
+  const x=store.ex.get(w);if(!x)return "";
+  const re=new RegExp("\\b("+w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\w*)","i");
+  const en=esc(x.en).replace(re,'<b class="xw">$1</b>');
+  return `<div class="lv">ตัวอย่างประโยค</div><div class="ex"><div class="exr"><span class="exe">${en}</span><button class="spk" type="button" data-w="${esc(x.en)}" aria-label="ฟังประโยค">🔊</button></div>${x.th?`<div class="exth">${esc(x.th)}</div>`:""}</div>`;
+}
 function pronBlock(w){
   const w2=esc(w);
   return `<div class="dr">${pronHTML(w)}<button class="spk" type="button" data-w="${w2}" aria-label="ฟังเสียง">🔊</button><button class="spk" type="button" data-w="${w2}" data-slow="1" aria-label="ฟังช้า">🐢 ช้า</button></div>`;
@@ -229,6 +241,7 @@ function buildDict(){
 function dictDetail(d){
   let h="";
   if(d.nuance)h+=`<div class="nu">${esc(d.nuance)}</div>`;
+  h+=exBlock(d.word);
   if(d.roots.length)h+=`<div class="lv">รากศัพท์ / Affix</div><div class="tags">${d.roots.map(r=>`<span class="tag" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></span>`).join("")}</div>`;
   h+=synBlock(d.word);
   if(store.words.has(d.word))h+=`<button class="go" type="button" data-go="${esc(d.word)}">ดูในกราฟ 3D →</button>`;
@@ -406,7 +419,7 @@ function renderPanel(n){
   const p=document.getElementById("panel"),c=document.getElementById("pc");
   let h="";
   if(n.type==="word"){
-    h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>${pronBlock(n.word)}
+    h=`<h2>${esc(n.word)}<span class="badge" style="background:${LVC[n.cefr]}">${n.cefr}</span></h2><div class="sub">${esc(n.th)}</div>${pronBlock(n.word)}${exBlock(n.word)}
        <div class="lv">รากศัพท์ / Affix</div><div class="tags">${n.roots.map(r=>`<button class="tag" data-id="${esc(r.id)}" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></button>`).join("")}</div>`+synBlock(n.word);
   }else{
     h=`<h2 style="color:${KC[n.kind]}">${esc(labelOf(n))}</h2><div class="sub">${KL[n.kind]} · ${esc(n.th)} (${esc(n.en)}) · ${n.words.length} คำ</div>${mix(n)}`;
@@ -433,7 +446,7 @@ function openWord(w){
   if(n){select(n,true);return;}
   const it=synItem(w);if(!it)return;
   state.sel=null;if(Graph)refreshStyle();
-  setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${pronBlock(w)}${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
+  setPanel(`<h2>${esc(w)}<span class="badge" style="background:${LVC[it.cefr]}">${it.cefr}</span></h2><div class="sub">${esc(it.th)}</div>${pronBlock(w)}${exBlock(w)}${it.nuance?`<div class="nu">${esc(it.nuance)}</div>`:""}<div class="lv">ยังไม่มีข้อมูลรากศัพท์ของคำนี้ในกราฟ</div>`+synBlock(w));
 }
 function renderCluster(c){
   if(!c)return;
