@@ -1,0 +1,260 @@
+# e|word|ตัวอย่างประโยค|คำแปล  (ชุด 1: ability–cursor)
+e|ability|She has the ability to stay calm under pressure.|เธอมีความสามารถในการใจเย็นภายใต้แรงกดดัน
+e|abrupt|His abrupt reply surprised everyone in the room.|คำตอบห้วน ๆ ของเขาทำให้ทุกคนในห้องแปลกใจ
+e|absorbing|It was an absorbing book, and I read it in one night.|เป็นหนังสือที่ดึงดูดมาก ฉันอ่านจบในคืนเดียว
+e|abstract|Love is an abstract idea that is hard to explain.|ความรักเป็นแนวคิดนามธรรมที่อธิบายยาก
+e|accept|Please accept my apology for being late.|ขอให้รับคำขอโทษของฉันที่มาสาย
+e|accurate|The map is accurate, so we won't get lost.|แผนที่นี้แม่นยำ เราจะไม่หลงทาง
+e|ache|My legs ache after the long hike.|ขาฉันปวดหลังเดินป่านาน
+e|achieve|You can achieve your goals if you work hard.|คุณบรรลุเป้าหมายได้ถ้าตั้งใจทำงาน
+e|acquire|He acquired a taste for spicy food in Thailand.|เขาเริ่มชอบอาหารเผ็ดตอนอยู่เมืองไทย
+e|action|We need to take action before it's too late.|เราต้องลงมือทำก่อนจะสายเกินไป
+e|active|My grandfather is still very active at 80.|คุณตาของฉันยังคล่องแคล่วมากตอนอายุ 80
+e|activity|Swimming is my favorite summer activity.|การว่ายน้ำเป็นกิจกรรมหน้าร้อนที่ฉันชอบ
+e|actor|The actor played a detective in the movie.|นักแสดงคนนั้นรับบทนักสืบในหนัง
+e|adapt|It took me a month to adapt to the new job.|ฉันใช้เวลาหนึ่งเดือนปรับตัวกับงานใหม่
+e|addict|He is a coffee addict and drinks five cups a day.|เขาติดกาแฟและดื่มวันละห้าแก้ว
+e|adjust|Can you adjust the seat? It's too low.|ช่วยปรับเบาะหน่อยได้ไหม ต่ำเกินไป
+e|admire|I admire her courage in speaking up.|ฉันชื่นชมความกล้าของเธอที่ลุกขึ้นพูด
+e|admit|He finally admitted that he made a mistake.|ในที่สุดเขาก็ยอมรับว่าตัวเองผิดพลาด
+e|adorable|Your puppy is absolutely adorable!|ลูกหมาของคุณน่ารักมากจริง ๆ
+e|adore|She adores her little brother.|เธอรักน้องชายมาก
+e|adventure|Backpacking through Asia was a real adventure.|การแบกเป้เที่ยวเอเชียเป็นการผจญภัยจริง ๆ
+e|advertise|They advertise their products on social media.|พวกเขาโฆษณาสินค้าบนโซเชียลมีเดีย
+e|advise|I advise you to book your tickets early.|ฉันแนะนำให้คุณจองตั๋วล่วงหน้า
+e|affect|The weather can affect your mood.|สภาพอากาศส่งผลต่ออารมณ์ได้
+e|affluent|They live in an affluent neighborhood.|พวกเขาอาศัยอยู่ในย่านคนมีฐานะ
+e|afford|I can't afford a new phone right now.|ตอนนี้ฉันซื้อมือถือใหม่ไม่ไหว
+e|affordable|This hotel is clean and affordable.|โรงแรมนี้สะอาดและราคาไม่แพง
+e|afraid|I'm afraid of heights.|ฉันกลัวที่สูง
+e|agreement|We reached an agreement after a long talk.|เราตกลงกันได้หลังคุยกันนาน
+e|aid|The country sent aid to the flood victims.|ประเทศนั้นส่งความช่วยเหลือให้ผู้ประสบอุทกภัย
+e|aim|Our aim is to finish the project by Friday.|เป้าหมายของเราคือทำโปรเจกต์ให้เสร็จก่อนวันศุกร์
+e|airport|We arrived at the airport two hours early.|เรามาถึงสนามบินก่อนเวลาสองชั่วโมง
+e|alone|She likes to travel alone.|เธอชอบเที่ยวคนเดียว
+e|alter|I need to alter these pants; they're too long.|ฉันต้องแก้กางเกงตัวนี้ ยาวไป
+e|amazed|I was amazed by how fast she learned.|ฉันทึ่งที่เธอเรียนรู้ได้เร็วมาก
+e|amusing|He told an amusing story about his dog.|เขาเล่าเรื่องตลกเกี่ยวกับหมาของเขา
+e|analogy|The teacher used an analogy to explain electricity.|ครูใช้การเปรียบเทียบอธิบายเรื่องไฟฟ้า
+e|ancient|We visited an ancient temple in Ayutthaya.|เราไปเที่ยววัดโบราณที่อยุธยา
+e|angry|He was angry because I forgot his birthday.|เขาโกรธเพราะฉันลืมวันเกิดเขา
+e|anniversary|Today is our fifth wedding anniversary.|วันนี้เป็นครบรอบแต่งงานปีที่ห้าของเรา
+e|annoyed|I got annoyed when he kept interrupting me.|ฉันหงุดหงิดที่เขาขัดจังหวะไม่หยุด
+e|answer|Can you answer this question for me?|ช่วยตอบคำถามนี้ให้หน่อยได้ไหม
+e|antibiotic|The doctor gave me an antibiotic for the infection.|หมอให้ยาปฏิชีวนะสำหรับรักษาการติดเชื้อ
+e|anticipate|We anticipate a lot of traffic this weekend.|เราคาดว่ารถจะติดมากในสุดสัปดาห์นี้
+e|antique|She collects antique clocks.|เธอสะสมนาฬิกาโบราณ
+e|antisocial|He felt antisocial after a long week.|เขารู้สึกไม่อยากเจอใครหลังจากสัปดาห์ที่ยาวนาน
+e|anxious|I always feel anxious before an exam.|ฉันรู้สึกกังวลทุกครั้งก่อนสอบ
+e|apartment|They rent a small apartment near the station.|พวกเขาเช่าอพาร์ตเมนต์เล็ก ๆ ใกล้สถานี
+e|apathetic|Many young voters feel apathetic about politics.|ผู้ลงคะแนนรุ่นใหม่หลายคนรู้สึกเฉยเมยต่อการเมือง
+e|apologize|I apologize for the delay.|ขออภัยที่ล่าช้า
+e|apology|He sent me a text of apology.|เขาส่งข้อความขอโทษมาให้ฉัน
+e|appalling|The hotel was in an appalling condition.|โรงแรมอยู่ในสภาพแย่มาก
+e|appendix|The data is listed in the appendix at the end.|ข้อมูลอยู่ในภาคผนวกท้ายเล่ม
+e|application|I submitted my job application yesterday.|ฉันส่งใบสมัครงานเมื่อวาน
+e|apply|You can apply for the scholarship online.|คุณสมัครทุนการศึกษาได้ทางออนไลน์
+e|appoint|They appointed her as the new manager.|พวกเขาแต่งตั้งเธอเป็นผู้จัดการคนใหม่
+e|appreciate|I really appreciate your help.|ฉันขอบคุณความช่วยเหลือของคุณมาก
+e|appreciative|The audience was very appreciative of the show.|ผู้ชมซาบซึ้งกับการแสดงมาก
+e|apprehensive|She felt apprehensive about the interview.|เธอรู้สึกหวั่น ๆ เรื่องการสัมภาษณ์
+e|arduous|It was an arduous climb to the top.|การปีนขึ้นไปบนยอดเป็นเรื่องที่เหนื่อยยากมาก
+e|arrogant|He was too arrogant to ask for help.|เขาหยิ่งเกินกว่าจะขอความช่วยเหลือ
+e|artificial|This drink has no artificial colors.|เครื่องดื่มนี้ไม่มีสีสังเคราะห์
+e|artist|My sister is an artist and sells her paintings.|พี่สาวฉันเป็นศิลปินและขายภาพวาดของเธอ
+e|ashamed|I felt ashamed of how I behaved.|ฉันรู้สึกอายกับสิ่งที่ตัวเองทำ
+e|ask|Don't be afraid to ask questions.|อย่ากลัวที่จะถามคำถาม
+e|aspect|Cost is an important aspect of the decision.|ค่าใช้จ่ายเป็นแง่มุมสำคัญของการตัดสินใจ
+e|aspire|She aspires to become a doctor.|เธอใฝ่ฝันอยากเป็นหมอ
+e|assign|The teacher assigned us a group project.|ครูมอบหมายงานกลุ่มให้เรา
+e|assist|Can I assist you with your bags?|ให้ฉันช่วยถือกระเป๋าไหมคะ
+e|assume|I assumed you already knew about it.|ฉันคิดว่าคุณรู้เรื่องนี้แล้ว
+e|astonished|He was astonished by the low price.|เขาตกใจที่ราคาถูกมาก
+e|attain|It takes years to attain fluency in a language.|ต้องใช้เวลาหลายปีกว่าจะพูดภาษาได้คล่อง
+e|attempt|This is my second attempt to pass the test.|นี่เป็นความพยายามครั้งที่สองที่จะสอบผ่าน
+e|attend|Will you attend the meeting tomorrow?|พรุ่งนี้คุณจะเข้าประชุมไหม
+e|attention|Please pay attention to the instructions.|กรุณาตั้งใจฟังคำแนะนำ
+e|attract|Bright colors attract bees.|สีสดใสดึงดูดผึ้ง
+e|attraction|The temple is a popular tourist attraction.|วัดนี้เป็นแหล่งท่องเที่ยวยอดนิยม
+e|attractive|She has an attractive smile.|เธอมีรอยยิ้มที่ดึงดูดใจ
+e|audible|His voice was barely audible in the noise.|เสียงเขาแทบไม่ได้ยินท่ามกลางความดัง
+e|audience|The audience clapped for five minutes.|ผู้ชมปรบมือเป็นเวลาห้านาที
+e|audio|The audio quality of this video is terrible.|คุณภาพเสียงของวิดีโอนี้แย่มาก
+e|audit|The company has an audit every year.|บริษัทมีการตรวจสอบบัญชีทุกปี
+e|audition|She has an audition for a musical tomorrow.|เธอมีการออดิชันละครเพลงพรุ่งนี้
+e|auditorium|The speech will be held in the school auditorium.|การบรรยายจัดขึ้นที่หอประชุมโรงเรียน
+e|autobiography|I'm reading the autobiography of a famous chef.|ฉันกำลังอ่านอัตชีวประวัติของเชฟชื่อดัง
+e|autograph|Can I have your autograph, please?|ขอลายเซ็นได้ไหมครับ
+e|automatic|The doors are automatic, so just walk up.|ประตูเป็นระบบอัตโนมัติ เดินเข้าไปได้เลย
+e|automobile|The automobile industry is changing fast.|อุตสาหกรรมรถยนต์เปลี่ยนไปเร็วมาก
+e|autonomy|Employees want more autonomy at work.|พนักงานต้องการอิสระในการทำงานมากขึ้น
+e|available|Is this room available tonight?|คืนนี้ห้องนี้ว่างไหม
+e|avenue|The hotel is on Fifth Avenue.|โรงแรมอยู่บนถนนฟิฟท์อเวนิว
+e|award|She won an award for her research.|เธอได้รางวัลจากงานวิจัย
+e|awareness|We need more awareness about plastic waste.|เราต้องสร้างความตระหนักเรื่องขยะพลาสติกมากขึ้น
+e|awful|The food was awful, so we left.|อาหารแย่มาก เราเลยกลับ
+e|back up|Remember to back up your photos regularly.|อย่าลืมสำรองรูปภาพไว้เป็นประจำ
+e|bad|I have bad news.|ฉันมีข่าวร้าย
+e|baffled|I was baffled by the instructions.|ฉันงงกับคำแนะนำนั้นมาก
+e|bankrupt|The company went bankrupt last year.|บริษัทล้มละลายเมื่อปีที่แล้ว
+e|bargain|I got this jacket for half price. What a bargain!|ฉันซื้อแจ็กเก็ตนี้ครึ่งราคา คุ้มมาก
+e|bashful|The bashful boy hid behind his mother.|เด็กชายขี้อายแอบอยู่หลังแม่
+e|bawl|The baby began to bawl in the middle of the night.|ทารกเริ่มร้องไห้จ้าตอนกลางดึก
+e|beam|She beamed with pride at her son's graduation.|เธอยิ้มแป้นด้วยความภูมิใจในพิธีรับปริญญาของลูกชาย
+e|beautiful|What a beautiful view!|วิวสวยจังเลย
+e|beg|The dog begged for food at the table.|หมาขออาหารที่โต๊ะ
+e|begin|Let's begin the lesson.|เริ่มเรียนกันเลย
+e|benefit|Regular exercise has many benefits.|การออกกำลังกายสม่ำเสมอมีประโยชน์มากมาย
+e|bestow|The king bestowed a medal on the soldier.|พระราชาพระราชทานเหรียญแก่ทหารคนนั้น
+e|bewildered|The tourists looked bewildered by the map.|นักท่องเที่ยวดูงุนงงกับแผนที่
+e|bicycle|I ride my bicycle to work every day.|ฉันปั่นจักรยานไปทำงานทุกวัน
+e|big|That's a big problem.|นั่นเป็นปัญหาใหญ่
+e|bilingual|She is bilingual in Thai and English.|เธอพูดได้สองภาษา คือไทยและอังกฤษ
+e|biodiversity|The rainforest has incredible biodiversity.|ป่าฝนมีความหลากหลายทางชีวภาพอย่างน่าทึ่ง
+e|biography|I enjoy reading the biography of great leaders.|ฉันชอบอ่านชีวประวัติของผู้นำที่ยิ่งใหญ่
+e|biological|It's a biological process that takes time.|เป็นกระบวนการทางชีววิทยาที่ใช้เวลา
+e|biology|Biology is my favorite subject.|ชีววิทยาเป็นวิชาที่ฉันชอบที่สุด
+e|bitter|This coffee tastes too bitter.|กาแฟนี้ขมเกินไป
+e|bizarre|I had a bizarre dream last night.|เมื่อคืนฉันฝันแปลกมาก
+e|blissful|We spent a blissful week on the island.|เราใช้เวลาหนึ่งสัปดาห์อย่างเป็นสุขบนเกาะ
+e|blunt|He is blunt, but he's always honest.|เขาพูดตรงมาก แต่ซื่อสัตย์เสมอ
+e|boiling|It's boiling hot today.|วันนี้ร้อนจัดเหมือนต้ม
+e|bold|That was a bold decision.|นั่นเป็นการตัดสินใจที่กล้ามาก
+e|boost|A good breakfast can boost your energy.|อาหารเช้าดี ๆ ช่วยเพิ่มพลังงานได้
+e|bored|I was bored during the whole movie.|ฉันเบื่อตลอดทั้งเรื่อง
+e|brand-new|He bought a brand-new laptop.|เขาซื้อแล็ปท็อปใหม่เอี่ยม
+e|brave|The brave firefighter saved the child.|นักดับเพลิงผู้กล้าหาญช่วยเด็กไว้
+e|broke|I'm broke until payday.|ฉันไม่มีเงินเลยจนกว่าจะเงินเดือนออก
+e|bruise|I got a bruise on my arm from the fall.|ฉันมีรอยช้ำที่แขนจากการล้ม
+e|build|They plan to build a new bridge.|พวกเขาวางแผนสร้างสะพานใหม่
+e|burnt-out|I feel burnt-out after months of overtime.|ฉันรู้สึกหมดไฟหลังทำงานล่วงเวลามาหลายเดือน
+e|business|He runs a small business selling coffee.|เขาทำธุรกิจเล็ก ๆ ขายกาแฟ
+e|busy|I'm busy right now. Can I call you back?|ตอนนี้ฉันไม่ว่าง โทรกลับได้ไหม
+e|buy|I want to buy a gift for my mom.|ฉันอยากซื้อของขวัญให้แม่
+e|cackle|The old woman cackled at the joke.|หญิงชราหัวเราะเสียงแหลมกับมุกตลก
+e|calm|Stay calm and breathe slowly.|ใจเย็น ๆ แล้วหายใจช้า ๆ
+e|can't stand|I can't stand the noise from next door.|ฉันทนเสียงดังจากห้องข้าง ๆ ไม่ได้
+e|candid|Thanks for your candid feedback.|ขอบคุณสำหรับความเห็นที่ตรงไปตรงมา
+e|capable|She is a capable leader.|เธอเป็นผู้นำที่มีความสามารถ
+e|capacity|The stadium has a capacity of 50,000 people.|สนามกีฬามีความจุ 50,000 คน
+e|caption|Write a short caption for the photo.|เขียนคำบรรยายสั้น ๆ ใต้ภาพ
+e|captivating|The singer gave a captivating performance.|นักร้องแสดงได้ตราตรึงใจ
+e|captive|The animals were held captive for years.|สัตว์ถูกจับขังไว้หลายปี
+e|capture|The photo captures the beauty of the sunset.|ภาพนี้จับความงามของพระอาทิตย์ตกได้
+e|careful|Be careful on the wet floor.|ระวังพื้นเปียก
+e|carefully|Read the contract carefully before signing.|อ่านสัญญาให้ละเอียดก่อนเซ็น
+e|careless|A careless mistake cost him the game.|ความผิดพลาดจากความสะเพร่าทำให้เขาแพ้เกม
+e|caring|He is a caring father.|เขาเป็นพ่อที่ใส่ใจลูก
+e|catalogue|I looked through the catalogue for ideas.|ฉันเปิดดูแคตตาล็อกหาไอเดีย
+e|cease|The noise ceased at midnight.|เสียงดังหยุดตอนเที่ยงคืน
+e|celebrated|She is a celebrated author.|เธอเป็นนักเขียนที่มีชื่อเสียง
+e|center|The hotel is in the center of town.|โรงแรมอยู่ใจกลางเมือง
+e|centigrade|The temperature is 30 degrees centigrade.|อุณหภูมิ 30 องศาเซลเซียส
+e|centimeter|The insect is only one centimeter long.|แมลงตัวนี้ยาวแค่หนึ่งเซนติเมตร
+e|central|The hotel has a central location.|โรงแรมอยู่ในทำเลกลางเมือง
+e|century|This building is over a century old.|อาคารนี้มีอายุกว่าร้อยปี
+e|challenge|Learning Chinese is a big challenge for me.|การเรียนภาษาจีนเป็นความท้าทายใหญ่สำหรับฉัน
+e|challenging|It was a challenging but rewarding job.|เป็นงานที่ท้าทายแต่คุ้มค่า
+e|championship|Our team won the championship.|ทีมเราชนะเลิศการแข่งขัน
+e|change|I need to change my flight.|ฉันต้องเปลี่ยนเที่ยวบิน
+e|charming|It's a charming little town.|เป็นเมืองเล็ก ๆ ที่น่าหลงใหล
+e|chat|Let's chat over coffee.|มานั่งคุยกันเพลิน ๆ ตอนกินกาแฟเถอะ
+e|cheap|This restaurant is cheap and tasty.|ร้านนี้ถูกและอร่อย
+e|cheeky|The cheeky kid stuck out his tongue.|เด็กซนแลบลิ้นใส่
+e|cheerful|She's always cheerful in the morning.|เธอร่าเริงทุกเช้า
+e|cherish|I cherish the time I spend with my family.|ฉันถนอมช่วงเวลาที่อยู่กับครอบครัว
+e|chew|Chew your food slowly.|เคี้ยวอาหารช้า ๆ
+e|childhood|I had a happy childhood in the countryside.|ฉันมีวัยเด็กที่มีความสุขในชนบท
+e|chilly|It's a bit chilly tonight. Take a jacket.|คืนนี้ค่อนข้างหนาว เอาแจ็กเก็ตไปด้วย
+e|choose|You can choose any dessert you like.|เลือกของหวานอะไรก็ได้ที่ชอบ
+e|chuckle|He chuckled when he read the message.|เขาหัวเราะเบา ๆ ตอนอ่านข้อความ
+e|clarify|Could you clarify what you mean?|ช่วยอธิบายให้ชัดหน่อยว่าหมายถึงอะไร
+e|clean|Please keep the room clean.|กรุณารักษาห้องให้สะอาด
+e|clueless|I'm clueless about cars.|ฉันไม่รู้เรื่องรถเลย
+e|cold|It's very cold outside.|ข้างนอกหนาวมาก
+e|collect|He collects stamps from different countries.|เขาสะสมแสตมป์จากหลายประเทศ
+e|collection|She has a large collection of books.|เธอมีหนังสือสะสมจำนวนมาก
+e|combine|Combine the flour and eggs in a bowl.|ผสมแป้งกับไข่ในชาม
+e|comfortable|This sofa is really comfortable.|โซฟาตัวนี้นั่งสบายมาก
+e|commence|The ceremony will commence at 9 a.m.|พิธีจะเริ่มเวลา 9 โมงเช้า
+e|commit|He committed himself to learning English every day.|เขาตั้งใจแน่วแน่ที่จะเรียนอังกฤษทุกวัน
+e|committee|The committee will announce its decision on Monday.|คณะกรรมการจะประกาศการตัดสินใจวันจันทร์
+e|communicate|It's easy to communicate online these days.|ทุกวันนี้สื่อสารออนไลน์ได้ง่าย
+e|community|Our community is organizing a clean-up day.|ชุมชนของเรากำลังจัดวันทำความสะอาด
+e|compact|I bought a compact camera for traveling.|ฉันซื้อกล้องขนาดเล็กไว้ใช้เวลาเที่ยว
+e|company|She works for a big technology company.|เธอทำงานให้บริษัทเทคโนโลยีใหญ่
+e|compare|Don't compare yourself with others.|อย่าเอาตัวเองไปเทียบกับคนอื่น
+e|compassionate|A compassionate nurse held her hand.|พยาบาลผู้เห็นอกเห็นใจจับมือเธอไว้
+e|compelling|He made a compelling argument.|เขาให้เหตุผลที่น่าเชื่อมาก
+e|compensation|The airline offered compensation for the delay.|สายการบินเสนอค่าชดเชยสำหรับความล่าช้า
+e|compete|Many companies compete for the same customers.|หลายบริษัทแข่งขันกันเพื่อแย่งลูกค้ากลุ่มเดียวกัน
+e|complain|Customers complained about the slow service.|ลูกค้าบ่นเรื่องบริการช้า
+e|complete|Please complete the form and return it.|กรุณากรอกแบบฟอร์มให้ครบแล้วส่งคืน
+e|complicated|The rules are too complicated.|กฎซับซ้อนเกินไป
+e|component|The battery is the most expensive component.|แบตเตอรี่เป็นชิ้นส่วนที่แพงที่สุด
+e|compose|She composes music for films.|เธอแต่งเพลงให้ภาพยนตร์
+e|composed|He stayed composed during the interview.|เขารักษาความนิ่งได้ตลอดการสัมภาษณ์
+e|compress|Compress the files before sending them.|บีบอัดไฟล์ก่อนส่ง
+e|conceal|He tried to conceal his disappointment.|เขาพยายามปกปิดความผิดหวัง
+e|conceive|I can't conceive how she did it alone.|ฉันนึกไม่ออกว่าเธอทำคนเดียวได้อย่างไร
+e|concentrate|It's hard to concentrate with all this noise.|ตั้งสมาธิยากเพราะเสียงดังขนาดนี้
+e|concept|The concept is simple but powerful.|แนวคิดนี้เรียบง่ายแต่ทรงพลัง
+e|conclude|The study concluded that sleep improves memory.|งานวิจัยสรุปว่าการนอนช่วยเพิ่มความจำ
+e|concurrent|Two concurrent events made travel difficult.|เหตุการณ์สองอย่างที่เกิดพร้อมกันทำให้เดินทางลำบาก
+e|condescending|His condescending tone annoyed me.|น้ำเสียงดูถูกของเขาทำให้ฉันหงุดหงิด
+e|conduct|They conducted a survey of 500 students.|พวกเขาทำแบบสำรวจนักเรียน 500 คน
+e|conference|She gave a talk at an international conference.|เธอบรรยายในการประชุมนานาชาติ
+e|conform|Employees must conform to the dress code.|พนักงานต้องปฏิบัติตามระเบียบการแต่งกาย
+e|confused|I'm confused. Can you explain again?|ฉันงง ช่วยอธิบายอีกครั้งได้ไหม
+e|connect|Connect your phone to the Wi-Fi.|เชื่อมต่อมือถือกับ Wi-Fi
+e|conscience|I have a clear conscience.|ฉันสบายใจ ไม่มีอะไรผิด
+e|conscious|He was conscious of everyone watching him.|เขารู้สึกตัวว่าทุกคนกำลังมองอยู่
+e|consent|You need your parents' consent to join.|คุณต้องได้รับความยินยอมจากพ่อแม่จึงจะเข้าร่วมได้
+e|conservation|Wildlife conservation is very important.|การอนุรักษ์สัตว์ป่าเป็นเรื่องสำคัญมาก
+e|consider|Please consider my offer.|กรุณาพิจารณาข้อเสนอของฉัน
+e|considerate|He is considerate and always asks if you're okay.|เขาเป็นคนเกรงใจและถามไถ่เสมอว่าคุณโอเคไหม
+e|consist|The team consists of five members.|ทีมประกอบด้วยสมาชิกห้าคน
+e|constant|The constant noise gave me a headache.|เสียงดังไม่หยุดทำให้ฉันปวดหัว
+e|construct|They plan to construct a new airport.|พวกเขาวางแผนก่อสร้างสนามบินใหม่
+e|contain|This box contains old photos.|กล่องนี้มีรูปเก่า ๆ อยู่
+e|container|Put the leftovers in a plastic container.|ใส่อาหารที่เหลือในกล่องพลาสติก
+e|contemplate|She contemplated moving to another city.|เธอครุ่นคิดเรื่องย้ายไปอยู่อีกเมือง
+e|content|The content of the video is very useful.|เนื้อหาของวิดีโอนี้มีประโยชน์มาก
+e|continue|Please continue with your story.|เล่าเรื่องของคุณต่อเลย
+e|continuous|There was a continuous noise from the street.|มีเสียงดังต่อเนื่องจากถนน
+e|contract|I signed a one-year contract.|ฉันเซ็นสัญญาหนึ่งปี
+e|contradict|His actions contradict his words.|การกระทำของเขาขัดแย้งกับคำพูด
+e|contribute|Everyone should contribute some ideas.|ทุกคนควรช่วยเสนอความคิดเห็นบ้าง
+e|controversy|The decision caused a lot of controversy.|การตัดสินใจนี้ก่อให้เกิดข้อถกเถียงมากมาย
+e|convenient|The hotel is convenient for the airport.|โรงแรมสะดวกต่อการไปสนามบิน
+e|convention|The tech convention attracts thousands of visitors.|งานประชุมใหญ่ด้านเทคโนโลยีดึงดูดผู้เข้าชมหลายพัน
+e|conversation|We had a long conversation about travel.|เราคุยกันยาวเรื่องการเดินทาง
+e|convert|Can you convert this file to PDF?|ช่วยแปลงไฟล์นี้เป็น PDF ได้ไหม
+e|cool|The evening air feels nice and cool.|อากาศตอนเย็นรู้สึกเย็นสบาย
+e|cooperate|The two companies agreed to cooperate.|สองบริษัทตกลงร่วมมือกัน
+e|corrupt|The corrupt official took bribes.|เจ้าหน้าที่ทุจริตรับสินบน
+e|costly|A small mistake can be costly.|ความผิดพลาดเล็กน้อยอาจเสียหายหนัก
+e|courageous|It was a courageous decision to quit.|การลาออกเป็นการตัดสินใจที่กล้าหาญ
+e|course|I'm taking an English course.|ฉันเรียนคอร์สภาษาอังกฤษอยู่
+e|cover up|He tried to cover up his mistake.|เขาพยายามปกปิดความผิดพลาดของตัวเอง
+e|craft|She sells handmade crafts at the market.|เธอขายงานฝีมือที่ตลาด
+e|cramp|I got a cramp in my leg while swimming.|ฉันเป็นตะคริวที่ขาตอนว่ายน้ำ
+e|crave|I always crave sweets in the afternoon.|ฉันอยากกินของหวานทุกบ่าย
+e|create|Artists create new things every day.|ศิลปินสร้างสรรค์สิ่งใหม่ทุกวัน
+e|creative|He has a creative way of solving problems.|เขามีวิธีแก้ปัญหาอย่างสร้างสรรค์
+e|creativity|The job requires a lot of creativity.|งานนี้ต้องการความคิดสร้างสรรค์มาก
+e|credential|She has the credentials to teach English.|เธอมีคุณวุฒิสอนภาษาอังกฤษ
+e|credible|The report comes from a credible source.|รายงานนี้มาจากแหล่งที่น่าเชื่อถือ
+e|credit|Can I pay by credit card?|จ่ายด้วยบัตรเครดิตได้ไหม
+e|creditor|The creditors demanded payment.|เจ้าหนี้เรียกร้องให้ชำระเงิน
+e|crisis|The country is facing an economic crisis.|ประเทศกำลังเผชิญวิกฤตเศรษฐกิจ
+e|critical|Sleep is critical for good health.|การนอนมีความสำคัญยิ่งต่อสุขภาพที่ดี
+e|crucial|The next meeting is crucial for our plan.|การประชุมครั้งหน้าสำคัญมากต่อแผนของเรา
+e|cry|The baby began to cry.|ทารกเริ่มร้องไห้
+e|cultural|Thailand has a rich cultural heritage.|ประเทศไทยมีมรดกทางวัฒนธรรมอันร่ำรวย
+e|curator|The curator showed us around the museum.|ภัณฑารักษ์พาเราเดินชมพิพิธภัณฑ์
+e|cure|Scientists are searching for a cure.|นักวิทยาศาสตร์กำลังค้นหาวิธีรักษา
+e|curious|Children are naturally curious.|เด็ก ๆ ช่างสงสัยโดยธรรมชาติ
+e|currency|What currency do they use in Japan?|ญี่ปุ่นใช้สกุลเงินอะไร
+e|current|The current price is 500 baht.|ราคาปัจจุบันคือ 500 บาท
+e|cursor|Move the cursor to the top of the page.|เลื่อนเคอร์เซอร์ไปที่ด้านบนของหน้า
