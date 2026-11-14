@@ -1,4 +1,4 @@
-const V='wr-v1',CDN='wr-cdn-v1';
+const V='wr-v2',CDN='wr-cdn-v1';
 const SHELL=['./','index.html','manifest.webmanifest','icon-192.png','apple-touch-icon.png','data/manifest.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==V&&k!==CDN).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
