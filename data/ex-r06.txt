@@ -1,0 +1,500 @@
+e|dimension|Measure the dimensions of the box.|วัดขนาดของกล่อง
+e|dine|We dined at a nice restaurant.|เรากินอาหารที่ร้านดี ๆ
+e|dip|Dip the bread in the soup.|จุ่มขนมปังในซุป
+e|diploma|She has a diploma in design.|เธอมีประกาศนียบัตรด้านการออกแบบ
+e|diplomat|The diplomat spoke three languages.|นักการทูตพูดได้สามภาษา
+e|directory|Look in the phone directory.|ดูในสมุดโทรศัพท์
+e|disagreement|We had a small disagreement.|เรามีความเห็นไม่ตรงกันเล็กน้อย
+e|disappearance|Her disappearance shocked everyone.|การหายตัวไปของเธอทำให้ทุกคนตกใจ
+e|disappointing|The film was disappointing.|หนังน่าผิดหวัง
+e|disappointment|He hid his disappointment.|เขาซ่อนความผิดหวัง
+e|disapproval|She shook her head in disapproval.|เธอส่ายหน้าไม่เห็นด้วย
+e|disapprove|My parents disapprove of my plan.|พ่อแม่ไม่เห็นด้วยกับแผนของฉัน
+e|disastrous|The trip was disastrous.|ทริปนี้แย่มาก
+e|disc|Insert the disc.|ใส่แผ่นดิสก์
+e|discipline|The army teaches discipline.|กองทัพสอนเรื่องวินัย
+e|discount|Do you have a student discount?|มีส่วนลดนักเรียนไหม
+e|discourage|Don't let it discourage you.|อย่าปล่อยให้มันทำให้ท้อ
+e|discouraged|He felt discouraged after failing.|เขาท้อแท้หลังพลาด
+e|discovery|It was an amazing discovery.|เป็นการค้นพบที่น่าทึ่ง
+e|discrimination|Discrimination is illegal.|การเลือกปฏิบัติผิดกฎหมาย
+e|disgusted|I was disgusted by the smell.|ฉันรังเกียจกลิ่นนั้น
+e|dishwasher|Put the plates in the dishwasher.|เอาจานใส่เครื่องล้างจาน
+e|disk|The hard disk is full.|ฮาร์ดดิสก์เต็ม
+e|dismissal|His dismissal was unfair.|การไล่เขาออกไม่เป็นธรรม
+e|disobey|Children sometimes disobey.|บางครั้งเด็กก็ไม่เชื่อฟัง
+e|dispute|They had a dispute over money.|พวกเขาทะเลาะกันเรื่องเงิน
+e|disruption|Snow caused major disruption.|หิมะทำให้เกิดการหยุดชะงักมาก
+e|dissolve|Sugar dissolves in water.|น้ำตาลละลายในน้ำ
+e|distant|I heard a distant sound.|ฉันได้ยินเสียงไกล ๆ
+e|distinct|There are two distinct groups.|มีสองกลุ่มที่แตกต่างกันชัดเจน
+e|distinction|Make a distinction between the two.|แยกความแตกต่างระหว่างสองอย่างนี้
+e|distinctive|She has a distinctive voice.|เธอมีเสียงที่โดดเด่น
+e|distinguish|Can you distinguish the twins?|คุณแยกแฝดสองคนออกไหม
+e|distinguished|He is a distinguished writer.|เขาเป็นนักเขียนที่เป็นที่ยกย่อง
+e|distress|She was in great distress.|เธอทุกข์ใจมาก
+e|distribute|They distributed free food.|พวกเขาแจกอาหารฟรี
+e|distribution|The distribution begins at noon.|การแจกจ่ายเริ่มตอนเที่ยง
+e|distributor|He is a film distributor.|เขาเป็นผู้จัดจำหน่ายภาพยนตร์
+e|disturb|Don't disturb him.|อย่ารบกวนเขา
+e|disturbing|The news is disturbing.|ข่าวนี้น่ากังวล
+e|ditch|The car fell into a ditch.|รถตกคูน้ำ
+e|dive|We dived to see the fish.|เราดำน้ำดูปลา
+e|diver|The diver found a shipwreck.|นักดำน้ำเจอซากเรือ
+e|diversity|We value diversity.|เราให้คุณค่ากับความหลากหลาย
+e|divine|The food was divine.|อาหารอร่อยเหลือเกิน
+e|dizzy|I feel dizzy.|ฉันรู้สึกเวียนหัว
+e|dock|The ship is at the dock.|เรืออยู่ที่ท่าเทียบ
+e|documentary|I watched a nature documentary.|ฉันดูสารคดีธรรมชาติ
+e|dolphin|A dolphin jumped out of the water.|โลมากระโดดขึ้นจากน้ำ
+e|dome|The building has a large dome.|อาคารมีโดมใหญ่
+e|domestic|We took a domestic flight.|เราขึ้นเที่ยวบินในประเทศ
+e|dominant|English is a dominant language.|ภาษาอังกฤษเป็นภาษาหลัก
+e|dominate|One team dominated the game.|ทีมหนึ่งครองเกม
+e|domination|They fought against domination.|พวกเขาต่อสู้กับการครอบงำ
+e|donation|Thank you for your donation.|ขอบคุณสำหรับการบริจาค
+e|doorway|He stood in the doorway.|เขายืนอยู่ที่ช่องประตู
+e|dose|Take one dose a day.|กินยาวันละหนึ่งครั้ง
+e|doubtful|I'm doubtful about the plan.|ฉันสงสัยแผนนี้
+e|downwards|The path leads downwards.|ทางนี้นำลงไปข้างล่าง
+e|draft|This is only a first draft.|นี่เป็นแค่ร่างแรก
+e|dragon|The dragon breathed fire.|มังกรพ่นไฟ
+e|drain|The drain is blocked.|ท่อระบายน้ำตัน
+e|dramatic|There was a dramatic change.|มีการเปลี่ยนแปลงอย่างมาก
+e|dramatically|Prices rose dramatically.|ราคาเพิ่มขึ้นอย่างมาก
+e|dressing|Add some dressing to the salad.|ใส่น้ำสลัดในสลัด
+e|dried|We bought dried fruit.|เราซื้อผลไม้แห้ง
+e|drift|The boat drifted away.|เรือลอยไป
+e|drill|He used a drill to make a hole.|เขาใช้สว่านเจาะรู
+e|drip|The tap is dripping.|ก๊อกน้ำหยด
+e|driveway|Park in the driveway.|จอดที่ทางเข้าบ้าน
+e|drought|The drought lasted months.|ภัยแล้งยาวหลายเดือน
+e|drown|He nearly drowned.|เขาเกือบจมน้ำ
+e|drunk|He was drunk and loud.|เขาเมาและเสียงดัง
+e|dryer|Put the clothes in the dryer.|เอาเสื้อผ้าใส่เครื่องอบ
+e|dumb|That was a dumb idea.|นั่นเป็นความคิดโง่ ๆ
+e|dusty|The shelf is dusty.|ชั้นวางเต็มไปด้วยฝุ่น
+e|duvet|I need a warm duvet.|ฉันอยากได้ผ้านวมอุ่น ๆ
+e|dye|She dyed her hair red.|เธอย้อมผมสีแดง
+e|dynamic|He is a dynamic leader.|เขาเป็นผู้นำที่มีพลัง
+e|eagle|An eagle flew over us.|นกอินทรีบินผ่านเรา
+e|earache|My son has an earache.|ลูกชายฉันปวดหู
+e|earnings|His earnings have increased.|รายได้ของเขาเพิ่มขึ้น
+e|earthquake|There was an earthquake last night.|เมื่อคืนมีแผ่นดินไหว
+e|ease|He passed the test with ease.|เขาสอบผ่านได้อย่างง่ายดาย
+e|easter|We eat chocolate eggs at Easter.|เรากินไข่ช็อกโกแลตวันอีสเตอร์
+e|echo|I heard an echo in the cave.|ฉันได้ยินเสียงสะท้อนในถ้ำ
+e|ecological|It's an ecological problem.|เป็นปัญหาทางนิเวศวิทยา
+e|economically|The country is economically strong.|ประเทศแข็งแกร่งทางเศรษฐกิจ
+e|economics|She studies economics.|เธอเรียนเศรษฐศาสตร์
+e|economist|The economist warned about prices.|นักเศรษฐศาสตร์เตือนเรื่องราคา
+e|edit|Edit the photo before sending.|แก้ไขรูปก่อนส่ง
+e|edition|This is the second edition.|นี่เป็นฉบับพิมพ์ครั้งที่สอง
+e|editor|The editor checked my article.|บรรณาธิการตรวจบทความของฉัน
+e|educated|She is a well-educated woman.|เธอเป็นผู้หญิงที่มีการศึกษาดี
+e|educational|It's an educational game.|เป็นเกมเพื่อการศึกษา
+e|efficiency|We need more efficiency.|เราต้องการประสิทธิภาพมากกว่านี้
+e|elaborate|She made an elaborate plan.|เธอวางแผนอย่างละเอียด
+e|elbow|I hurt my elbow.|ฉันเจ็บศอก
+e|elder|My elder sister is a doctor.|พี่สาวฉันเป็นหมอ
+e|eldest|He is the eldest child.|เขาเป็นลูกคนโต
+e|electrical|There's an electrical fault.|มีไฟฟ้าขัดข้อง
+e|electrician|Call an electrician.|เรียกช่างไฟ
+e|electronics|He works in electronics.|เขาทำงานด้านอิเล็กทรอนิกส์
+e|elementary|She teaches elementary school.|เธอสอนระดับประถม
+e|elimination|The elimination of waste is key.|การกำจัดของเสียเป็นกุญแจสำคัญ
+e|embarrass|Don't embarrass me.|อย่าทำให้ฉันอาย
+e|embarrassment|He blushed with embarrassment.|เขาหน้าแดงด้วยความอาย
+e|embassy|The embassy is in the city centre.|สถานทูตอยู่กลางเมือง
+e|emperor|The emperor lived in a palace.|จักรพรรดิประทับในพระราชวัง
+e|emphasis|The teacher put emphasis on grammar.|ครูเน้นเรื่องไวยากรณ์
+e|emphasize|I want to emphasize this point.|ฉันอยากเน้นประเด็นนี้
+e|empire|The empire was huge.|จักรวรรดิกว้างใหญ่
+e|enclose|Please enclose a photo.|กรุณาแนบรูปถ่าย
+e|encounter|I encountered a problem.|ฉันเจอปัญหา
+e|encouragement|Thanks for your encouragement.|ขอบคุณสำหรับกำลังใจ
+e|encouraging|The results are encouraging.|ผลลัพธ์น่าพอใจ
+e|ending|The film has a sad ending.|หนังมีตอนจบที่เศร้า
+e|endless|The road seemed endless.|ถนนเหมือนไม่มีที่สิ้นสุด
+e|energetic|She is an energetic teacher.|เธอเป็นครูที่กระฉับกระเฉง
+e|engaged|They are engaged to be married.|พวกเขาหมั้นกันแล้ว
+e|engagement|They announced their engagement.|พวกเขาประกาศหมั้น
+e|engineering|He studies engineering.|เขาเรียนวิศวกรรม
+e|enhance|This will enhance your skills.|สิ่งนี้จะยกระดับทักษะของคุณ
+e|enjoyable|It was an enjoyable evening.|เป็นค่ำคืนที่สนุก
+e|enjoyment|Reading gives me great enjoyment.|การอ่านทำให้ฉันเพลิดเพลินมาก
+e|enterprise|It's a small enterprise.|เป็นกิจการเล็ก ๆ
+e|enthusiasm|She showed great enthusiasm.|เธอแสดงความกระตือรือร้นมาก
+e|entitle|This ticket entitles you to a drink.|ตั๋วนี้ให้สิทธิ์รับเครื่องดื่ม
+e|envy|I felt envy when I saw her car.|ฉันอิจฉาเมื่อเห็นรถของเธอ
+e|epidemic|The epidemic spread quickly.|โรคระบาดแพร่เร็ว
+e|episode|I watched the last episode.|ฉันดูตอนสุดท้าย
+e|equality|They fight for equality.|พวกเขาต่อสู้เพื่อความเท่าเทียม
+e|equally|Share it equally.|แบ่งให้เท่า ๆ กัน
+e|equation|Solve the equation.|แก้สมการ
+e|equip|The room is equipped with a TV.|ห้องมีทีวีติดตั้งไว้
+e|equivalent|One mile is equivalent to 1.6 km.|หนึ่งไมล์เท่ากับ 1.6 กม.
+e|era|It was a different era.|เป็นคนละยุคสมัย
+e|erase|Erase the board.|ลบกระดาน
+e|erect|They erected a statue.|พวกเขาสร้างรูปปั้น
+e|escalator|Take the escalator.|ใช้บันไดเลื่อน
+e|essence|That's the essence of the story.|นั่นคือสาระสำคัญของเรื่อง
+e|essentially|It's essentially the same.|โดยพื้นฐานแล้วก็เหมือนกัน
+e|established|It's a well-established company.|เป็นบริษัทที่ก่อตั้งมานาน
+e|establishment|It's a famous educational establishment.|เป็นสถาบันการศึกษาที่มีชื่อเสียง
+e|estate|He owns a large estate.|เขามีที่ดินผืนใหญ่
+e|estimate|Can you estimate the cost?|คุณประเมินค่าใช้จ่ายได้ไหม
+e|eternal|They promised eternal love.|พวกเขาสัญญาว่าจะรักกันตลอดไป
+e|ethic|He has a strong work ethic.|เขามีจริยธรรมในการทำงานสูง
+e|ethical|It's not ethical to lie.|การโกหกไม่ถูกหลักจริยธรรม
+e|ethnic|The city has many ethnic groups.|เมืองนี้มีหลายกลุ่มชาติพันธุ์
+e|eventual|The eventual winner was Tom.|ผู้ชนะในที่สุดคือทอม
+e|everyday|This is an everyday word.|นี่เป็นคำที่ใช้ทุกวัน
+e|evident|It was evident he was lying.|เห็นได้ชัดว่าเขาโกหก
+e|evidently|He was evidently tired.|เห็นได้ชัดว่าเขาเหนื่อย
+e|evil|The villain was evil.|ตัวร้ายชั่วร้าย
+e|exaggerate|Don't exaggerate.|อย่าพูดเกินจริง
+e|exaggeration|That's an exaggeration.|นั่นพูดเกินจริงไป
+e|examination|He had a medical examination.|เขาตรวจร่างกาย
+e|exceed|Don't exceed the speed limit.|อย่าขับเกินความเร็วที่กำหนด
+e|excellence|They strive for excellence.|พวกเขามุ่งสู่ความเป็นเลิศ
+e|exceptional|She has exceptional talent.|เธอมีพรสวรรค์ยอดเยี่ยม
+e|excess|Remove the excess water.|เอาน้ำส่วนเกินออก
+e|excessive|The price is excessive.|ราคาแพงเกินไป
+e|excite|The news excited everyone.|ข่าวนี้ทำให้ทุกคนตื่นเต้น
+e|excitement|The kids jumped with excitement.|เด็ก ๆ กระโดดด้วยความตื่นเต้น
+e|executive|He is a company executive.|เขาเป็นผู้บริหารบริษัท
+e|exhausting|It was an exhausting day.|เป็นวันที่เหนื่อยมาก
+e|existence|Do you believe in the existence of ghosts?|คุณเชื่อในการมีอยู่ของผีไหม
+e|existing|Use the existing system.|ใช้ระบบที่มีอยู่
+e|exotic|She likes exotic fruit.|เธอชอบผลไม้แปลกตา
+e|expansion|The company plans an expansion.|บริษัทวางแผนขยายกิจการ
+e|expectation|It met my expectations.|เป็นไปตามที่ฉันคาดหวัง
+e|expedition|They went on an expedition.|พวกเขาไปเดินทางสำรวจ
+e|experienced|He is an experienced driver.|เขาเป็นคนขับรถที่มีประสบการณ์
+e|experimental|It's still experimental.|ยังอยู่ในขั้นทดลอง
+e|expertise|We need your expertise.|เราต้องการความเชี่ยวชาญของคุณ
+e|expire|My passport expires in May.|หนังสือเดินทางฉันหมดอายุเดือนพฤษภาคม
+e|exploration|Space exploration is exciting.|การสำรวจอวกาศน่าตื่นเต้น
+e|extension|I asked for an extension.|ฉันขอขยายเวลา
+e|exterior|The exterior of the house is white.|ภายนอกบ้านเป็นสีขาว
+e|external|Use an external hard drive.|ใช้ฮาร์ดไดรฟ์ภายนอก
+e|extinct|Dinosaurs are extinct.|ไดโนเสาร์สูญพันธุ์แล้ว
+e|extraordinary|She has extraordinary talent.|เธอมีพรสวรรค์เหนือธรรมดา
+e|extravagant|It was an extravagant party.|เป็นปาร์ตี้ที่หรูหราฟุ่มเฟือย
+e|extreme|Extreme heat is dangerous.|ความร้อนจัดอันตราย
+e|eyebrow|She raised an eyebrow.|เธอเลิกคิ้ว
+e|eyelid|He closed his eyelids.|เขาหลับเปลือกตา
+e|fabric|This fabric is very soft.|ผ้านี้นุ่มมาก
+e|fabulous|You look fabulous!|คุณดูสวยมาก
+e|fade|The colour faded in the sun.|สีซีดลงเพราะแดด
+e|faint|I feel faint.|ฉันรู้สึกจะเป็นลม
+e|fairness|We believe in fairness.|เราเชื่อในความยุติธรรม
+e|fairy|The story is about a fairy.|เรื่องนี้เกี่ยวกับนางฟ้า
+e|faithful|Dogs are faithful.|สุนัขซื่อสัตย์
+e|fake|This bag is fake.|กระเป๋าใบนี้ของปลอม
+e|fame|He achieved fame early.|เขาโด่งดังตั้งแต่อายุน้อย
+e|familiar|His face looks familiar.|หน้าเขาดูคุ้น ๆ
+e|fancy|It's a fancy restaurant.|เป็นร้านอาหารหรู
+e|fantasy|I love fantasy novels.|ฉันชอบนิยายแฟนตาซี
+e|fare|The bus fare is 20 baht.|ค่ารถบัสยี่สิบบาท
+e|farming|Farming is hard work.|การเกษตรเป็นงานหนัก
+e|fascinate|Space fascinates me.|อวกาศทำให้ฉันหลงใหล
+e|fascinated|The kids were fascinated.|เด็ก ๆ หลงใหล
+e|fasten|Fasten your seat belt.|คาดเข็มขัดนิรภัย
+e|fatal|It was a fatal mistake.|เป็นความผิดพลาดที่ถึงแก่ชีวิต
+e|father-in-law|My father-in-law is a farmer.|พ่อตาฉันเป็นชาวนา
+e|faucet|Turn off the faucet.|ปิดก๊อกน้ำ
+e|feather|The bird lost a feather.|นกทำขนหลุดหนึ่งเส้น
+e|feedback|Thanks for your feedback.|ขอบคุณสำหรับความคิดเห็น
+e|fellow|He helped his fellow students.|เขาช่วยเพื่อนนักเรียน
+e|ferry|We took a ferry to the island.|เรานั่งเรือข้ามฟากไปเกาะ
+e|fever|The child has a fever.|เด็กมีไข้
+e|fibre|Eat food with a lot of fibre.|กินอาหารที่มีใยอาหารมาก
+e|fiction|I prefer fiction to non-fiction.|ฉันชอบนิยายมากกว่าสารคดี
+e|fierce|The dog looked fierce.|สุนัขดูดุร้าย
+e|fiercely|They fought fiercely.|พวกเขาต่อสู้อย่างดุเดือด
+e|fighter|He is a brave fighter.|เขาเป็นนักสู้ที่กล้าหาญ
+e|fighting|There was fighting in the street.|มีการต่อสู้กันบนถนน
+e|filter|Change the water filter.|เปลี่ยนไส้กรองน้ำ
+e|finance|She works in finance.|เธอทำงานด้านการเงิน
+e|finding|The research findings are clear.|ผลการวิจัยชัดเจน
+e|finely|Chop the onions finely.|สับหัวหอมให้ละเอียด
+e|fingernail|Cut your fingernails.|ตัดเล็บมือ
+e|firework|We watched the fireworks.|เราดูดอกไม้ไฟ
+e|firstly|Firstly, thank you for coming.|ประการแรก ขอบคุณที่มา
+e|fisherman|The fisherman caught a big fish.|ชาวประมงจับปลาตัวใหญ่
+e|fist|He held up his fist.|เขายกกำปั้นขึ้น
+e|fixed|There is a fixed price.|มีราคาตายตัว
+e|flame|The flame went out.|เปลวไฟดับ
+e|flash|The camera flash was bright.|แฟลชกล้องสว่างจ้า
+e|flashlight|Bring a flashlight.|เอาไฟฉายไปด้วย
+e|flee|People fled the fire.|ผู้คนหนีไฟ
+e|fleet|The fleet sailed at dawn.|กองเรือออกเดินทางตอนรุ่งเช้า
+e|flesh|The knife cut into the flesh.|มีดฝังเข้าไปในเนื้อ
+e|fling|He flung the door open.|เขาผลักประตูเปิดออกอย่างแรง
+e|flock|A flock of birds flew by.|ฝูงนกบินผ่าน
+e|flood|The flood destroyed many homes.|น้ำท่วมทำลายบ้านหลายหลัง
+e|fluent|She is fluent in French.|เธอพูดฝรั่งเศสคล่อง
+e|fluid|Drink plenty of fluids.|ดื่มของเหลวมาก ๆ
+e|flute|She plays the flute.|เธอเล่นฟลุต
+e|focus|Focus on your work.|โฟกัสกับงานของคุณ
+e|fold|Fold the paper in half.|พับกระดาษครึ่ง
+e|follower|She has many followers online.|เธอมีผู้ติดตามออนไลน์เยอะ
+e|fond|I'm fond of animals.|ฉันชอบสัตว์
+e|fool|Don't be a fool.|อย่าทำตัวโง่
+e|foolish|It was a foolish thing to do.|เป็นเรื่องโง่ที่ทำไป
+e|footpath|Follow the footpath.|เดินตามทางเดินเท้า
+e|footstep|I heard footsteps.|ฉันได้ยินเสียงฝีเท้า
+e|forbid|Smoking is forbidden here.|ที่นี่ห้ามสูบบุหรี่
+e|forecast|Check the weather forecast.|ดูพยากรณ์อากาศ
+e|forehead|He wiped his forehead.|เขาเช็ดหน้าผาก
+e|forge|He forged a signature.|เขาปลอมลายเซ็น
+e|forgive|Please forgive me.|ได้โปรดให้อภัยฉัน
+e|formally|He was formally introduced.|เขาได้รับการแนะนำอย่างเป็นทางการ
+e|formation|Look at the rock formation.|ดูหินที่ก่อตัวนั้น
+e|formerly|He was formerly a teacher.|เขาเคยเป็นครูมาก่อน
+e|fort|They visited the old fort.|พวกเขาไปเยี่ยมป้อมเก่า
+e|fortnight|We'll be away for a fortnight.|เราจะไปสองสัปดาห์
+e|fortunate|We were fortunate to win.|เราโชคดีที่ชนะ
+e|fortunately|Fortunately, nobody was hurt.|โชคดีที่ไม่มีใครบาดเจ็บ
+e|fortune|He made a fortune.|เขาร่ำรวยมหาศาล
+e|fossil|They found a dinosaur fossil.|พวกเขาพบฟอสซิลไดโนเสาร์
+e|foul|There was a foul smell.|มีกลิ่นเหม็น
+e|found|He founded the company in 2010.|เขาก่อตั้งบริษัทในปี 2010
+e|foundation|Trust is the foundation of friendship.|ความไว้ใจคือรากฐานของมิตรภาพ
+e|fox|A fox ran across the road.|สุนัขจิ้งจอกวิ่งข้ามถนน
+e|fraction|A half is a fraction.|หนึ่งส่วนสองเป็นเศษส่วน
+e|fragile|Careful, it's fragile.|ระวัง มันแตกง่าย
+e|fragment|He picked up a glass fragment.|เขาเก็บเศษแก้ว
+e|framework|We need a clear framework.|เราต้องการกรอบที่ชัดเจน
+e|frankly|Frankly, I don't like it.|พูดตรง ๆ ฉันไม่ชอบ
+e|fraud|He was arrested for fraud.|เขาถูกจับข้อหาฉ้อโกง
+e|freely|You can speak freely.|คุณพูดได้อย่างอิสระ
+e|freight|The train carries freight.|รถไฟบรรทุกสินค้า
+e|frequency|The frequency of buses is low.|ความถี่ของรถบัสต่ำ
+e|frequent|He is a frequent visitor.|เขาเป็นแขกประจำ
+e|freshly|We drank freshly squeezed juice.|เราดื่มน้ำผลไม้คั้นสด
+e|fright|She screamed in fright.|เธอร้องด้วยความตกใจ
+e|fringe|She has a short fringe.|เธอมีผมม้าสั้น
+e|frog|A frog jumped into the pond.|กบกระโดดลงบ่อ
+e|frontier|They crossed the frontier.|พวกเขาข้ามพรมแดน
+e|frost|There was frost on the grass.|มีน้ำค้างแข็งบนหญ้า
+e|frown|She frowned at the bill.|เธอขมวดคิ้วใส่ใบเสร็จ
+e|frustrating|It's frustrating to wait.|การรอน่าหงุดหงิด
+e|frustration|He kicked the wall in frustration.|เขาเตะกำแพงด้วยความหงุดหงิด
+e|fulfil|She fulfilled her dream.|เธอทำความฝันให้สำเร็จ
+e|full-time|He has a full-time job.|เขามีงานประจำเต็มเวลา
+e|fumes|Don't breathe the fumes.|อย่าสูดควันพิษ
+e|functional|The room is simple but functional.|ห้องเรียบง่ายแต่ใช้งานได้ดี
+e|fund|They set up a fund for the school.|พวกเขาตั้งกองทุนให้โรงเรียน
+e|fundamentally|We fundamentally disagree.|เราไม่เห็นด้วยในหลักการ
+e|funding|The project needs funding.|โครงการต้องการเงินทุน
+e|fur|The cat has soft fur.|แมวมีขนนุ่ม
+e|furnish|The flat is fully furnished.|ห้องมีเฟอร์นิเจอร์ครบ
+e|fury|He shouted in fury.|เขาตะโกนด้วยความโกรธ
+e|gallery|We visited an art gallery.|เราไปแกลเลอรีศิลปะ
+e|gallop|The horse galloped away.|ม้าวิ่งห้อไป
+e|gamble|He lost money gambling.|เขาเสียเงินจากการพนัน
+e|gambling|Gambling is illegal here.|การพนันผิดกฎหมายที่นี่
+e|gardener|The gardener waters the plants.|คนสวนรดน้ำต้นไม้
+e|garlic|Add some garlic.|ใส่กระเทียมหน่อย
+e|garment|The garment is made of silk.|เสื้อผ้าทำจากไหม
+e|gasoline|Gasoline is expensive.|น้ำมันเบนซินแพง
+e|gay|He is an openly gay man.|เขาเป็นเกย์ที่เปิดเผย
+e|gear|Pack your hiking gear.|เก็บอุปกรณ์เดินป่า
+e|gently|Handle it gently.|จับอย่างเบามือ
+e|genuinely|I'm genuinely sorry.|ฉันขอโทษจากใจจริง
+e|germ|Wash your hands to kill germs.|ล้างมือเพื่อฆ่าเชื้อโรค
+e|gesture|He made a rude gesture.|เขาทำท่าทางหยาบคาย
+e|ginger|I like ginger tea.|ฉันชอบชาขิง
+e|giraffe|The giraffe has a long neck.|ยีราฟมีคอยาว
+e|global|It's a global problem.|เป็นปัญหาระดับโลก
+e|globe|He spun the globe.|เขาหมุนลูกโลก
+e|glorious|It was a glorious day.|เป็นวันที่งดงาม
+e|glory|He won glory for his country.|เขาสร้างเกียรติให้ประเทศ
+e|glow|The moon glowed brightly.|ดวงจันทร์ส่องแสงเรือง
+e|glue|Use glue to stick it.|ใช้กาวติด
+e|goalkeeper|The goalkeeper saved the ball.|ผู้รักษาประตูเซฟลูกบอลไว้ได้
+e|goat|The goat ate the grass.|แพะกินหญ้า
+e|goddess|She was worshipped as a goddess.|เธอได้รับการบูชาเป็นเทพธิดา
+e|goodness|Goodness me, what a surprise!|โอ้โฮ ตกใจหมดเลย
+e|goods|The shop sells leather goods.|ร้านขายสินค้าหนัง
+e|goose|A goose chased the child.|ห่านไล่เด็ก
+e|gossip|Don't listen to gossip.|อย่าฟังข่าวซุบซิบ
+e|govern|Who governs the country?|ใครปกครองประเทศ
+e|grace|She danced with grace.|เธอเต้นอย่างสง่างาม
+e|graceful|The dancer is graceful.|นักเต้นสง่างาม
+e|grain|Rice is a grain.|ข้าวเป็นธัญพืช
+e|grand|They have a grand house.|พวกเขามีบ้านหลังใหญ่โต
+e|granny|My granny bakes cakes.|ยายฉันอบเค้ก
+e|grasp|She grasped his hand.|เธอจับมือเขา
+e|grave|Flowers lay on the grave.|มีดอกไม้วางบนหลุมศพ
+e|gravel|The path is covered in gravel.|ทางเดินปูด้วยกรวด
+e|graveyard|The graveyard is quiet.|สุสานเงียบสงบ
+e|greatly|I greatly admire her.|ฉันชื่นชมเธอมาก
+e|greedy|Don't be greedy.|อย่าโลภ
+e|greet|He greeted us at the door.|เขาทักทายเราที่ประตู
+e|grid|Draw a grid on the paper.|วาดตารางบนกระดาษ
+e|grief|She was filled with grief.|เธอเต็มไปด้วยความเศร้าโศก
+e|grim|The news was grim.|ข่าวนั้นน่าหดหู่
+e|grip|Grip the rope tightly.|จับเชือกให้แน่น
+e|groom|The groom wore a black suit.|เจ้าบ่าวสวมสูทสีดำ
+e|gross|That's gross!|น่าขยะแขยงจัง
+e|grown-up|She wants to be a grown-up.|เธออยากเป็นผู้ใหญ่
+e|guarantee|We guarantee quality.|เรารับประกันคุณภาพ
+e|guidance|She gave me guidance.|เธอให้คำแนะนำฉัน
+e|guideline|Follow the safety guidelines.|ปฏิบัติตามแนวทางความปลอดภัย
+e|guilt|He felt guilt about lying.|เขารู้สึกผิดที่โกหก
+e|gunman|The gunman escaped.|มือปืนหลบหนีไปได้
+e|gut|Trust your gut.|เชื่อสัญชาตญาณตัวเอง
+e|gymnastics|She does gymnastics.|เธอเล่นยิมนาสติก
+e|haircut|I need a haircut.|ฉันต้องไปตัดผม
+e|hairdresser|The hairdresser cut my hair.|ช่างทำผมตัดผมให้ฉัน
+e|hairdryer|Use a hairdryer.|ใช้ไดร์เป่าผม
+e|hairstyle|I like your new hairstyle.|ฉันชอบทรงผมใหม่ของคุณ
+e|half-brother|He is my half-brother.|เขาเป็นพี่น้องต่างมารดาของฉัน
+e|half-sister|She is my half-sister.|เธอเป็นพี่น้องต่างมารดาของฉัน
+e|halfway|We stopped halfway.|เราหยุดกลางทาง
+e|hammer|Use a hammer to drive the nail.|ใช้ค้อนตอกตะปู
+e|handbag|She lost her handbag.|เธอทำกระเป๋าถือหาย
+e|handful|A handful of people came.|มีคนมาไม่กี่คน
+e|handout|Take a handout.|หยิบเอกสารแจกไปหนึ่งแผ่น
+e|handy|This tool is handy.|เครื่องมือนี้ใช้สะดวก
+e|happily|They lived happily.|พวกเขาอยู่อย่างมีความสุข
+e|harbour|The boats are in the harbour.|เรืออยู่ในท่าเรือ
+e|hardware|He sells computer hardware.|เขาขายฮาร์ดแวร์คอมพิวเตอร์
+e|harm|It won't do you any harm.|มันไม่เป็นอันตรายต่อคุณ
+e|harmful|Smoking is harmful.|การสูบบุหรี่เป็นอันตราย
+e|harsh|The winter was harsh.|ฤดูหนาวรุนแรง
+e|harvest|The rice harvest is in October.|การเก็บเกี่ยวข้าวอยู่เดือนตุลาคม
+e|hatred|There is no place for hatred.|ความเกลียดชังไม่มีที่ยืน
+e|haul|They hauled the boat ashore.|พวกเขาลากเรือขึ้นฝั่ง
+e|haunt|The memory still haunts him.|ความทรงจำนั้นยังตามหลอกหลอนเขา
+e|haunted|They live in a haunted house.|พวกเขาอยู่บ้านผีสิง
+e|hay|The horse ate hay.|ม้ากินหญ้าแห้ง
+e|hazard|Ice is a road hazard.|น้ำแข็งเป็นอันตรายบนถนน
+e|heading|Read the heading first.|อ่านหัวข้อก่อน
+e|headline|The headline caught my eye.|พาดหัวข่าวดึงดูดสายตาฉัน
+e|headquarters|The headquarters is in Bangkok.|สำนักงานใหญ่อยู่ที่กรุงเทพ
+e|heal|The wound will heal soon.|แผลจะหายเร็ว ๆ นี้
+e|heap|There's a heap of clothes.|มีเสื้อผ้ากองสูง
+e|heating|The heating is on.|เปิดระบบทำความร้อนอยู่
+e|heavily|It rained heavily.|ฝนตกหนัก
+e|hedge|He cut the hedge.|เขาตัดแนวพุ่มไม้
+e|heel|The heel of my shoe broke.|ส้นรองเท้าฉันหัก
+e|hell|It was hell on earth.|เหมือนนรกบนดิน
+e|herb|I grow herbs in the garden.|ฉันปลูกสมุนไพรในสวน
+e|herd|A herd of cows crossed the road.|ฝูงวัวข้ามถนน
+e|hesitate|Don't hesitate to ask.|อย่าลังเลที่จะถาม
+e|hidden|The key was hidden under a stone.|กุญแจซ่อนอยู่ใต้ก้อนหิน
+e|highlight|The best highlight was the music.|ไฮไลต์ที่ดีที่สุดคือดนตรี
+e|hiking|We go hiking every weekend.|เราไปเดินป่าทุกสุดสัปดาห์
+e|hilly|The area is hilly.|พื้นที่นี้เป็นเนินเขา
+e|hint|Give me a hint.|ใบ้ให้หน่อย
+e|historian|The historian wrote a book.|นักประวัติศาสตร์เขียนหนังสือ
+e|historic|It's a historic building.|เป็นอาคารที่มีความสำคัญทางประวัติศาสตร์
+e|historical|It's a historical film.|เป็นหนังประวัติศาสตร์
+e|hockey|He plays ice hockey.|เขาเล่นฮอกกี้น้ำแข็ง
+e|holder|She is a passport holder.|เธอเป็นผู้ถือหนังสือเดินทาง
+e|hollow|The tree is hollow.|ต้นไม้กลวง
+e|honestly|Honestly, I don't know.|พูดตรง ๆ ฉันไม่รู้
+e|honesty|Honesty is important.|ความซื่อสัตย์สำคัญ
+e|honour|It's an honour to meet you.|เป็นเกียรติที่ได้พบคุณ
+e|hood|Put your hood up.|สวมฮู้ดขึ้น
+e|hoof|The horse hurt its hoof.|ม้าเจ็บกีบเท้า
+e|hop|The rabbit hopped away.|กระต่ายกระโดดหนีไป
+e|horizon|The sun sank below the horizon.|ดวงอาทิตย์ลับขอบฟ้า
+e|horizontal|Draw a horizontal line.|ลากเส้นแนวนอน
+e|horn|He sounded the car horn.|เขาบีบแตรรถ
+e|horror|I don't like horror films.|ฉันไม่ชอบหนังสยองขวัญ
+e|hose|Water the garden with a hose.|รดน้ำสวนด้วยสายยาง
+e|host|The host welcomed the guests.|เจ้าภาพต้อนรับแขก
+e|household|Every household received a letter.|ทุกครัวเรือนได้รับจดหมาย
+e|housework|I do housework on Sundays.|ฉันทำงานบ้านวันอาทิตย์
+e|housing|Housing is expensive.|ที่อยู่อาศัยแพง
+e|hug|She gave me a big hug.|เธอกอดฉันแน่น
+e|humour|He has a great sense of humour.|เขามีอารมณ์ขันดีมาก
+e|hunger|Hunger is a serious problem.|ความหิวโหยเป็นปัญหาร้ายแรง
+e|hunter|The hunter followed the tracks.|นักล่าตามรอยเท้า
+e|hunting|Hunting is banned here.|ที่นี่ห้ามล่าสัตว์
+e|hurdle|This is the last hurdle.|นี่เป็นอุปสรรคสุดท้าย
+e|hurricane|The hurricane hit the coast.|พายุเฮอริเคนพัดเข้าชายฝั่ง
+e|hut|They stayed in a small hut.|พวกเขาพักในกระท่อมเล็ก ๆ
+e|hydrogen|Water contains hydrogen.|น้ำประกอบด้วยไฮโดรเจน
+e|hyphen|Add a hyphen between the words.|ใส่ขีดกลางระหว่างคำ
+e|icon|Tap the icon.|แตะไอคอน
+e|ideal|It's the ideal place for a picnic.|เป็นที่เหมาะที่สุดสำหรับปิกนิก
+e|ideally|Ideally, we'd leave at six.|ถ้าเป็นไปได้ เราจะออกหกโมง
+e|identical|The twins look identical.|ฝาแฝดหน้าเหมือนกันทุกอย่าง
+e|identification|Show some identification.|แสดงบัตรประจำตัว
+e|idiom|It's an English idiom.|เป็นสำนวนภาษาอังกฤษ
+e|idiot|Don't be an idiot.|อย่าโง่
+e|ignorance|Ignorance is not an excuse.|ความไม่รู้ไม่ใช่ข้ออ้าง
+e|ignorant|He is ignorant of the rules.|เขาไม่รู้กฎ
+e|illustrate|Let me illustrate with an example.|ขอยกตัวอย่างประกอบ
+e|illustration|The book has many illustrations.|หนังสือมีภาพประกอบมาก
+e|imitate|Children imitate adults.|เด็กเลียนแบบผู้ใหญ่
+e|imitation|It's just an imitation.|เป็นแค่ของเลียนแบบ
+e|immigrant|Many immigrants live in this city.|ผู้อพยพจำนวนมากอาศัยในเมืองนี้
+e|immigrate|Her family immigrated in 2010.|ครอบครัวเธออพยพเข้ามาปี 2010
+e|immigration|Go through immigration first.|ผ่านด่านตรวจคนเข้าเมืองก่อน
+e|implement|They implemented the new rules.|พวกเขานำกฎใหม่ไปใช้
+e|implication|What are the implications?|มีนัยยะอะไรบ้าง
+e|importantly|Importantly, we saved money.|ที่สำคัญคือเราประหยัดเงิน
+e|impressive|Your English is impressive.|ภาษาอังกฤษของคุณน่าประทับใจ
+e|improved|The improved version is faster.|เวอร์ชันที่ปรับปรุงแล้วเร็วขึ้น
+e|inability|His inability to swim was a problem.|การที่เขาว่ายน้ำไม่ได้เป็นปัญหา
+e|inadequate|The food was inadequate.|อาหารไม่เพียงพอ
+e|inappropriate|It was an inappropriate joke.|เป็นมุกที่ไม่เหมาะสม
+e|inbox|My inbox is full.|กล่องจดหมายเข้าฉันเต็ม
+e|incentive|Money is a strong incentive.|เงินเป็นแรงจูงใจที่แรง
+e|incident|There was a strange incident.|มีเหตุการณ์แปลก ๆ เกิดขึ้น
+e|increasingly|It's increasingly difficult.|ยากขึ้นเรื่อย ๆ
+e|incredibly|She is incredibly kind.|เธอใจดีอย่างไม่น่าเชื่อ
+e|index|Look in the index.|ดูในสารบัญท้ายเล่ม
+e|indication|There is no indication of rain.|ไม่มีสัญญาณว่าฝนจะตก
+e|indirect|It was an indirect answer.|เป็นคำตอบทางอ้อม
+e|individual|Each individual is different.|แต่ละคนไม่เหมือนกัน
+e|individually|We'll see you individually.|เราจะพบคุณทีละคน
+e|indoor|We have an indoor pool.|เรามีสระว่ายน้ำในร่ม
+e|indoors|Stay indoors today.|วันนี้อยู่ในบ้านนะ
+e|inequality|Inequality is growing.|ความไม่เท่าเทียมเพิ่มขึ้น
+e|inevitable|Change is inevitable.|การเปลี่ยนแปลงหลีกเลี่ยงไม่ได้
+e|inevitably|Inevitably, prices rose.|ราคาก็ต้องขึ้นเป็นธรรมดา
+e|infant|The infant is sleeping.|ทารกกำลังหลับ
+e|infect|The wound became infected.|แผลติดเชื้อ
+e|infection|He has an ear infection.|เขาหูอักเสบ
+e|inferior|This is inferior quality.|นี่คุณภาพด้อยกว่า
+e|infinite|The universe is infinite.|จักรวาลไม่มีที่สิ้นสุด
+e|infinitive|"To go" is an infinitive.|"to go" เป็นรูปอินฟินิทีฟ
+e|inflation|Inflation is rising.|เงินเฟ้อสูงขึ้น
+e|inflict|The storm inflicted great damage.|พายุสร้างความเสียหายมาก
+e|influential|He is an influential writer.|เขาเป็นนักเขียนที่มีอิทธิพล
+e|ingredient|What are the ingredients?|ส่วนผสมมีอะไรบ้าง
+e|inhabit|Monkeys inhabit this forest.|ลิงอาศัยอยู่ในป่านี้
+e|inhabitant|The town has 5,000 inhabitants.|เมืองนี้มีผู้อาศัยห้าพันคน
+e|inherit|She inherited a house.|เธอได้รับมรดกเป็นบ้าน
+e|initial|My initial reaction was shock.|ปฏิกิริยาแรกของฉันคือตกใจ
+e|initially|Initially, I disagreed.|ตอนแรกฉันไม่เห็นด้วย
+e|initiative|She took the initiative.|เธอเป็นผู้ริเริ่ม
+e|injection|The nurse gave me an injection.|พยาบาลฉีดยาให้ฉัน
+e|injured|Two players were injured.|ผู้เล่นสองคนบาดเจ็บ
+e|ink|The pen is out of ink.|ปากกาหมึกหมด
+e|inn|We stayed at a country inn.|เราพักที่โรงแรมเล็กนอกเมือง
+e|inner|She felt inner peace.|เธอรู้สึกสงบภายใน
+e|innocence|He proved his innocence.|เขาพิสูจน์ความบริสุทธิ์ของตน
+e|innocent|He is innocent.|เขาบริสุทธิ์
+e|innovation|Innovation drives growth.|นวัตกรรมขับเคลื่อนการเติบโต
+e|input|We need your input.|เราต้องการความคิดเห็นของคุณ
+e|inquiry|I'll make an inquiry.|ฉันจะสอบถามดู
+e|inspection|The inspection takes an hour.|การตรวจสอบใช้เวลาหนึ่งชั่วโมง
+e|inspector|The inspector checked the kitchen.|ผู้ตรวจสอบเช็คห้องครัว
+e|inspiration|She is my inspiration.|เธอเป็นแรงบันดาลใจของฉัน
+e|inspire|Her story inspires me.|เรื่องของเธอเป็นแรงบันดาลใจ
+e|install|Install the app on your phone.|ติดตั้งแอปในมือถือ
+e|installation|The installation took an hour.|การติดตั้งใช้เวลาหนึ่งชั่วโมง
+e|instance|For instance, take this word.|ตัวอย่างเช่น คำนี้
+e|instant|I like instant coffee.|ฉันชอบกาแฟสำเร็จรูป
+e|instantly|He recognised her instantly.|เขาจำเธอได้ทันที
+e|instinct|Trust your instinct.|เชื่อสัญชาตญาณของคุณ
