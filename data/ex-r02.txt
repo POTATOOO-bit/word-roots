@@ -1,0 +1,501 @@
+# ประโยคตัวอย่าง รอบ Longman 2 (edge–measure)
+e|edge|Don't stand too close to the edge.|อย่ายืนใกล้ขอบเกินไป
+e|effectively|She communicates very effectively.|เธอสื่อสารได้อย่างมีประสิทธิภาพมาก
+e|efficient|This machine is very efficient.|เครื่องนี้มีประสิทธิภาพมาก
+e|effort|Thank you for your effort.|ขอบคุณสำหรับความพยายามของคุณ
+e|egg|I had two eggs for breakfast.|ฉันกินไข่สองฟองเป็นอาหารเช้า
+e|eighth|It's my eighth visit to Japan.|นี่เป็นการไปญี่ปุ่นครั้งที่แปดของฉัน
+e|either|You can take either bus.|คุณขึ้นรถบัสคันไหนก็ได้
+e|electric|He drives an electric car.|เขาขับรถยนต์ไฟฟ้า
+e|electricity|The electricity went out last night.|เมื่อคืนไฟดับ
+e|electronic|I bought some electronic devices.|ฉันซื้ออุปกรณ์อิเล็กทรอนิกส์
+e|element|Water is an important element of life.|น้ำเป็นองค์ประกอบสำคัญของชีวิต
+e|elephant|We rode an elephant in Chiang Mai.|เราขี่ช้างที่เชียงใหม่
+e|elevator|Take the elevator to the fifth floor.|ขึ้นลิฟต์ไปชั้นห้า
+e|eleventh|Her office is on the eleventh floor.|ออฟฟิศเธออยู่ชั้นสิบเอ็ด
+e|else|Would you like anything else?|ต้องการอย่างอื่นอีกไหม
+e|elsewhere|If it's full, we'll eat elsewhere.|ถ้าเต็มเราจะไปกินที่อื่น
+e|email|I'll send you an email.|ฉันจะส่งอีเมลให้
+e|embarrassing|It was an embarrassing mistake.|เป็นความผิดพลาดที่น่าอาย
+e|emergency|Call 191 in an emergency.|โทร 191 เวลาฉุกเฉิน
+e|emotional|It was an emotional moment.|เป็นช่วงเวลาที่กินใจ
+e|employer|My employer offers free lunch.|นายจ้างของฉันให้อาหารกลางวันฟรี
+e|employment|She is looking for employment.|เธอกำลังหางาน
+e|empty|The bottle is empty.|ขวดว่างเปล่า
+e|enable|This setting enables dark mode.|การตั้งค่านี้เปิดใช้งานโหมดมืด
+e|encourage|My teacher encouraged me to apply.|ครูให้กำลังใจให้ฉันไปสมัคร
+e|end|The movie ends at ten.|หนังจบตอนสี่ทุ่ม
+e|enemy|They became enemies after the fight.|พวกเขากลายเป็นศัตรูกันหลังทะเลาะ
+e|energy|I have no energy today.|วันนี้ฉันไม่มีแรงเลย
+e|engine|The engine makes a strange noise.|เครื่องยนต์ส่งเสียงแปลก ๆ
+e|enough|I have enough money.|ฉันมีเงินพอ
+e|ensure|Please ensure that the door is locked.|กรุณาตรวจให้แน่ใจว่าล็อกประตูแล้ว
+e|enter|Please enter your password.|กรุณาใส่รหัสผ่าน
+e|entertainment|There's live entertainment every night.|มีการแสดงสดทุกคืน
+e|entire|I spent the entire day cleaning.|ฉันใช้เวลาทั้งวันทำความสะอาด
+e|entirely|I entirely agree with you.|ฉันเห็นด้วยกับคุณทั้งหมด
+e|entrance|The entrance is on the left.|ทางเข้าอยู่ทางซ้าย
+e|entry|Entry is free for children.|เด็กเข้าชมฟรี
+e|envelope|Put the letter in an envelope.|ใส่จดหมายในซอง
+e|environmental|We face serious environmental problems.|เราเผชิญปัญหาสิ่งแวดล้อมร้ายแรง
+e|equal|All people are equal.|ทุกคนเท่าเทียมกัน
+e|eraser|Can I borrow your eraser?|ขอยืมยางลบหน่อยได้ไหม
+e|error|The system shows an error.|ระบบแสดงข้อผิดพลาด
+e|escape|The prisoner escaped last night.|นักโทษหนีไปเมื่อคืน
+e|essay|I have to write an essay.|ฉันต้องเขียนเรียงความ
+e|etc|We need pens, paper, etc.|เราต้องการปากกา กระดาษ และอื่น ๆ
+e|euro|The ticket costs ten euros.|ตั๋วราคาสิบยูโร
+e|even|Even a child can do it.|แม้แต่เด็กก็ทำได้
+e|evening|Good evening!|สวัสดีตอนเย็น
+e|ever|Have you ever been to Japan?|คุณเคยไปญี่ปุ่นไหม
+e|everywhere|There are tourists everywhere.|มีนักท่องเที่ยวอยู่ทุกที่
+e|exact|What's the exact time?|เวลาที่แน่นอนคือเท่าไหร่
+e|exactly|That's exactly what I meant.|นั่นแหละที่ฉันหมายถึง
+e|exam|I have an exam tomorrow.|พรุ่งนี้ฉันมีสอบ
+e|example|Can you give me an example?|ขอตัวอย่างหน่อยได้ไหม
+e|exciting|It was an exciting game.|เป็นเกมที่น่าตื่นเต้น
+e|excuse|Excuse me, where is the toilet?|ขอโทษครับ ห้องน้ำอยู่ที่ไหน
+e|exercise|I do exercise every morning.|ฉันออกกำลังกายทุกเช้า
+e|experience|She has a lot of work experience.|เธอมีประสบการณ์ทำงานมาก
+e|experiment|The students did an experiment.|นักเรียนทำการทดลอง
+e|expert|He is an expert in cooking.|เขาเป็นผู้เชี่ยวชาญด้านการทำอาหาร
+e|explanation|I need an explanation.|ฉันต้องการคำอธิบาย
+e|explode|The balloon exploded.|ลูกโป่งแตก
+e|explosion|We heard a loud explosion.|เราได้ยินเสียงระเบิดดัง
+e|extent|I agree with you to some extent.|ฉันเห็นด้วยกับคุณในระดับหนึ่ง
+e|extra|I need an extra blanket.|ฉันต้องการผ้าห่มเพิ่ม
+e|extremely|It's extremely hot today.|วันนี้ร้อนมาก
+e|eye|She has beautiful eyes.|เธอมีตาสวย
+e|face|Wash your face.|ล้างหน้าซะ
+e|factor|Price is an important factor.|ราคาเป็นปัจจัยสำคัญ
+e|fail|I failed my driving test.|ฉันสอบใบขับขี่ไม่ผ่าน
+e|failure|Failure is part of learning.|ความล้มเหลวเป็นส่วนหนึ่งของการเรียนรู้
+e|fair|The competition was fair.|การแข่งขันยุติธรรม
+e|fairly|The room is fairly big.|ห้องค่อนข้างใหญ่
+e|faith|I have faith in you.|ฉันเชื่อมั่นในตัวคุณ
+e|fall|Leaves fall in autumn.|ใบไม้ร่วงในฤดูใบไม้ร่วง
+e|false|The information was false.|ข้อมูลเป็นเท็จ
+e|family|I have a big family.|ฉันมีครอบครัวใหญ่
+e|fan|I'm a big fan of this band.|ฉันเป็นแฟนตัวยงของวงนี้
+e|far|Is it far from here?|ไกลจากที่นี่ไหม
+e|farm|They live on a farm.|พวกเขาอยู่ในฟาร์ม
+e|farmer|The farmer grows rice.|ชาวนาปลูกข้าว
+e|fashion|She follows the latest fashion.|เธอตามแฟชั่นล่าสุด
+e|fashionable|It's a fashionable café.|เป็นคาเฟ่ที่ทันสมัย
+e|fat|He's afraid of getting fat.|เขากลัวอ้วน
+e|father|My father is a doctor.|พ่อของฉันเป็นหมอ
+e|fault|It's not your fault.|ไม่ใช่ความผิดของคุณ
+e|favour|Can you do me a favour?|ช่วยฉันหน่อยได้ไหม
+e|favourite|Blue is my favourite colour.|สีฟ้าเป็นสีโปรดของฉัน
+e|fear|She has a fear of heights.|เธอกลัวที่สูง
+e|feature|The phone has many new features.|มือถือมีฟีเจอร์ใหม่หลายอย่าง
+e|february|Valentine's Day is in February.|วันวาเลนไทน์อยู่ในเดือนกุมภาพันธ์
+e|federal|It's a federal law.|เป็นกฎหมายของรัฐบาลกลาง
+e|fee|There's an entry fee of 100 baht.|มีค่าเข้าชม 100 บาท
+e|feed|Please feed the cat.|ช่วยให้อาหารแมวด้วย
+e|feel|I feel tired.|ฉันรู้สึกเหนื่อย
+e|feeling|I have a good feeling about this.|ฉันรู้สึกดีกับเรื่องนี้
+e|female|The female teacher is very kind.|ครูผู้หญิงใจดีมาก
+e|fence|There's a fence around the garden.|มีรั้วล้อมสวน
+e|festival|We went to a music festival.|เราไปเทศกาลดนตรี
+e|field|The children are playing in the field.|เด็ก ๆ เล่นอยู่ในทุ่ง
+e|fifth|She lives on the fifth floor.|เธออยู่ชั้นห้า
+e|fight|The two boys had a fight.|เด็กชายสองคนทะเลาะกัน
+e|figure|The figures show a clear trend.|ตัวเลขแสดงแนวโน้มชัดเจน
+e|file|Save the file on your desktop.|บันทึกไฟล์ไว้บนเดสก์ท็อป
+e|fill|Fill the glass with water.|เติมน้ำให้เต็มแก้ว
+e|film|We watched a great film last night.|เมื่อคืนเราดูหนังเรื่องที่ดีมาก
+e|final|It's the final round.|เป็นรอบสุดท้าย
+e|financial|She has financial problems.|เธอมีปัญหาทางการเงิน
+e|find|I can't find my keys.|ฉันหากุญแจไม่เจอ
+e|fine|I'm fine, thank you.|ฉันสบายดี ขอบคุณ
+e|finger|I cut my finger.|ฉันทำนิ้วเป็นแผล
+e|fire|Fire is dangerous.|ไฟเป็นอันตราย
+e|firefighter|The firefighter saved the dog.|นักดับเพลิงช่วยหมาไว้
+e|firm|He works for a law firm.|เขาทำงานให้สำนักงานกฎหมาย
+e|first|This is my first time here.|นี่เป็นครั้งแรกที่ฉันมาที่นี่
+e|fish|We caught a big fish.|เราจับปลาตัวใหญ่ได้
+e|fishing|He goes fishing on weekends.|เขาไปตกปลาวันหยุด
+e|fit|These shoes don't fit me.|รองเท้านี้ไม่พอดีกับฉัน
+e|fix|Can you fix my computer?|ช่วยซ่อมคอมพิวเตอร์ให้หน่อยได้ไหม
+e|flag|The Thai flag is red, white and blue.|ธงชาติไทยมีสีแดง ขาว และน้ำเงิน
+e|flat|I live in a small flat.|ฉันอยู่แฟลตเล็ก ๆ
+e|flavour|What flavour of ice cream do you want?|อยากกินไอศกรีมรสอะไร
+e|flight|Our flight leaves at six.|เที่ยวบินของเราออกตอนหกโมง
+e|float|The boat floats on the water.|เรือลอยอยู่บนน้ำ
+e|floor|The keys are on the floor.|กุญแจอยู่บนพื้น
+e|flour|You need two cups of flour.|ต้องใช้แป้งสองถ้วย
+e|flow|The river flows to the sea.|แม่น้ำไหลลงทะเล
+e|flower|She gave me a flower.|เธอให้ดอกไม้ฉัน
+e|flu|I have the flu.|ฉันเป็นไข้หวัดใหญ่
+e|fly|I want to fly to Japan.|ฉันอยากบินไปญี่ปุ่น
+e|fog|The fog was very thick this morning.|เช้านี้หมอกหนามาก
+e|foggy|It's foggy outside.|ข้างนอกมีหมอก
+e|folder|Save it in a new folder.|บันทึกไว้ในโฟลเดอร์ใหม่
+e|folk|They play folk music.|พวกเขาเล่นดนตรีพื้นบ้าน
+e|follow|Follow me, please.|กรุณาตามฉันมา
+e|following|Please read the following text.|กรุณาอ่านข้อความต่อไปนี้
+e|food|Thai food is delicious.|อาหารไทยอร่อย
+e|foot|My foot hurts.|เท้าฉันเจ็บ
+e|football|They play football every Sunday.|พวกเขาเล่นฟุตบอลทุกวันอาทิตย์
+e|force|The wind force was very strong.|แรงลมแรงมาก
+e|foreign|She speaks three foreign languages.|เธอพูดภาษาต่างประเทศได้สามภาษา
+e|foreigner|Many foreigners visit Thailand.|ชาวต่างชาติหลายคนมาเที่ยวไทย
+e|forest|We walked through the forest.|เราเดินผ่านป่า
+e|forever|I'll remember this trip forever.|ฉันจะจำทริปนี้ไปตลอด
+e|forget|Don't forget your keys.|อย่าลืมกุญแจ
+e|fork|Can I have a fork, please?|ขอส้อมหน่อยครับ
+e|formal|You need formal clothes for the interview.|คุณต้องใส่ชุดทางการไปสัมภาษณ์
+e|former|The former president visited the school.|อดีตประธานาธิบดีมาเยี่ยมโรงเรียน
+e|forward|I look forward to meeting you.|ฉันตั้งตารอที่จะได้พบคุณ
+e|fourth|It's the fourth time he's called.|เป็นครั้งที่สี่แล้วที่เขาโทรมา
+e|frame|She put the photo in a frame.|เธอใส่รูปในกรอบ
+e|free|Entry is free.|เข้าชมฟรี
+e|freedom|Everyone wants freedom.|ทุกคนต้องการอิสรภาพ
+e|freeway|The freeway was full of cars.|ทางด่วนเต็มไปด้วยรถ
+e|freeze|Water freezes at zero degrees.|น้ำแข็งตัวที่ศูนย์องศา
+e|freezer|Put the fish in the freezer.|ใส่ปลาในช่องแช่แข็ง
+e|frequently|He frequently travels for work.|เขาเดินทางไปทำงานบ่อย ๆ
+e|friday|The party is on Friday.|ปาร์ตี้อยู่วันศุกร์
+e|fridge|There's some milk in the fridge.|มีนมอยู่ในตู้เย็น
+e|friend|She is my best friend.|เธอเป็นเพื่อนสนิทของฉัน
+e|friendly|The people here are very friendly.|คนที่นี่เป็นมิตรมาก
+e|frighten|The loud noise frightened the baby.|เสียงดังทำให้ทารกตกใจ
+e|frightening|It was a frightening experience.|เป็นประสบการณ์ที่น่ากลัว
+e|front|Please sit in the front row.|กรุณานั่งแถวหน้า
+e|frozen|I bought frozen vegetables.|ฉันซื้อผักแช่แข็ง
+e|fruit|I eat fruit every day.|ฉันกินผลไม้ทุกวัน
+e|fry|Fry the eggs for two minutes.|ทอดไข่สองนาที
+e|fuel|The car is low on fuel.|รถน้ำมันใกล้หมด
+e|full|The bus is full.|รถบัสเต็ม
+e|fully|The hotel is fully booked.|โรงแรมจองเต็มแล้ว
+e|fun|We had a lot of fun.|เราสนุกกันมาก
+e|function|What is the function of this button?|ปุ่มนี้มีหน้าที่อะไร
+e|funeral|They attended the funeral.|พวกเขาไปร่วมงานศพ
+e|furniture|We bought some new furniture.|เราซื้อเฟอร์นิเจอร์ใหม่
+e|further|I can't walk any further.|ฉันเดินต่อไปไม่ไหวแล้ว
+e|future|What are your plans for the future?|คุณมีแผนอะไรสำหรับอนาคต
+e|gallon|The car uses a gallon of fuel every 30 miles.|รถใช้น้ำมันหนึ่งแกลลอนต่อ 30 ไมล์
+e|game|Let's play a game.|มาเล่นเกมกันเถอะ
+e|gang|A gang of boys played in the street.|เด็กผู้ชายกลุ่มหนึ่งเล่นกันบนถนน
+e|gap|Mind the gap between the train and platform.|ระวังช่องว่างระหว่างรถไฟกับชานชาลา
+e|garage|He parked the car in the garage.|เขาจอดรถในโรงรถ
+e|garbage|Take out the garbage, please.|ช่วยเอาขยะไปทิ้งด้วย
+e|garden|We have a small garden.|เรามีสวนเล็ก ๆ
+e|gas|The gas bill was very high.|ค่าแก๊สสูงมาก
+e|gate|The gate is open.|ประตูเปิดอยู่
+e|gather|Everyone gathered in the hall.|ทุกคนมารวมกันในห้องโถง
+e|generally|Generally, I wake up at six.|โดยทั่วไปฉันตื่นหกโมง
+e|gentleman|A gentleman helped me with my bag.|สุภาพบุรุษคนหนึ่งช่วยถือกระเป๋าให้ฉัน
+e|ghost|Do you believe in ghosts?|คุณเชื่อเรื่องผีไหม
+e|giant|We saw a giant tree.|เราเห็นต้นไม้ยักษ์
+e|gift|Thank you for the gift.|ขอบคุณสำหรับของขวัญ
+e|girl|The girl is reading a book.|เด็กหญิงกำลังอ่านหนังสือ
+e|girlfriend|He called his girlfriend.|เขาโทรหาแฟนสาว
+e|glass|Can I have a glass of water?|ขอน้ำหนึ่งแก้วได้ไหม
+e|glove|Wear gloves. It's cold.|ใส่ถุงมือ อากาศหนาว
+e|go|I go to school by bus.|ฉันไปโรงเรียนด้วยรถบัส
+e|goal|My goal is to learn English.|เป้าหมายของฉันคือเรียนภาษาอังกฤษ
+e|god|Many people believe in God.|หลายคนเชื่อในพระเจ้า
+e|gold|She wore a gold ring.|เธอสวมแหวนทอง
+e|golden|We saw a golden temple.|เราเห็นวัดสีทอง
+e|golf|He plays golf on weekends.|เขาเล่นกอล์ฟวันหยุด
+e|good-looking|He is a good-looking man.|เขาเป็นผู้ชายหน้าตาดี
+e|governor|The governor gave a speech.|ผู้ว่ากล่าวสุนทรพจน์
+e|grab|Grab a seat.|หาที่นั่งเลย
+e|grade|She got good grades.|เธอได้เกรดดี
+e|gradually|The weather gradually improved.|อากาศค่อย ๆ ดีขึ้น
+e|graduate|He graduated last year.|เขาจบการศึกษาเมื่อปีที่แล้ว
+e|graduation|We attended her graduation.|เราไปร่วมพิธีรับปริญญาของเธอ
+e|gram|Add 200 grams of sugar.|ใส่น้ำตาล 200 กรัม
+e|grandad|My grandad tells great stories.|คุณตาของฉันเล่าเรื่องเก่ง
+e|grandchild|They have six grandchildren.|พวกเขามีหลานหกคน
+e|granddaughter|Their granddaughter is a doctor.|หลานสาวของพวกเขาเป็นหมอ
+e|grandfather|My grandfather lives in the countryside.|คุณตาของฉันอยู่ชนบท
+e|grandma|I visit my grandma on Sundays.|ฉันไปเยี่ยมคุณยายวันอาทิตย์
+e|grandmother|My grandmother cooks very well.|คุณย่าของฉันทำอาหารเก่งมาก
+e|grandpa|Grandpa is reading the newspaper.|คุณปู่กำลังอ่านหนังสือพิมพ์
+e|grandparent|Her grandparents live nearby.|ปู่ย่าตายายของเธออยู่ใกล้ ๆ
+e|grandson|Their grandson loves football.|หลานชายของพวกเขาชอบฟุตบอล
+e|grape|I bought a bunch of grapes.|ฉันซื้อองุ่นหนึ่งพวง
+e|grapefruit|I drink grapefruit juice in the morning.|ฉันดื่มน้ำเกรปฟรุตตอนเช้า
+e|grass|Don't walk on the grass.|อย่าเดินบนหญ้า
+e|gravy|Would you like some gravy?|ต้องการน้ำเกรวี่ไหม
+e|green|The grass is green.|หญ้าสีเขียว
+e|grey|The sky is grey today.|วันนี้ท้องฟ้าสีเทา
+e|grill|We grilled fish on the beach.|เราย่างปลาบนชายหาด
+e|grocery|I need to go grocery shopping.|ฉันต้องไปซื้อของชำ
+e|ground|The ball fell on the ground.|ลูกบอลตกบนพื้น
+e|group|Our group has five members.|กลุ่มเรามีสมาชิกห้าคน
+e|growth|The company showed strong growth.|บริษัทเติบโตอย่างแข็งแกร่ง
+e|guard|The guard checked our tickets.|ยามตรวจตั๋วของเรา
+e|guest|We have guests tonight.|คืนนี้เรามีแขก
+e|guide|The guide showed us around the museum.|ไกด์พาเราชมพิพิธภัณฑ์
+e|guilty|I feel guilty about forgetting her birthday.|ฉันรู้สึกผิดที่ลืมวันเกิดเธอ
+e|guitar|He plays the guitar.|เขาเล่นกีตาร์
+e|gum|She chewed gum in class.|เธอเคี้ยวหมากฝรั่งในห้องเรียน
+e|gun|The police officer has a gun.|ตำรวจมีปืน
+e|guy|He's a nice guy.|เขาเป็นผู้ชายที่ดี
+e|gym|I go to the gym three times a week.|ฉันไปยิมสัปดาห์ละสามครั้ง
+e|habit|Smoking is a bad habit.|การสูบบุหรี่เป็นนิสัยที่ไม่ดี
+e|hair|She has long black hair.|เธอมีผมยาวสีดำ
+e|half|I'll be there in half an hour.|ฉันจะไปถึงในครึ่งชั่วโมง
+e|hall|The party is in the main hall.|ปาร์ตี้จัดที่ห้องโถงใหญ่
+e|halloween|Kids dress up on Halloween.|เด็ก ๆ แต่งตัวในวันฮาโลวีน
+e|ham|I'd like a ham sandwich.|ขอแซนด์วิชแฮม
+e|hamburger|He ordered a hamburger.|เขาสั่งแฮมเบอร์เกอร์
+e|handle|I can handle it.|ฉันจัดการเองได้
+e|handsome|He is a handsome young man.|เขาเป็นหนุ่มรูปหล่อ
+e|hang|Hang your coat on the hook.|แขวนเสื้อโค้ทไว้บนตะขอ
+e|happen|What happened?|เกิดอะไรขึ้น
+e|hardly|I can hardly hear you.|ฉันแทบไม่ได้ยินคุณ
+e|hat|She wore a big hat.|เธอสวมหมวกใบใหญ่
+e|have|I have two brothers.|ฉันมีพี่น้องชายสองคน
+e|head|My head hurts.|หัวฉันเจ็บ
+e|headache|I have a terrible headache.|ฉันปวดหัวมาก
+e|health|Health is more important than money.|สุขภาพสำคัญกว่าเงิน
+e|healthy|Eat healthy food.|กินอาหารที่มีประโยชน์ต่อสุขภาพ
+e|hear|I can't hear you.|ฉันไม่ได้ยินคุณ
+e|hearing|My grandfather has poor hearing.|คุณตาของฉันได้ยินไม่ดี
+e|heart|He has a kind heart.|เขามีหัวใจดี
+e|heat|I can't stand the heat.|ฉันทนความร้อนไม่ไหว
+e|heater|Turn on the heater.|เปิดเครื่องทำความร้อน
+e|heaven|They say he is in heaven now.|เขาว่ากันว่าตอนนี้เขาอยู่บนสวรรค์
+e|heavy|This bag is very heavy.|กระเป๋านี้หนักมาก
+e|height|What's your height?|คุณสูงเท่าไหร่
+e|helicopter|A helicopter landed on the roof.|เฮลิคอปเตอร์ลงจอดบนดาดฟ้า
+e|helmet|Always wear a helmet.|สวมหมวกกันน็อกเสมอ
+e|here|Come here.|มาที่นี่
+e|hero|He is a hero to the children.|เขาเป็นฮีโร่ของเด็ก ๆ
+e|high|The mountain is very high.|ภูเขาสูงมาก
+e|highly|It's a highly popular restaurant.|เป็นร้านอาหารที่ได้รับความนิยมสูง
+e|highway|We drove along the highway.|เราขับรถไปตามทางหลวง
+e|hill|They live on a hill.|พวกเขาอยู่บนเนินเขา
+e|hip|She hurt her hip.|เธอเจ็บสะโพก
+e|hire|We need to hire a new assistant.|เราต้องจ้างผู้ช่วยใหม่
+e|history|I love learning about history.|ฉันชอบเรียนประวัติศาสตร์
+e|hit|The ball hit the window.|ลูกบอลโดนหน้าต่าง
+e|hobby|My hobby is photography.|งานอดิเรกของฉันคือถ่ายภาพ
+e|hold|Hold the door, please.|ช่วยค้างประตูไว้หน่อย
+e|hole|There's a hole in my sock.|ถุงเท้าฉันมีรู
+e|holiday|We're going on holiday next week.|สัปดาห์หน้าเราจะไปเที่ยวพักร้อน
+e|holy|The temple is a holy place.|วัดเป็นสถานที่ศักดิ์สิทธิ์
+e|home|I'm going home now.|ฉันกำลังกลับบ้านแล้ว
+e|homepage|Visit our homepage for more information.|เข้าชมหน้าแรกของเราเพื่อข้อมูลเพิ่มเติม
+e|homework|Have you done your homework?|ทำการบ้านหรือยัง
+e|honey|I'd like some honey in my tea.|ขอน้ำผึ้งใส่ชา
+e|hook|Hang the bag on the hook.|แขวนกระเป๋าไว้บนตะขอ
+e|hopefully|Hopefully, it won't rain tomorrow.|หวังว่าพรุ่งนี้ฝนจะไม่ตก
+e|horse|She loves riding horses.|เธอชอบขี่ม้า
+e|hospital|He is in the hospital.|เขาอยู่ในโรงพยาบาล
+e|hotel|We stayed at a nice hotel.|เราพักโรงแรมดี ๆ
+e|hour|The trip takes two hours.|การเดินทางใช้เวลาสองชั่วโมง
+e|house|They bought a new house.|พวกเขาซื้อบ้านหลังใหม่
+e|housewife|My mother was a housewife.|แม่ของฉันเป็นแม่บ้าน
+e|how|How are you?|สบายดีไหม
+e|however|It was cold. However, we enjoyed the trip.|อากาศหนาว แต่เราก็สนุกกับทริป
+e|human|Humans need water to live.|มนุษย์ต้องการน้ำเพื่อมีชีวิต
+e|hungry|I'm hungry.|ฉันหิว
+e|hunt|Lions hunt at night.|สิงโตล่าเหยื่อตอนกลางคืน
+e|hurry|Hurry up! We'll be late.|รีบหน่อย! เราจะสาย
+e|husband|Her husband is a pilot.|สามีของเธอเป็นนักบิน
+e|ice|Would you like ice in your drink?|ใส่น้ำแข็งในเครื่องดื่มไหม
+e|ignore|Don't ignore the warning.|อย่าเพิกเฉยต่อคำเตือน
+e|ill|She is ill today.|วันนี้เธอป่วย
+e|image|The image is blurry.|ภาพเบลอ
+e|imagination|Children have a great imagination.|เด็ก ๆ มีจินตนาการยอดเยี่ยม
+e|immediate|We need an immediate answer.|เราต้องการคำตอบทันที
+e|impact|The news had a big impact on him.|ข่าวนี้มีผลกระทบต่อเขามาก
+e|importance|Don't underestimate the importance of sleep.|อย่าประเมินความสำคัญของการนอนต่ำไป
+e|improve|I want to improve my English.|ฉันอยากพัฒนาภาษาอังกฤษของฉัน
+e|improvement|There's been an improvement in her grades.|เกรดของเธอดีขึ้น
+e|in|The keys are in my bag.|กุญแจอยู่ในกระเป๋าฉัน
+e|inch|He is six feet two inches tall.|เขาสูงหกฟุตสองนิ้ว
+e|include|The price includes breakfast.|ราคารวมอาหารเช้า
+e|income|Their income is low.|รายได้ของพวกเขาต่ำ
+e|indeed|It was indeed a great show.|เป็นการแสดงที่ยอดเยี่ยมจริง ๆ
+e|independence|The country celebrates its independence.|ประเทศฉลองวันประกาศอิสรภาพ
+e|industrial|It's an industrial area.|เป็นเขตอุตสาหกรรม
+e|influence|Music has a strong influence on mood.|ดนตรีมีอิทธิพลต่ออารมณ์มาก
+e|injure|He injured his leg playing football.|เขาขาเจ็บตอนเล่นฟุตบอล
+e|injury|She recovered from her injury.|เธอหายจากอาการบาดเจ็บ
+e|insect|There are many insects in the garden.|มีแมลงมากมายในสวน
+e|inside|It's cold outside, but warm inside.|ข้างนอกหนาว แต่ข้างในอุ่น
+e|instead|Let's walk instead of taking a taxi.|เดินกันแทนที่จะนั่งแท็กซี่เถอะ
+e|instrument|Which instrument do you play?|คุณเล่นเครื่องดนตรีอะไร
+e|insurance|Do you have travel insurance?|คุณมีประกันการเดินทางไหม
+e|intelligence|She has great intelligence.|เธอมีสติปัญญาเฉียบแหลม
+e|intelligent|He is an intelligent boy.|เขาเป็นเด็กชายฉลาด
+e|intention|I had no intention of hurting you.|ฉันไม่ได้ตั้งใจทำร้ายคุณ
+e|interest|Do you have any interests?|คุณมีความสนใจอะไรไหม
+e|interested|I'm interested in history.|ฉันสนใจประวัติศาสตร์
+e|intermediate|I'm at an intermediate level.|ฉันอยู่ระดับกลาง
+e|introduction|Please read the introduction first.|กรุณาอ่านคำนำก่อน
+e|invention|The telephone was a great invention.|โทรศัพท์เป็นสิ่งประดิษฐ์ที่ยิ่งใหญ่
+e|investigate|The police are investigating the case.|ตำรวจกำลังสืบสวนคดี
+e|investigation|The investigation took six months.|การสืบสวนใช้เวลาหกเดือน
+e|invitation|Thank you for the invitation.|ขอบคุณสำหรับคำเชิญ
+e|invite|I'd like to invite you to dinner.|ฉันอยากเชิญคุณไปกินข้าวเย็น
+e|involve|The job involves a lot of travel.|งานนี้ต้องเดินทางบ่อย
+e|involved|She is involved in a charity.|เธอมีส่วนร่วมในองค์กรการกุศล
+e|iron|I need to iron my shirt.|ฉันต้องรีดเสื้อ
+e|island|We stayed on a small island.|เราพักบนเกาะเล็ก ๆ
+e|item|Please check each item on the list.|กรุณาตรวจแต่ละรายการในลิสต์
+e|jacket|Take your jacket with you.|เอาแจ็กเก็ตไปด้วย
+e|jail|He spent a year in jail.|เขาติดคุกหนึ่งปี
+e|jam|I like jam on my toast.|ฉันชอบแยมบนขนมปัง
+e|january|The new year starts in January.|ปีใหม่เริ่มในเดือนมกราคม
+e|jar|There's a jar of honey on the shelf.|มีโหลน้ำผึ้งอยู่บนชั้น
+e|jeans|He wears jeans every day.|เขาใส่ยีนส์ทุกวัน
+e|jelly|The kids love fruit jelly.|เด็ก ๆ ชอบเยลลี่ผลไม้
+e|job|She got a new job.|เธอได้งานใหม่
+e|join|Would you like to join us?|อยากมาร่วมกับเราไหม
+e|joke|He told a funny joke.|เขาเล่ามุกตลก
+e|journalist|She works as a journalist.|เธอทำงานเป็นนักข่าว
+e|journey|It was a long journey.|เป็นการเดินทางที่ยาวนาน
+e|joy|Her visit brought us great joy.|การมาเยี่ยมของเธอนำความสุขมาให้เรามาก
+e|judge|The judge made a decision.|ผู้พิพากษาตัดสิน
+e|juice|I'd like a glass of orange juice.|ขอน้ำส้มหนึ่งแก้ว
+e|july|The festival is in July.|เทศกาลอยู่ในเดือนกรกฎาคม
+e|jump|The children jumped into the pool.|เด็ก ๆ กระโดดลงสระ
+e|june|School ends in June.|โรงเรียนปิดเทอมเดือนมิถุนายน
+e|junior|He is a junior member of the team.|เขาเป็นสมาชิกรุ่นน้องของทีม
+e|junk|Stop eating junk food.|เลิกกินอาหารขยะได้แล้ว
+e|just|I just arrived.|ฉันเพิ่งมาถึง
+e|justice|They fought for justice.|พวกเขาต่อสู้เพื่อความยุติธรรม
+e|keep|Keep the change.|ไม่ต้องทอน
+e|kettle|Put the kettle on.|ตั้งกาต้มน้ำหน่อย
+e|key|I lost my key.|ฉันทำกุญแจหาย
+e|keyboard|My keyboard is broken.|คีย์บอร์ดของฉันพัง
+e|kick|He kicked the ball.|เขาเตะลูกบอล
+e|kid|My kids love swimming.|ลูก ๆ ของฉันชอบว่ายน้ำ
+e|kill|Smoking can kill you.|การสูบบุหรี่อาจทำให้คุณตายได้
+e|kilo|I bought a kilo of apples.|ฉันซื้อแอปเปิลหนึ่งกิโล
+e|kilogram|The bag weighs five kilograms.|กระเป๋าหนักห้ากิโลกรัม
+e|kilometre|The beach is two kilometres away.|ชายหาดอยู่ห่างสองกิโลเมตร
+e|king|The king gave a speech.|พระราชาทรงมีพระราชดำรัส
+e|kiss|She gave him a kiss.|เธอจูบเขา
+e|kitchen|My mother is in the kitchen.|แม่ของฉันอยู่ในครัว
+e|kitten|The kitten is sleeping.|ลูกแมวกำลังหลับ
+e|knee|I hurt my knee.|ฉันเจ็บเข่า
+e|knife|Be careful with the knife.|ระวังมีดด้วย
+e|knock|Please knock before you enter.|กรุณาเคาะประตูก่อนเข้า
+e|know|I don't know his name.|ฉันไม่รู้ชื่อเขา
+e|knowledge|Knowledge is power.|ความรู้คืออำนาจ
+e|lab|The experiment is done in the lab.|การทดลองทำในห้องแล็บ
+e|label|Read the label on the bottle.|อ่านฉลากบนขวด
+e|laboratory|The laboratory is on the second floor.|ห้องปฏิบัติการอยู่ชั้นสอง
+e|lack|There's a lack of water in the village.|หมู่บ้านขาดแคลนน้ำ
+e|ladder|He climbed the ladder.|เขาปีนบันได
+e|lady|That lady is my teacher.|คุณผู้หญิงคนนั้นเป็นครูของฉัน
+e|lake|We swam in the lake.|เราว่ายน้ำในทะเลสาบ
+e|lamp|Turn on the lamp, please.|เปิดโคมไฟหน่อย
+e|land|The plane will land soon.|เครื่องบินจะลงจอดเร็ว ๆ นี้
+e|landscape|The landscape is beautiful.|ทิวทัศน์สวยงาม
+e|lane|Stay in your lane.|อยู่ในเลนของคุณ
+e|language|English is a global language.|ภาษาอังกฤษเป็นภาษาสากล
+e|laptop|I work on my laptop.|ฉันทำงานบนแล็ปท็อป
+e|last|This is the last bus.|นี่เป็นรถบัสคันสุดท้าย
+e|late|I'm sorry I'm late.|ขอโทษที่มาสาย
+e|lately|I haven't seen him lately.|ช่วงนี้ฉันไม่ได้เจอเขา
+e|later|See you later!|แล้วเจอกันนะ
+e|laughter|We heard laughter from the room.|เราได้ยินเสียงหัวเราะจากห้อง
+e|laundry|I do the laundry on Sundays.|ฉันซักผ้าวันอาทิตย์
+e|law|It's against the law.|ผิดกฎหมาย
+e|lawn|He mows the lawn every week.|เขาตัดหญ้าทุกสัปดาห์
+e|lawyer|I need to talk to a lawyer.|ฉันต้องคุยกับทนายความ
+e|lay|Lay the book on the table.|วางหนังสือบนโต๊ะ
+e|layer|Put on another layer of clothes.|ใส่เสื้อเพิ่มอีกชั้น
+e|lead|She leads a team of ten.|เธอเป็นหัวหน้าทีมสิบคน
+e|leader|He is a natural leader.|เขาเป็นผู้นำโดยธรรมชาติ
+e|leaf|A leaf fell on my head.|ใบไม้ตกใส่หัวฉัน
+e|league|Our team is top of the league.|ทีมเราอยู่อันดับหนึ่งของลีก
+e|learn|I'm learning to cook.|ฉันกำลังเรียนทำอาหาร
+e|leather|He bought a leather jacket.|เขาซื้อแจ็กเก็ตหนัง
+e|leave|What time do you leave work?|คุณเลิกงานกี่โมง
+e|left|Turn left at the corner.|เลี้ยวซ้ายตรงหัวมุม
+e|leg|I hurt my leg.|ฉันเจ็บขา
+e|legal|Is it legal to park here?|จอดรถที่นี่ถูกกฎหมายไหม
+e|lemon|Add a slice of lemon.|ใส่มะนาวเหลืองหนึ่งชิ้น
+e|lend|Can you lend me some money?|ขอยืมเงินหน่อยได้ไหม
+e|length|What's the length of the room?|ห้องยาวเท่าไหร่
+e|less|Eat less sugar.|กินน้ำตาลให้น้อยลง
+e|lesson|I have an English lesson today.|วันนี้ฉันมีเรียนภาษาอังกฤษ
+e|let|Let me help you.|ให้ฉันช่วยคุณ
+e|letter|I wrote her a letter.|ฉันเขียนจดหมายถึงเธอ
+e|lettuce|Add some lettuce to the sandwich.|ใส่ผักกาดหอมในแซนด์วิชหน่อย
+e|level|What's your English level?|ภาษาอังกฤษของคุณระดับไหน
+e|library|I study at the library.|ฉันอ่านหนังสือที่ห้องสมุด
+e|licence|You need a licence to drive.|คุณต้องมีใบขับขี่จึงขับรถได้
+e|lick|The dog licked my hand.|หมาเลียมือฉัน
+e|lid|Put the lid on the pot.|ปิดฝาหม้อ
+e|lie|Don't lie to me.|อย่าโกหกฉัน
+e|life|Life is short.|ชีวิตสั้นนัก
+e|lift|Can you help me lift this box?|ช่วยฉันยกกล่องนี้หน่อยได้ไหม
+e|light|Turn on the light.|เปิดไฟ
+e|likely|It's likely to rain tonight.|คืนนี้มีแนวโน้มฝนตก
+e|limit|The speed limit is 60.|จำกัดความเร็ว 60
+e|limited|The offer is for a limited time.|ข้อเสนอนี้มีเวลาจำกัด
+e|line|Please stand in line.|กรุณายืนต่อแถว
+e|link|Click on the link.|คลิกที่ลิงก์
+e|lion|The lion is the king of the jungle.|สิงโตเป็นราชาแห่งป่า
+e|lip|She put lipstick on her lips.|เธอทาลิปสติกที่ริมฝีปาก
+e|liquid|Water is a liquid.|น้ำเป็นของเหลว
+e|list|Make a shopping list.|ทำรายการซื้อของ
+e|listen|Listen carefully.|ฟังให้ดี
+e|literature|She studies English literature.|เธอเรียนวรรณกรรมอังกฤษ
+e|litre|Buy a litre of milk.|ซื้อนมหนึ่งลิตร
+e|litter|Please don't drop litter.|กรุณาอย่าทิ้งขยะ
+e|live|I live in Bangkok.|ฉันอยู่กรุงเทพฯ
+e|load|I need to load the dishwasher.|ฉันต้องเรียงจานเข้าเครื่องล้างจาน
+e|loaf|He bought a loaf of bread.|เขาซื้อขนมปังหนึ่งก้อน
+e|loan|He took out a loan to buy a car.|เขากู้เงินซื้อรถ
+e|local|Try the local food.|ลองอาหารท้องถิ่นดู
+e|location|The location of the hotel is perfect.|ทำเลของโรงแรมสมบูรณ์แบบ
+e|lock|Don't forget to lock the door.|อย่าลืมล็อกประตู
+e|long|It's a long way.|เป็นทางที่ไกล
+e|loose|These pants are too loose.|กางเกงตัวนี้หลวมเกินไป
+e|lorry|A lorry blocked the road.|รถบรรทุกขวางถนน
+e|lose|Don't lose your ticket.|อย่าทำตั๋วหาย
+e|loss|The company reported a loss.|บริษัทแจ้งผลขาดทุน
+e|lost|I'm lost. Can you help me?|ฉันหลงทาง ช่วยหน่อยได้ไหม
+e|lot|Thank you a lot.|ขอบคุณมาก
+e|low|The prices are very low.|ราคาต่ำมาก
+e|lower|Please lower your voice.|กรุณาเบาเสียงลง
+e|luck|Good luck!|โชคดีนะ
+e|lucky|I'm lucky to have good friends.|ฉันโชคดีที่มีเพื่อนดี ๆ
+e|lunch|What did you have for lunch?|คุณกินอะไรเป็นอาหารกลางวัน
+e|machine|The machine is out of order.|เครื่องเสีย
+e|magazine|I read a fashion magazine.|ฉันอ่านนิตยสารแฟชั่น
+e|magic|The children loved the magic show.|เด็ก ๆ ชอบการแสดงมายากล
+e|mail|Check your mail.|เช็กจดหมายของคุณ
+e|main|The main street is busy.|ถนนสายหลักคึกคัก
+e|mainly|The tourists are mainly from Europe.|นักท่องเที่ยวส่วนใหญ่มาจากยุโรป
+e|majority|The majority of people agreed.|คนส่วนใหญ่เห็นด้วย
+e|male|The male lion has a large mane.|สิงโตตัวผู้มีแผงคอใหญ่
+e|mall|Let's go to the mall.|ไปห้างกันเถอะ
+e|man|The man is waiting outside.|ผู้ชายคนนั้นรออยู่ข้างนอก
+e|manage|Can you manage on your own?|คุณจัดการเองได้ไหม
+e|management|She works in management.|เธอทำงานด้านการบริหาร
+e|manner|Please behave in a polite manner.|กรุณาประพฤติตัวอย่างสุภาพ
+e|map|Do you have a map of the city?|คุณมีแผนที่เมืองไหม
+e|mark|Mark the answer with a pen.|ทำเครื่องหมายคำตอบด้วยปากกา
+e|market|We bought fruit at the market.|เราซื้อผลไม้ที่ตลาด
+e|marriage|They had a happy marriage.|พวกเขามีชีวิตแต่งงานที่มีความสุข
+e|married|They have been married for ten years.|พวกเขาแต่งงานกันมาสิบปีแล้ว
+e|marry|She wants to marry him.|เธอต้องการแต่งงานกับเขา
+e|match|Our team won the match.|ทีมเราชนะการแข่งขัน
+e|material|What material is this made of?|นี่ทำจากวัสดุอะไร
+e|math|Math is my favorite subject.|คณิตศาสตร์เป็นวิชาที่ฉันชอบที่สุด
+e|mathematics|He studied mathematics at university.|เขาเรียนคณิตศาสตร์ที่มหาวิทยาลัย
+e|maths|I'm good at maths.|ฉันเก่งเลข
+e|matter|It doesn't matter.|ไม่เป็นไร
+e|maximum|The maximum speed is 120.|ความเร็วสูงสุดคือ 120
+e|may|It may rain later.|เดี๋ยวฝนอาจตก
+e|maybe|Maybe we should go home.|บางทีเราควรกลับบ้านกันนะ
+e|mayor|The mayor opened the new park.|นายกเทศมนตรีเปิดสวนสาธารณะแห่งใหม่
+e|meal|The meal was delicious.|อาหารมื้อนี้อร่อยมาก
+e|mean|What does this word mean?|คำนี้หมายความว่าอะไร
+e|meaning|What's the meaning of this word?|คำนี้มีความหมายว่าอะไร
+e|meanwhile|Cook the rice. Meanwhile, I'll chop the vegetables.|หุงข้าวไป ระหว่างนั้นฉันจะหั่นผัก
+e|measure|Measure the table before you buy a cloth.|วัดโต๊ะก่อนซื้อผ้าปู

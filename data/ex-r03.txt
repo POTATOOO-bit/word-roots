@@ -1,0 +1,484 @@
+e|measurement|The measurement of the room was five metres.|ขนาดของห้องคือห้าเมตร
+e|meat|I don't eat much meat.|ฉันกินเนื้อสัตว์ไม่มาก
+e|medal|She won a gold medal.|เธอได้เหรียญทอง
+e|media|The media reported the news quickly.|สื่อรายงานข่าวอย่างรวดเร็ว
+e|medicine|Take this medicine twice a day.|กินยานี้วันละสองครั้ง
+e|medium|I'd like a medium coffee.|ขอกาแฟขนาดกลางหนึ่งแก้ว
+e|meet|Let's meet at the station.|เจอกันที่สถานีนะ
+e|meeting|The meeting starts at nine.|การประชุมเริ่มเก้าโมง
+e|member|He is a member of the club.|เขาเป็นสมาชิกของชมรม
+e|membership|Membership is free for students.|นักเรียนเป็นสมาชิกฟรี
+e|memory|I have a good memory for faces.|ฉันจำใบหน้าได้ดี
+e|mental|Sleep is good for your mental health.|การนอนดีต่อสุขภาพจิต
+e|menu|Can I see the menu, please?|ขอดูเมนูหน่อยได้ไหม
+e|mess|Your room is a mess.|ห้องของเธอรกมาก
+e|metal|The door is made of metal.|ประตูนี้ทำจากโลหะ
+e|method|This method is quick and easy.|วิธีนี้เร็วและง่าย
+e|metre|The pool is fifty metres long.|สระว่ายน้ำยาวห้าสิบเมตร
+e|microwave|Heat the soup in the microwave.|อุ่นซุปในไมโครเวฟ
+e|middle|He stood in the middle of the road.|เขายืนอยู่กลางถนน
+e|midnight|We got home at midnight.|เรากลับถึงบ้านตอนเที่ยงคืน
+e|mile|The shop is a mile from here.|ร้านอยู่ห่างจากที่นี่หนึ่งไมล์
+e|military|He joined the military at eighteen.|เขาเข้ากองทัพตอนอายุสิบแปด
+e|milk|Do you want milk in your tea?|ใส่นมในชาไหม
+e|mind|Do you mind if I open the window?|ขอเปิดหน้าต่างได้ไหม
+e|minimum|The minimum age is sixteen.|อายุขั้นต่ำคือสิบหกปี
+e|minority|Only a minority of people agreed.|มีเพียงคนกลุ่มน้อยที่เห็นด้วย
+e|minute|Wait a minute, please.|รอสักครู่นะคะ
+e|mirror|She looked in the mirror.|เธอมองกระจก
+e|miserable|He felt miserable in the rain.|เขารู้สึกแย่ตอนฝนตก
+e|miss|I miss my family.|ฉันคิดถึงครอบครัว
+e|mix|Mix the eggs and flour.|ผสมไข่กับแป้งเข้าด้วยกัน
+e|mixture|Pour the mixture into a pan.|เทส่วนผสมลงในกระทะ
+e|mobile|My mobile is out of battery.|มือถือฉันแบตหมด
+e|model|She works as a model.|เธอทำงานเป็นนางแบบ
+e|mom|My mom cooks very well.|แม่ฉันทำอาหารเก่งมาก
+e|moment|Just a moment, please.|รอสักครู่นะ
+e|mommy|The child called for his mommy.|เด็กเรียกหาแม่
+e|monday|I work on Monday.|ฉันทำงานวันจันทร์
+e|money|I don't have enough money.|ฉันมีเงินไม่พอ
+e|monkey|The monkey ate a banana.|ลิงกินกล้วย
+e|month|I'll see you next month.|เจอกันเดือนหน้านะ
+e|mood|He's in a good mood today.|วันนี้เขาอารมณ์ดี
+e|moon|The moon is bright tonight.|คืนนี้ดวงจันทร์สว่าง
+e|morning|I run every morning.|ฉันวิ่งทุกเช้า
+e|mostly|The students are mostly girls.|นักเรียนส่วนใหญ่เป็นผู้หญิง
+e|mother|My mother is a teacher.|แม่ของฉันเป็นครู
+e|motorway|We drove on the motorway.|เราขับรถบนทางด่วน
+e|mountain|We climbed the mountain.|เราปีนภูเขา
+e|mouse|A mouse ran across the floor.|หนูวิ่งผ่านพื้นห้อง
+e|moustache|My grandfather has a white moustache.|ปู่ของฉันมีหนวดสีขาว
+e|mouth|Open your mouth, please.|อ้าปากหน่อยครับ
+e|mum|My mum is at work.|แม่ฉันอยู่ที่ทำงาน
+e|mummy|The baby wants her mummy.|ทารกอยากได้แม่
+e|murder|The police are investigating the murder.|ตำรวจกำลังสอบสวนคดีฆาตกรรม
+e|muscle|He has strong muscles.|เขามีกล้ามเนื้อแข็งแรง
+e|museum|We visited the museum on Sunday.|เราไปพิพิธภัณฑ์วันอาทิตย์
+e|mushroom|I like mushroom soup.|ฉันชอบซุปเห็ด
+e|music|She listens to music all day.|เธอฟังเพลงทั้งวัน
+e|musician|He is a talented musician.|เขาเป็นนักดนตรีที่มีพรสวรรค์
+e|mystery|Her disappearance is still a mystery.|การหายตัวไปของเธอยังเป็นปริศนา
+e|myth|That's just a myth.|นั่นเป็นแค่ตำนาน
+e|nail|She painted her nails red.|เธอทาเล็บสีแดง
+e|naked|The baby was naked in the bath.|เด็กทารกเปลือยกายอยู่ในอ่างอาบน้ำ
+e|name|What's your name?|คุณชื่ออะไร
+e|narrow|The street is very narrow.|ถนนแคบมาก
+e|nasty|That was a nasty surprise.|นั่นเป็นเรื่องเซอร์ไพรส์ที่ไม่น่าพิสมัย
+e|near|Is there a bank near here?|แถวนี้มีธนาคารไหม
+e|nearby|There is a cafe nearby.|มีร้านกาแฟอยู่ใกล้ ๆ
+e|nearly|It's nearly ten o'clock.|เกือบสิบโมงแล้ว
+e|necessarily|Expensive things aren't necessarily good.|ของแพงไม่จำเป็นต้องดีเสมอไป
+e|necessary|Is it necessary to book a table?|จำเป็นต้องจองโต๊ะไหม
+e|neck|My neck hurts.|คอฉันเจ็บ
+e|necklace|She wore a gold necklace.|เธอสวมสร้อยคอทอง
+e|negative|He has a negative attitude.|เขามีทัศนคติเชิงลบ
+e|neighbour|My neighbour has a big dog.|เพื่อนบ้านฉันมีหมาตัวใหญ่
+e|nephew|My nephew is five years old.|หลานชายของฉันอายุห้าขวบ
+e|net|The ball hit the net.|ลูกบอลชนตาข่าย
+e|network|The Wi-Fi network is down.|เครือข่ายไวไฟใช้ไม่ได้
+e|never|I have never been to Japan.|ฉันไม่เคยไปญี่ปุ่น
+e|news|I have good news for you.|ฉันมีข่าวดีมาบอก
+e|newspaper|He reads the newspaper every morning.|เขาอ่านหนังสือพิมพ์ทุกเช้า
+e|next|See you next week.|เจอกันสัปดาห์หน้า
+e|nice|It was a nice day.|เป็นวันที่ดี
+e|niece|My niece loves drawing.|หลานสาวของฉันชอบวาดรูป
+e|night|I sleep well at night.|ฉันนอนหลับดีตอนกลางคืน
+e|ninth|Today is the ninth of May.|วันนี้เป็นวันที่เก้าพฤษภาคม
+e|noise|Stop making so much noise!|เลิกส่งเสียงดังได้แล้ว
+e|noon|We eat lunch at noon.|เรากินข้าวเที่ยงตอนเที่ยงวัน
+e|normally|I normally wake up at six.|ปกติฉันตื่นหกโมง
+e|north|The wind is coming from the north.|ลมพัดมาจากทิศเหนือ
+e|northern|She lives in northern Thailand.|เธออาศัยอยู่ภาคเหนือของไทย
+e|nose|He has a runny nose.|เขาน้ำมูกไหล
+e|note|I left you a note on the table.|ฉันทิ้งโน้ตไว้ให้บนโต๊ะ
+e|notebook|Write it in your notebook.|จดลงในสมุดของเธอ
+e|noun|"Dog" is a noun.|"dog" เป็นคำนาม
+e|novel|She is writing a novel.|เธอกำลังเขียนนวนิยาย
+e|november|My birthday is in November.|วันเกิดฉันอยู่เดือนพฤศจิกายน
+e|now|I'm busy right now.|ตอนนี้ฉันยุ่งอยู่
+e|nowhere|There is nowhere to sit.|ไม่มีที่ให้นั่งเลย
+e|number|What's your phone number?|เบอร์โทรของคุณคืออะไร
+e|nurse|The nurse took my temperature.|พยาบาลวัดไข้ให้ฉัน
+e|nut|I'm allergic to nuts.|ฉันแพ้ถั่ว
+e|obey|Children must obey their parents.|เด็กต้องเชื่อฟังพ่อแม่
+e|obvious|The answer is obvious.|คำตอบชัดเจนมาก
+e|obviously|He was obviously tired.|เห็นได้ชัดว่าเขาเหนื่อย
+e|occasion|Wear something nice for the occasion.|ใส่ชุดสวย ๆ ไปงานนี้นะ
+e|occasionally|We occasionally eat out.|เรากินข้าวนอกบ้านเป็นครั้งคราว
+e|occupation|Please write your occupation here.|กรุณาเขียนอาชีพของคุณที่นี่
+e|ocean|They sailed across the ocean.|พวกเขาล่องเรือข้ามมหาสมุทร
+e|o'clock|The film starts at eight o'clock.|หนังเริ่มแปดโมง
+e|october|School starts again in October.|โรงเรียนเปิดอีกครั้งเดือนตุลาคม
+e|offence|Parking here is an offence.|การจอดรถที่นี่ผิดกฎหมาย
+e|office|My office is on the third floor.|ออฟฟิศฉันอยู่ชั้นสาม
+e|officer|A police officer stopped the car.|เจ้าหน้าที่ตำรวจสั่งให้รถจอด
+e|official|The official language is Thai.|ภาษาทางการคือภาษาไทย
+e|often|I often walk to work.|ฉันมักเดินไปทำงาน
+e|oil|Heat the oil in a pan.|ตั้งน้ำมันในกระทะ
+e|old-fashioned|My grandmother has old-fashioned ideas.|คุณยายมีความคิดล้าสมัย
+e|once|I go there once a week.|ฉันไปที่นั่นสัปดาห์ละครั้ง
+e|onion|Cut the onion into small pieces.|หั่นหัวหอมเป็นชิ้นเล็ก ๆ
+e|online|I bought the shoes online.|ฉันซื้อรองเท้าทางออนไลน์
+e|open|Please open the door.|ช่วยเปิดประตูหน่อย
+e|operate|Do you know how to operate this machine?|คุณรู้วิธีใช้เครื่องนี้ไหม
+e|operation|He had an operation on his knee.|เขาผ่าตัดหัวเข่า
+e|opposite|The bank is opposite the school.|ธนาคารอยู่ตรงข้ามโรงเรียน
+e|option|You have two options.|คุณมีสองตัวเลือก
+e|orange|I drink orange juice every day.|ฉันดื่มน้ำส้มทุกวัน
+e|ordinary|It was just an ordinary day.|เป็นแค่วันธรรมดาวันหนึ่ง
+e|organization|She works for a charity organization.|เธอทำงานให้องค์กรการกุศล
+e|origin|What is the origin of this word?|คำนี้มีต้นกำเนิดมาจากไหน
+e|original|This is the original painting.|นี่คือภาพวาดต้นฉบับ
+e|originally|He originally came from Chiang Mai.|เดิมทีเขามาจากเชียงใหม่
+e|otherwise|Hurry up, otherwise we'll be late.|เร็วเข้า ไม่งั้นเราจะสาย
+e|ounce|The bag weighs four ounces.|ถุงนี้หนักสี่ออนซ์
+e|outside|Let's play outside.|ไปเล่นข้างนอกกันเถอะ
+e|oven|Bake it in the oven for 20 minutes.|อบในเตาอบยี่สิบนาที
+e|owe|I owe you ten dollars.|ฉันเป็นหนี้คุณสิบดอลลาร์
+e|owner|Who is the owner of this car?|ใครเป็นเจ้าของรถคันนี้
+e|pack|I need to pack my bag.|ฉันต้องเก็บของใส่กระเป๋า
+e|package|A package arrived this morning.|พัสดุมาถึงเมื่อเช้านี้
+e|packet|He bought a packet of biscuits.|เขาซื้อบิสกิตหนึ่งซอง
+e|page|Turn to page ten.|เปิดไปหน้าสิบ
+e|pain|I have a pain in my back.|ฉันปวดหลัง
+e|painful|My leg is very painful.|ขาฉันเจ็บมาก
+e|paint|We will paint the walls white.|เราจะทาผนังสีขาว
+e|painting|That painting is beautiful.|ภาพวาดนั้นสวยมาก
+e|pair|I need a new pair of shoes.|ฉันต้องการรองเท้าคู่ใหม่
+e|pan|Fry the eggs in a pan.|ทอดไข่ในกระทะ
+e|pancake|I had pancakes for breakfast.|ฉันกินแพนเค้กเป็นมื้อเช้า
+e|pants|These pants are too long.|กางเกงตัวนี้ยาวเกินไป
+e|paper|Can I have a piece of paper?|ขอกระดาษแผ่นหนึ่งได้ไหม
+e|parent|Both my parents work.|พ่อแม่ฉันทำงานทั้งคู่
+e|park|We walked in the park.|เราเดินเล่นในสวนสาธารณะ
+e|parking|There is free parking here.|ที่นี่จอดรถฟรี
+e|parliament|Parliament voted on the new law.|รัฐสภาลงมติกฎหมายใหม่
+e|part|This is the best part of the film.|นี่คือส่วนที่ดีที่สุดของหนัง
+e|particular|I'm looking for a particular book.|ฉันกำลังหาหนังสือเล่มหนึ่งโดยเฉพาะ
+e|particularly|I'm particularly fond of dogs.|ฉันชอบหมาเป็นพิเศษ
+e|partly|The road was partly blocked.|ถนนถูกปิดกั้นบางส่วน
+e|partner|She came with her partner.|เธอมากับคู่ของเธอ
+e|party|We're having a party on Saturday.|เราจะมีปาร์ตี้วันเสาร์
+e|pass|Can you pass me the salt?|ส่งเกลือให้หน่อยได้ไหม
+e|passenger|The passenger got off the bus.|ผู้โดยสารลงจากรถบัส
+e|password|Don't share your password.|อย่าบอกรหัสผ่านให้ใคร
+e|past|In the past, I lived in Phuket.|ในอดีตฉันเคยอยู่ภูเก็ต
+e|pasta|We had pasta for dinner.|เรากินพาสต้าเป็นมื้อเย็น
+e|path|Follow the path to the lake.|เดินตามทางไปที่ทะเลสาบ
+e|patient|The doctor is with a patient.|หมอกำลังตรวจผู้ป่วยอยู่
+e|pattern|The shirt has a flower pattern.|เสื้อตัวนี้มีลายดอกไม้
+e|pause|He paused before answering.|เขาหยุดนิดหนึ่งก่อนตอบ
+e|pay|How would you like to pay?|คุณจะจ่ายเงินแบบไหน
+e|pea|I don't like peas.|ฉันไม่ชอบถั่วลันเตา
+e|peace|They want to live in peace.|พวกเขาอยากอยู่อย่างสงบสุข
+e|peach|This peach is very sweet.|ลูกพีชนี้หวานมาก
+e|peanut|She ate a bag of peanuts.|เธอกินถั่วลิสงไปหนึ่งถุง
+e|pear|I'd like a pear, please.|ขอลูกแพร์หนึ่งลูก
+e|pen|Can I borrow your pen?|ขอยืมปากกาหน่อยได้ไหม
+e|pencil|Write it in pencil.|เขียนด้วยดินสอ
+e|penny|I haven't got a penny.|ฉันไม่มีเงินสักเพนนี
+e|people|Many people came to the party.|คนมางานปาร์ตี้เยอะมาก
+e|pepper|Add some salt and pepper.|ใส่เกลือกับพริกไทยหน่อย
+e|perfectly|She speaks English perfectly.|เธอพูดภาษาอังกฤษได้อย่างสมบูรณ์แบบ
+e|performance|The performance lasted two hours.|การแสดงยาวสองชั่วโมง
+e|perhaps|Perhaps he is at home.|บางทีเขาอาจอยู่บ้าน
+e|period|I studied there for a short period.|ฉันเรียนที่นั่นช่วงสั้น ๆ
+e|permanent|He has a permanent job now.|ตอนนี้เขามีงานประจำแล้ว
+e|person|She is a very kind person.|เธอเป็นคนใจดีมาก
+e|personality|He has a great personality.|เขามีบุคลิกที่ดีมาก
+e|personally|Personally, I prefer tea.|ส่วนตัวแล้วฉันชอบชามากกว่า
+e|persuade|I tried to persuade him to stay.|ฉันพยายามโน้มน้าวให้เขาอยู่ต่อ
+e|pet|Do you have a pet?|คุณเลี้ยงสัตว์ไหม
+e|petrol|We need to buy some petrol.|เราต้องไปเติมน้ำมัน
+e|pharmacy|The pharmacy closes at nine.|ร้านขายยาปิดเก้าโมง
+e|philosophy|He studies philosophy at university.|เขาเรียนปรัชญาที่มหาวิทยาลัย
+e|photo|Can I take a photo of you?|ขอถ่ายรูปคุณได้ไหม
+e|phrase|Learn this useful phrase.|ลองจำวลีที่มีประโยชน์นี้
+e|physics|Physics is my favourite subject.|ฟิสิกส์เป็นวิชาโปรดของฉัน
+e|piano|She plays the piano.|เธอเล่นเปียโน
+e|picnic|We had a picnic by the river.|เราปิกนิกริมแม่น้ำ
+e|picture|She drew a picture of a cat.|เธอวาดรูปแมว
+e|pie|My mother makes great apple pie.|แม่ฉันทำพายแอปเปิลอร่อยมาก
+e|piece|Would you like a piece of cake?|เอาเค้กสักชิ้นไหม
+e|pig|The farmer has ten pigs.|ชาวนามีหมูสิบตัว
+e|pile|There is a pile of books on my desk.|มีหนังสือกองหนึ่งบนโต๊ะฉัน
+e|pill|Take one pill after lunch.|กินยาหนึ่งเม็ดหลังอาหารเที่ยง
+e|pillow|I need a softer pillow.|ฉันอยากได้หมอนที่นุ่มกว่านี้
+e|pilot|The pilot spoke to the passengers.|นักบินพูดกับผู้โดยสาร
+e|pin|She fixed the paper with a pin.|เธอใช้เข็มหมุดตรึงกระดาษ
+e|pink|She wore a pink dress.|เธอใส่ชุดสีชมพู
+e|pipe|The water pipe is broken.|ท่อน้ำแตก
+e|pizza|Let's order a pizza.|สั่งพิซซ่ากันเถอะ
+e|place|This is a nice place.|ที่นี่เป็นที่ที่ดีเลย
+e|plain|She wore a plain white shirt.|เธอใส่เสื้อเชิ้ตสีขาวเรียบ ๆ
+e|plane|The plane lands at noon.|เครื่องบินลงตอนเที่ยง
+e|planet|Earth is a planet.|โลกเป็นดาวเคราะห์ดวงหนึ่ง
+e|plant|Water the plants every day.|รดน้ำต้นไม้ทุกวัน
+e|plastic|Don't use plastic bags.|อย่าใช้ถุงพลาสติก
+e|plate|Put the food on the plate.|วางอาหารบนจาน
+e|play|The children play in the garden.|เด็ก ๆ เล่นในสวน
+e|player|He is a famous football player.|เขาเป็นนักฟุตบอลชื่อดัง
+e|playground|The kids are in the playground.|เด็ก ๆ อยู่ที่สนามเด็กเล่น
+e|pleasure|It was a pleasure to meet you.|ยินดีที่ได้พบคุณ
+e|plug|Plug the phone into the charger.|เสียบมือถือเข้ากับที่ชาร์จ
+e|plural|The plural of "child" is "children".|พหูพจน์ของ "child" คือ "children"
+e|pocket|He put the keys in his pocket.|เขาใส่กุญแจในกระเป๋ากางเกง
+e|poem|She wrote a poem for him.|เธอเขียนบทกวีให้เขา
+e|poet|The poet read his work aloud.|กวีอ่านผลงานของเขาออกเสียง
+e|poetry|I enjoy reading poetry.|ฉันชอบอ่านกวีนิพนธ์
+e|point|Point to the right answer.|ชี้ไปที่คำตอบที่ถูก
+e|pole|The flag is on a tall pole.|ธงอยู่บนเสาสูง
+e|police|Call the police!|เรียกตำรวจ
+e|policeman|The policeman helped us find the way.|ตำรวจช่วยเราหาทาง
+e|policy|The company has a new policy.|บริษัทมีนโยบายใหม่
+e|polish|Polish your shoes before the interview.|ขัดรองเท้าก่อนไปสัมภาษณ์
+e|political|He has strong political views.|เขามีความเห็นทางการเมืองที่หนักแน่น
+e|politician|The politician made a speech.|นักการเมืองกล่าวสุนทรพจน์
+e|politics|I'm not interested in politics.|ฉันไม่สนใจการเมือง
+e|pool|The kids are swimming in the pool.|เด็ก ๆ ว่ายน้ำอยู่ในสระ
+e|popcorn|We ate popcorn at the cinema.|เรากินป๊อปคอร์นที่โรงหนัง
+e|population|The population of the city is growing.|ประชากรของเมืองกำลังเพิ่มขึ้น
+e|porch|We sat on the porch.|เรานั่งที่ระเบียงหน้าบ้าน
+e|pork|I don't eat pork.|ฉันไม่กินเนื้อหมู
+e|port|The ship arrived at the port.|เรือมาถึงท่าเรือ
+e|possibility|There is a possibility of rain.|มีความเป็นไปได้ที่ฝนจะตก
+e|possibly|Could you possibly help me?|คุณพอจะช่วยฉันได้ไหม
+e|post|I'll post the letter today.|วันนี้ฉันจะส่งจดหมาย
+e|postcard|She sent me a postcard from Rome.|เธอส่งโปสการ์ดจากโรมมาให้ฉัน
+e|poster|There is a poster on the wall.|มีโปสเตอร์ติดอยู่บนผนัง
+e|pot|Put the rice in the pot.|ใส่ข้าวลงในหม้อ
+e|potato|I'd like some potato salad.|ขอสลัดมันฝรั่งหน่อย
+e|potential|She has great potential.|เธอมีศักยภาพสูง
+e|pound|The book costs ten pounds.|หนังสือเล่มนี้ราคาสิบปอนด์
+e|pour|Pour some water into the glass.|รินน้ำใส่แก้วหน่อย
+e|power|The power went out last night.|ไฟดับเมื่อคืน
+e|practical|He gave me some practical advice.|เขาให้คำแนะนำที่ใช้ได้จริงแก่ฉัน
+e|practice|I need more practice.|ฉันต้องฝึกให้มากกว่านี้
+e|practise|I practise English every day.|ฉันฝึกภาษาอังกฤษทุกวัน
+e|praise|The teacher praised her work.|ครูชมงานของเธอ
+e|prayer|They said a prayer before dinner.|พวกเขาสวดมนต์ก่อนมื้อเย็น
+e|preposition|"In" is a preposition.|"in" เป็นคำบุพบท
+e|president|The president gave a speech.|ประธานาธิบดีกล่าวสุนทรพจน์
+e|previously|She previously worked in a bank.|ก่อนหน้านี้เธอเคยทำงานที่ธนาคาร
+e|price|What is the price of this bag?|กระเป๋าใบนี้ราคาเท่าไหร่
+e|pride|He felt pride in his son.|เขาภูมิใจในลูกชาย
+e|priest|The priest spoke to the crowd.|พระ/นักบวชพูดกับผู้คน
+e|prince|The prince lives in a castle.|เจ้าชายอาศัยอยู่ในปราสาท
+e|princess|The princess wore a crown.|เจ้าหญิงสวมมงกุฎ
+e|principle|I never lie, it's a matter of principle.|ฉันไม่โกหก เป็นเรื่องของหลักการ
+e|print|Please print this page.|ช่วยพิมพ์หน้านี้หน่อย
+e|printer|The printer is out of paper.|เครื่องพิมพ์กระดาษหมด
+e|prison|He spent five years in prison.|เขาติดคุกห้าปี
+e|prisoner|The prisoner escaped last night.|นักโทษหนีออกไปเมื่อคืน
+e|private|This is a private room.|นี่คือห้องส่วนตัว
+e|prize|She won first prize.|เธอได้รางวัลที่หนึ่ง
+e|probably|It will probably rain tomorrow.|พรุ่งนี้ฝนน่าจะตก
+e|process|Learning a language is a slow process.|การเรียนภาษาเป็นกระบวนการที่ช้า
+e|producer|He is a film producer.|เขาเป็นโปรดิวเซอร์ภาพยนตร์
+e|professor|The professor teaches history.|ศาสตราจารย์สอนประวัติศาสตร์
+e|profit|The shop made a big profit.|ร้านทำกำไรได้มาก
+e|programme|I like this TV programme.|ฉันชอบรายการทีวีนี้
+e|pronunciation|Your pronunciation is very clear.|การออกเสียงของคุณชัดมาก
+e|proper|You need proper shoes for hiking.|คุณต้องมีรองเท้าที่เหมาะสมสำหรับเดินป่า
+e|properly|Close the door properly.|ปิดประตูให้เรียบร้อย
+e|property|Private property: keep out.|ทรัพย์สินส่วนบุคคล ห้ามเข้า
+e|protection|Wear a hat for protection from the sun.|สวมหมวกเพื่อป้องกันแดด
+e|prove|Can you prove it?|คุณพิสูจน์ได้ไหม
+e|pub|We met at the pub.|เรานัดเจอกันที่ผับ
+e|public|The park is open to the public.|สวนนี้เปิดให้คนทั่วไปเข้า
+e|publish|The company publishes children's books.|บริษัทนี้ตีพิมพ์หนังสือเด็ก
+e|pudding|We had chocolate pudding.|เรากินพุดดิ้งช็อกโกแลต
+e|pull|Pull the door, don't push.|ดึงประตู อย่าผลัก
+e|punch|He punched the wall.|เขาต่อยผนัง
+e|punishment|Lying should not be a punishment.|การโกหกไม่ควรเป็นเรื่องที่ต้องถูกลงโทษ
+e|pupil|The pupils are in class.|นักเรียนอยู่ในห้องเรียน
+e|puppy|The puppy is sleeping.|ลูกสุนัขกำลังนอนหลับ
+e|pure|This is pure gold.|นี่คือทองคำบริสุทธิ์
+e|purple|She has a purple bag.|เธอมีกระเป๋าสีม่วง
+e|purse|She took money from her purse.|เธอหยิบเงินจากกระเป๋าสตางค์
+e|push|Push the button.|กดปุ่ม
+e|put|Put your bag on the chair.|วางกระเป๋าไว้บนเก้าอี้
+e|puzzle|The children are doing a puzzle.|เด็ก ๆ กำลังต่อจิ๊กซอว์
+e|quantity|Buy a large quantity of rice.|ซื้อข้าวในปริมาณมาก
+e|quarter|It's a quarter past two.|ตอนนี้บ่ายสองโมงสิบห้า
+e|queen|The queen waved to the crowd.|ราชินีโบกมือให้ฝูงชน
+e|quietly|Please speak quietly.|กรุณาพูดเบา ๆ
+e|quiz|We had a quiz in class today.|วันนี้เรามีควิซในห้องเรียน
+e|rabbit|The rabbit eats carrots.|กระต่ายกินแครอท
+e|race|He won the race.|เขาชนะการแข่งขัน
+e|radio|I listen to the radio in the car.|ฉันฟังวิทยุในรถ
+e|rail|Hold the rail on the stairs.|จับราวบันได
+e|railway|The railway station is near.|สถานีรถไฟอยู่ใกล้ ๆ
+e|rain|I love the sound of rain.|ฉันชอบเสียงฝน
+e|rainy|It's a rainy day.|วันนี้ฝนตก
+e|raise|Raise your hand if you know.|ยกมือขึ้นถ้ารู้คำตอบ
+e|range|The shop has a wide range of shoes.|ร้านนี้มีรองเท้าให้เลือกหลากหลาย
+e|rank|He holds a high rank in the army.|เขามียศสูงในกองทัพ
+e|rare|This bird is very rare.|นกชนิดนี้หายากมาก
+e|rarely|We rarely go out at night.|เราแทบไม่ออกไปข้างนอกตอนกลางคืน
+e|raspberry|I put raspberry jam on my toast.|ฉันทาแยมราสเบอร์รีบนขนมปัง
+e|rate|The rate of change is fast.|อัตราการเปลี่ยนแปลงสูงมาก
+e|raw|Don't eat raw meat.|อย่ากินเนื้อดิบ
+e|reach|I can't reach the top shelf.|ฉันเอื้อมไม่ถึงชั้นบนสุด
+e|reaction|What was his reaction?|เขาตอบสนองอย่างไร
+e|read|I read a book every week.|ฉันอ่านหนังสือทุกสัปดาห์
+e|reader|She is a fast reader.|เธออ่านหนังสือเร็ว
+e|reading|Reading is my hobby.|การอ่านเป็นงานอดิเรกของฉัน
+e|ready|Are you ready to go?|พร้อมจะไปหรือยัง
+e|real|Is this real gold?|นี่ทองแท้ไหม
+e|reason|What's the reason for the delay?|อะไรคือสาเหตุที่ล่าช้า
+e|recent|Have you seen his recent film?|คุณดูหนังเรื่องล่าสุดของเขาหรือยัง
+e|recipe|Can I have the recipe?|ขอสูตรอาหารได้ไหม
+e|recommend|Can you recommend a good hotel?|แนะนำโรงแรมดี ๆ ได้ไหม
+e|record|Keep a record of what you spend.|จดบันทึกว่าคุณใช้จ่ายอะไรไปบ้าง
+e|recover|He is recovering from a cold.|เขากำลังฟื้นจากอาการหวัด
+e|rectangle|Draw a rectangle on the paper.|วาดสี่เหลี่ยมผืนผ้าบนกระดาษ
+e|red|She wore a red hat.|เธอใส่หมวกสีแดง
+e|reduction|There is a 20% reduction in price.|ราคาลดลง 20 เปอร์เซ็นต์
+e|refrigerator|Put the milk in the refrigerator.|เก็บนมไว้ในตู้เย็น
+e|refuse|He refused to help.|เขาปฏิเสธที่จะช่วย
+e|region|It's a very hot region.|เป็นภูมิภาคที่ร้อนมาก
+e|regional|Each area has regional food.|แต่ละพื้นที่มีอาหารท้องถิ่นของตัวเอง
+e|regular|I'm a regular customer here.|ฉันเป็นลูกค้าประจำที่นี่
+e|regularly|She exercises regularly.|เธอออกกำลังกายสม่ำเสมอ
+e|relate|The two events are not related.|เหตุการณ์ทั้งสองไม่เกี่ยวข้องกัน
+e|related|Are you related to him?|คุณเป็นญาติกับเขาหรือเปล่า
+e|relation|What is your relation to her?|คุณเกี่ยวข้องกับเธออย่างไร
+e|relative|I visited my relatives.|ฉันไปเยี่ยมญาติ
+e|relax|Relax and enjoy the music.|ผ่อนคลายและเพลิดเพลินกับเพลง
+e|release|They released the new film in May.|พวกเขาปล่อยหนังเรื่องใหม่เดือนพฤษภาคม
+e|relevant|Is this relevant to the topic?|เรื่องนี้เกี่ยวกับหัวข้อไหม
+e|religion|What is your religion?|คุณนับถือศาสนาอะไร
+e|religious|She is a very religious person.|เธอเป็นคนเคร่งศาสนามาก
+e|rely|You can rely on me.|คุณพึ่งฉันได้
+e|remain|Please remain seated.|กรุณานั่งอยู่กับที่
+e|remark|He made a rude remark.|เขาพูดจาหยาบคาย
+e|remind|Remind me to call her.|เตือนฉันให้โทรหาเธอด้วย
+e|rent|I pay the rent on the first.|ฉันจ่ายค่าเช่าวันที่หนึ่ง
+e|reporter|The reporter asked a question.|ผู้สื่อข่าวถามคำถาม
+e|represent|The flag represents freedom.|ธงนี้เป็นตัวแทนของอิสรภาพ
+e|republic|France is a republic.|ฝรั่งเศสเป็นสาธารณรัฐ
+e|requirement|What are the requirements for the job?|ข้อกำหนดของงานนี้คืออะไรบ้าง
+e|research|They did research on sleep.|พวกเขาทำวิจัยเรื่องการนอน
+e|resource|Water is a precious resource.|น้ำเป็นทรัพยากรที่มีค่า
+e|response|I'm waiting for her response.|ฉันกำลังรอคำตอบของเธอ
+e|responsibility|It is your responsibility.|นี่เป็นความรับผิดชอบของคุณ
+e|rest|You should rest after lunch.|คุณควรพักหลังมื้อเที่ยง
+e|restaurant|We ate at a Thai restaurant.|เรากินข้าวที่ร้านอาหารไทย
+e|result|The test result was good.|ผลการสอบดี
+e|reward|There is a reward for finding the dog.|มีรางวัลสำหรับคนที่พบสุนัข
+e|rice|We eat rice every day.|เรากินข้าวทุกวัน
+e|ride|I ride my bike to school.|ฉันปั่นจักรยานไปโรงเรียน
+e|right|Turn right at the corner.|เลี้ยวขวาที่หัวมุม
+e|ring|She wore a gold ring.|เธอสวมแหวนทอง
+e|risk|Smoking is a health risk.|การสูบบุหรี่เป็นความเสี่ยงต่อสุขภาพ
+e|river|The river is wide here.|แม่น้ำตรงนี้กว้าง
+e|road|The road was closed.|ถนนถูกปิด
+e|rock|He sat on a big rock.|เขานั่งบนก้อนหินใหญ่
+e|role|She plays the main role.|เธอรับบทนำ
+e|roll|The ball rolled down the hill.|ลูกบอลกลิ้งลงเนิน
+e|roof|The roof is leaking.|หลังคารั่ว
+e|room|I booked a room for two nights.|ฉันจองห้องสองคืน
+e|root|The tree has deep roots.|ต้นไม้นี้มีรากลึก
+e|rope|He tied the boat with a rope.|เขาผูกเรือด้วยเชือก
+e|rose|He gave her a red rose.|เขาให้กุหลาบสีแดงแก่เธอ
+e|rough|The sea was rough today.|วันนี้ทะเลคลื่นแรง
+e|roughly|It takes roughly an hour.|ใช้เวลาประมาณหนึ่งชั่วโมง
+e|round|The Earth is round.|โลกกลม
+e|route|What's the quickest route to the airport?|เส้นทางไปสนามบินที่เร็วที่สุดคือทางไหน
+e|row|We sat in the front row.|เรานั่งแถวหน้า
+e|royal|The royal family waved to the crowd.|พระราชวงศ์โบกพระหัตถ์ให้ประชาชน
+e|rub|Rub your hands to keep warm.|ถูมือเพื่อให้อุ่น
+e|rubbish|Put the rubbish in the bin.|ทิ้งขยะลงถัง
+e|rug|There is a red rug on the floor.|มีพรมสีแดงอยู่บนพื้น
+e|rugby|He plays rugby on Saturdays.|เขาเล่นรักบี้ทุกวันเสาร์
+e|rule|You must follow the rules.|คุณต้องทำตามกฎ
+e|ruler|Use a ruler to draw a line.|ใช้ไม้บรรทัดขีดเส้น
+e|run|I run in the park every morning.|ฉันวิ่งในสวนทุกเช้า
+e|running|Running is good exercise.|การวิ่งเป็นการออกกำลังกายที่ดี
+e|rush|Don't rush, we have plenty of time.|ไม่ต้องรีบ เรามีเวลาเหลือเฟือ
+e|safe|Is it safe to swim here?|ว่ายน้ำที่นี่ปลอดภัยไหม
+e|safety|Safety comes first.|ความปลอดภัยต้องมาก่อน
+e|sail|They sail across the lake.|พวกเขาแล่นเรือข้ามทะเลสาบ
+e|salad|I'll have a green salad.|ขอสลัดผักหนึ่งจาน
+e|salary|He gets a good salary.|เขาได้เงินเดือนดี
+e|sale|Everything is on sale today.|วันนี้ของทุกอย่างลดราคา
+e|salt|Pass me the salt, please.|ส่งเกลือให้หน่อย
+e|sample|Can I try a free sample?|ขอลองตัวอย่างฟรีได้ไหม
+e|sand|The children played in the sand.|เด็ก ๆ เล่นทราย
+e|sandwich|I'll have a cheese sandwich.|ขอแซนด์วิชชีสหนึ่งชิ้น
+e|satisfied|Are you satisfied with the service?|คุณพอใจกับบริการไหม
+e|saturday|We go shopping on Saturday.|เราไปซื้อของวันเสาร์
+e|sauce|Add some tomato sauce.|ใส่ซอสมะเขือเทศหน่อย
+e|sausage|I had sausage and eggs.|ฉันกินไส้กรอกกับไข่
+e|save|I'm saving money for a trip.|ฉันเก็บเงินไว้ไปเที่ยว
+e|scale|The scale of the project is huge.|ขนาดของโครงการนั้นใหญ่มาก
+e|scare|Don't scare the baby.|อย่าทำให้เด็กกลัว
+e|scarf|Wear a scarf, it's cold.|พันผ้าพันคอนะ อากาศหนาว
+e|scary|That film was really scary.|หนังเรื่องนั้นน่ากลัวมาก
+e|scene|My favourite scene is the last one.|ฉากโปรดของฉันคือฉากสุดท้าย
+e|schedule|What's your schedule for tomorrow?|พรุ่งนี้ตารางงานของคุณเป็นอย่างไร
+e|scheme|The government has a new housing scheme.|รัฐบาลมีโครงการที่อยู่อาศัยใหม่
+e|school|The children walk to school.|เด็ก ๆ เดินไปโรงเรียน
+e|scissors|Can I borrow your scissors?|ขอยืมกรรไกรหน่อยได้ไหม
+e|score|What was the final score?|คะแนนสุดท้ายเท่าไหร่
+e|scratch|The cat scratched my arm.|แมวข่วนแขนฉัน
+e|scream|She screamed when she saw the spider.|เธอกรีดร้องตอนเห็นแมงมุม
+e|screen|The screen is too small.|หน้าจอเล็กเกินไป
+e|screw|Tighten the screw.|ขันสกรูให้แน่น
+e|sea|We swam in the sea.|เราว่ายน้ำในทะเล
+e|search|I'm searching for my keys.|ฉันกำลังหากุญแจ
+e|season|Summer is my favourite season.|ฤดูร้อนเป็นฤดูที่ฉันชอบที่สุด
+e|seat|Is this seat free?|ที่นั่งนี้ว่างไหม
+e|second|Wait a second.|รอแป๊บนะ
+e|secret|Can you keep a secret?|เธอเก็บความลับได้ไหม
+e|secretary|The secretary answered the phone.|เลขานุการรับโทรศัพท์
+e|section|Read the first section.|อ่านส่วนแรก
+e|seed|Plant the seeds in spring.|ปลูกเมล็ดพันธุ์ในฤดูใบไม้ผลิ
+e|seem|You seem tired today.|วันนี้คุณดูเหนื่อย
+e|selection|The shop has a good selection of books.|ร้านนี้มีหนังสือให้เลือกหลากหลาย
+e|self|Be yourself.|เป็นตัวของตัวเอง
+e|sell|They sell fresh fruit.|พวกเขาขายผลไม้สด
+e|semester|The new semester starts in June.|ภาคเรียนใหม่เริ่มเดือนมิถุนายน
+e|send|Please send me the photos.|ช่วยส่งรูปมาให้ฉันหน่อย
+e|senior|He is a senior manager.|เขาเป็นผู้จัดการอาวุโส
+e|separate|Keep the two bags separate.|แยกกระเป๋าสองใบออกจากกัน
+e|september|Her birthday is in September.|วันเกิดเธออยู่เดือนกันยายน
+e|series|I'm watching a new TV series.|ฉันกำลังดูซีรีส์ใหม่
+e|seriously|I'm seriously thinking about it.|ฉันกำลังคิดเรื่องนี้อย่างจริงจัง
+e|set|Set the table for dinner.|จัดโต๊ะสำหรับมื้อเย็น
+e|settle|They settled in a small town.|พวกเขาตั้งรกรากในเมืองเล็ก ๆ
+e|seventh|He lives on the seventh floor.|เขาอาศัยอยู่ชั้นเจ็ด
+e|severe|There was a severe storm last night.|เมื่อคืนมีพายุรุนแรง
+e|sew|She can sew her own clothes.|เธอเย็บเสื้อผ้าเองได้
+e|sex|Please state your age and sex.|กรุณาระบุอายุและเพศ
+e|sexual|The film has no sexual content.|หนังเรื่องนี้ไม่มีเนื้อหาทางเพศ
+e|shadow|The tree cast a long shadow.|ต้นไม้ทอดเงายาว
+e|shake|Shake the bottle first.|เขย่าขวดก่อน
+e|shallow|The water is shallow here.|น้ำตรงนี้ตื้น
+e|shame|It's a shame you can't come.|น่าเสียดายที่คุณมาไม่ได้
+e|shampoo|I need to buy shampoo.|ฉันต้องซื้อแชมพู
+e|shape|The cake is in the shape of a heart.|เค้กมีรูปร่างเป็นหัวใจ
+e|share|Let's share the pizza.|แบ่งพิซซ่ากันกินเถอะ
+e|sharp|Be careful, the knife is sharp.|ระวังนะ มีดคม
+e|shave|He shaves every morning.|เขาโกนหนวดทุกเช้า
+e|sheep|There are sheep on the hill.|มีแกะอยู่บนเนิน
+e|sheet|Change the sheets on the bed.|เปลี่ยนผ้าปูที่นอน
+e|shelf|Put the book on the shelf.|วางหนังสือบนชั้น
+e|shell|We collected shells on the beach.|เราเก็บเปลือกหอยที่ชายหาด
+e|shine|The sun is shining.|ดวงอาทิตย์ส่องแสง
+e|ship|The ship sails tomorrow.|เรือจะออกพรุ่งนี้
+e|shirt|He wore a blue shirt.|เขาใส่เสื้อเชิ้ตสีฟ้า
+e|shock|The news came as a shock.|ข่าวนี้ทำให้ตกใจมาก
+e|shocking|The film has a shocking ending.|หนังมีตอนจบที่น่าตกใจ
+e|shoe|These shoes are too small.|รองเท้าคู่นี้เล็กเกินไป
+e|shoot|The hunter shot a deer.|นักล่ายิงกวางตัวหนึ่ง
+e|shopping|I go shopping on Saturdays.|ฉันไปซื้อของวันเสาร์
+e|shore|We walked along the shore.|เราเดินเลียบชายฝั่ง
+e|short|He is short, but strong.|เขาตัวเตี้ย แต่แข็งแรง
+e|shortly|The doctor will see you shortly.|หมอจะตรวจคุณในอีกไม่ช้า
+e|shot|He took a shot at the goal.|เขายิงเข้าประตู
+e|shoulder|My shoulder hurts.|ไหล่ฉันเจ็บ
+e|shower|I take a shower every morning.|ฉันอาบน้ำทุกเช้า
+e|shut|Shut the window, please.|ช่วยปิดหน้าต่างหน่อย
+e|sick|I feel sick today.|วันนี้ฉันรู้สึกไม่สบาย
