@@ -1,0 +1,499 @@
+e|anger|He couldn't hide his anger.|เขาซ่อนความโกรธไม่อยู่
+e|ankle|I hurt my ankle.|ฉันเจ็บข้อเท้า
+e|annoy|The noise annoys me.|เสียงนั้นทำให้ฉันรำคาญ
+e|annual|The annual meeting is in May.|ประชุมประจำปีอยู่เดือนพฤษภาคม
+e|annually|The festival is held annually.|เทศกาลนี้จัดทุกปี
+e|ant|An ant carried a crumb.|มดตัวหนึ่งแบกเศษขนมปัง
+e|anxiety|She felt anxiety before the exam.|เธอรู้สึกวิตกกังวลก่อนสอบ
+e|anyhow|Anyhow, let's get started.|อย่างไรก็ตาม เริ่มกันเลย
+e|apparent|It was apparent he was tired.|เห็นได้ชัดว่าเขาเหนื่อย
+e|appetite|I have no appetite today.|วันนี้ฉันไม่อยากอาหาร
+e|appreciation|She showed her appreciation.|เธอแสดงความซาบซึ้ง
+e|appropriately|Dress appropriately for the interview.|แต่งตัวให้เหมาะสมสำหรับการสัมภาษณ์
+e|approval|We need your approval.|เราต้องการการอนุมัติจากคุณ
+e|approximate|This is an approximate price.|นี่เป็นราคาโดยประมาณ
+e|approximately|It takes approximately an hour.|ใช้เวลาประมาณหนึ่งชั่วโมง
+e|apron|He wore an apron in the kitchen.|เขาใส่ผ้ากันเปื้อนในครัว
+e|arch|We walked under the arch.|เราเดินลอดซุ้มโค้ง
+e|architect|She is a famous architect.|เธอเป็นสถาปนิกชื่อดัง
+e|architecture|I love old architecture.|ฉันชอบสถาปัตยกรรมเก่า
+e|arise|Problems may arise later.|ปัญหาอาจเกิดขึ้นทีหลัง
+e|armchair|He sat in an armchair.|เขานั่งบนเก้าอี้นวม
+e|armed|The guards were armed.|ยามติดอาวุธ
+e|arrow|Follow the arrow.|เดินตามลูกศร
+e|artistic|She is very artistic.|เธอมีหัวศิลปะมาก
+e|aside|Put your phone aside.|วางมือถือไว้ข้าง ๆ
+e|aspirin|Take an aspirin for the pain.|กินแอสไพรินแก้ปวด
+e|assault|He was charged with assault.|เขาถูกตั้งข้อหาทำร้ายร่างกาย
+e|assess|We need to assess the risk.|เราต้องประเมินความเสี่ยง
+e|assessment|The assessment takes an hour.|การประเมินใช้เวลาหนึ่งชั่วโมง
+e|assistance|Thank you for your assistance.|ขอบคุณสำหรับความช่วยเหลือ
+e|assistant|She is a shop assistant.|เธอเป็นพนักงานขายในร้าน
+e|associate|I associate summer with the sea.|ฉันนึกถึงทะเลเวลาพูดถึงหน้าร้อน
+e|association|He joined the football association.|เขาเข้าร่วมสมาคมฟุตบอล
+e|assumption|That's a wrong assumption.|นั่นเป็นข้อสันนิษฐานที่ผิด
+e|athletic|He has an athletic body.|เขามีรูปร่างนักกีฬา
+e|atomic|Atomic energy is powerful.|พลังงานปรมาณูทรงพลัง
+e|attachment|Open the attachment.|เปิดไฟล์แนบ
+e|automatically|The door opens automatically.|ประตูเปิดโดยอัตโนมัติ
+e|availability|Check the room availability.|เช็คห้องว่าง
+e|awesome|That was awesome!|เจ๋งมากเลย
+e|awkward|It was an awkward silence.|เป็นความเงียบที่อึดอัด
+e|axe|He cut the wood with an axe.|เขาตัดไม้ด้วยขวาน
+e|bacon|I like bacon and eggs.|ฉันชอบเบคอนกับไข่
+e|badge|He wears a name badge.|เขาติดป้ายชื่อ
+e|bad-tempered|He is bad-tempered in the morning.|เขาอารมณ์เสียง่ายตอนเช้า
+e|baggage|Where is my baggage?|สัมภาระของฉันอยู่ที่ไหน
+e|bakery|The bakery smells great.|ร้านเบเกอรีหอมมาก
+e|bald|My father is bald.|พ่อฉันหัวล้าน
+e|ballet|She studies ballet.|เธอเรียนบัลเล่ต์
+e|bang|The door shut with a bang.|ประตูปิดเสียงดังโครม
+e|banking|He works in banking.|เขาทำงานด้านธนาคาร
+e|bankruptcy|The firm faced bankruptcy.|บริษัทเผชิญการล้มละลาย
+e|banner|A banner hung over the road.|ป้ายผ้าแขวนอยู่เหนือถนน
+e|barely|I could barely hear him.|ฉันแทบไม่ได้ยินเขา
+e|bark|The dog started to bark.|สุนัขเริ่มเห่า
+e|barrel|The wine is kept in a barrel.|ไวน์เก็บไว้ในถังไม้
+e|barrier|Language can be a barrier.|ภาษาอาจเป็นอุปสรรค
+e|basin|Wash your face in the basin.|ล้างหน้าที่อ่าง
+e|batch|She baked a batch of cookies.|เธออบคุกกี้หนึ่งชุด
+e|bathtub|He relaxed in the bathtub.|เขาผ่อนคลายในอ่างอาบน้ำ
+e|bay|We sailed across the bay.|เราแล่นเรือข้ามอ่าว
+e|beak|The bird has a yellow beak.|นกมีจะงอยปากสีเหลือง
+e|bee|A bee landed on the flower.|ผึ้งตัวหนึ่งเกาะบนดอกไม้
+e|beep|The machine gave a beep.|เครื่องส่งเสียงปี๊บ
+e|behalf|I'm calling on behalf of my boss.|ฉันโทรมาในนามของเจ้านาย
+e|belly|The baby has a round belly.|ทารกมีพุงกลม
+e|belongings|Take all your belongings.|เอาข้าวของไปให้ครบ
+e|beneficial|Exercise is beneficial to health.|การออกกำลังกายเป็นประโยชน์ต่อสุขภาพ
+e|berry|I picked a ripe berry.|ฉันเก็บผลเบอร์รีสุก
+e|besides|Besides, it's too late.|นอกจากนี้ มันดึกเกินไปแล้ว
+e|betray|He betrayed his friend.|เขาหักหลังเพื่อน
+e|bid|She made a bid for the painting.|เธอเสนอราคาซื้อภาพวาด
+e|bikini|She wore a bikini at the beach.|เธอใส่บิกินีที่ชายหาด
+e|bind|Bind the papers together.|มัดกระดาษเข้าด้วยกัน
+e|bitterly|He complained bitterly.|เขาบ่นอย่างขมขื่น
+e|blade|The blade is very sharp.|ใบมีดคมมาก
+e|blank|Leave the page blank.|ปล่อยหน้านั้นว่างไว้
+e|blanket|I need an extra blanket.|ฉันต้องการผ้าห่มเพิ่ม
+e|bleed|My finger is bleeding.|นิ้วฉันเลือดออก
+e|blend|Blend the fruit into a juice.|ปั่นผลไม้เป็นน้ำผลไม้
+e|bless|God bless you.|ขอพระเจ้าอวยพรคุณ
+e|blink|She didn't even blink.|เธอไม่แม้แต่กะพริบตา
+e|blog|She writes a travel blog.|เธอเขียนบล็อกท่องเที่ยว
+e|bloke|He's a nice bloke.|เขาเป็นผู้ชายที่ดี
+e|boast|He likes to boast about his car.|เขาชอบคุยโวเรื่องรถ
+e|bolt|Lock the door with a bolt.|ใช้สลักล็อกประตู
+e|bomber|A bomber flew overhead.|เครื่องบินทิ้งระเบิดบินผ่านเหนือหัว
+e|bombing|The bombing destroyed the bridge.|การทิ้งระเบิดทำลายสะพาน
+e|bond|They share a strong bond.|พวกเขามีความผูกพันที่แน่นแฟ้น
+e|bonus|He got a bonus at work.|เขาได้โบนัสจากที่ทำงาน
+e|bore|The film bored me.|หนังเรื่องนี้ทำให้ฉันเบื่อ
+e|bossy|My sister is very bossy.|พี่สาวฉันชอบสั่งมาก
+e|bound|He is bound to win.|เขาต้องชนะแน่ ๆ
+e|boundary|This is the boundary of the farm.|นี่คือขอบเขตของฟาร์ม
+e|boutique|She owns a small boutique.|เธอเปิดร้านบูติกเล็ก ๆ
+e|bow|He bowed to the audience.|เขาโค้งคำนับผู้ชม
+e|boxer|The boxer won the fight.|นักมวยชนะการต่อสู้
+e|boxing|He watches boxing on TV.|เขาดูมวยทางทีวี
+e|bra|She bought a new bra.|เธอซื้อบราใหม่
+e|bracelet|She wore a silver bracelet.|เธอสวมสร้อยข้อมือเงิน
+e|bracket|Put the number in brackets.|ใส่ตัวเลขในวงเล็บ
+e|brand|What brand is your phone?|มือถือของคุณยี่ห้ออะไร
+e|brass|The handle is made of brass.|ที่จับทำจากทองเหลือง
+e|bravery|He received a medal for bravery.|เขาได้รับเหรียญกล้าหาญ
+e|breakthrough|Scientists made a breakthrough.|นักวิทยาศาสตร์ค้นพบความก้าวหน้าสำคัญ
+e|breed|What breed is your dog?|สุนัขคุณพันธุ์อะไร
+e|breeze|A cool breeze blew in.|ลมเย็นพัดเข้ามา
+e|bride|The bride wore white.|เจ้าสาวสวมชุดสีขาว
+e|bridegroom|The bridegroom was nervous.|เจ้าบ่าวตื่นเต้น
+e|bridesmaid|She was a bridesmaid at the wedding.|เธอเป็นเพื่อนเจ้าสาวในงานแต่ง
+e|briefcase|He carried a leather briefcase.|เขาถือกระเป๋าเอกสารหนัง
+e|briefly|Let me explain briefly.|ขออธิบายสั้น ๆ
+e|broadband|We have broadband at home.|บ้านเรามีอินเทอร์เน็ตความเร็วสูง
+e|broadcast|The match was broadcast live.|การแข่งขันออกอากาศสด
+e|brochure|I picked up a travel brochure.|ฉันหยิบแผ่นพับท่องเที่ยวมา
+e|bronze|She won a bronze medal.|เธอได้เหรียญทองแดง
+e|broom|Sweep the floor with a broom.|กวาดพื้นด้วยไม้กวาด
+e|brother-in-law|My brother-in-law is a pilot.|พี่เขยฉันเป็นนักบิน
+e|browse|I like to browse the internet.|ฉันชอบท่องอินเทอร์เน็ต
+e|browser|Open your web browser.|เปิดเว็บเบราว์เซอร์
+e|brunch|We had brunch on Sunday.|เรากินบรันช์วันอาทิตย์
+e|bubble|The kids blew bubbles.|เด็ก ๆ เป่าฟองสบู่
+e|budget|We have a small budget.|เรามีงบน้อย
+e|bug|There's a bug in the program.|โปรแกรมมีบั๊ก
+e|builder|The builder fixed the roof.|ช่างก่อสร้างซ่อมหลังคา
+e|bulb|The light bulb is broken.|หลอดไฟเสีย
+e|bull|The bull ran across the field.|วัวตัวผู้วิ่งข้ามทุ่ง
+e|bullet|The bullet missed him.|กระสุนไม่ถูกเขา
+e|bulletin|Listen to the news bulletin.|ฟังข่าวสั้น
+e|bully|Don't bully smaller kids.|อย่ารังแกเด็กที่เล็กกว่า
+e|bumpy|The road was bumpy.|ถนนขรุขระ
+e|burglar|A burglar broke into the house.|ขโมยขึ้นบ้าน
+e|burglary|There was a burglary last night.|เมื่อคืนมีการงัดบ้าน
+e|burial|The burial took place on Friday.|พิธีฝังศพจัดวันศุกร์
+e|burning|I smell burning.|ฉันได้กลิ่นไหม้
+e|burnt|The toast is burnt.|ขนมปังไหม้
+e|burst|The balloon burst.|ลูกโป่งแตก
+e|bust|My phone is bust.|มือถือฉันพัง
+e|butcher|I bought meat from the butcher.|ฉันซื้อเนื้อจากร้านขายเนื้อ
+e|butterfly|A butterfly landed on my hand.|ผีเสื้อเกาะบนมือฉัน
+e|buyer|The buyer paid in cash.|ผู้ซื้อจ่ายเป็นเงินสด
+e|cabbage|Cut the cabbage finely.|หั่นกะหล่ำปลีให้ละเอียด
+e|cabin|We stayed in a cabin.|เราพักในกระท่อม
+e|cabinet|Put the plates in the cabinet.|วางจานในตู้
+e|cage|The bird is in a cage.|นกอยู่ในกรง
+e|calcium|Milk contains calcium.|นมมีแคลเซียม
+e|calculation|I made a quick calculation.|ฉันคำนวณคร่าว ๆ
+e|calf|The calf stood next to its mother.|ลูกวัวยืนข้างแม่
+e|calorie|This cake has many calories.|เค้กนี้มีแคลอรีเยอะ
+e|campaign|They started a campaign.|พวกเขาเริ่มการรณรงค์
+e|campsite|We found a nice campsite.|เราเจอที่ตั้งแคมป์ดี ๆ
+e|canal|Boats go along the canal.|เรือแล่นไปตามคลอง
+e|cancellation|The cancellation was a surprise.|การยกเลิกเป็นเรื่องที่ไม่คาดคิด
+e|candle|Light a candle.|จุดเทียน
+e|canoe|We paddled a canoe.|เราพายเรือแคนู
+e|canvas|The painting is on canvas.|ภาพวาดอยู่บนผ้าใบ
+e|canyon|We hiked through the canyon.|เราเดินป่าผ่านหุบผา
+e|capability|It's beyond my capability.|มันเกินความสามารถของฉัน
+e|caravan|They travel by caravan.|พวกเขาเดินทางด้วยรถบ้าน
+e|carbon|Cars produce carbon dioxide.|รถยนต์ปล่อยคาร์บอนไดออกไซด์
+e|carer|She is a full-time carer.|เธอเป็นผู้ดูแลเต็มเวลา
+e|cargo|The ship carries cargo.|เรือบรรทุกสินค้า
+e|carnival|We went to the carnival.|เราไปงานคาร์นิวัล
+e|carpenter|The carpenter built a table.|ช่างไม้ทำโต๊ะ
+e|carriage|Our seat is in carriage five.|ที่นั่งเราอยู่ตู้ห้า
+e|cart|Push the cart to the checkout.|เข็นรถไปที่เคาน์เตอร์ชำระเงิน
+e|cartoon|Kids love cartoons.|เด็ก ๆ ชอบการ์ตูน
+e|carve|He carved a wooden bird.|เขาแกะสลักนกไม้
+e|casino|They went to a casino.|พวกเขาไปคาสิโน
+e|cast|The cast is excellent.|นักแสดงยอดเยี่ยม
+e|casual|Wear casual clothes.|ใส่เสื้อผ้าสบาย ๆ
+e|casualty|There were no casualties.|ไม่มีผู้บาดเจ็บ
+e|categorize|Categorize the words by topic.|จัดคำตามหัวข้อ
+e|cathedral|We visited the cathedral.|เราไปเยี่ยมมหาวิหาร
+e|caution|Proceed with caution.|ไปต่ออย่างระมัดระวัง
+e|cautious|He is a cautious driver.|เขาเป็นคนขับรถที่ระมัดระวัง
+e|cautiously|She opened the door cautiously.|เธอเปิดประตูอย่างระมัดระวัง
+e|cave|Bats live in the cave.|ค้างคาวอยู่ในถ้ำ
+e|cd|I bought a CD of her songs.|ฉันซื้อซีดีเพลงของเธอ
+e|celebration|We had a big celebration.|เรามีการเฉลิมฉลองใหญ่
+e|celebrity|She is a celebrity.|เธอเป็นคนดัง
+e|cemetery|The cemetery is quiet.|สุสานเงียบสงบ
+e|certainty|I can't say with certainty.|ฉันบอกอย่างแน่นอนไม่ได้
+e|certificate|She has a swimming certificate.|เธอมีใบรับรองการว่ายน้ำ
+e|chairman|The chairman opened the meeting.|ประธานเปิดการประชุม
+e|champagne|We drank champagne.|เราดื่มแชมเปญ
+e|chaos|The room was in chaos.|ห้องอยู่ในความโกลาหล
+e|chap|He's a nice chap.|เขาเป็นผู้ชายที่ดี
+e|chapel|They got married in a chapel.|พวกเขาแต่งงานในโบสถ์เล็ก
+e|characteristic|Honesty is his best characteristic.|ความซื่อสัตย์เป็นลักษณะเด่นของเขา
+e|characterize|Kindness characterizes her.|ความใจดีเป็นลักษณะเฉพาะของเธอ
+e|charity|She works for a charity.|เธอทำงานให้องค์กรการกุศล
+e|charm|He has a lot of charm.|เขามีเสน่ห์มาก
+e|charter|We took a charter flight.|เราขึ้นเที่ยวบินเช่าเหมาลำ
+e|cheat|Don't cheat in the exam.|อย่าโกงในการสอบ
+e|checked|He wore a checked shirt.|เขาใส่เสื้อลายตาราง
+e|checklist|Use a checklist.|ใช้รายการตรวจสอบ
+e|checkout|There's a long line at the checkout.|มีแถวยาวที่เคาน์เตอร์ชำระเงิน
+e|cheer|The crowd began to cheer.|ฝูงชนเริ่มส่งเสียงเชียร์
+e|chef|The chef cooked dinner.|เชฟทำอาหารเย็น
+e|chemist|Ask the chemist for advice.|ถามเภสัชกรขอคำแนะนำ
+e|cherry|I love cherry pie.|ฉันชอบพายเชอร์รี
+e|chess|He plays chess every day.|เขาเล่นหมากรุกทุกวัน
+e|chick|A chick hatched from the egg.|ลูกไก่ฟักออกจากไข่
+e|chilli|This sauce has a lot of chilli.|ซอสนี้ใส่พริกเยอะ
+e|chimney|Smoke came from the chimney.|ควันออกมาจากปล่องไฟ
+e|choir|She sings in the choir.|เธอร้องเพลงในคณะประสานเสียง
+e|choke|He choked on a bone.|เขาสำลักก้างปลา
+e|chord|He played a chord on the guitar.|เขาเล่นคอร์ดกีตาร์
+e|chorus|Everyone sang the chorus.|ทุกคนร้องท่อนฮุก
+e|chronic|He has a chronic illness.|เขามีโรคเรื้อรัง
+e|chunk|Cut the cheese into chunks.|หั่นชีสเป็นก้อน
+e|cigar|He smoked a cigar.|เขาสูบซิการ์
+e|circuit|The electric circuit is broken.|วงจรไฟฟ้าเสีย
+e|circular|The table is circular.|โต๊ะเป็นทรงกลม
+e|circus|The kids love the circus.|เด็ก ๆ ชอบละครสัตว์
+e|cite|Cite your sources.|อ้างอิงแหล่งที่มาของคุณ
+e|civil|He is a civil servant.|เขาเป็นข้าราชการ
+e|civilian|Many civilians were hurt.|พลเรือนหลายคนบาดเจ็บ
+e|civilization|Ancient civilization is fascinating.|อารยธรรมโบราณน่าสนใจ
+e|clap|Everyone clapped at the end.|ทุกคนปรบมือตอนจบ
+e|clarity|I like the clarity of her writing.|ฉันชอบความชัดเจนในงานเขียนของเธอ
+e|clash|The two groups clashed.|สองกลุ่มปะทะกัน
+e|classic|It's a classic film.|เป็นหนังคลาสสิก
+e|classical|She likes classical music.|เธอชอบดนตรีคลาสสิก
+e|classmate|My classmate helped me.|เพื่อนร่วมชั้นช่วยฉัน
+e|clause|Read the second clause.|อ่านข้อที่สอง
+e|claw|The cat has sharp claws.|แมวมีเล็บแหลมคม
+e|clay|The bowl is made of clay.|ชามทำจากดินเหนียว
+e|cleaner|The cleaner comes at six.|พนักงานทำความสะอาดมาตอนหกโมง
+e|clerk|Ask the desk clerk.|ถามพนักงานที่เคาน์เตอร์
+e|cliff|Don't stand near the cliff.|อย่ายืนใกล้หน้าผา
+e|climate|The climate here is hot.|ภูมิอากาศที่นี่ร้อน
+e|climber|The climber reached the top.|นักปีนเขาขึ้นถึงยอด
+e|climbing|I enjoy rock climbing.|ฉันชอบปีนหน้าผา
+e|cling|The child clung to her mother.|เด็กเกาะแม่แน่น
+e|clinic|The clinic opens at nine.|คลินิกเปิดเก้าโมง
+e|clip|Watch this short clip.|ดูคลิปสั้นนี้
+e|closing|The closing time is ten.|เวลาปิดคือสี่ทุ่ม
+e|closure|The shop announced its closure.|ร้านประกาศปิดกิจการ
+e|cloth|Wipe it with a clean cloth.|เช็ดด้วยผ้าสะอาด
+e|clothe|She clothed the children warmly.|เธอใส่เสื้อผ้าอุ่น ๆ ให้เด็ก
+e|clumsy|I'm so clumsy today.|วันนี้ฉันซุ่มซ่ามจัง
+e|clutch|She clutched her bag tightly.|เธอกำกระเป๋าแน่น
+e|cocktail|He ordered a cocktail.|เขาสั่งค็อกเทล
+e|coffin|The coffin was carried out.|โลงศพถูกหามออกไป
+e|coincide|Our holidays coincide.|วันหยุดของเราตรงกัน
+e|coincidence|What a coincidence!|บังเอิญจริง ๆ
+e|cola|I'd like a cola.|ขอโคล่าแก้วหนึ่ง
+e|collapse|The old bridge collapsed.|สะพานเก่าพังทลาย
+e|collector|He is a stamp collector.|เขาเป็นนักสะสมแสตมป์
+e|collision|There was a collision on the road.|เกิดอุบัติเหตุชนกันบนถนน
+e|colonel|The colonel gave an order.|พันเอกออกคำสั่ง
+e|colony|The island was once a colony.|เกาะนี้เคยเป็นอาณานิคม
+e|coloured|I bought coloured pencils.|ฉันซื้อดินสอสี
+e|colourful|The market is colourful.|ตลาดสีสันสดใส
+e|column|The column is very tall.|เสาสูงมาก
+e|combat|He died in combat.|เขาเสียชีวิตในการสู้รบ
+e|combined|The combined score was high.|คะแนนรวมสูง
+e|comedian|The comedian made us laugh.|นักแสดงตลกทำให้เราหัวเราะ
+e|comfort|I like the comfort of home.|ฉันชอบความสบายของบ้าน
+e|comfortably|She sat comfortably in the chair.|เธอนั่งสบาย ๆ บนเก้าอี้
+e|comic|He reads comic books.|เขาอ่านหนังสือการ์ตูน
+e|comma|Put a comma here.|ใส่เครื่องหมายจุลภาคตรงนี้
+e|command|The dog obeyed the command.|สุนัขทำตามคำสั่ง
+e|commander|The commander gave orders.|ผู้บัญชาการออกคำสั่ง
+e|commentary|I enjoy the football commentary.|ฉันชอบฟังบรรยายฟุตบอล
+e|commentator|The commentator was excited.|ผู้บรรยายตื่นเต้น
+e|commerce|He studies commerce.|เขาเรียนพาณิชยศาสตร์
+e|commercial|I saw a commercial on TV.|ฉันเห็นโฆษณาทางทีวี
+e|commission|She gets a commission on sales.|เธอได้ค่าคอมมิชชันจากยอดขาย
+e|commitment|She made a commitment.|เธอให้คำมั่นสัญญา
+e|commonly|This bird is commonly seen here.|นกชนิดนี้พบได้ทั่วไปที่นี่
+e|communism|He studied communism.|เขาศึกษาลัทธิคอมมิวนิสต์
+e|communist|He was a communist.|เขาเป็นคอมมิวนิสต์
+e|commute|I commute by train.|ฉันเดินทางไปทำงานด้วยรถไฟ
+e|commuter|The train is full of commuters.|รถไฟเต็มไปด้วยคนไปทำงาน
+e|companion|She is my travel companion.|เธอเป็นเพื่อนร่วมเดินทางของฉัน
+e|comparison|Make a comparison.|ลองเปรียบเทียบดู
+e|compassion|She shows great compassion.|เธอมีความเห็นอกเห็นใจมาก
+e|compatible|The phone is compatible with this charger.|มือถือใช้กับที่ชาร์จนี้ได้
+e|compel|Laws compel us to pay tax.|กฎหมายบังคับให้เราเสียภาษี
+e|competence|He showed great competence.|เขาแสดงความสามารถสูง
+e|competent|She is a competent teacher.|เธอเป็นครูที่มีความสามารถ
+e|competitive|It's a competitive market.|เป็นตลาดที่แข่งขันสูง
+e|competitor|Our main competitor is bigger.|คู่แข่งหลักของเราใหญ่กว่า
+e|compile|She compiled a list of names.|เธอรวบรวมรายชื่อ
+e|complex|It's a complex problem.|เป็นปัญหาที่ซับซ้อน
+e|complicate|Don't complicate things.|อย่าทำเรื่องให้ซับซ้อน
+e|complication|There were medical complications.|มีภาวะแทรกซ้อนทางการแพทย์
+e|composer|Mozart was a famous composer.|โมซาร์ทเป็นคีตกวีชื่อดัง
+e|compound|Water is a chemical compound.|น้ำเป็นสารประกอบทางเคมี
+e|comprehension|Do a reading comprehension test.|ทำข้อสอบความเข้าใจในการอ่าน
+e|comprehensive|It's a comprehensive guide.|เป็นคู่มือที่ครอบคลุม
+e|comprise|The team comprises ten people.|ทีมประกอบด้วยสิบคน
+e|compromise|We reached a compromise.|เราตกลงประนีประนอมกัน
+e|compulsory|School is compulsory.|การเรียนเป็นสิ่งบังคับ
+e|computing|He studies computing.|เขาเรียนด้านคอมพิวเตอร์
+e|conclusion|What's your conclusion?|ข้อสรุปของคุณคืออะไร
+e|concrete|The floor is concrete.|พื้นเป็นคอนกรีต
+e|condominium|They live in a condominium.|พวกเขาอยู่คอนโด
+e|conductor|The conductor raised his hands.|ผู้ควบคุมวงยกมือขึ้น
+e|confess|He confessed to the crime.|เขาสารภาพว่าทำผิด
+e|confession|He made a full confession.|เขาสารภาพทั้งหมด
+e|confidential|This file is confidential.|ไฟล์นี้เป็นความลับ
+e|confine|Confine your answer to one page.|จำกัดคำตอบไว้หนึ่งหน้า
+e|confirmation|I received a confirmation email.|ฉันได้รับอีเมลยืนยัน
+e|conflict|There is a conflict between them.|พวกเขามีความขัดแย้งกัน
+e|confuse|Don't confuse the two words.|อย่าสับสนสองคำนี้
+e|confusion|There was a lot of confusion.|เกิดความสับสนมาก
+e|congratulate|I congratulated her on her win.|ฉันแสดงความยินดีที่เธอชนะ
+e|conquer|They conquered the mountain.|พวกเขาพิชิตภูเขา
+e|consciousness|He lost consciousness.|เขาหมดสติ
+e|consecutive|It rained for three consecutive days.|ฝนตกติดต่อกันสามวัน
+e|consequence|Think about the consequences.|คิดถึงผลที่ตามมา
+e|consequently|He was late; consequently, he missed it.|เขามาสาย ดังนั้นจึงพลาด
+e|conservative|He has conservative views.|เขามีความเห็นแบบอนุรักษ์นิยม
+e|considerable|It cost a considerable amount.|ใช้เงินไปมากพอสมควร
+e|considerably|Prices rose considerably.|ราคาขึ้นมากพอสมควร
+e|consideration|Thank you for your consideration.|ขอบคุณที่พิจารณา
+e|consistent|She is consistent in her work.|เธอทำงานสม่ำเสมอ
+e|consonant|"B" is a consonant.|"B" เป็นพยัญชนะ
+e|constantly|He is constantly complaining.|เขาบ่นอยู่ตลอดเวลา
+e|constitute|Women constitute half of the team.|ผู้หญิงเป็นครึ่งหนึ่งของทีม
+e|constitution|The constitution protects our rights.|รัฐธรรมนูญคุ้มครองสิทธิของเรา
+e|constitutional|It is a constitutional right.|เป็นสิทธิตามรัฐธรรมนูญ
+e|construction|The construction will take a year.|การก่อสร้างจะใช้เวลาหนึ่งปี
+e|consult|Consult a doctor first.|ปรึกษาแพทย์ก่อน
+e|consultant|He works as a consultant.|เขาทำงานเป็นที่ปรึกษา
+e|consume|We consume too much sugar.|เราบริโภคน้ำตาลมากเกินไป
+e|consumer|Consumers want cheap prices.|ผู้บริโภคต้องการราคาถูก
+e|consumption|Reduce your energy consumption.|ลดการใช้พลังงาน
+e|contemporary|I like contemporary art.|ฉันชอบศิลปะร่วมสมัย
+e|contest|She won the singing contest.|เธอชนะการประกวดร้องเพลง
+e|context|Use the word in context.|ใช้คำนั้นในบริบท
+e|continent|Asia is the largest continent.|เอเชียเป็นทวีปที่ใหญ่ที่สุด
+e|continental|We had a continental breakfast.|เรากินอาหารเช้าแบบยุโรป
+e|continual|I'm tired of the continual noise.|ฉันเหนื่อยกับเสียงดังไม่หยุด
+e|contradiction|That's a contradiction.|นั่นขัดแย้งกันเอง
+e|contradictory|The reports are contradictory.|รายงานขัดแย้งกัน
+e|contrary|On the contrary, I enjoyed it.|ตรงกันข้าม ฉันสนุกกับมัน
+e|contrast|There is a big contrast.|มีความแตกต่างอย่างมาก
+e|contribution|Thank you for your contribution.|ขอบคุณที่มีส่วนร่วม
+e|controversial|It's a controversial topic.|เป็นหัวข้อที่ถกเถียงกัน
+e|convenience|For your convenience, we open late.|เพื่อความสะดวก เราเปิดดึก
+e|conveniently|The hotel is conveniently located.|โรงแรมอยู่ในทำเลสะดวก
+e|conventional|He has conventional views.|เขามีความเห็นตามขนบ
+e|convince|I couldn't convince him.|ฉันทำให้เขาเชื่อไม่ได้
+e|convinced|I'm convinced she is right.|ฉันมั่นใจว่าเธอถูก
+e|convincing|His story was not convincing.|เรื่องของเขาไม่น่าเชื่อ
+e|cooking|Cooking is my hobby.|การทำอาหารเป็นงานอดิเรกของฉัน
+e|cooler|Put the drinks in the cooler.|แช่เครื่องดื่มในตู้เย็น
+e|cooperation|Thank you for your cooperation.|ขอบคุณสำหรับความร่วมมือ
+e|cop|A cop stopped the car.|ตำรวจสั่งให้รถจอด
+e|cope|How do you cope with stress?|คุณรับมือกับความเครียดอย่างไร
+e|copper|The wire is made of copper.|สายไฟทำจากทองแดง
+e|cord|Plug the cord into the wall.|เสียบสายไฟเข้าที่ผนัง
+e|core|Remove the core of the apple.|เอาแกนแอปเปิลออก
+e|corn|We grilled corn.|เราย่างข้าวโพด
+e|corporate|He works in a corporate office.|เขาทำงานในสำนักงานบริษัท
+e|corpse|The police found a corpse.|ตำรวจพบศพ
+e|correction|Make the corrections in red.|แก้ไขด้วยปากกาแดง
+e|corridor|Walk along the corridor.|เดินไปตามทางเดิน
+e|corruption|They fight against corruption.|พวกเขาต่อต้านการทุจริต
+e|costume|She wore a costume to the party.|เธอใส่เครื่องแต่งกายไปงานปาร์ตี้
+e|cosy|The room is warm and cosy.|ห้องอบอุ่นสบาย
+e|cottage|They rented a cottage.|พวกเขาเช่ากระท่อมชนบท
+e|council|The council built a new park.|สภาท้องถิ่นสร้างสวนใหม่
+e|councillor|She is a local councillor.|เธอเป็นสมาชิกสภาท้องถิ่น
+e|countless|There are countless stars.|มีดวงดาวนับไม่ถ้วน
+e|coupon|Use this coupon for a discount.|ใช้คูปองนี้เพื่อรับส่วนลด
+e|courage|It takes courage to speak up.|ต้องใช้ความกล้าที่จะพูดออกมา
+e|coursebook|Open your coursebook.|เปิดหนังสือเรียนของคุณ
+e|cowboy|The cowboy rode a horse.|คาวบอยขี่ม้า
+e|co-worker|My co-worker is very helpful.|เพื่อนร่วมงานฉันช่วยเหลือดี
+e|crab|We ate crab for dinner.|เรากินปูเป็นมื้อเย็น
+e|crane|A crane lifted the box.|เครนยกกล่อง
+e|crawl|The baby learned to crawl.|ทารกหัดคลาน
+e|creation|It's a beautiful creation.|เป็นผลงานสร้างสรรค์ที่สวยงาม
+e|creator|The creator of the game is here.|ผู้สร้างเกมอยู่ที่นี่
+e|creep|The cat crept toward the bird.|แมวย่องเข้าหานก
+e|cricket|They play cricket on Sundays.|พวกเขาเล่นคริกเก็ตวันอาทิตย์
+e|criterion|What is the main criterion?|เกณฑ์หลักคืออะไร
+e|critic|The critic liked the film.|นักวิจารณ์ชอบหนังเรื่องนี้
+e|criticism|He took the criticism well.|เขารับคำวิจารณ์ได้ดี
+e|crocodile|The crocodile is dangerous.|จระเข้อันตราย
+e|crossroads|Turn left at the crossroads.|เลี้ยวซ้ายที่ทางแยก
+e|crosswalk|Use the crosswalk.|ข้ามที่ทางม้าลาย
+e|crossword|He does a crossword every day.|เขาเล่นอักษรไขว้ทุกวัน
+e|crouch|She crouched behind the wall.|เธอย่อตัวหลังกำแพง
+e|crown|The queen wore a crown.|ราชินีสวมมงกุฎ
+e|crude|He told a crude joke.|เขาเล่ามุกหยาบ ๆ
+e|cruelty|Cruelty to animals is wrong.|การทารุณสัตว์เป็นสิ่งผิด
+e|cruise|We went on a cruise.|เราไปล่องเรือสำราญ
+e|crunchy|The apple is crunchy.|แอปเปิลกรอบ
+e|crush|Crush the garlic.|ทุบกระเทียม
+e|crust|I don't eat the crust.|ฉันไม่กินขอบขนมปัง
+e|crystal|The glass is made of crystal.|แก้วนี้ทำจากคริสตัล
+e|cub|The lion cub played.|ลูกสิงโตเล่นกัน
+e|cube|Add an ice cube.|ใส่น้ำแข็งก้อนหนึ่ง
+e|cucumber|Slice the cucumber.|หั่นแตงกวา
+e|cult|He joined a cult.|เขาเข้าลัทธิหนึ่ง
+e|culturally|It is culturally important.|สำคัญทางวัฒนธรรม
+e|cunning|The fox is cunning.|สุนัขจิ้งจอกเจ้าเล่ห์
+e|curiosity|Curiosity killed the cat.|ความอยากรู้ทำให้แมวตาย
+e|curl|She has curly hair.|เธอผมหยิก
+e|currant|This cake has currants.|เค้กนี้ใส่ลูกเกดเล็ก
+e|curry|I love Thai curry.|ฉันชอบแกงไทย
+e|curve|The road has a sharp curve.|ถนนมีโค้งหักศอก
+e|curved|The knife has a curved blade.|มีดมีใบโค้ง
+e|custard|We had apple pie with custard.|เรากินพายแอปเปิลกับคัสตาร์ด
+e|cv|Send me your CV.|ส่งประวัติย่อมาให้ฉัน
+e|cycle|I cycle to work.|ฉันปั่นจักรยานไปทำงาน
+e|cyclist|The cyclist wore a helmet.|นักปั่นจักรยานสวมหมวกกันน็อก
+e|cylinder|The tank is shaped like a cylinder.|ถังมีรูปทรงกระบอก
+e|dairy|I don't eat dairy products.|ฉันไม่กินผลิตภัณฑ์นม
+e|dam|The dam holds back the river.|เขื่อนกั้นแม่น้ำ
+e|damaged|The car was badly damaged.|รถเสียหายหนัก
+e|damaging|It's damaging to your health.|มันเป็นอันตรายต่อสุขภาพ
+e|damp|The towel is damp.|ผ้าเช็ดตัวชื้น
+e|dare|I dare you to jump.|กล้ากระโดดไหม
+e|darling|Thank you, darling.|ขอบคุณจ้ะที่รัก
+e|dash|I dashed to the station.|ฉันวิ่งพรวดไปที่สถานี
+e|database|Search the database.|ค้นหาในฐานข้อมูล
+e|daughter-in-law|My daughter-in-law is a doctor.|ลูกสะใภ้ฉันเป็นหมอ
+e|dawn|We got up at dawn.|เราตื่นตอนรุ่งเช้า
+e|daylight|Work while there's daylight.|ทำงานตอนยังมีแสงแดด
+e|daytime|It's hot in the daytime.|ตอนกลางวันร้อน
+e|deadline|The deadline is Friday.|กำหนดส่งคือวันศุกร์
+e|deadly|It's a deadly snake.|เป็นงูพิษร้ายแรง
+e|deaf|She is deaf in one ear.|เธอหูหนวกข้างหนึ่ง
+e|dealer|He is a car dealer.|เขาเป็นพ่อค้ารถ
+e|decay|Sugar causes tooth decay.|น้ำตาลทำให้ฟันผุ
+e|declaration|They signed the declaration.|พวกเขาลงนามในคำประกาศ
+e|declare|He declared his love.|เขาประกาศความรัก
+e|decorate|Let's decorate the tree.|มาตกแต่งต้นไม้กัน
+e|decoration|The Christmas decorations are lovely.|ของตกแต่งคริสต์มาสสวยมาก
+e|deepen|The river deepens here.|แม่น้ำลึกขึ้นตรงนี้
+e|deer|A deer ran across the road.|กวางวิ่งข้ามถนน
+e|defect|The product has a defect.|สินค้ามีตำหนิ
+e|defender|The defender blocked the ball.|กองหลังบล็อกลูกบอล
+e|definite|We need a definite answer.|เราต้องการคำตอบที่แน่นอน
+e|definition|Look up the definition.|ลองดูความหมายของคำ
+e|defy|He defied the rules.|เขาฝ่าฝืนกฎ
+e|delay|The flight was delayed.|เที่ยวบินล่าช้า
+e|delete|Delete the old files.|ลบไฟล์เก่า
+e|deliberate|It was a deliberate mistake.|เป็นความผิดพลาดที่ตั้งใจ
+e|deliberately|He did it deliberately.|เขาทำโดยตั้งใจ
+e|delicate|The glass is delicate.|แก้วนี้บอบบาง
+e|delight|She jumped with delight.|เธอกระโดดด้วยความดีใจ
+e|democracy|Democracy is important.|ประชาธิปไตยสำคัญ
+e|democratic|It's a democratic country.|เป็นประเทศประชาธิปไตย
+e|demonstration|There was a big demonstration.|มีการชุมนุมประท้วงใหญ่
+e|dense|The forest is very dense.|ป่าหนาทึบมาก
+e|density|The city has a high population density.|เมืองนี้มีประชากรหนาแน่น
+e|depart|The train departs at nine.|รถไฟออกเก้าโมง
+e|departure|Check the departure time.|เช็คเวลาออกเดินทาง
+e|dependence|His dependence on his phone is worrying.|การติดมือถือของเขาน่าห่วง
+e|dependent|Children are dependent on their parents.|เด็กต้องพึ่งพาพ่อแม่
+e|depressed|He felt depressed after losing.|เขารู้สึกหดหู่หลังแพ้
+e|depressing|The news is depressing.|ข่าวนี้น่าหดหู่
+e|depression|The economy fell into depression.|เศรษฐกิจตกต่ำ
+e|deputy|She is the deputy manager.|เธอเป็นรองผู้จัดการ
+e|derive|The word derives from Latin.|คำนี้มาจากภาษาละติน
+e|descend|The plane began to descend.|เครื่องบินเริ่มลดระดับ
+e|desert|The desert is very hot.|ทะเลทรายร้อนมาก
+e|desirable|It's a desirable location.|เป็นทำเลที่น่าปรารถนา
+e|desktop|I use a desktop computer.|ฉันใช้คอมพิวเตอร์ตั้งโต๊ะ
+e|despair|She was in despair.|เธออยู่ในความสิ้นหวัง
+e|desperate|He is desperate for a job.|เขาต้องการงานอย่างสิ้นหวัง
+e|desperately|I desperately need help.|ฉันต้องการความช่วยเหลือเหลือเกิน
+e|destination|We reached our destination.|เราถึงจุดหมายปลายทาง
+e|destiny|It was his destiny.|นั่นคือโชคชะตาของเขา
+e|destruction|The storm caused great destruction.|พายุสร้างความเสียหายใหญ่
+e|detect|The alarm detects smoke.|สัญญาณเตือนตรวจจับควัน
+e|detection|Early detection saves lives.|การตรวจพบเร็วช่วยชีวิต
+e|detective|The detective solved the case.|นักสืบไขคดีได้
+e|deteriorate|His health deteriorated.|สุขภาพเขาแย่ลง
+e|determination|She showed great determination.|เธอแสดงความมุ่งมั่น
+e|determine|Test results determine your grade.|ผลสอบกำหนดเกรดของคุณ
+e|determined|I'm determined to win.|ฉันตั้งใจแน่วแน่ที่จะชนะ
+e|developed|It's a developed country.|เป็นประเทศที่พัฒนาแล้ว
+e|developer|He is a software developer.|เขาเป็นนักพัฒนาซอฟต์แวร์
+e|developing|It's a developing country.|เป็นประเทศกำลังพัฒนา
+e|device|This device is very small.|อุปกรณ์นี้เล็กมาก
+e|devil|The devil is in the details.|ปีศาจซ่อนอยู่ในรายละเอียด
+e|devise|They devised a new plan.|พวกเขาคิดแผนใหม่
+e|devote|She devoted her life to teaching.|เธออุทิศชีวิตให้การสอน
+e|devoted|He is a devoted father.|เขาเป็นพ่อที่ทุ่มเท
+e|dial|Dial this number.|โทรไปที่หมายเลขนี้
+e|dialect|They speak a local dialect.|พวกเขาพูดภาษาถิ่น
+e|diameter|The diameter is ten centimetres.|เส้นผ่านศูนย์กลางสิบเซนติเมตร
+e|diamond|She wore a diamond ring.|เธอสวมแหวนเพชร
+e|diary|I keep a diary.|ฉันเขียนไดอารี่
+e|diesel|The truck runs on diesel.|รถบรรทุกใช้น้ำมันดีเซล
+e|differ|Our opinions differ.|ความเห็นของเราต่างกัน
+e|digital|I bought a digital camera.|ฉันซื้อกล้องดิจิทัล
+e|dignified|He remained dignified.|เขายังคงสง่างาม
+e|dignity|Treat everyone with dignity.|ปฏิบัติต่อทุกคนด้วยศักดิ์ศรี
