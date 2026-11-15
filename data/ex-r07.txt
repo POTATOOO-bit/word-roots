@@ -1,0 +1,500 @@
+e|institute|She works at a research institute.|เธอทำงานที่สถาบันวิจัย
+e|institution|The bank is a financial institution.|ธนาคารเป็นสถาบันการเงิน
+e|instructor|The driving instructor was kind.|ครูสอนขับรถใจดี
+e|insufficient|The evidence is insufficient.|หลักฐานไม่เพียงพอ
+e|insult|He insulted my family.|เขาดูหมิ่นครอบครัวฉัน
+e|insulting|That comment was insulting.|ความเห็นนั้นดูหมิ่น
+e|insure|I insured my car.|ฉันทำประกันรถ
+e|intellectual|He is an intellectual person.|เขาเป็นคนมีปัญญา
+e|intensive|She took an intensive course.|เธอเรียนคอร์สเข้มข้น
+e|intentional|It wasn't intentional.|ไม่ได้ตั้งใจ
+e|interaction|Children need social interaction.|เด็กต้องการปฏิสัมพันธ์ทางสังคม
+e|interactive|It's an interactive game.|เป็นเกมที่โต้ตอบได้
+e|interference|There's interference on the radio.|วิทยุมีสัญญาณรบกวน
+e|interior|The car has a leather interior.|รถมีภายในเป็นหนัง
+e|internal|It's an internal matter.|เป็นเรื่องภายใน
+e|interpret|How do you interpret this poem?|คุณตีความบทกวีนี้อย่างไร
+e|interpretation|There are many interpretations.|มีการตีความหลายแบบ
+e|intervention|Medical intervention was needed.|ต้องมีการเข้าช่วยทางการแพทย์
+e|invade|The army invaded the country.|กองทัพรุกรานประเทศ
+e|invasion|The invasion began at dawn.|การรุกรานเริ่มตอนรุ่งสาง
+e|investigator|The investigator found new evidence.|ผู้สืบสวนพบหลักฐานใหม่
+e|investment|It's a good investment.|เป็นการลงทุนที่ดี
+e|investor|Investors lost money.|นักลงทุนขาดทุน
+e|involvement|Her involvement was small.|เธอมีส่วนเกี่ยวข้องน้อย
+e|irrelevant|That point is irrelevant.|ประเด็นนั้นไม่เกี่ยว
+e|irritate|His habit irritates me.|นิสัยเขาทำให้ฉันหงุดหงิด
+e|irritating|The noise is irritating.|เสียงนั้นน่ารำคาญ
+e|jaw|He broke his jaw.|เขากรามหัก
+e|jazz|I love jazz music.|ฉันชอบดนตรีแจ๊ส
+e|jealousy|Jealousy ruined their friendship.|ความหึงหวงทำลายมิตรภาพ
+e|jet|A jet flew overhead.|เครื่องบินเจ็ตบินผ่านหัว
+e|jewel|The crown has many jewels.|มงกุฎมีอัญมณีมาก
+e|jewellery|She wears a lot of jewellery.|เธอสวมเครื่องประดับเยอะ
+e|jigsaw|We did a jigsaw puzzle.|เราต่อจิ๊กซอว์
+e|jog|I jog every morning.|ฉันวิ่งเหยาะ ๆ ทุกเช้า
+e|jogging|Jogging keeps me fit.|การวิ่งเหยาะทำให้ฉันฟิต
+e|joint|My knee joint hurts.|ข้อเข่าฉันเจ็บ
+e|journal|She published in a science journal.|เธอตีพิมพ์ในวารสารวิทยาศาสตร์
+e|journalism|He studies journalism.|เขาเรียนวารสารศาสตร์
+e|judgment|Use your best judgment.|ใช้วิจารณญาณให้ดีที่สุด
+e|judo|He practises judo.|เขาฝึกยูโด
+e|jug|Pour water into the jug.|เทน้ำใส่เหยือก
+e|juggle|He can juggle three balls.|เขาโยนลูกบอลสามลูกได้
+e|juicy|The orange is juicy.|ส้มฉ่ำน้ำ
+e|jumper|Put on a jumper.|ใส่เสื้อไหมพรมสิ
+e|junction|Turn left at the junction.|เลี้ยวซ้ายที่สี่แยก
+e|jungle|They walked through the jungle.|พวกเขาเดินผ่านป่าดงดิบ
+e|jury|The jury found him guilty.|คณะลูกขุนตัดสินว่าเขาผิด
+e|justification|There is no justification for this.|ไม่มีเหตุผลสมควรสำหรับเรื่องนี้
+e|justified|Her anger was justified.|ความโกรธของเธอสมเหตุสมผล
+e|karate|My son does karate.|ลูกชายฉันเรียนคาราเต้
+e|ketchup|Do you want ketchup?|เอาซอสมะเขือเทศไหม
+e|kidnap|They kidnapped a child.|พวกเขาลักพาตัวเด็ก
+e|kidney|He needs a kidney transplant.|เขาต้องปลูกถ่ายไต
+e|killer|The killer was caught.|ฆาตกรถูกจับได้
+e|killing|The killing shocked the town.|เหตุฆาตกรรมทำให้เมืองตกใจ
+e|kindly|Could you kindly wait?|กรุณารอสักครู่ได้ไหม
+e|kingdom|The kingdom was rich.|อาณาจักรร่ำรวย
+e|kit|Bring a first-aid kit.|เอาชุดปฐมพยาบาลมาด้วย
+e|kneel|She knelt on the floor.|เธอคุกเข่าบนพื้น
+e|knit|Grandma knits sweaters.|คุณยายถักเสื้อ
+e|knot|Tie a knot in the rope.|ผูกปมที่เชือก
+e|known|He is a well-known actor.|เขาเป็นนักแสดงที่มีชื่อเสียง
+e|labour|The labour was expensive.|แรงงานมีราคาแพง
+e|lacking|She is lacking in confidence.|เธอขาดความมั่นใจ
+e|lad|He's a nice lad.|เขาเป็นเด็กหนุ่มที่ดี
+e|lamb|We had roast lamb.|เรากินเนื้อแกะย่าง
+e|landing|The landing was smooth.|การลงจอดนุ่มนวล
+e|landlord|My landlord raised the rent.|เจ้าของบ้านขึ้นค่าเช่า
+e|lap|The cat sat on my lap.|แมวนั่งบนตักฉัน
+e|largely|It was largely my fault.|ส่วนใหญ่เป็นความผิดฉัน
+e|laser|The laser cut the metal.|เลเซอร์ตัดโลหะ
+e|lastly|Lastly, thank you all.|สุดท้ายนี้ ขอบคุณทุกคน
+e|latter|I prefer the latter.|ฉันชอบอย่างหลังมากกว่า
+e|layout|I like the room layout.|ฉันชอบการจัดห้อง
+e|leading|He is a leading expert.|เขาเป็นผู้เชี่ยวชาญชั้นนำ
+e|leaflet|She handed me a leaflet.|เธอยื่นใบปลิวให้ฉัน
+e|leak|The roof is leaking.|หลังคารั่ว
+e|lean|Lean against the wall.|พิงกำแพง
+e|leap|The cat leapt onto the table.|แมวกระโดดขึ้นโต๊ะ
+e|learner|She is a quick learner.|เธอเรียนรู้เร็ว
+e|learning|Learning languages is fun.|การเรียนภาษาสนุก
+e|lecturer|The lecturer was excellent.|อาจารย์สอนดีมาก
+e|left-hand|Take the left-hand road.|ใช้ถนนทางซ้าย
+e|left-handed|I am left-handed.|ฉันถนัดซ้าย
+e|legalize|They want to legalize it.|พวกเขาอยากให้ถูกกฎหมาย
+e|legally|You are legally an adult.|คุณเป็นผู้ใหญ่ตามกฎหมาย
+e|legislation|New legislation was passed.|มีกฎหมายใหม่ผ่านแล้ว
+e|legitimate|It's a legitimate business.|เป็นธุรกิจที่ถูกกฎหมาย
+e|leisure|What do you do in your leisure time?|คุณทำอะไรในเวลาว่าง
+e|lemonade|I'd like a cold lemonade.|ขอน้ำมะนาวเย็น ๆ
+e|lengthy|It was a lengthy meeting.|เป็นการประชุมที่ยาวนาน
+e|lens|Clean the camera lens.|ทำความสะอาดเลนส์กล้อง
+e|lesser|It's the lesser of two evils.|เป็นสิ่งที่เลวน้อยกว่า
+e|lethal|The poison is lethal.|พิษนี้ถึงตาย
+e|liar|He is a liar.|เขาเป็นคนโกหก
+e|liberty|Liberty is precious.|เสรีภาพมีค่า
+e|librarian|Ask the librarian.|ถามบรรณารักษ์
+e|lifestyle|He has a healthy lifestyle.|เขามีวิถีชีวิตที่ดีต่อสุขภาพ
+e|lifetime|It's a once-in-a-lifetime chance.|เป็นโอกาสที่มีครั้งเดียวในชีวิต
+e|lighting|The lighting here is nice.|แสงไฟที่นี่สวย
+e|lightly|Touch it lightly.|แตะเบา ๆ
+e|lightning|Lightning struck the tree.|ฟ้าผ่าต้นไม้
+e|likelihood|There's little likelihood of rain.|ฝนมีโอกาสตกน้อย
+e|limb|He injured a limb.|เขาบาดเจ็บที่แขนขา
+e|limitation|Everyone has limitations.|ทุกคนมีข้อจำกัด
+e|linguistic|She has linguistic talent.|เธอมีพรสวรรค์ด้านภาษา
+e|lipstick|She wore red lipstick.|เธอทาลิปสติกสีแดง
+e|literally|I literally can't move.|ฉันขยับไม่ได้จริง ๆ
+e|literary|He won a literary prize.|เขาได้รางวัลวรรณกรรม
+e|lively|It's a lively town.|เป็นเมืองที่คึกคัก
+e|liver|Alcohol damages the liver.|แอลกอฮอล์ทำร้ายตับ
+e|living|What do you do for a living?|คุณทำงานอะไร
+e|lizard|A lizard ran up the wall.|จิ้งจกวิ่งขึ้นกำแพง
+e|lobster|We ate lobster.|เรากินกุ้งก้ามกราม
+e|locally|We buy food locally.|เราซื้ออาหารในท้องถิ่น
+e|locate|The hotel is located by the sea.|โรงแรมตั้งอยู่ริมทะเล
+e|log|Log in to your account.|เข้าสู่ระบบบัญชีของคุณ
+e|logical|That's a logical answer.|เป็นคำตอบที่สมเหตุสมผล
+e|long-term|We need a long-term plan.|เราต้องการแผนระยะยาว
+e|loop|Make a loop with the rope.|ทำห่วงด้วยเชือก
+e|loser|Don't be a sore loser.|อย่าเป็นคนแพ้แล้วไม่ยอม
+e|lounge|Wait in the lounge.|รอที่ห้องนั่งเล่น
+e|lover|He is an animal lover.|เขาเป็นคนรักสัตว์
+e|loving|She is a loving mother.|เธอเป็นแม่ที่รักลูก
+e|loyalty|Dogs show loyalty.|สุนัขแสดงความภักดี
+e|luckily|Luckily, we caught the train.|โชคดีที่เราขึ้นรถไฟทัน
+e|luggage|Where is my luggage?|กระเป๋าสัมภาระฉันอยู่ที่ไหน
+e|lump|Add a lump of sugar.|ใส่น้ำตาลก้อนหนึ่ง
+e|lunchtime|Meet me at lunchtime.|เจอกันตอนพักเที่ยงนะ
+e|lung|Smoking harms the lungs.|การสูบบุหรี่ทำร้ายปอด
+e|luxury|It's a luxury hotel.|เป็นโรงแรมหรู
+e|machinery|The factory has new machinery.|โรงงานมีเครื่องจักรใหม่
+e|madness|It's sheer madness.|มันบ้าสิ้นดี
+e|magical|It was a magical night.|เป็นคืนที่วิเศษ
+e|magnet|The magnet picked up the pins.|แม่เหล็กดูดเข็มหมุด
+e|magnetic|The Earth has a magnetic field.|โลกมีสนามแม่เหล็ก
+e|magnificent|The view was magnificent.|วิวสวยตระการตา
+e|maid|The maid cleaned the room.|แม่บ้านทำความสะอาดห้อง
+e|mailbox|Check the mailbox.|เช็คตู้จดหมาย
+e|maintenance|The lift is under maintenance.|ลิฟต์อยู่ระหว่างซ่อมบำรุง
+e|maker|He is a shoe maker.|เขาเป็นช่างทำรองเท้า
+e|make-up|She doesn't wear make-up.|เธอไม่แต่งหน้า
+e|mama|Mama, I'm hungry.|แม่คะ หนูหิว
+e|mammal|A whale is a mammal.|วาฬเป็นสัตว์เลี้ยงลูกด้วยนม
+e|mankind|It's a gift to mankind.|เป็นของขวัญแก่มนุษยชาติ
+e|mansion|They live in a mansion.|พวกเขาอยู่ในคฤหาสน์
+e|manual|Read the user manual.|อ่านคู่มือการใช้งาน
+e|manufacturer|The manufacturer offers a warranty.|ผู้ผลิตให้การรับประกัน
+e|manufacturing|He works in manufacturing.|เขาทำงานด้านการผลิต
+e|marathon|She ran a marathon.|เธอวิ่งมาราธอน
+e|marble|The floor is made of marble.|พื้นทำจากหินอ่อน
+e|margarine|Spread margarine on bread.|ทามาการีนบนขนมปัง
+e|margin|Write notes in the margin.|เขียนบันทึกที่ขอบกระดาษ
+e|marine|Marine life is rich here.|สัตว์ทะเลอุดมสมบูรณ์ที่นี่
+e|marked|There's a marked difference.|มีความแตกต่างชัดเจน
+e|marker|Use a red marker.|ใช้ปากกามาร์กเกอร์สีแดง
+e|marketing|She works in marketing.|เธอทำงานด้านการตลาด
+e|marvellous|What a marvellous idea!|ความคิดวิเศษจริง ๆ
+e|masculine|He has a masculine voice.|เขามีเสียงแบบผู้ชาย
+e|mask|Wear a mask.|สวมหน้ากาก
+e|mass|A mass of people gathered.|ผู้คนจำนวนมากมารวมตัวกัน
+e|master|He is a master of chess.|เขาเป็นปรมาจารย์หมากรุก
+e|masterpiece|It's a masterpiece.|เป็นผลงานชิ้นเอก
+e|mat|Wipe your feet on the mat.|เช็ดเท้าบนพรม
+e|mate|He's my best mate.|เขาเป็นเพื่อนสนิทฉัน
+e|mathematical|It's a mathematical problem.|เป็นโจทย์คณิตศาสตร์
+e|mattress|The mattress is too hard.|ที่นอนแข็งเกินไป
+e|mature|She is very mature.|เธอโตเป็นผู้ใหญ่มาก
+e|meaningful|It was a meaningful gift.|เป็นของขวัญที่มีความหมาย
+e|means|Is there a means of escape?|มีทางหนีไหม
+e|meantime|In the meantime, relax.|ระหว่างนี้ก็พักผ่อนไปก่อน
+e|mechanic|The mechanic fixed my car.|ช่างซ่อมรถให้ฉัน
+e|mechanical|It's a mechanical problem.|เป็นปัญหาเครื่องกล
+e|mechanism|The lock has a simple mechanism.|ล็อกนี้มีกลไกง่าย ๆ
+e|medieval|We visited a medieval castle.|เราไปเยี่ยมปราสาทยุคกลาง
+e|melon|I like sweet melon.|ฉันชอบเมลอนหวาน ๆ
+e|melt|The ice melted.|น้ำแข็งละลาย
+e|memorable|It was a memorable trip.|เป็นทริปที่น่าจดจำ
+e|memorial|They built a memorial.|พวกเขาสร้างอนุสรณ์
+e|memorize|Memorize these words.|ท่องจำคำเหล่านี้
+e|mend|She mended my shirt.|เธอซ่อมเสื้อให้ฉัน
+e|mentor|He was my mentor.|เขาเป็นผู้ชี้แนะฉัน
+e|mercy|Show some mercy.|แสดงความเมตตาบ้าง
+e|merely|It's merely a rumour.|เป็นเพียงข่าวลือ
+e|merit|The plan has some merit.|แผนนี้มีข้อดีอยู่บ้าง
+e|merry|Merry Christmas!|สุขสันต์วันคริสต์มาส
+e|metaphor|It's a poetic metaphor.|เป็นอุปมาเชิงกวี
+e|midday|It's hot at midday.|ตอนเที่ยงร้อน
+e|middle-aged|He is a middle-aged man.|เขาเป็นชายวัยกลางคน
+e|middle-class|They are a middle-class family.|พวกเขาเป็นครอบครัวชนชั้นกลาง
+e|mighty|The mighty river flows north.|แม่น้ำสายใหญ่ไหลขึ้นเหนือ
+e|mill|The old mill is a museum.|โรงสีเก่าเป็นพิพิธภัณฑ์
+e|millimetre|It's one millimetre thick.|หนาหนึ่งมิลลิเมตร
+e|millionaire|He became a millionaire.|เขากลายเป็นเศรษฐี
+e|miner|The miners went on strike.|คนงานเหมืองนัดหยุดงาน
+e|mineral|Mineral water is healthy.|น้ำแร่ดีต่อสุขภาพ
+e|minimal|The damage was minimal.|ความเสียหายน้อยมาก
+e|minimize|Minimize the risk.|ลดความเสี่ยงให้น้อยที่สุด
+e|mining|Mining is dangerous work.|การทำเหมืองเป็นงานอันตราย
+e|minister|The minister gave a speech.|รัฐมนตรีกล่าวสุนทรพจน์
+e|mint|I like mint tea.|ฉันชอบชามิ้นต์
+e|miracle|It's a miracle he survived.|เป็นปาฏิหาริย์ที่เขารอด
+e|misery|They lived in misery.|พวกเขาอยู่อย่างทุกข์ยาก
+e|misleading|The advert is misleading.|โฆษณานี้ทำให้เข้าใจผิด
+e|missing|My wallet is missing.|กระเป๋าสตางค์ฉันหายไป
+e|mist|There was mist on the lake.|มีหมอกบาง ๆ เหนือทะเลสาบ
+e|misty|It was a misty morning.|เป็นเช้าที่มีหมอก
+e|misunderstanding|It was just a misunderstanding.|เป็นแค่ความเข้าใจผิด
+e|mixed|I have mixed feelings.|ฉันรู้สึกปนเปกัน
+e|moan|Stop moaning.|เลิกบ่นได้แล้ว
+e|mob|An angry mob gathered.|ฝูงชนที่โกรธรวมตัวกัน
+e|moderate|Do moderate exercise.|ออกกำลังกายปานกลาง
+e|moisture|The cream keeps moisture in.|ครีมช่วยรักษาความชุ่มชื้น
+e|molecule|Water is made of molecules.|น้ำประกอบด้วยโมเลกุล
+e|monitor|The monitor is too small.|จอเล็กเกินไป
+e|monopoly|They have a monopoly.|พวกเขาผูกขาดตลาด
+e|monster|There's no monster under the bed.|ไม่มีสัตว์ประหลาดใต้เตียง
+e|monthly|I pay a monthly fee.|ฉันจ่ายค่าธรรมเนียมรายเดือน
+e|monument|We visited the monument.|เราไปที่อนุสาวรีย์
+e|moral|It's a moral question.|เป็นคำถามด้านศีลธรรม
+e|moreover|Moreover, it's cheap.|ยิ่งกว่านั้นยังราคาถูก
+e|mortgage|They pay a monthly mortgage.|พวกเขาผ่อนบ้านรายเดือน
+e|mosque|The mosque is very old.|มัสยิดเก่าแก่มาก
+e|motel|We stayed at a motel.|เราพักที่โมเทล
+e|mother-in-law|My mother-in-law cooks well.|แม่ยายฉันทำอาหารเก่ง
+e|motivation|I have no motivation today.|วันนี้ฉันไม่มีแรงจูงใจ
+e|motorcycle|He rides a motorcycle.|เขาขี่มอเตอร์ไซค์
+e|mount|They mounted the horse.|พวกเขาขึ้นม้า
+e|moving|It was a moving story.|เป็นเรื่องที่ซึ้งใจ
+e|mp|The MP visited our town.|สมาชิกรัฐสภามาเยี่ยมเมืองเรา
+e|mud|His shoes are covered in mud.|รองเท้าเขาเลอะโคลน
+e|muddy|The path is muddy.|ทางเป็นโคลน
+e|mug|I'd like a mug of tea.|ขอชาหนึ่งแก้วมัค
+e|murderer|The murderer was arrested.|ฆาตกรถูกจับ
+e|muscular|He is tall and muscular.|เขาสูงและกล้ามแน่น
+e|mustard|Do you want mustard?|เอามัสตาร์ดไหม
+e|mutter|He muttered something.|เขาพึมพำอะไรบางอย่าง
+e|namely|Two students, namely Tom and Ann, passed.|นักเรียนสองคน คือทอมกับแอนสอบผ่าน
+e|nap|I took a short nap.|ฉันงีบสั้น ๆ
+e|nationally|The show is broadcast nationally.|รายการออกอากาศทั่วประเทศ
+e|nationwide|There was a nationwide strike.|มีการหยุดงานทั่วประเทศ
+e|naturally|She is naturally shy.|เธอขี้อายโดยธรรมชาติ
+e|naughty|The naughty boy hid my keys.|เด็กชายซนซ่อนกุญแจฉัน
+e|navy|He joined the navy.|เขาเข้ากองทัพเรือ
+e|necessity|Water is a necessity.|น้ำเป็นสิ่งจำเป็น
+e|necktie|He wore a blue necktie.|เขาผูกเนกไทสีน้ำเงิน
+e|needle|Thread the needle.|ร้อยเข็ม
+e|negotiate|They negotiated a deal.|พวกเขาเจรจาข้อตกลง
+e|negotiation|The negotiation took hours.|การเจรจาใช้เวลาหลายชั่วโมง
+e|neighbourhood|It's a quiet neighbourhood.|เป็นละแวกที่เงียบสงบ
+e|nerve|He lost his nerve.|เขาเสียความกล้า
+e|nest|The bird built a nest.|นกสร้างรัง
+e|neutral|I stayed neutral.|ฉันวางตัวเป็นกลาง
+e|nevertheless|It rained; nevertheless, we went.|ฝนตก แต่เราก็ไปอยู่ดี
+e|newly|They are newly married.|พวกเขาเพิ่งแต่งงาน
+e|newsletter|I read the weekly newsletter.|ฉันอ่านจดหมายข่าวรายสัปดาห์
+e|nicely|She dresses nicely.|เธอแต่งตัวดี
+e|nightmare|I had a nightmare.|ฉันฝันร้าย
+e|nitrogen|Air contains nitrogen.|อากาศมีไนโตรเจน
+e|nod|He nodded in agreement.|เขาพยักหน้าเห็นด้วย
+e|nonetheless|It was hard; nonetheless, she won.|ยาก แต่เธอก็ชนะ
+e|non-fiction|I read mostly non-fiction.|ฉันอ่านสารคดีเป็นส่วนใหญ่
+e|nonsense|That's nonsense!|ไร้สาระ
+e|northeast|She is from the northeast.|เธอมาจากภาคตะวันออกเฉียงเหนือ
+e|northwest|The wind blows from the northwest.|ลมพัดมาจากตะวันตกเฉียงเหนือ
+e|notable|He is a notable writer.|เขาเป็นนักเขียนที่โดดเด่น
+e|notably|Prices rose, notably in May.|ราคาขึ้น โดยเฉพาะเดือนพฤษภาคม
+e|noticeable|The difference is noticeable.|ความแตกต่างเห็นได้ชัด
+e|noticeboard|Check the noticeboard.|ดูป้ายประกาศ
+e|novelist|She is a famous novelist.|เธอเป็นนักเขียนนวนิยายชื่อดัง
+e|nowadays|Nowadays, everyone has a phone.|ทุกวันนี้ทุกคนมีมือถือ
+e|nuclear|It's a nuclear power plant.|เป็นโรงไฟฟ้านิวเคลียร์
+e|nude|The statue is nude.|รูปปั้นนี้เปลือย
+e|nuisance|The noise is a nuisance.|เสียงนั้นน่ารำคาญ
+e|numb|My fingers are numb.|นิ้วฉันชา
+e|numerous|There were numerous complaints.|มีคำร้องเรียนมากมาย
+e|nursery|The baby is at nursery.|ทารกอยู่ที่เนอร์สเซอรี
+e|nursing|She studies nursing.|เธอเรียนพยาบาล
+e|nylon|The bag is made of nylon.|กระเป๋าทำจากไนลอน
+e|oak|The table is made of oak.|โต๊ะทำจากไม้โอ๊ก
+e|objection|Does anyone have an objection?|ใครคัดค้านไหม
+e|obligation|You have an obligation to help.|คุณมีหน้าที่ต้องช่วย
+e|observation|That's a good observation.|นั่นเป็นข้อสังเกตที่ดี
+e|observer|He was just an observer.|เขาเป็นแค่ผู้สังเกตการณ์
+e|occasional|I have an occasional cigarette.|ฉันสูบบุหรี่นาน ๆ ครั้ง
+e|occupy|The room is occupied.|ห้องมีคนใช้อยู่
+e|odds|The odds are against us.|โอกาสไม่เป็นใจ
+e|offend|I didn't mean to offend you.|ฉันไม่ได้ตั้งใจทำให้คุณขุ่นเคือง
+e|offender|The offender was fined.|ผู้กระทำผิดถูกปรับ
+e|offensive|That joke is offensive.|มุกนั้นล่วงเกิน
+e|officially|It's officially open.|เปิดอย่างเป็นทางการแล้ว
+e|olive|I like olive oil.|ฉันชอบน้ำมันมะกอก
+e|ongoing|It's an ongoing project.|เป็นโครงการที่ดำเนินอยู่
+e|opening|The opening was a success.|พิธีเปิดประสบความสำเร็จ
+e|openly|He spoke openly.|เขาพูดอย่างเปิดเผย
+e|opera|We saw an opera.|เราดูโอเปร่า
+e|operator|Call the operator.|โทรหาพนักงานรับสาย
+e|opposed|I'm opposed to the plan.|ฉันไม่เห็นด้วยกับแผนนี้
+e|opposition|There was strong opposition.|มีการต่อต้านอย่างหนัก
+e|optimism|Her optimism is catching.|ความมองโลกแง่ดีของเธอติดต่อกันได้
+e|optional|The class is optional.|คลาสนี้ไม่บังคับ
+e|oral|I have an oral exam.|ฉันมีสอบปากเปล่า
+e|orchestra|The orchestra played Mozart.|วงออร์เคสตราเล่นเพลงโมซาร์ท
+e|organ|The heart is an organ.|หัวใจเป็นอวัยวะ
+e|organic|We buy organic vegetables.|เราซื้อผักออร์แกนิก
+e|organized|She is very organized.|เธอเป็นระเบียบมาก
+e|originate|The word originates from Greek.|คำนี้มาจากภาษากรีก
+e|outbreak|There was an outbreak of flu.|มีไข้หวัดระบาด
+e|outcome|I'm happy with the outcome.|ฉันพอใจกับผลลัพธ์
+e|outdoor|I like outdoor activities.|ฉันชอบกิจกรรมกลางแจ้ง
+e|outdoors|Let's eat outdoors.|กินข้าวข้างนอกกันเถอะ
+e|outer|Remove the outer layer.|เอาชั้นนอกออก
+e|outfit|I love your outfit.|ฉันชอบชุดของคุณ
+e|outlet|Sport is an outlet for stress.|กีฬาเป็นทางระบายความเครียด
+e|outline|Write an outline first.|เขียนโครงร่างก่อน
+e|outlook|She has a positive outlook.|เธอมีมุมมองเชิงบวก
+e|output|The factory's output has doubled.|ผลผลิตของโรงงานเพิ่มเป็นสองเท่า
+e|overhead|A plane flew overhead.|เครื่องบินบินผ่านเหนือศีรษะ
+e|overlook|Don't overlook small details.|อย่ามองข้ามรายละเอียดเล็ก ๆ
+e|overnight|We stayed overnight.|เราพักค้างคืน
+e|overturn|The boat overturned.|เรือพลิกคว่ำ
+e|owl|An owl hooted at night.|นกฮูกร้องตอนกลางคืน
+e|ownership|Ownership of the house changed.|ความเป็นเจ้าของบ้านเปลี่ยนไป
+e|oxygen|We need oxygen to breathe.|เราต้องใช้ออกซิเจนหายใจ
+e|pad|Write it on the pad.|เขียนลงบนสมุดฉีก
+e|painter|He is a famous painter.|เขาเป็นจิตรกรชื่อดัง
+e|palace|We visited the palace.|เราไปเยี่ยมพระราชวัง
+e|pale|She looks pale.|เธอดูซีด
+e|palm|She held it in her palm.|เธอถือมันไว้ในฝ่ามือ
+e|panel|Press the button on the panel.|กดปุ่มบนแผง
+e|panic|Don't panic!|อย่าตื่นตระหนก
+e|parade|We watched the parade.|เราดูขบวนพาเหรด
+e|paradise|The island is a paradise.|เกาะนี้เป็นสวรรค์
+e|parallel|The two roads run parallel.|ถนนสองสายวิ่งขนานกัน
+e|parcel|I'll send the parcel today.|วันนี้ฉันจะส่งพัสดุ
+e|parrot|The parrot can talk.|นกแก้วพูดได้
+e|participant|Each participant got a gift.|ผู้เข้าร่วมทุกคนได้ของขวัญ
+e|participation|Thank you for your participation.|ขอบคุณที่เข้าร่วม
+e|participle|"Broken" is a past participle.|"broken" เป็นกริยาช่อง 3
+e|partnership|They formed a partnership.|พวกเขาตั้งหุ้นส่วน
+e|part-time|She has a part-time job.|เธอทำงานพาร์ทไทม์
+e|passage|Read the passage aloud.|อ่านข้อความตอนนี้ออกเสียง
+e|passing|A passing car splashed me.|รถที่ผ่านมาสาดน้ำใส่ฉัน
+e|passion|Music is her passion.|ดนตรีคือความหลงใหลของเธอ
+e|passionate|He is passionate about cooking.|เขาหลงใหลการทำอาหาร
+e|passive|Use the passive voice.|ใช้โครงสร้างประโยคถูกกระทำ
+e|paste|Copy and paste the text.|คัดลอกแล้ววางข้อความ
+e|pastry|I love French pastry.|ฉันชอบขนมอบฝรั่งเศส
+e|pat|She patted the dog.|เธอตบหัวสุนัขเบา ๆ
+e|patch|Sew a patch on the knee.|เย็บผ้าปะที่หัวเข่า
+e|pathetic|That was a pathetic excuse.|นั่นเป็นข้ออ้างที่น่าสมเพช
+e|patience|Have some patience.|อดทนหน่อย
+e|pavement|Walk on the pavement.|เดินบนทางเท้า
+e|paw|The dog gave me its paw.|สุนัขยื่นอุ้งเท้าให้ฉัน
+e|pc|My PC is slow.|พีซีของฉันช้า
+e|pe|We have PE on Monday.|เรามีวิชาพละวันจันทร์
+e|peak|They reached the peak.|พวกเขาไปถึงยอดเขา
+e|pearl|She wore a pearl necklace.|เธอสวมสร้อยไข่มุก
+e|pedal|He pressed the brake pedal.|เขาเหยียบเบรก
+e|pedestrian|Pedestrians must wait.|คนเดินเท้าต้องรอ
+e|peel|Peel the apple.|ปอกเปลือกแอปเปิล
+e|peer|She talked to her peers.|เธอคุยกับเพื่อนรุ่นเดียวกัน
+e|penalty|He scored from a penalty.|เขายิงประตูจากจุดโทษ
+e|penguin|The penguin swam fast.|เพนกวินว่ายเร็ว
+e|pensioner|Pensioners get a discount.|ผู้รับบำนาญได้ส่วนลด
+e|percentage|A high percentage passed.|เปอร์เซ็นต์สูงสอบผ่าน
+e|perception|Our perception can be wrong.|การรับรู้ของเราอาจผิดได้
+e|performer|The performer sang beautifully.|ผู้แสดงร้องเพลงไพเราะ
+e|perfume|She wears expensive perfume.|เธอใช้น้ำหอมแพง
+e|permanently|The shop closed permanently.|ร้านปิดถาวร
+e|personnel|Personnel must wear badges.|บุคลากรต้องติดป้ายชื่อ
+e|petal|A rose petal fell.|กลีบกุหลาบร่วง
+e|phase|It's a new phase of life.|เป็นช่วงใหม่ของชีวิต
+e|phenomenon|It's a natural phenomenon.|เป็นปรากฏการณ์ธรรมชาติ
+e|photocopy|Make a photocopy.|ถ่ายเอกสาร
+e|photographer|The photographer took many pictures.|ช่างภาพถ่ายรูปหลายใบ
+e|photographic|She has a photographic memory.|เธอมีความจำเป็นภาพถ่าย
+e|photography|Photography is my hobby.|การถ่ายภาพเป็นงานอดิเรกฉัน
+e|phrasal|"Give up" is a phrasal verb.|"give up" เป็นวลีกริยา
+e|physically|He is physically strong.|เขาแข็งแรงทางกาย
+e|physician|Ask your physician.|ถามแพทย์ของคุณ
+e|pillar|The roof rests on pillars.|หลังคาตั้งอยู่บนเสา
+e|pine|The forest is full of pine trees.|ป่าเต็มไปด้วยต้นสน
+e|pineapple|I like pineapple juice.|ฉันชอบน้ำสับปะรด
+e|pint|He drank a pint of beer.|เขาดื่มเบียร์หนึ่งไพนต์
+e|pistol|The police carry a pistol.|ตำรวจพกปืนพก
+e|pit|They dug a deep pit.|พวกเขาขุดหลุมลึก
+e|pitch|The pitch was wet.|สนามเปียก
+e|pity|It's a pity you can't come.|น่าเสียดายที่คุณมาไม่ได้
+e|platform|The train is at platform five.|รถไฟอยู่ที่ชานชาลาห้า
+e|plead|She pleaded for help.|เธออ้อนวอนขอความช่วยเหลือ
+e|pleasant|It was a pleasant surprise.|เป็นเซอร์ไพรส์ที่น่าพอใจ
+e|plot|The film has a good plot.|หนังมีโครงเรื่องดี
+e|plum|I love plum jam.|ฉันชอบแยมพลัม
+e|plumber|Call a plumber.|เรียกช่างประปา
+e|podcast|I listen to a podcast daily.|ฉันฟังพอดแคสต์ทุกวัน
+e|pointed|He has a pointed nose.|เขามีจมูกแหลม
+e|poison|The snake's poison is deadly.|พิษงูร้ายแรง
+e|poisonous|This plant is poisonous.|พืชนี้มีพิษ
+e|poke|She poked me in the arm.|เธอจิ้มแขนฉัน
+e|politically|He is politically active.|เขามีบทบาททางการเมือง
+e|poll|The poll showed a close race.|ผลโพลแสดงว่าสูสี
+e|pollute|Factories pollute the river.|โรงงานทำให้แม่น้ำเป็นมลพิษ
+e|pollution|Air pollution is bad here.|มลพิษทางอากาศที่นี่แย่
+e|pond|Ducks swam in the pond.|เป็ดว่ายในบ่อ
+e|pony|The child rode a pony.|เด็กขี่ม้าแคระ
+e|poorly|He did poorly in the test.|เขาทำข้อสอบได้ไม่ดี
+e|pop|I love pop music.|ฉันชอบเพลงป๊อป
+e|portion|The portion was too big.|ปริมาณอาหารมากเกินไป
+e|portrait|She painted his portrait.|เธอวาดภาพเหมือนของเขา
+e|portray|The film portrays his life.|หนังเล่าเรื่องชีวิตเขา
+e|pose|Pose for the camera.|โพสท่าให้กล้อง
+e|possess|He possesses a large house.|เขาเป็นเจ้าของบ้านหลังใหญ่
+e|possession|That is my possession.|นั่นเป็นสมบัติของฉัน
+e|postcode|What's your postcode?|รหัสไปรษณีย์คุณคืออะไร
+e|postpone|They postponed the match.|พวกเขาเลื่อนการแข่งขัน
+e|potentially|It's potentially dangerous.|อาจเป็นอันตราย
+e|pottery|She likes making pottery.|เธอชอบปั้นเครื่องปั้นดินเผา
+e|poverty|They live in poverty.|พวกเขาอยู่อย่างยากจน
+e|powder|Add some baking powder.|ใส่ผงฟู
+e|practically|It's practically finished.|เกือบเสร็จแล้ว
+e|pray|They pray every day.|พวกเขาสวดมนต์ทุกวัน
+e|precious|Time is precious.|เวลามีค่า
+e|precise|I need a precise answer.|ฉันต้องการคำตอบที่แม่นยำ
+e|precisely|It's precisely five o'clock.|ตอนนี้ห้าโมงตรง
+e|predictable|The film was predictable.|หนังคาดเดาได้
+e|predominantly|The class is predominantly girls.|ห้องนี้ส่วนใหญ่เป็นผู้หญิง
+e|preference|State your preference.|ระบุสิ่งที่คุณชอบกว่า
+e|pregnancy|She is in early pregnancy.|เธออยู่ในระยะแรกของการตั้งครรภ์
+e|pregnant|She is five months pregnant.|เธอตั้งครรภ์ห้าเดือน
+e|prejudice|Fight against prejudice.|ต่อสู้กับอคติ
+e|prejudiced|He is prejudiced against them.|เขามีอคติต่อพวกเขา
+e|premise|The argument has a false premise.|ข้อโต้แย้งมีข้อสมมติที่ผิด
+e|preparation|Preparation is key.|การเตรียมตัวเป็นกุญแจ
+e|prepared|I'm prepared for the test.|ฉันพร้อมสอบ
+e|prescription|You need a prescription.|คุณต้องมีใบสั่งยา
+e|presence|Your presence is requested.|ขอเชิญเข้าร่วม
+e|presentation|She gave a short presentation.|เธอนำเสนอสั้น ๆ
+e|presidential|It's a presidential election.|เป็นการเลือกตั้งประธานาธิบดี
+e|presumably|Presumably, he is at home.|เขาน่าจะอยู่บ้าน
+e|presume|I presume you're tired.|ฉันคิดว่าคุณเหนื่อย
+e|prevention|Prevention is better than cure.|การป้องกันดีกว่าการรักษา
+e|primarily|It's primarily a game.|หลัก ๆ แล้วเป็นเกม
+e|primary|Reading is the primary skill.|การอ่านเป็นทักษะหลัก
+e|primitive|They used primitive tools.|พวกเขาใช้เครื่องมือดั้งเดิม
+e|prior|You need prior experience.|คุณต้องมีประสบการณ์มาก่อน
+e|priority|Safety is our priority.|ความปลอดภัยคือสิ่งสำคัญที่สุด
+e|privacy|I need some privacy.|ฉันต้องการความเป็นส่วนตัว
+e|privilege|It's a privilege to be here.|เป็นเกียรติที่ได้มาที่นี่
+e|privileged|I feel privileged.|ฉันรู้สึกโชคดี
+e|probability|The probability is low.|ความน่าจะเป็นต่ำ
+e|probable|It's probable that he left.|น่าจะเป็นไปได้ว่าเขาไปแล้ว
+e|procedure|Follow the procedure.|ทำตามขั้นตอน
+e|proceed|Please proceed to gate 5.|กรุณาไปที่ประตู 5
+e|profession|Teaching is a noble profession.|การสอนเป็นอาชีพที่สูงส่ง
+e|profile|Update your profile.|อัปเดตโปรไฟล์ของคุณ
+e|profitable|The shop is profitable.|ร้านนี้ทำกำไร
+e|profound|It had a profound effect.|ส่งผลลึกซึ้ง
+e|promotion|She got a promotion.|เธอได้เลื่อนตำแหน่ง
+e|prone|He is prone to colds.|เขาเป็นหวัดง่าย
+e|proof|Do you have proof?|คุณมีหลักฐานไหม
+e|propaganda|It was just propaganda.|เป็นแค่การโฆษณาชวนเชื่อ
+e|proportion|The proportion is wrong.|สัดส่วนไม่ถูกต้อง
+e|proposal|They accepted our proposal.|พวกเขายอมรับข้อเสนอของเรา
+e|proposed|The proposed plan is good.|แผนที่เสนอมาดี
+e|prosecute|They will prosecute him.|พวกเขาจะดำเนินคดีกับเขา
+e|prosecution|The prosecution called a witness.|ฝ่ายโจทก์เรียกพยาน
+e|protein|Eggs contain protein.|ไข่มีโปรตีน
+e|protester|Protesters filled the street.|ผู้ประท้วงเต็มถนน
+e|province|She lives in a northern province.|เธออยู่จังหวัดทางเหนือ
+e|provision|The provision of food was good.|การจัดหาอาหารดี
+e|provoke|Don't provoke him.|อย่ายั่วเขา
+e|ps|Add a PS at the end.|เพิ่ม PS ท้ายจดหมาย
+e|psychiatric|He is in a psychiatric hospital.|เขาอยู่โรงพยาบาลจิตเวช
+e|psychiatrist|She is a psychiatrist.|เธอเป็นจิตแพทย์
+e|psychological|It's a psychological problem.|เป็นปัญหาทางจิตวิทยา
+e|psychologist|The psychologist helped him.|นักจิตวิทยาช่วยเขา
+e|publicity|The film got a lot of publicity.|หนังได้รับการประชาสัมพันธ์มาก
+e|publicly|He spoke publicly about it.|เขาพูดเรื่องนี้ต่อสาธารณะ
+e|publisher|The publisher printed the book.|สำนักพิมพ์พิมพ์หนังสือ
+e|publishing|She works in publishing.|เธอทำงานด้านสำนักพิมพ์
+e|puddle|Don't step in the puddle.|อย่าเหยียบแอ่งน้ำ
+e|pump|Pump up the tyre.|สูบลมยาง
+e|pumpkin|We made pumpkin soup.|เราทำซุปฟักทอง
+e|pun|That was a bad pun.|เล่นคำได้แย่มาก
+e|punctuation|Check your punctuation.|ตรวจเครื่องหมายวรรคตอน
+e|punish|They punished the boy.|พวกเขาลงโทษเด็กชาย
+e|purely|It's purely a coincidence.|เป็นเรื่องบังเอิญล้วน ๆ
+e|puzzling|It's a puzzling case.|เป็นคดีที่น่างุนงง
+e|pyjamas|He is still in his pyjamas.|เขายังใส่ชุดนอนอยู่
+e|qualification|She has many qualifications.|เธอมีคุณวุฒิหลายอย่าง
+e|qualified|He is a qualified nurse.|เขาเป็นพยาบาลที่มีคุณสมบัติครบ
+e|qualify|Did you qualify for the final?|คุณผ่านเข้ารอบสุดท้ายไหม
+e|quarrel|They had a quarrel.|พวกเขาทะเลาะกัน
+e|query|I have a query.|ฉันมีข้อสงสัย
+e|questionnaire|Please fill in the questionnaire.|กรุณากรอกแบบสอบถาม
+e|queue|Join the queue.|ต่อแถว
+e|quit|He quit his job.|เขาลาออกจากงาน
+e|quotation|Can I have a quotation?|ขอใบเสนอราคาได้ไหม
