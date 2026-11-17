@@ -66,7 +66,7 @@ h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
 .spk{height:30px;min-width:34px;padding:0 10px;border-radius:15px;border:1px solid var(--line);background:rgba(255,255,255,.07);color:var(--fg);font-size:13px;cursor:pointer}
 .spk:active{background:rgba(255,255,255,.2)}
 .modes{display:inline-flex;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel)}
-.modes button{height:30px;padding:0 14px;border:0;background:none;color:var(--mut);font-size:13px;font-weight:600;cursor:pointer}
+.modes button{height:30px;padding:0 11px;border:0;background:none;color:var(--mut);font-size:13px;font-weight:600;cursor:pointer}
 .modes button.on{background:#e8edf7;color:#0a0d16}
 #dict{position:fixed;inset:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(var(--hh,140px) + 4px) 12px calc(40px + env(safe-area-inset-bottom));display:none;z-index:3}
 #dict .in{max-width:760px;margin:0 auto}
@@ -99,20 +99,53 @@ body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-botto
 .hint{font-size:11px;color:var(--mut);margin-top:4px}
 .tip a{color:#8ab4ff}
 .exth{font-size:13px;color:var(--mut);margin-top:2px}
+
+#fc{position:fixed;inset:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(var(--hh,140px) + 4px) 12px calc(40px + env(safe-area-inset-bottom));display:none;z-index:3}
+#fc .in{max-width:560px;margin:0 auto}
+body.fc .srow{display:none}
+.fcs{margin:16px 0 6px;font-size:13px;color:var(--mut);font-weight:700}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.seg button,.fcsel,.fcbtn{min-height:36px;padding:0 14px;border-radius:18px;border:1px solid var(--line);background:rgba(255,255,255,.06);color:var(--fg);font-size:14px;font-weight:600;cursor:pointer}
+.seg button.on{background:#e8edf7;color:#0a0d16}
+.fcsel{width:100%;margin-top:6px;border-radius:12px;padding:0 10px;-webkit-appearance:none;appearance:none}
+.fcgo{width:100%;height:54px;margin-top:20px;border-radius:16px;border:0;background:#34d399;color:#04140c;font-size:17px;font-weight:800}
+.fcgo:disabled{opacity:.35}
+.fcbar{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.prog{height:4px;background:rgba(255,255,255,.1);border-radius:2px;margin:10px 0 12px}
+.prog i{display:block;height:100%;background:#34d399;border-radius:2px}
+.fcard{min-height:300px;border:1px solid var(--line);background:rgba(255,255,255,.06);border-radius:22px;padding:22px 16px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px}
+.fcard.tap{cursor:pointer}
+.fcw{font-size:38px;font-weight:800;word-break:break-word}
+.fcth{font-size:26px;font-weight:700}
+.fcard .ex,.fcard .tip,.fcard .tags,.fcard .nu,.fcard .lv{text-align:left;width:100%}
+.fcard .exr{text-align:left}
+.fchint{font-size:13px;color:var(--mut)}
+.fcact{display:flex;gap:10px;margin-top:14px}
+.fcact button{flex:1;height:54px;border-radius:16px;border:1px solid var(--line);font-size:16px;font-weight:800;color:var(--fg);background:rgba(255,255,255,.08);cursor:pointer}
+.fcact .ok{background:#15803d;border-color:#15803d}
+.fcact .bad{background:#b45309;border-color:#b45309}
+.fcnav{display:flex;justify-content:space-between;gap:8px;margin-top:12px}
+.fav{height:30px;min-width:34px;border-radius:15px;border:1px solid var(--line);background:rgba(255,255,255,.07);color:var(--mut);font-size:16px;cursor:pointer}
+.fav.on{color:#fbbf24}
+.fcbig{font-size:48px;font-weight:800;margin:8px 0}
+.fcsum{display:flex;gap:10px;margin-top:10px;width:100%}
+.fcsum div{flex:1;padding:12px;border-radius:14px;border:1px solid var(--line);font-size:14px}
+.fcsum b{display:block;font-size:26px}
 </style>
 </head>
 <body>
 <div id="graph"></div>
 <div id="msg">กำลังโหลด…</div>
 <div id="dict"><div class="in"></div></div>
+<div id="fc"><div class="in"></div></div>
 
 <div class="top">
   <div class="row">
     <h1>POTADIC</h1>
     <span class="stat" id="stat"></span>
-    <span class="modes" id="modes"><button data-m="graph" class="on">กราฟ 3D</button><button data-m="dict">พจนานุกรม</button></span>
+    <span class="modes" id="modes"><button data-m="dict" class="on">พจนานุกรม</button><button data-m="fc">แฟลชการ์ด</button><button data-m="graph">กราฟ 3D</button></span>
   </div>
-  <div class="row">
+  <div class="row srow">
     <div class="search">
       <input id="q" type="search" placeholder="ค้นหาคำ / ราก / คำแปลไทย" autocomplete="off" autocapitalize="off" spellcheck="false">
       <div class="dd" id="dd"></div>
@@ -124,11 +157,9 @@ body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-botto
 <aside id="panel"><button class="x" id="px" aria-label="ปิด">×</button><div id="pc"></div></aside>
 
 <!--EMBED-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.70.19/dist/3d-force-graph.min.js"></script>
 <script>
-const LV=["A1","A2","B1","B2","C1"];
-const LVC={A1:"#34d399",A2:"#a3e635",B1:"#facc15",B2:"#fb923c",C1:"#f87171"};
+const LV=["A1","A2","B1","B2","C1","C2"];
+const LVC={A1:"#34d399",A2:"#a3e635",B1:"#facc15",B2:"#fb923c",C1:"#f87171",C2:"#f472b6"};
 const KC={root:"#2dd4bf",prefix:"#a78bfa",suffix:"#fb923c"};
 const KL={root:"ราก",prefix:"Prefix",suffix:"Suffix"};
 const FONT='-apple-system,"Thonburi","Sarabun","Noto Sans Thai",sans-serif';
@@ -181,8 +212,13 @@ function parseInto(text,store){
 //</parse>
 
 const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map(),ex:new Map()};
-const state={mode:"graph",dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
+const state={mode:"dict",favOnly:false,dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
+
+const LS=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}};
+const fav=new Set(LS("wr-fav",[])),hard=new Set(LS("wr-hard",[]));
+const saveSet=(k,s)=>{try{localStorage.setItem(k,JSON.stringify([...s]))}catch(e){}};
+function toggleFav(w){fav.has(w)?fav.delete(w):fav.add(w);saveSet("wr-fav",fav);return fav.has(w);}
 
 const labelOf=r=>r.kind==="prefix"?r.names[0]+"-":r.kind==="suffix"?"-"+r.names[0]:r.names.join(" / ");
 const nid=x=>typeof x==="object"?x:(x[0]==="r"?[...store.roots.values()].find(r=>r.id===x):x[0]==="s"?synNode(x.slice(2)):store.words.get(x.slice(2)));
@@ -300,9 +336,9 @@ function dictDetail(d){
 function renderDict(){
   if(!dictList)buildDict();
   const box=document.querySelector("#dict .in"),v=document.getElementById("q").value.trim().toLowerCase();
-  const list=dictList.filter(d=>state.dl.has(d.cefr)&&(!v||d.word.includes(v)||d.th.includes(v)||(d.nuance||"").toLowerCase().includes(v)));
+  const list=dictList.filter(d=>state.dl.has(d.cefr)&&(!state.favOnly||fav.has(d.word))&&(!v||d.word.includes(v)||d.th.includes(v)||(d.nuance||"").toLowerCase().includes(v)));
   const avail=new Set(list.map(d=>d.word[0].toUpperCase()));
-  let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
+  let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip${state.favOnly?"":" off"}" id="favb">★ ที่บันทึก (${fav.size})</button><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
   h+=`<div class="letters">${"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(c=>`<button data-a="${c}"${avail.has(c)?"":' class="dis"'}>${c}</button>`).join("")}</div>`;
   h+=`<div class="dcount">${list.length} คำ · <b style="color:#fbbf24">ตัวหนาเหลือง</b> = พยางค์ที่เน้น · แตะแถวเพื่อดูรายละเอียด</div>`;
   let cur="";
@@ -310,35 +346,40 @@ function renderDict(){
     const L=d.word[0].toUpperCase();
     if(L!==cur){cur=L;h+=`<div class="dh" id="L-${L}">${L}</div>`;}
     const w2=esc(d.word);
-    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="spk" type="button" data-w="${w2}">🔊</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
+    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="fav${fav.has(d.word)?" on":""}" type="button" data-f="${w2}">${fav.has(d.word)?"★":"☆"}</button><button class="spk" type="button" data-w="${w2}">🔊</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
   }
   box.innerHTML=h;
   box.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{const l=b.dataset.l;state.dl.has(l)?state.dl.delete(l):state.dl.add(l);renderDict();});
+  box.querySelector("#favb").onclick=()=>{state.favOnly=!state.favOnly;renderDict();};
   box.querySelector("#accb").onclick=()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}renderDict();};
   box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const t=document.getElementById("L-"+b.dataset.a);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});});
   box.onclick=ev=>{
+    const st=ev.target.closest&&ev.target.closest(".fav");
+    if(st&&box.contains(st)){const on=toggleFav(st.dataset.f);st.classList.toggle("on",on);st.textContent=on?"★":"☆";const fb=box.querySelector("#favb");if(fb)fb.textContent=`★ ที่บันทึก (${fav.size})`;return;}
     const m=ev.target.closest&&ev.target.closest(".dm");if(!m||!box.contains(m))return;
     const e=m.parentNode,dd=e.querySelector(".dd2");
     if(!dd.innerHTML){dd.innerHTML=dictDetail(dictList.find(x=>x.word===e.dataset.w));
       dd.querySelectorAll(".sr").forEach(b=>b.onclick=()=>{document.getElementById("q").value=b.dataset.syn;renderDict();});
-      dd.querySelectorAll(".go").forEach(b=>b.onclick=()=>{setMode("graph");const n=store.words.get(b.dataset.go);if(n)setTimeout(()=>select(n,true),700);});}
+      dd.querySelectorAll(".go").forEach(b=>b.onclick=()=>{setMode("graph");const n=store.words.get(b.dataset.go);if(n)libs().then(()=>setTimeout(()=>select(n,true),900)).catch(()=>{});});}
     e.classList.toggle("open");
   };
 }
 function hh(){const t=document.querySelector(".top");document.documentElement.style.setProperty("--hh",t.offsetHeight+"px");}
 addEventListener("resize",hh);
 function setMode(m){
-  state.mode=m;try{localStorage.setItem("wr-mode",m);}catch(e){}
+  state.mode=m;
   document.querySelectorAll("#modes button").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
-  const g=m==="graph",q=document.getElementById("q");
+  const g=m==="graph",d=m==="dict",f=m==="fc",q=document.getElementById("q");
   document.getElementById("graph").style.display=g?"block":"none";
   document.getElementById("chips").style.display=g?"flex":"none";
-  document.getElementById("dict").style.display=g?"none":"block";
+  document.getElementById("dict").style.display=d?"block":"none";
+  document.getElementById("fc").style.display=f?"block":"none";
   document.getElementById("dd").style.display="none";
   q.value="";q.placeholder=g?"ค้นหาคำ / ราก / คำแปลไทย":"ค้นหาในพจนานุกรม (อังกฤษ / ไทย)";
-  closePanel();document.body.classList.toggle("dm",!g);hh();
-  if(g){if(!Graph)build();else Graph.width(innerWidth).height(innerHeight);}
-  else renderDict();
+  closePanel();document.body.classList.toggle("dm",!g);document.body.classList.toggle("fc",f);hh();
+  if(g){libs().then(()=>{if(state.mode!=="graph")return;if(!Graph)build();else Graph.width(innerWidth).height(innerHeight);}).catch(()=>{});}
+  else if(d)renderDict();
+  else renderFC();
 }
 
 async function load(){
@@ -363,8 +404,121 @@ async function load(){
   document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${new Set([...store.words.keys(),...synIndex.keys(),...store.dict.keys()]).size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
   initUI();
   document.querySelectorAll("#modes button").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
-  let m="graph";try{m=localStorage.getItem("wr-mode")||"graph";}catch(e){}
-  setMode(m==="dict"?"dict":"graph");
+  initFC();
+  setMode("dict");
+}
+
+
+/* ---------- flashcards ---------- */
+const fc={stage:"setup",src:"random",cat:"root",val:"",n:20,shuf:true,saved:"fav",dir:"en",lv:new Set(LV),deck:[],i:0,flip:false,res:{}};
+let dmap=null;
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+function fcAll(){if(!dictList)buildDict();if(!dmap)dmap=new Map(dictList.map(d=>[d.word,d]));return dictList;}
+function fcOpts(){
+  fcAll();
+  if(fc.cat==="root")return [...store.roots.values()].sort((a,b)=>labelOf(a).localeCompare(labelOf(b))).map(r=>[r.id,`${labelOf(r)} — ${r.th} (${r.words.length})`]);
+  if(fc.cat==="syn")return [...store.syn.entries()].map(([k,c])=>[k,`${c.title} (${c.items.length})`]);
+  if(fc.cat==="letter")return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(c=>[c,`${c} (${dictList.filter(d=>d.word[0].toUpperCase()===c).length})`]);
+  return [...LV].map(l=>[l,`${l} (${dictList.filter(d=>d.cefr===l).length})`]);
+}
+function fcPool(){
+  fcAll();let p=[];
+  if(fc.src==="random")p=dictList;
+  else if(fc.src==="saved")p=[...(fc.saved==="fav"?fav:hard)].map(w=>dmap.get(w)).filter(Boolean);
+  else{
+    const v=fc.val||(fcOpts()[0]||[])[0];
+    if(fc.cat==="root"){const r=[...store.roots.values()].find(x=>x.id===v);p=r?r.words.map(w=>dmap.get(w.word)).filter(Boolean):[];}
+    else if(fc.cat==="syn"){const c=store.syn.get(v);p=c?c.items.map(i=>dmap.get(i.word)).filter(Boolean):[];}
+    else if(fc.cat==="letter")p=dictList.filter(d=>d.word[0].toUpperCase()===v);
+    else p=dictList.filter(d=>d.cefr===v);
+  }
+  if(!(fc.src==="cat"&&fc.cat==="level"))p=p.filter(d=>fc.lv.has(d.cefr));
+  return p;
+}
+function renderFC(){
+  const box=document.querySelector("#fc .in");
+  if(fc.stage==="setup")fcSetup(box);else if(fc.stage==="done")fcDone(box);else fcCard(box);
+}
+function fcSetup(box){
+  const pool=fcPool(),sg=(k,arr)=>`<div class="seg">${arr.map(([v,t])=>`<button data-a="${k}" data-v="${v}" class="${String(fc[k])===String(v)?"on":""}">${t}</button>`).join("")}</div>`;
+  let h=`<div class="fcs">แหล่งคำ</div>${sg("src",[["random","🔀 สุ่ม"],["cat","📂 ตามหมวด"],["saved","★ ที่บันทึกไว้"]])}`;
+  h+=`<div class="fcs">ระดับ</div><div class="seg">${LV.map(l=>`<button data-lv="${l}" class="${fc.lv.has(l)?"on":""}" style="${fc.lv.has(l)?"":"opacity:.5"}">${l}</button>`).join("")}</div>`;
+  if(fc.src==="random")h+=`<div class="fcs">จำนวนการ์ด</div>${sg("n",[[10,"10"],[20,"20"],[50,"50"],[100,"100"],[0,"ไม่จำกัด"]])}`;
+  if(fc.src==="cat"){
+    h+=`<div class="fcs">หมวด</div>${sg("cat",[["root","รากศัพท์"],["syn","คำใกล้เคียง"],["letter","ตัวอักษร"],["level","ระดับ"]])}`;
+    const o=fcOpts(),cur=fc.val||(o[0]||[])[0];
+    h+=`<select class="fcsel" id="fcval">${o.map(([v,t])=>`<option value="${esc(v)}"${v===cur?" selected":""}>${esc(t)}</option>`).join("")}</select>`;
+  }
+  if(fc.src==="saved")h+=`<div class="fcs">ชุดที่บันทึก</div>${sg("saved",[["fav",`★ คำโปรด (${fav.size})`],["hard",`⚠ ยังไม่แน่ใจ (${hard.size})`]])}<div class="fchint" style="margin-top:6px">กด ☆ ที่คำในพจนานุกรมหรือบนการ์ดเพื่อบันทึก · คำที่กด "ยังไม่แน่ใจ" จะเข้าชุด ⚠ อัตโนมัติ</div>`;
+  h+=`<div class="fcs">โจทย์</div>${sg("dir",[["en","อังกฤษ→ไทย"],["th","ไทย→อังกฤษ"],["ear","ฟังเสียง"]])}`;
+  h+=`<div class="fcs">ลำดับ</div>${sg("shuf",[[true,"สลับ"],[false,"A→Z"]])}`;
+  const n=fc.src==="random"&&fc.n?Math.min(fc.n,pool.length):pool.length;
+  h+=`<button class="fcgo" id="fcgo"${n?"":" disabled"}>เริ่ม · ${n} คำ</button>`;
+  box.innerHTML=h;
+}
+function fcStart(words){
+  fc.deck=words;fc.i=0;fc.flip=false;fc.res={};fc.stage="card";renderFC();window.scrollTo(0,0);document.getElementById("fc").scrollTop=0;
+}
+function fcCard(box){
+  const d=fc.deck[fc.i],w2=esc(d.word),done=Object.keys(fc.res).length;
+  const star=`<button class="fav${fav.has(d.word)?" on":""}" type="button" data-f="${w2}">${fav.has(d.word)?"★":"☆"}</button>`;
+  let c;
+  if(!fc.flip){
+    if(fc.dir==="en")c=`<div class="fcw" style="color:${LVC[d.cefr]}">${w2}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button>`;
+    else if(fc.dir==="th")c=`<div class="fcth">${esc(d.th)}</div><div class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</div>`;
+    else c=`<button class="spk" type="button" data-w="${w2}" style="height:64px;width:64px;font-size:28px;border-radius:32px">🔊</button><div class="fchint">ฟังแล้วนึกคำและความหมาย</div>`;
+    c+=`<div class="fchint">แตะการ์ดเพื่อดูเฉลย</div>`;
+  }else{
+    c=`<div class="fcw" style="color:${LVC[d.cefr]}">${w2}</div><div class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button><div class="fcth">${esc(d.th)}</div>`;
+    if(d.nuance)c+=`<div class="nu">${esc(d.nuance)}</div>`;
+    c+=exBlock(d.word);
+    if(d.roots.length)c+=`<div class="tags">${d.roots.map(r=>`<span class="tag" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></span>`).join("")}</div>`;
+  }
+  box.innerHTML=`<div class="fcbar"><span class="fchint">${fc.i+1} / ${fc.deck.length}</span>${star}<button class="fcbtn" data-act="quit">ออก</button></div><div class="prog"><i style="width:${100*done/fc.deck.length}%"></i></div><div class="fcard${fc.flip?"":" tap"}" id="fcard">${c}</div>`+
+   (fc.flip?`<div class="fcact"><button class="bad" data-act="bad">ยังไม่แน่ใจ</button><button class="ok" data-act="ok">จำได้ ✓</button></div>`:`<div class="fcact"><button data-act="flip">เฉลย</button></div>`)+
+   `<div class="fcnav"><button class="fcbtn" data-act="prev"${fc.i?"":" disabled"}>← ก่อนหน้า</button><button class="fcbtn" data-act="skip">ข้าม →</button></div>`;
+  if(!fc.flip&&fc.dir==="ear")speak(d.word);
+}
+function fcNext(){
+  fc.flip=false;fc.i++;
+  if(fc.i>=fc.deck.length){fc.stage="done";}
+  renderFC();document.getElementById("fc").scrollTop=0;
+}
+function fcDone(box){
+  const ok=fc.deck.filter(d=>fc.res[d.word]==="ok").length,bad=fc.deck.filter(d=>fc.res[d.word]==="bad"),sk=fc.deck.length-ok-bad.length;
+  box.innerHTML=`<div class="fcard"><div class="fcs" style="margin:0">จบชุดแล้ว</div><div class="fcbig">${ok} / ${fc.deck.length}</div><div class="fcsum"><div><b style="color:#34d399">${ok}</b>จำได้</div><div><b style="color:#fb923c">${bad.length}</b>ยังไม่แน่ใจ</div><div><b>${sk}</b>ข้าม</div></div></div>`+
+   `<div class="fcact" style="flex-direction:column">${bad.length?`<button class="bad" data-act="redo">ทบทวนเฉพาะที่ไม่แน่ใจ (${bad.length})</button>`:""}<button data-act="again">เล่นชุดนี้อีกครั้ง</button><button data-act="quit">กลับไปตั้งค่า</button></div>`;
+}
+function initFC(){
+  const box=document.querySelector("#fc .in");
+  box.onclick=ev=>{
+    const t=ev.target;
+    const star=t.closest&&t.closest(".fav");
+    if(star){const on=toggleFav(star.dataset.f);star.classList.toggle("on",on);star.textContent=on?"★":"☆";return;}
+    const lv=t.closest&&t.closest("[data-lv]");
+    if(lv){const l=lv.dataset.lv;fc.lv.has(l)?fc.lv.delete(l):fc.lv.add(l);if(!fc.lv.size)fc.lv.add(l);renderFC();return;}
+    const sg=t.closest&&t.closest("[data-a]");
+    if(sg){const k=sg.dataset.a;let v=sg.dataset.v;if(k==="n")v=+v;else if(k==="shuf")v=v==="true";fc[k]=v;if(k==="cat")fc.val="";renderFC();return;}
+    if(t.closest&&t.closest("#fcgo")){
+      let p=fcPool();if(fc.src==="random"&&fc.n){p=shuffle(p).slice(0,fc.n);}else if(fc.shuf)p=shuffle(p);
+      if(fc.src==="random"&&!fc.shuf)p=p.slice().sort((a,b)=>a.word.localeCompare(b.word));
+      if(p.length)fcStart(p);return;
+    }
+    if(t.closest&&t.closest(".spk"))return;
+    if(t.closest&&t.closest(".tw"))return;
+    if(t.closest&&t.closest("#fcard.tap")){fc.flip=true;renderFC();return;}
+    const a=t.closest&&t.closest("[data-act]");if(!a)return;
+    const act=a.dataset.act,d=fc.deck[fc.i];
+    if(act==="flip"){fc.flip=true;renderFC();}
+    else if(act==="ok"){fc.res[d.word]="ok";if(hard.delete(d.word))saveSet("wr-hard",hard);fcNext();}
+    else if(act==="bad"){fc.res[d.word]="bad";hard.add(d.word);saveSet("wr-hard",hard);fcNext();}
+    else if(act==="skip")fcNext();
+    else if(act==="prev"&&fc.i>0){fc.i--;fc.flip=false;renderFC();}
+    else if(act==="quit"){fc.stage="setup";renderFC();}
+    else if(act==="again")fcStart(fc.shuf?shuffle(fc.deck):fc.deck);
+    else if(act==="redo")fcStart(shuffle(fc.deck.filter(x=>fc.res[x.word]==="bad")));
+  };
+  box.addEventListener("change",ev=>{if(ev.target.id==="fcval"){fc.val=ev.target.value;renderFC();}});
 }
 
 /* ---------- textures ---------- */
@@ -404,8 +558,18 @@ function wordSprite(w){
 }
 
 /* ---------- graph ---------- */
-const wordGeo=new THREE.SphereGeometry(2,12,12);
-const wordMat={};LV.forEach(l=>wordMat[l]=new THREE.MeshBasicMaterial({color:LVC[l],transparent:true,opacity:.92}));
+/* ---------- lazy 3D libs ---------- */
+let libP=null;
+function libs(){
+  if(window.THREE&&window.ForceGraph3D)return Promise.resolve();
+  if(libP)return libP;
+  const ld=u=>new Promise((ok,no)=>{const s=document.createElement("script");s.src=u;s.onload=ok;s.onerror=no;document.head.appendChild(s);});
+  const msg=document.getElementById("msg");msg.textContent="กำลังโหลดกราฟ 3D…";msg.style.display="flex";
+  libP=ld("https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js").then(()=>ld("https://cdn.jsdelivr.net/npm/3d-force-graph@1.70.19/dist/3d-force-graph.min.js")).then(()=>{msg.style.display="none";}).catch(e=>{libP=null;msg.innerHTML="โหลดกราฟ 3D ไม่ได้ (ต้องต่อเน็ต)";setTimeout(()=>{msg.style.display="none";},2500);throw e;});
+  return libP;
+}
+let wordGeo=null;const wordMat={};
+function initGeo(){if(wordGeo)return;wordGeo=new THREE.SphereGeometry(2,12,12);LV.forEach(l=>wordMat[l]=new THREE.MeshBasicMaterial({color:LVC[l],transparent:true,opacity:.92}));}
 const rad=r=>5+Math.sqrt(r.words.length)*1.7;
 
 function makeNode(n){
@@ -434,6 +598,7 @@ function refreshStyle(){
 }
 
 function build(){
+  initGeo();
   const roots=[...store.roots.values()],words=[...store.words.values()];
   const links=[];roots.forEach(r=>r.words.forEach(w=>links.push({source:r.id,target:w.id})));
   Graph=ForceGraph3D({controlType:"orbit"})(document.getElementById("graph"))
