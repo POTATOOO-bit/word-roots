@@ -266,7 +266,7 @@ document.addEventListener("click",e=>{
 function exBlock(w){
   const x=store.ex.get(w);if(!x)return "";
   const re=new RegExp("\\b("+w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\w*)","i");
-  const en=esc(x.en).split(/([A-Za-z][A-Za-z'’-]*)/).map(t=>/^[A-Za-z]/.test(t)?`<span class="tw${re.test(t)?" xw":""}" data-t="${esc(t.toLowerCase())}">${esc(t)}</span>`:t).join("");
+  const en=x.en.split(/([A-Za-z][A-Za-z'’-]*)/).map(t=>/^[A-Za-z]/.test(t)?`<span class="tw${re.test(t)?" xw":""}" data-t="${esc(t.toLowerCase())}">${esc(t)}</span>`:esc(t)).join("");
   return `<div class="lv">ตัวอย่างประโยค</div><div class="ex"><div class="exr"><span class="exe">${en}</span><button class="spk" type="button" data-w="${esc(x.en)}" aria-label="ฟังประโยค">🔊</button></div>${x.th?`<div class="exth">${esc(x.th)}</div>`:""}<div class="tip" hidden></div><div class="hint">แตะคำในประโยคเพื่อดูคำแปล</div></div>`;
 }
 function pronBlock(w){
@@ -391,11 +391,11 @@ function wordSprite(w){
   const key=w.id+"|"+(two?1:0);
   let tex=texCache.get(key);
   if(!tex){
-    const H=two?96:64;
-    tex=canvasTex(256,H,(g,W)=>{
+    const H=two?72:48;
+    tex=canvasTex(192,H,(g,W)=>{
       g.textAlign="center";g.textBaseline="middle";g.shadowColor="rgba(0,0,0,.9)";g.shadowBlur=6;
-      fit(g,w.word,W-16,40,600);g.fillStyle=LVC[w.cefr];g.fillText(w.word,W/2,two?30:H/2);
-      if(two){g.font=`500 28px ${FONT}`;g.fillStyle="rgba(255,255,255,.85)";g.fillText(clip(g,w.th,W-16),W/2,70);}
+      fit(g,w.word,W-12,30,600);g.fillStyle=LVC[w.cefr];g.fillText(w.word,W/2,two?22:H/2);
+      if(two){g.font=`500 21px ${FONT}`;g.fillStyle="rgba(255,255,255,.85)";g.fillText(clip(g,w.th,W-12),W/2,53);}
     });
     texCache.set(key,tex);
   }
@@ -412,7 +412,7 @@ function makeNode(n){
   const g=new THREE.Group();
   if(n.type==="root"){
     const R=rad(n),c=KC[n.kind];
-    g.add(new THREE.Mesh(new THREE.SphereGeometry(R,32,32),new THREE.MeshPhongMaterial({color:c,emissive:c,emissiveIntensity:.28,transparent:true,opacity:.34,shininess:100,depthWrite:false})));
+    g.add(new THREE.Mesh(new THREE.SphereGeometry(R,20,20),new THREE.MeshPhongMaterial({color:c,emissive:c,emissiveIntensity:.28,transparent:true,opacity:.34,shininess:100,depthWrite:false})));
     g.add(rootSprite(n,R));
   }else{
     g.add(new THREE.Mesh(wordGeo,wordMat[n.cefr]));
