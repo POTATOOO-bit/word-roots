@@ -333,6 +333,19 @@ function dictDetail(d){
   if(store.words.has(d.word))h+=`<button class="go" type="button" data-go="${esc(d.word)}">ดูในกราฟ 3D →</button>`;
   return h;
 }
+let dv={list:[],n:0,cur:""},dIO=null;
+function dictMore(k){
+  const rows=document.getElementById("drows");if(!rows)return;
+  let h="";const end=Math.min(dv.list.length,dv.n+k);
+  for(let i=dv.n;i<end;i++){const d=dv.list[i];
+    const L=d.word[0].toUpperCase();
+    if(L!==dv.cur){dv.cur=L;h+=`<div class="dh" id="L-${L}">${L}</div>`;}
+    const w2=esc(d.word);
+    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="fav${fav.has(d.word)?" on":""}" type="button" data-f="${w2}">${fav.has(d.word)?"★":"☆"}</button><button class="spk" type="button" data-w="${w2}">🔊</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
+  }
+  dv.n=end;rows.insertAdjacentHTML("beforeend",h);
+  if(dv.n>=dv.list.length&&dIO)dIO.disconnect();
+}
 function renderDict(){
   if(!dictList)buildDict();
   const box=document.querySelector("#dict .in"),v=document.getElementById("q").value.trim().toLowerCase();
@@ -341,18 +354,15 @@ function renderDict(){
   let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip${state.favOnly?"":" off"}" id="favb">★ ที่บันทึก (${fav.size})</button><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
   h+=`<div class="letters">${"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(c=>`<button data-a="${c}"${avail.has(c)?"":' class="dis"'}>${c}</button>`).join("")}</div>`;
   h+=`<div class="dcount">${list.length} คำ · <b style="color:#fbbf24">ตัวหนาเหลือง</b> = พยางค์ที่เน้น · แตะแถวเพื่อดูรายละเอียด</div>`;
-  let cur="";
-  for(const d of list){
-    const L=d.word[0].toUpperCase();
-    if(L!==cur){cur=L;h+=`<div class="dh" id="L-${L}">${L}</div>`;}
-    const w2=esc(d.word);
-    h+=`<div class="de" data-w="${w2}"><div class="dm"><div class="dw"><span style="color:${LVC[d.cefr]}">${w2}</span><span class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</span></div><div class="dr"><button class="fav${fav.has(d.word)?" on":""}" type="button" data-f="${w2}">${fav.has(d.word)?"★":"☆"}</button><button class="spk" type="button" data-w="${w2}">🔊</button></div><div>${pronHTML(d.word)}</div><div class="dt">${esc(d.th)}</div></div><div class="dd2"></div></div>`;
-  }
+  h+=`<div id="drows"></div><div id="dmore"></div>`;
   box.innerHTML=h;
+  dv={list,n:0,cur:""};dictMore(150);
+  if(dIO)dIO.disconnect();
+  try{dIO=new IntersectionObserver(es=>{if(es[0].isIntersecting)dictMore(150);},{root:document.getElementById("dict"),rootMargin:"1500px"});dIO.observe(box.querySelector("#dmore"));}catch(e){dictMore(99999);}
   box.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{const l=b.dataset.l;state.dl.has(l)?state.dl.delete(l):state.dl.add(l);renderDict();});
   box.querySelector("#favb").onclick=()=>{state.favOnly=!state.favOnly;renderDict();};
   box.querySelector("#accb").onclick=()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}renderDict();};
-  box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const t=document.getElementById("L-"+b.dataset.a);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});});
+  box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const a=b.dataset.a,i=dv.list.findIndex(d=>d.word[0].toUpperCase()===a);if(i<0)return;document.getElementById("drows").innerHTML="";dv.n=i;dv.cur="";dictMore(150);const sc=document.getElementById("dict");sc.scrollTop=0;if(dIO){dIO.disconnect();dIO.observe(box.querySelector("#dmore"));}});
   box.onclick=ev=>{
     const st=ev.target.closest&&ev.target.closest(".fav");
     if(st&&box.contains(st)){const on=toggleFav(st.dataset.f);st.classList.toggle("on",on);st.textContent=on?"★":"☆";const fb=box.querySelector("#favb");if(fb)fb.textContent=`★ ที่บันทึก (${fav.size})`;return;}
