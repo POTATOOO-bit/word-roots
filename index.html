@@ -77,7 +77,7 @@ body.dm .top{background:linear-gradient(var(--bg) 88%,transparent);padding-botto
 .letters button.dis{opacity:.25}
 .dcount{font-size:12px;color:var(--mut);margin:4px 0}
 .dh{font-size:20px;font-weight:800;margin:18px 0 6px;color:var(--mut)}
-.de{border:1px solid var(--line);background:rgba(255,255,255,.04);border-radius:14px;margin-bottom:6px;overflow:hidden}
+.de{content-visibility:auto;contain-intrinsic-size:auto 76px;border:1px solid var(--line);background:rgba(255,255,255,.04);border-radius:14px;margin-bottom:6px;overflow:hidden}
 .dm{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;align-items:center;padding:10px 12px;cursor:pointer}
 .dw{font-size:18px;font-weight:700}
 .dw .badge{font-size:11px;margin-left:8px}
@@ -316,13 +316,14 @@ function renderDict(){
   box.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{const l=b.dataset.l;state.dl.has(l)?state.dl.delete(l):state.dl.add(l);renderDict();});
   box.querySelector("#accb").onclick=()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}renderDict();};
   box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const t=document.getElementById("L-"+b.dataset.a);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});});
-  box.querySelectorAll(".dm").forEach(m=>m.onclick=()=>{
+  box.onclick=ev=>{
+    const m=ev.target.closest&&ev.target.closest(".dm");if(!m||!box.contains(m))return;
     const e=m.parentNode,dd=e.querySelector(".dd2");
     if(!dd.innerHTML){dd.innerHTML=dictDetail(dictList.find(x=>x.word===e.dataset.w));
       dd.querySelectorAll(".sr").forEach(b=>b.onclick=()=>{document.getElementById("q").value=b.dataset.syn;renderDict();});
       dd.querySelectorAll(".go").forEach(b=>b.onclick=()=>{setMode("graph");const n=store.words.get(b.dataset.go);if(n)setTimeout(()=>select(n,true),700);});}
     e.classList.toggle("open");
-  });
+  };
 }
 function hh(){const t=document.querySelector(".top");document.documentElement.style.setProperty("--hh",t.offsetHeight+"px");}
 addEventListener("resize",hh);
@@ -525,8 +526,9 @@ function initUI(){
 
   const q=document.getElementById("q"),dd=document.getElementById("dd");
   const all=()=>[...store.roots.values(),...store.words.values(),...[...synIndex.keys()].filter(w=>!store.words.has(w)).map(synNode)];
+  let dT=0;
   q.oninput=()=>{
-    if(state.mode==="dict"){renderDict();return;}
+    if(state.mode==="dict"){clearTimeout(dT);dT=setTimeout(renderDict,150);return;}
     const v=q.value.trim().toLowerCase();
     if(!v){dd.style.display="none";return;}
     const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)||(n.nuance||"").toLowerCase().includes(v)))
