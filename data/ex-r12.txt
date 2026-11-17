@@ -1,0 +1,967 @@
+e|action|Take action now.|ลงมือทำเลย
+e|active|She is very active.|เธอกระฉับกระเฉงมาก
+e|actor|He is a famous actor.|เขาเป็นนักแสดงชื่อดัง
+e|activity|Join an outdoor activity.|เข้าร่วมกิจกรรมกลางแจ้ง
+e|react|How did she react?|เธอตอบสนองยังไง
+e|transaction|Complete the transaction.|ทำธุรกรรมให้เสร็จ
+e|armistice|They signed an armistice.|พวกเขาลงนามสงบศึก
+e|art|I love art.|ฉันรักศิลปะ
+e|artist|She is a talented artist.|เธอเป็นศิลปินมีพรสวรรค์
+e|artificial|Artificial sweetener.|สารให้ความหวานเทียม
+e|combatant|Enemy combatants.|ผู้สู้รบฝ่ายศัตรู
+e|battleship|A huge battleship.|เรือรบขนาดใหญ่
+e|incandescent|An incandescent bulb.|หลอดไส้
+e|chandelier|A crystal chandelier.|โคมระย้าคริสตัล
+e|candlestick|A brass candlestick.|เชิงเทียนทองเหลือง
+e|causality|Test for causality.|ทดสอบความเป็นเหตุเป็นผล
+e|recuse|The judge recused himself.|ผู้พิพากษาถอนตัว
+e|accuser|Face your accuser.|เผชิญหน้าผู้กล่าวหา
+e|inexcusable|Inexcusable behavior.|พฤติกรรมที่ให้อภัยไม่ได้
+e|discernible|No discernible change.|ไม่เห็นการเปลี่ยนแปลงชัด
+e|recognizable|A recognizable face.|ใบหน้าที่จำได้
+e|community|A friendly community.|ชุมชนที่เป็นมิตร
+e|communicate|Communicate clearly.|สื่อสารให้ชัดเจน
+e|excommunicate|He was excommunicated.|เขาถูกขับออกจากศาสนจักร
+e|cardiologist|See a cardiologist.|ไปพบหมอหัวใจ
+e|autocracy|Life under autocracy.|ชีวิตใต้เผด็จการ
+e|plutocracy|A plutocracy of billionaires.|ระบอบเศรษฐีปกครอง
+e|procreate|Animals procreate.|สัตว์สืบพันธุ์
+e|crescendo|The music built to a crescendo.|ดนตรีไต่ขึ้นสู่จุดสูงสุด
+e|discrete|Discrete units.|หน่วยที่แยกจากกัน
+e|decathlon|He won the decathlon.|เขาชนะกีฬาสิบประเภท
+e|decimation|The decimation of forests.|การทำลายป่า
+e|disdain|He looked with disdain.|เขามองอย่างดูหมิ่น
+e|deign|He didn't deign to reply.|เขาไม่ยอมลดตัวตอบ
+e|undocumented|Undocumented workers.|แรงงานไม่มีเอกสาร
+e|outdated|An outdated phone.|โทรศัพท์ล้าสมัย
+e|ecotourism|Support ecotourism.|สนับสนุนการท่องเที่ยวเชิงนิเวศ
+e|preempt|Preempt the attack.|ชิงโจมตีก่อน
+e|promptness|Thanks for your promptness.|ขอบคุณที่รวดเร็ว
+e|unprofessional|Unprofessional behavior.|พฤติกรรมไม่เป็นมืออาชีพ
+e|undefined|The value is undefined.|ค่านี้ไม่ได้กำหนด
+e|infirmary|Go to the infirmary.|ไปห้องพยาบาล
+e|florid|A florid face.|ใบหน้าแดงก่ำ
+e|flowerpot|A broken flowerpot.|กระถางดอกไม้แตก
+e|forte|Cooking is not my forte.|ทำอาหารไม่ใช่ความถนัด
+e|transfusion|A blood transfusion.|การถ่ายเลือด
+e|gestation|The gestation period.|ระยะตั้งครรภ์
+e|sedition|Charged with sedition.|ถูกข้อหาปลุกระดม
+e|languid|A languid afternoon.|บ่ายที่เนือยๆ
+e|ligament|A torn ligament.|เอ็นฉีก
+e|transliterate|Transliterate the name.|ถอดชื่อเป็นอักษรอังกฤษ
+e|commandment|The Ten Commandments.|บัญญัติสิบประการ
+e|remand|He was remanded in custody.|เขาถูกคุมขังระหว่างพิจารณา
+e|mercantile|Mercantile trade.|การค้าพาณิชย์
+e|milligram|500 milligrams.|500 มิลลิกรัม
+e|millisecond|A millisecond delay.|หน่วงหนึ่งมิลลิวินาที
+e|milliliter|Ten milliliters.|สิบมิลลิลิตร
+e|modestly|He modestly declined.|เขาปฏิเสธอย่างถ่อมตัว
+e|tantamount|It is tantamount to lying.|เท่ากับการโกหก
+e|promontory|A rocky promontory.|แหลมหิน
+e|transmute|Transmute lead into gold.|แปรตะกั่วเป็นทอง
+e|nervously|She laughed nervously.|เธอหัวเราะอย่างประหม่า
+e|oratory|A master of oratory.|ผู้เชี่ยวชาญด้านวาทศิลป์
+e|inexorable|The inexorable rise.|การเพิ่มขึ้นที่หยุดไม่ได้
+e|repatriate|Repatriate the refugees.|ส่งผู้ลี้ภัยกลับประเทศ
+e|patriarchy|Challenge the patriarchy.|ท้าทายระบบชายเป็นใหญ่
+e|pictogram|A warning pictogram.|ภาพสัญลักษณ์เตือน
+e|plausibly|He plausibly denied it.|เขาปฏิเสธอย่างน่าเชื่อ
+e|potentate|A foreign potentate.|ผู้ครองอำนาจต่างแดน
+e|properties|Chemical properties.|คุณสมบัติทางเคมี
+e|expropriate|Expropriate the land.|เวนคืนที่ดิน
+e|misappropriate|Misappropriate funds.|ยักยอกเงิน
+e|unproven|An unproven claim.|ข้ออ้างที่ยังพิสูจน์ไม่ได้
+e|purified|Purified water.|น้ำบริสุทธิ์
+e|interrogator|The interrogator asked.|ผู้สอบสวนถาม
+e|saver|A good saver.|คนออมเก่ง
+e|salubrious|A salubrious climate.|อากาศดีต่อสุขภาพ
+e|kaleidoscope|A kaleidoscope of colors.|สีสันหลากหลาย
+e|episcopal|The Episcopal church.|โบสถ์เอพิสโกพัล
+e|microscopic|Microscopic organisms.|สิ่งมีชีวิตเล็กจิ๋ว
+e|sophist|He is a sophist.|เขาเป็นนักเถียงเอาชนะ
+e|despondent|She felt despondent.|เธอรู้สึกสิ้นหวัง
+e|sting|A bee sting.|ผึ้งต่อย
+e|summarize|Summarize the article.|สรุปบทความ
+e|deterring|Deterring crime.|ยับยั้งอาชญากรรม
+e|epithet|An unkind epithet.|ฉายาไม่น่าฟัง
+e|baritone|A rich baritone.|เสียงบาริโทนนุ่มลึก
+e|attune|Attune your ears.|ปรับหูให้คุ้น
+e|return|Return home.|กลับบ้าน
+e|trouble|I'm in trouble.|ฉันมีปัญหา
+e|typewriter|An old typewriter.|เครื่องพิมพ์ดีดเก่า
+e|typing|Fast typing.|พิมพ์เร็ว
+e|abounding|An abounding supply.|มีเหลือเฟือ
+e|disuse|Fall into disuse.|เลิกใช้ไป
+e|redevelop|Redevelop the area.|พัฒนาพื้นที่ใหม่
+e|reveille|The reveille sounded.|สัญญาณปลุกดังขึ้น
+e|zealot|A religious zealot.|ผู้คลั่งศาสนา
+e|anaerobic|Anaerobic exercise.|ออกกำลังไร้อากาศ
+e|abyss|Stare into the abyss.|จ้องเข้าไปในเหวลึก
+e|archangel|Archangel Michael.|อัครเทวทูตไมเคิล
+e|diaphragm|Breathe with your diaphragm.|หายใจด้วยกะบังลม
+e|epilogue|Read the epilogue.|อ่านบทส่งท้าย
+e|epigram|A witty epigram.|วาทะคมคาย
+e|introduce|Let me introduce myself.|ขอแนะนำตัว
+e|microphone|Speak into the microphone.|พูดใส่ไมโครโฟน
+e|megacity|A Asian megacity.|มหานครในเอเชีย
+e|retrospect|In retrospect, it was wrong.|มองย้อนกลับไปมันผิด
+e|retrospective|A retrospective exhibit.|นิทรรศการย้อนหลัง
+e|retroactive|A retroactive pay raise.|ขึ้นเงินเดือนย้อนหลัง
+e|synchronize|Synchronize the clocks.|ตั้งนาฬิกาให้ตรงกัน
+e|sympathize|I sympathize with you.|ฉันเห็นใจคุณ
+e|symphony|A beautiful symphony.|ซิมโฟนีไพเราะ
+e|symposium|A medical symposium.|สัมมนาทางการแพทย์
+e|syndicate|A crime syndicate.|แก๊งอาชญากร
+e|synergy|Team synergy.|พลังร่วมของทีม
+e|synopsis|Read the synopsis.|อ่านเรื่องย่อ
+e|synagogue|A local synagogue.|โบสถ์ยิวท้องถิ่น
+e|ultrasound|An ultrasound scan.|ตรวจอัลตราซาวนด์
+e|ultraviolet|Ultraviolet light.|แสงอัลตราไวโอเลต
+e|within|Within an hour.|ภายในหนึ่งชั่วโมง
+e|withdrawn|He became withdrawn.|เขากลายเป็นคนเก็บตัว
+e|withheld|Payment was withheld.|การจ่ายเงินถูกระงับ
+e|homonym|"Bank" is a homonym.|"bank" เป็นคำพ้องรูป
+e|homophone|"Their" and "there" are homophones.|their กับ there เป็นคำพ้องเสียง
+e|heterogeneous|A heterogeneous group.|กลุ่มคนหลากหลาย
+e|message|Send me a message.|ส่งข้อความมาหาฉัน
+e|average|The average score.|คะแนนเฉลี่ย
+e|vintage|A vintage car.|รถวินเทจ
+e|bandage|Apply a bandage.|พันผ้าพันแผล
+e|leakage|Gas leakage.|แก๊สรั่ว
+e|blockage|A pipe blockage.|ท่ออุดตัน
+e|fluency|Improve your fluency.|พัฒนาความคล่อง
+e|currency|Foreign currency.|เงินตราต่างประเทศ
+e|tendency|A tendency to worry.|มีแนวโน้มกังวล
+e|stardom|Rise to stardom.|ก้าวสู่ความเป็นดารา
+e|martyrdom|He faced martyrdom.|เขาเผชิญการพลีชีพ
+e|pressure|Work under pressure.|ทำงานภายใต้ความกดดัน
+e|nature|Love nature.|รักธรรมชาติ
+e|signature|Sign your signature.|เซ็นลายเซ็น
+e|adventure|A great adventure.|การผจญภัยสุดยอด
+e|capture|Capture the moment.|เก็บภาพช่วงเวลานั้น
+e|lecture|Attend a lecture.|เข้าฟังบรรยาย
+e|structure|The building's structure.|โครงสร้างอาคาร
+e|manufacture|Manufacture cars.|ผลิตรถยนต์
+e|pasture|Cows in the pasture.|วัวในทุ่งหญ้า
+e|fixture|A light fixture.|โคมไฟติดเพดาน
+e|censure|Face public censure.|ถูกตำหนิต่อสาธารณะ
+e|childish|Don't be childish.|อย่าทำตัวเด็กๆ
+e|selfish|A selfish act.|การกระทำเห็นแก่ตัว
+e|snobbish|A snobbish attitude.|ท่าทีถือตัว
+e|sheepish|A sheepish smile.|ยิ้มเขินๆ
+e|feverish|She felt feverish.|เธอรู้สึกมีไข้
+e|outlandish|An outlandish idea.|ไอเดียแปลกประหลาด
+e|devilish|A devilish grin.|ยิ้มกวนๆ
+e|hostess|The hostess seated us.|พนักงานต้อนรับพาเรานั่ง
+e|heiress|A wealthy heiress.|ทายาทสาวผู้ร่ำรวย
+e|stewardess|The stewardess smiled.|แอร์ยิ้ม
+e|empress|The empress ruled.|จักรพรรดินีปกครอง
+e|lioness|A lioness hunts.|สิงโตตัวเมียล่าเหยื่อ
+e|mistress|The mistress of the house.|นายหญิงของบ้าน
+e|priestess|The temple priestess.|นักบวชหญิงของวิหาร
+e|duchess|The duchess arrived.|ดัชเชสมาถึง
+e|magician|A street magician.|นักมายากลริมถนน
+e|mathematician|A famous mathematician.|นักคณิตศาสตร์ชื่อดัง
+e|republican|A republican government.|รัฐบาลสาธารณรัฐ
+e|social|Social media.|โซเชียลมีเดีย
+e|special|A special gift.|ของขวัญพิเศษ
+e|essential|Water is essential.|น้ำเป็นสิ่งจำเป็น
+e|visual|Visual aids.|สื่อภาพ
+e|crucial|A crucial step.|ขั้นตอนสำคัญยิ่ง
+e|filth|Wash off the filth.|ล้างสิ่งสกปรก
+e|stealth|Move with stealth.|เคลื่อนที่แบบแอบๆ
+e|fiftieth|My fiftieth birthday.|วันเกิดครบห้าสิบ
+e|utmost|Of utmost importance.|สำคัญที่สุด
+e|waterproof|A waterproof jacket.|แจ็คเก็ตกันน้ำ
+e|bulletproof|A bulletproof vest.|เสื้อกันกระสุน
+e|soundproof|A soundproof room.|ห้องกันเสียง
+e|fireproof|A fireproof safe.|ตู้เซฟกันไฟ
+e|childproof|A childproof cap.|ฝากันเด็กเปิด
+e|windproof|A windproof coat.|เสื้อกันลม
+e|aquatic|Aquatic plants.|พืชน้ำ
+e|aqueduct|A Roman aqueduct.|ท่อส่งน้ำโรมัน
+e|aqua|An aqua shirt.|เสื้อสีฟ้าน้ำทะเล
+e|hydrate|Stay hydrated.|ดื่มน้ำให้พอ
+e|dehydrate|Heat dehydrates you.|ความร้อนทำให้ขาดน้ำ
+e|dehydration|Avoid dehydration.|หลีกเลี่ยงภาวะขาดน้ำ
+e|hydraulic|A hydraulic lift.|ลิฟต์ไฮดรอลิก
+e|hydrant|Park away from the hydrant.|อย่าจอดใกล้หัวดับเพลิง
+e|terrestrial|Terrestrial animals.|สัตว์บก
+e|terrier|A small terrier.|สุนัขเทอร์เรียตัวเล็ก
+e|subterranean|Subterranean caves.|ถ้ำใต้ดิน
+e|vital|A vital organ.|อวัยวะสำคัญ
+e|vivacious|A vivacious girl.|หญิงสาวร่าเริง
+e|mortal|We are all mortal.|เราทุกคนต้องตาย
+e|immortal|An immortal soul.|วิญญาณอมตะ
+e|mortuary|The hospital mortuary.|ห้องเก็บศพโรงพยาบาล
+e|morgue|The city morgue.|ห้องดูศพของเมือง
+e|fidelity|Marital fidelity.|ความซื่อสัตย์ในชีวิตคู่
+e|infidelity|Infidelity ended it.|การนอกใจทำให้จบ
+e|progress|Make progress.|พัฒนาขึ้น
+e|gradual|Gradual change.|การเปลี่ยนแปลงทีละน้อย
+e|regress|Don't regress.|อย่าถดถอย
+e|digress|Let me digress.|ขอพูดนอกเรื่องหน่อย
+e|transgress|Transgress the rules.|ละเมิดกฎ
+e|congress|The US Congress.|สภาคองเกรสสหรัฐ
+e|downgrade|Downgrade the plan.|ลดระดับแพ็กเกจ
+e|predecessor|My predecessor left.|คนก่อนหน้าฉันลาออก
+e|exclude|Exclude the tax.|ไม่รวมภาษี
+e|conclude|We concluded the meeting.|เราสรุปการประชุม
+e|seclude|He secluded himself.|เขาแยกตัวอยู่คนเดียว
+e|enclosure|An animal enclosure.|คอกสัตว์
+e|decide|Decide quickly.|ตัดสินใจเร็วๆ
+e|decision|A tough decision.|การตัดสินใจที่ยาก
+e|incision|Make an incision.|กรีดผ่า
+e|herbicide|Spray herbicide.|พ่นยาฆ่าหญ้า
+e|dominion|Under his dominion.|ใต้อำนาจของเขา
+e|predominant|The predominant color.|สีที่เด่นที่สุด
+e|domesticate|Domesticate animals.|ทำให้สัตว์เชื่อง
+e|domicile|Legal domicile.|ภูมิลำเนา
+e|influx|An influx of tourists.|นักท่องเที่ยวหลั่งไหลเข้า
+e|affluent|An affluent area.|ย่านคนรวย
+e|confluence|The confluence of rivers.|จุดบรรจบของแม่น้ำ
+e|superfluous|Superfluous details.|รายละเอียดเกินจำเป็น
+e|fundamental|A fundamental right.|สิทธิพื้นฐาน
+e|foundry|An iron foundry.|โรงหล่อเหล็ก
+e|grateful|I am grateful.|ฉันรู้สึกขอบคุณ
+e|gratify|Gratify your desires.|ตอบสนองความต้องการ
+e|gratis|Entry is gratis.|เข้าฟรี
+e|ingratitude|Show no ingratitude.|อย่าเนรคุณ
+e|agreement|Sign the agreement.|เซ็นข้อตกลง
+e|disagree|I disagree.|ฉันไม่เห็นด้วย
+e|gratuity|A gratuity is included.|รวมทิปแล้ว
+e|hospitable|A hospitable host.|เจ้าบ้านต้อนรับดี
+e|hospice|Move to a hospice.|ย้ายไปสถานพยาบาลระยะสุดท้าย
+e|judgement|Poor judgement.|วิจารณญาณไม่ดี
+e|justify|Justify your answer.|อธิบายคำตอบให้สมเหตุผล
+e|perjury|Convicted of perjury.|ถูกตัดสินว่าให้การเท็จ
+e|labor|Child labor.|แรงงานเด็ก
+e|laborious|A laborious task.|งานที่เหนื่อยยาก
+e|collaborator|A trusted collaborator.|ผู้ร่วมงานที่ไว้ใจได้
+e|liberation|The liberation of Paris.|การปลดปล่อยปารีส
+e|libertarian|A libertarian view.|มุมมองเสรีนิยม
+e|liberalism|Political liberalism.|เสรีนิยมทางการเมือง
+e|dislocate|Dislocate a shoulder.|ไหล่หลุด
+e|locomotive|A steam locomotive.|หัวรถจักรไอน้ำ
+e|locale|A scenic locale.|สถานที่ทิวทัศน์งาม
+e|luminous|A luminous glow.|แสงเรืองรอง
+e|lucid|A lucid explanation.|คำอธิบายแจ่มชัด
+e|translucent|Translucent glass.|กระจกโปร่งแสง
+e|lunar|A lunar eclipse.|จันทรุปราคา
+e|luster|Lose its luster.|สูญเสียความเงางาม
+e|elucidate|Elucidate the point.|ทำให้ประเด็นกระจ่าง
+e|magnify|Magnify the image.|ขยายภาพ
+e|magnate|A media magnate.|เจ้าพ่อสื่อ
+e|majesty|Her Majesty.|สมเด็จพระราชินี
+e|major|A major problem.|ปัญหาใหญ่
+e|manager|Talk to the manager.|คุยกับผู้จัดการ
+e|manuscript|Submit the manuscript.|ส่งต้นฉบับ
+e|maintain|Maintain the car.|ดูแลรถ
+e|maneuver|Maneuver the car.|ขับหลบเลี่ยง
+e|manicure|Get a manicure.|ไปทำเล็บ
+e|emancipate|Emancipate the slaves.|ปลดปล่อยทาส
+e|marina|A yacht marina.|ท่าจอดเรือยอร์ช
+e|submarine|A nuclear submarine.|เรือดำน้ำนิวเคลียร์
+e|mariner|An old mariner.|กะลาสีเฒ่า
+e|marsh|Birds in the marsh.|นกในหนองน้ำ
+e|mermaid|A little mermaid.|นางเงือกน้อย
+e|mediation|Seek mediation.|ขอไกล่เกลี่ย
+e|mediator|Act as a mediator.|ทำหน้าที่ไกล่เกลี่ย
+e|mediocre|A mediocre meal.|อาหารธรรมดาๆ
+e|median|The median income.|รายได้มัธยฐาน
+e|intermediary|An intermediary helped.|คนกลางช่วยเจรจา
+e|memento|A memento of the trip.|ของที่ระลึกจากทริป
+e|memorandum|Issue a memorandum.|ออกบันทึกข้อความ
+e|remember|Remember this.|จำเรื่องนี้ไว้
+e|reminisce|They reminisced.|พวกเขารำลึกความหลัง
+e|commemoration|A commemoration service.|พิธีรำลึก
+e|minor|A minor problem.|ปัญหาเล็กน้อย
+e|diminish|Diminish the risk.|ลดความเสี่ยง
+e|minus|Five minus two.|ห้าลบสอง
+e|admire|I admire her.|ฉันชื่นชมเธอ
+e|marvel|Marvel at the view.|ตื่นตากับวิว
+e|marvelous|A marvelous idea.|ไอเดียวิเศษ
+e|miraculous|A miraculous escape.|การรอดอย่างปาฏิหาริย์
+e|mirage|A desert mirage.|ภาพลวงตาในทะเลทราย
+e|novice|A novice player.|ผู้เล่นมือใหม่
+e|innovate|We must innovate.|เราต้องสร้างสิ่งใหม่
+e|innovative|An innovative design.|ดีไซน์นวัตกรรม
+e|renovate|Renovate the house.|ปรับปรุงบ้าน
+e|renovation|Hotel renovation.|การปรับปรุงโรงแรม
+e|neon|A neon sign.|ป้ายนีออน
+e|nova|A nova exploded.|ดาวโนวาระเบิด
+e|optic|The optic nerve.|เส้นประสาทตา
+e|optician|See an optician.|ไปหาช่างแว่น
+e|optimist|I am an optimist.|ฉันมองโลกแง่ดี
+e|optimistic|Stay optimistic.|มองโลกในแง่ดีไว้
+e|monocle|He wore a monocle.|เขาสวมแว่นข้างเดียว
+e|omnivore|Humans are omnivores.|มนุษย์กินทั้งพืชและเนื้อ
+e|omniscient|An omniscient narrator.|ผู้เล่าที่รู้ทุกอย่าง
+e|omnipresent|An omnipresent danger.|อันตรายที่อยู่ทั่วไป
+e|podium|Stand at the podium.|ยืนที่แท่นพูด
+e|tripod|Use a tripod.|ใช้ขาตั้งกล้อง
+e|centipede|A giant centipede.|ตะขาบยักษ์
+e|octopus|An octopus has eight arms.|ปลาหมึกยักษ์มีแปดแขน
+e|compete|Compete for the prize.|แข่งเพื่อรางวัล
+e|repeat|Repeat after me.|พูดตามฉัน
+e|repetitive|A repetitive task.|งานซ้ำซาก
+e|incompetent|An incompetent boss.|เจ้านายไร้ความสามารถ
+e|philanthropy|Known for philanthropy.|เป็นที่รู้จักด้านการบริจาค
+e|philology|Study philology.|เรียนภาษาศาสตร์
+e|popular|A popular song.|เพลงยอดนิยม
+e|popularity|Gain popularity.|ได้รับความนิยม
+e|populate|Birds populate the island.|นกอาศัยอยู่บนเกาะ
+e|populous|A populous country.|ประเทศที่ประชากรหนาแน่น
+e|popularize|Popularize the sport.|ทำให้กีฬานี้นิยม
+e|computation|A quick computation.|การคำนวณอย่างเร็ว
+e|amputate|Amputate the leg.|ตัดขา
+e|putative|The putative author.|ผู้ประพันธ์ที่เชื่อกัน
+e|repute|A man of ill repute.|ชายชื่อเสียงไม่ดี
+e|disputable|A disputable claim.|ข้ออ้างที่เถียงได้
+e|undisputed|The undisputed champion.|แชมป์ที่ไร้ข้อโต้แย้ง
+e|question|Ask a question.|ถามคำถาม
+e|request|A polite request.|คำขออย่างสุภาพ
+e|require|It requires patience.|ต้องใช้ความอดทน
+e|inquire|Inquire at the desk.|สอบถามที่เคาน์เตอร์
+e|acquire|Acquire new skills.|ได้ทักษะใหม่
+e|inquisitive|An inquisitive child.|เด็กช่างซักถาม
+e|requisite|The requisite skills.|ทักษะที่จำเป็น
+e|prerequisite|A prerequisite course.|วิชาที่ต้องเรียนก่อน
+e|director|The film director.|ผู้กำกับภาพยนตร์
+e|regal|A regal pose.|ท่าทางสง่างาม
+e|irregular|An irregular pulse.|ชีพจรไม่สม่ำเสมอ
+e|incorrect|An incorrect answer.|คำตอบไม่ถูก
+e|ridiculous|That's ridiculous.|ไร้สาระ
+e|ridicule|Face ridicule.|ถูกเยาะเย้ย
+e|derision|He laughed in derision.|เขาหัวเราะเยาะ
+e|deride|They derided his idea.|พวกเขาเยาะไอเดียเขา
+e|sanity|Keep your sanity.|รักษาสติไว้
+e|sanitation|Poor sanitation.|สุขาภิบาลไม่ดี
+e|sanitary|Sanitary conditions.|สภาพถูกสุขลักษณะ
+e|sanitize|Sanitize your hands.|ฆ่าเชื้อที่มือ
+e|insanity|Temporary insanity.|ภาวะวิกลจริตชั่วคราว
+e|satisfy|Satisfy the customer.|ทำให้ลูกค้าพอใจ
+e|satisfactory|A satisfactory result.|ผลที่น่าพอใจ
+e|saturate|The rain saturated the soil.|ฝนทำให้ดินชุ่ม
+e|sediment|Sediment at the bottom.|ตะกอนก้นแม่น้ำ
+e|insidious|An insidious disease.|โรคที่ลุกลามเงียบ
+e|dissimilar|Dissimilar styles.|สไตล์ที่ต่างกัน
+e|semblance|A semblance of order.|พอมีระเบียบอยู่บ้าง
+e|ensemble|A jazz ensemble.|วงแจ๊สย่อย
+e|solitary|A solitary life.|ชีวิตโดดเดี่ยว
+e|solitude|Enjoy the solitude.|เพลิดเพลินกับความสันโดษ
+e|desolate|A desolate island.|เกาะร้างผู้คน
+e|sonic|A sonic boom.|เสียงโซนิคบูม
+e|sonar|The ship's sonar.|โซนาร์ของเรือ
+e|resonance|Emotional resonance.|การสะท้อนความรู้สึก
+e|resonate|The message resonated.|ข้อความโดนใจ
+e|unison|They sang in unison.|พวกเขาร้องพร้อมกัน
+e|sonata|A piano sonata.|โซนาตาเปียโน
+e|supersonic|A supersonic jet.|เครื่องบินเหนือเสียง
+e|dissonance|Cognitive dissonance.|ความขัดแย้งทางความคิด
+e|aspire|Aspire to greatness.|ใฝ่หาความยิ่งใหญ่
+e|respiration|Artificial respiration.|การช่วยหายใจ
+e|perspire|Athletes perspire.|นักกีฬาเหงื่อออก
+e|transpire|What transpired?|เกิดอะไรขึ้น
+e|respiratory|Respiratory disease.|โรคระบบทางเดินหายใจ
+e|contagious|A contagious disease.|โรคติดต่อ
+e|tactile|A tactile sense.|ประสาทสัมผัส
+e|intangible|Intangible assets.|ทรัพย์สินที่จับต้องไม่ได้
+e|tangent|Go off on a tangent.|พูดออกนอกเรื่อง
+e|tactful|A tactful reply.|คำตอบที่ถนอมน้ำใจ
+e|tempo|A fast tempo.|จังหวะเร็ว
+e|temporal|Temporal changes.|การเปลี่ยนแปลงตามเวลา
+e|tempest|A violent tempest.|พายุรุนแรง
+e|terminate|Terminate the contract.|ยุติสัญญา
+e|termination|Termination of the deal.|การยุติข้อตกลง
+e|exterminate|Exterminate the pests.|กำจัดสัตว์รบกวน
+e|interminable|An interminable wait.|การรอที่ไม่รู้จบ
+e|predetermine|A predetermined plan.|แผนที่กำหนดไว้ล่วงหน้า
+e|testament|A testament to his skill.|พิสูจน์ฝีมือเขา
+e|contestant|A contestant won.|ผู้เข้าแข่งขันชนะ
+e|protest|Protest the war.|ประท้วงสงคราม
+e|attest|Witnesses attest to it.|พยานยืนยัน
+e|detest|I detest cruelty.|ฉันเกลียดความโหดร้าย
+e|testimonial|A customer testimonial.|คำรับรองจากลูกค้า
+e|theology|Study theology.|เรียนเทววิทยา
+e|theism|Theism and atheism.|ลัทธิเชื่อพระเจ้า
+e|monotheism|Judaism is monotheism.|ศาสนายิวเชื่อพระเจ้าองค์เดียว
+e|pantheon|A pantheon of gods.|กลุ่มเทพทั้งปวง
+e|distortion|Image distortion.|ภาพบิดเบี้ยว
+e|contort|Her face contorted.|ใบหน้าเธอบิดเบี้ยว
+e|torment|Mental torment.|ความทุกข์ทรมานใจ
+e|torque|Engine torque.|แรงบิดของเครื่องยนต์
+e|retort|He retorted sharply.|เขาโต้กลับอย่างเฉียบ
+e|extort|Extort money.|ข่มขู่เอาเงิน
+e|valuable|A valuable ring.|แหวนมีค่า
+e|validity|Check the validity.|ตรวจความถูกต้อง
+e|available|Is it available?|มีไหม
+e|valor|An act of valor.|ความกล้าหาญ
+e|devalue|Devalue the currency.|ลดค่าเงิน
+e|ambivalent|Feel ambivalent.|รู้สึกลังเลสองใจ
+e|evacuation|An emergency evacuation.|การอพยพฉุกเฉิน
+e|vacate|Vacate the room.|ย้ายออกจากห้อง
+e|avoid|Avoid sugar.|หลีกเลี่ยงน้ำตาล
+e|avoidance|Tax avoidance.|การเลี่ยงภาษี
+e|devoid|Devoid of emotion.|ปราศจากอารมณ์
+e|volition|Of his own volition.|ด้วยความสมัครใจ
+e|benevolent|A benevolent king.|กษัตริย์ใจบุญ
+e|malevolent|A malevolent glare.|สายตามุ่งร้าย
+e|involuntary|An involuntary reflex.|ปฏิกิริยาที่ควบคุมไม่ได้
+e|vocation|Teaching is her vocation.|การสอนคือเส้นทางของเธอ
+e|advocacy|Patient advocacy.|การปกป้องสิทธิผู้ป่วย
+e|revoke|Revoke the license.|เพิกถอนใบอนุญาต
+e|invocation|An opening invocation.|คำอัญเชิญช่วงเปิด
+e|evocation|An evocation of the past.|การเรียกความทรงจำ
+e|evolve|Species evolve.|สปีชีส์วิวัฒนาการ
+e|voluminous|Voluminous notes.|บันทึกจำนวนมาก
+e|anniversary|A wedding anniversary.|วันครบรอบแต่งงาน
+e|annuity|An annuity plan.|แผนบำนาญรายปี
+e|perennial|Perennial flowers.|ดอกไม้ยืนต้น
+e|centennial|A centennial celebration.|งานฉลองร้อยปี
+e|chronological|In chronological order.|เรียงตามลำดับเวลา
+e|anachronism|A sword is an anachronism.|ดาบเป็นสิ่งล้าสมัยไม่ตรงยุค
+e|chronology|A chronology of events.|ลำดับเหตุการณ์
+e|cosmos|Explore the cosmos.|สำรวจจักรวาล
+e|cosmetic|Cosmetic surgery.|ศัลยกรรมความงาม
+e|cosmopolitan|A cosmopolitan city.|เมืองนานาชาติ
+e|cosmology|Study cosmology.|เรียนจักรวาลวิทยา
+e|bicycle|Ride a bicycle.|ปั่นจักรยาน
+e|recycle|Recycle plastic.|รีไซเคิลพลาสติก
+e|tricycle|A child's tricycle.|สามล้อเด็ก
+e|cyclone|A tropical cyclone.|พายุไซโคลนเขตร้อน
+e|cyclical|A cyclical pattern.|รูปแบบเป็นวัฏจักร
+e|endemic|An endemic species.|พันธุ์เฉพาะถิ่น
+e|demagogue|A dangerous demagogue.|นักปลุกระดมอันตราย
+e|dermatology|See a dermatology clinic.|ไปคลินิกผิวหนัง
+e|dermatologist|Ask a dermatologist.|ถามหมอผิวหนัง
+e|dermal|Dermal layers.|ชั้นผิวหนัง
+e|taxidermy|A taxidermy deer.|กวางสตัฟฟ์
+e|dynamite|Blow it up with dynamite.|ระเบิดด้วยไดนาไมต์
+e|dynamo|A bike dynamo.|ไดนาโมจักรยาน
+e|aerodynamic|An aerodynamic shape.|รูปทรงลู่ลม
+e|antipathy|Deep antipathy.|ความเกลียดชังลึกๆ
+e|pathology|A pathology report.|รายงานพยาธิวิทยา
+e|compassionate|A compassionate nurse.|พยาบาลผู้เห็นอกเห็นใจ
+e|telepathy|Believe in telepathy.|เชื่อเรื่องโทรจิต
+e|psychopath|A dangerous psychopath.|คนอันตรายไร้สำนึก
+e|metropolis|A busy metropolis.|มหานครที่คึกคัก
+e|metropolitan|Metropolitan area.|เขตมหานคร
+e|acropolis|Visit the Acropolis.|เยี่ยมชมอะโครโพลิส
+e|polite|Be polite.|จงสุภาพ
+e|psychology|Study psychology.|เรียนจิตวิทยา
+e|psychiatry|Child psychiatry.|จิตเวชเด็ก
+e|psychic|A psychic predicted it.|หมอดูทำนายไว้
+e|psychotherapy|Try psychotherapy.|ลองจิตบำบัด
+e|technology|New technology.|เทคโนโลยีใหม่
+e|polytechnic|A polytechnic school.|วิทยาลัยโปลีเทคนิค
+e|zoology|Study zoology.|เรียนสัตววิทยา
+e|zoologist|A zoologist studies apes.|นักสัตววิทยาศึกษาลิง
+e|zodiac|A zodiac sign.|ราศี
+e|zoom|Zoom in.|ซูมเข้า
+e|aerobic|Aerobic exercise.|ออกกำลังแบบแอโรบิก
+e|airplane|Take an airplane.|นั่งเครื่องบิน
+e|aerospace|An aerospace company.|บริษัทการบินอวกาศ
+e|aerosol|An aerosol can.|กระป๋องสเปรย์
+e|astronomer|An astronomer studies stars.|นักดาราศาสตร์ศึกษาดาว
+e|asteroid|An asteroid hit.|ดาวเคราะห์น้อยพุ่งชน
+e|astrology|Believe in astrology.|เชื่อโหราศาสตร์
+e|stellar|A stellar performance.|การแสดงยอดเยี่ยม
+e|constellation|A bright constellation.|กลุ่มดาวสว่าง
+e|asterisk|Add an asterisk.|ใส่เครื่องหมายดอกจัน
+e|automatic|An automatic door.|ประตูอัตโนมัติ
+e|automobile|The automobile industry.|อุตสาหกรรมยานยนต์
+e|autonomy|Give them autonomy.|ให้อิสระแก่พวกเขา
+e|autograph|Get an autograph.|ขอลายเซ็น
+e|autobiography|Write an autobiography.|เขียนอัตชีวประวัติ
+e|automate|Automate the task.|ทำงานนี้อัตโนมัติ
+e|automation|Factory automation.|ระบบอัตโนมัติโรงงาน
+e|autopilot|Switch on autopilot.|เปิดระบบนำร่อง
+e|benefit|Health benefits.|ประโยชน์ต่อสุขภาพ
+e|benefactor|A generous benefactor.|ผู้อุปการะใจกว้าง
+e|bounty|A bounty hunter.|นักล่าค่าหัว
+e|malicious|Malicious intent.|เจตนาร้าย
+e|malfunction|The machine malfunctioned.|เครื่องทำงานผิดปกติ
+e|malnutrition|Child malnutrition.|ภาวะทุพโภชนาการเด็ก
+e|malaria|Prevent malaria.|ป้องกันมาลาเรีย
+e|malignant|A malignant tumor.|เนื้อร้าย
+e|malpractice|Medical malpractice.|ความผิดพลาดทางการแพทย์
+e|decapitate|They decapitated him.|พวกเขาตัดหัวเขา
+e|capitalize|Capitalize on it.|ฉวยประโยชน์จากมัน
+e|carnivore|A lion is a carnivore.|สิงโตกินเนื้อ
+e|incarnation|A new incarnation.|ร่างอวตารใหม่
+e|carnage|Scenes of carnage.|ภาพการสังหารหมู่
+e|carnivorous|A carnivorous plant.|พืชกินแมลง
+e|carcass|A deer carcass.|ซากกวาง
+e|enchant|Her voice enchants me.|เสียงเธอทำให้ฉันหลงใหล
+e|enchanting|An enchanting place.|สถานที่น่าหลงใหล
+e|incantation|Recite an incantation.|ท่องคาถา
+e|chrome|Shiny chrome.|โครเมียมเงา
+e|chromosome|A human chromosome.|โครโมโซมมนุษย์
+e|monochrome|A monochrome photo.|ภาพขาวดำ
+e|chromatic|Chromatic scale.|บันไดเสียงโครเมติก
+e|circumference|The circumference of a circle.|เส้นรอบวงของวงกลม
+e|circumvent|Circumvent the rules.|หลบเลี่ยงกฎ
+e|encircle|Hills encircle the town.|เนินเขาล้อมเมือง
+e|semicircle|Sit in a semicircle.|นั่งเป็นครึ่งวงกลม
+e|proclamation|A royal proclamation.|ประกาศของราชวงศ์
+e|declaim|He declaimed loudly.|เขากล่าวอย่างเร้าใจ
+e|acclaim|Critical acclaim.|เสียงยกย่องจากนักวิจารณ์
+e|clamor|A clamor of voices.|เสียงเอะอะอึกทึก
+e|disclaim|Disclaim responsibility.|ปฏิเสธความรับผิดชอบ
+e|corporal|Corporal punishment.|การลงโทษทางกาย
+e|corpus|A language corpus.|คลังข้อมูลภาษา
+e|credit|Pay by credit card.|จ่ายด้วยบัตรเครดิต
+e|credible|A credible source.|แหล่งที่น่าเชื่อถือ
+e|incredible|An incredible view.|วิวสุดเหลือเชื่อ
+e|creed|Of any race or creed.|ไม่ว่าเชื้อชาติหรือความเชื่อ
+e|credulous|A credulous fool.|คนเชื่อง่าย
+e|discredit|Discredit the witness.|ทำลายความน่าเชื่อถือพยาน
+e|accredit|An accredited school.|โรงเรียนที่ได้รับรอง
+e|creditor|Pay your creditors.|จ่ายเจ้าหนี้
+e|cultural|Cultural differences.|ความแตกต่างทางวัฒนธรรม
+e|colonize|Colonize Mars.|ตั้งอาณานิคมบนดาวอังคาร
+e|horticulture|Study horticulture.|เรียนพืชสวน
+e|culprit|Find the culprit.|หาตัวผู้กระทำผิด
+e|culpable|Culpable negligence.|ความประมาทที่มีความผิด
+e|dentist|Go to the dentist.|ไปหาทันตแพทย์
+e|dentistry|Study dentistry.|เรียนทันตแพทย์
+e|denture|Wear a denture.|ใส่ฟันปลอม
+e|indent|Indent the paragraph.|ย่อหน้า
+e|orthodontist|See an orthodontist.|ไปหาหมอจัดฟัน
+e|trident|Poseidon's trident.|ตรีศูลโพไซดอน
+e|divisible|Ten is divisible by two.|สิบหารสองลงตัว
+e|divisive|A divisive issue.|ประเด็นแตกแยก
+e|subdivide|Subdivide the land.|แบ่งที่ดินย่อย
+e|diverse|A diverse team.|ทีมที่หลากหลาย
+e|divert|Divert traffic.|เบี่ยงการจราจร
+e|paradoxical|A paradoxical result.|ผลลัพธ์ที่ขัดแย้งในตัว
+e|egoist|A selfish egoist.|คนเห็นแก่ตัว
+e|egocentric|An egocentric child.|เด็กยึดตัวเองเป็นใหญ่
+e|egotistical|An egotistical boss.|เจ้านายหลงตัวเอง
+e|equator|Near the equator.|ใกล้เส้นศูนย์สูตร
+e|equipment|Sports equipment.|อุปกรณ์กีฬา
+e|erroneous|Erroneous data.|ข้อมูลผิดพลาด
+e|aberration|A temporary aberration.|ความผิดปกติชั่วคราว
+e|erratic|Erratic behavior.|พฤติกรรมไม่แน่นอน
+e|err|To err is human.|ผิดพลาดเป็นเรื่องธรรมดา
+e|extend|Extend the deadline.|ขยายเวลา
+e|extract|Extract the oil.|สกัดน้ำมัน
+e|extricate|Extricate yourself.|ถอนตัวออกจากเรื่อง
+e|fragility|The fragility of life.|ความเปราะบางของชีวิต
+e|refraction|Light refraction.|การหักเหของแสง
+e|frailty|Human frailty.|ความอ่อนแอของมนุษย์
+e|fractional|A fractional amount.|จำนวนเล็กน้อย
+e|fraternity|Join a fraternity.|เข้าชมรมชาย
+e|fraternal|Fraternal love.|ความรักแบบพี่น้อง
+e|fraternize|Don't fraternize with them.|อย่าสนิทกับพวกเขา
+e|friar|A friar prayed.|พระนักบวชสวดมนต์
+e|monogamy|Practice monogamy.|มีคู่ครองคนเดียว
+e|bigamy|Convicted of bigamy.|ถูกตัดสินความผิดสมรสซ้อน
+e|polygamy|Polygamy is illegal.|การมีคู่สมรสหลายคนผิดกฎหมาย
+e|gravitate|They gravitate toward him.|พวกเขาถูกดึงดูดมาหาเขา
+e|gravitation|Law of gravitation.|กฎแรงโน้มถ่วง
+e|engrave|Engrave your name.|สลักชื่อของคุณ
+e|habitual|A habitual liar.|คนโกหกเป็นนิสัย
+e|exhibit|Exhibit the paintings.|จัดแสดงภาพวาด
+e|exhibition|An art exhibition.|นิทรรศการศิลปะ
+e|prohibit|Smoking is prohibited.|ห้ามสูบบุหรี่
+e|rehabilitate|Rehabilitate prisoners.|ฟื้นฟูนักโทษ
+e|cohabit|They cohabit peacefully.|พวกเขาอยู่ร่วมกันอย่างสงบ
+e|habitation|Human habitation.|ที่อยู่อาศัยของมนุษย์
+e|adhesive|Use adhesive tape.|ใช้เทปกาว
+e|cohere|The story coheres.|เรื่องเชื่อมโยงกัน
+e|coherence|Lack coherence.|ขาดความสอดคล้อง
+e|cohesive|A cohesive team.|ทีมที่เหนียวแน่น
+e|hesitant|A hesitant reply.|คำตอบลังเล
+e|humane|Humane treatment.|การปฏิบัติอย่างมีมนุษยธรรม
+e|humid|Hot and humid.|ร้อนและชื้น
+e|humility|Show humility.|แสดงความถ่อมตน
+e|humanism|Secular humanism.|มนุษยนิยม
+e|inhuman|Inhuman conditions.|สภาพไร้มนุษยธรรม
+e|insulate|Insulate the pipes.|หุ้มฉนวนท่อ
+e|insulation|Thermal insulation.|ฉนวนกันความร้อน
+e|insular|An insular community.|ชุมชนที่ปิดกั้น
+e|insulin|Inject insulin.|ฉีดอินซูลิน
+e|adjoin|Rooms that adjoin.|ห้องที่อยู่ติดกัน
+e|injunction|A court injunction.|คำสั่งห้ามของศาล
+e|conjugate|Conjugate the verb.|ผันคำกริยา
+e|juncture|At this juncture.|ณ จุดนี้
+e|rejoin|Rejoin the group.|กลับเข้ากลุ่ม
+e|lateral|Lateral movement.|การเคลื่อนไหวด้านข้าง
+e|multilateral|A multilateral treaty.|สนธิสัญญาพหุภาคี
+e|collateral|Offer collateral.|วางหลักประกัน
+e|bilingual|A bilingual child.|เด็กพูดสองภาษา
+e|multilingual|A multilingual city.|เมืองหลายภาษา
+e|monolingual|A monolingual speaker.|ผู้พูดภาษาเดียว
+e|lingo|Learn the lingo.|เรียนศัพท์เฉพาะ
+e|monolith|A stone monolith.|เสาหินขนาดใหญ่
+e|lithium|A lithium battery.|แบตเตอรี่ลิเทียม
+e|eloquent|An eloquent speech.|สุนทรพจน์จับใจ
+e|eloquence|Speak with eloquence.|พูดอย่างคมคาย
+e|soliloquy|Hamlet's soliloquy.|การพูดคนเดียวของแฮมเล็ต
+e|loquacious|A loquacious host.|เจ้าภาพพูดมาก
+e|circumlocution|Avoid circumlocution.|อย่าพูดวกวน
+e|delude|Don't delude yourself.|อย่าหลอกตัวเอง
+e|delusion|A dangerous delusion.|ความเข้าใจผิดอันตราย
+e|prelude|A prelude to war.|ก่อนเกิดสงคราม
+e|interlude|A brief interlude.|ช่วงพักสั้นๆ
+e|ludicrous|A ludicrous idea.|ไอเดียน่าขัน
+e|collusion|Collusion with rivals.|สมคบกับคู่แข่ง
+e|elude|Success eluded him.|ความสำเร็จหลุดมือเขา
+e|allusion|A literary allusion.|การพาดพิงทางวรรณกรรม
+e|matrimony|Holy matrimony.|การสมรสอันศักดิ์สิทธิ์
+e|matron|The school matron.|หัวหน้าพยาบาลโรงเรียน
+e|matrix|A matrix of numbers.|เมทริกซ์ตัวเลข
+e|thermometer|Check the thermometer.|ดูเทอร์โมมิเตอร์
+e|speedometer|Read the speedometer.|ดูมาตรวัดความเร็ว
+e|perimeter|The perimeter fence.|รั้วรอบนอก
+e|geometry|Study geometry.|เรียนเรขาคณิต
+e|metric|The metric system.|ระบบเมตริก
+e|barometer|The barometer is falling.|ความกดอากาศลดลง
+e|kilometer|Ten kilometers.|สิบกิโลเมตร
+e|centimeter|Five centimeters.|ห้าเซนติเมตร
+e|odometer|Check the odometer.|ดูมาตรวัดระยะ
+e|metamorphosis|A caterpillar's metamorphosis.|การแปรสภาพของหนอน
+e|morphology|Word morphology.|สัณฐานของคำ
+e|amorphous|An amorphous mass.|ก้อนไร้รูปร่าง
+e|morph|Morph into a monster.|แปลงเป็นสัตว์ประหลาด
+e|morphine|Give morphine.|ให้มอร์ฟีน
+e|pseudonym|Write under a pseudonym.|เขียนโดยใช้นามแฝง
+e|acronym|NASA is an acronym.|NASA เป็นตัวย่อ
+e|nomenclature|Chemical nomenclature.|ระบบตั้งชื่อสารเคมี
+e|denominator|A common denominator.|ตัวส่วนร่วม
+e|misnomer|It's a misnomer.|ชื่อนี้ไม่ตรงความจริง
+e|renown|A scientist of renown.|นักวิทยาศาสตร์ผู้โด่งดัง
+e|obnoxious|An obnoxious guest.|แขกน่ารำคาญ
+e|noxious|Noxious fumes.|ควันเป็นพิษ
+e|innocuous|An innocuous remark.|คำพูดไม่เป็นพิษภัย
+e|nocturnal|Nocturnal animals.|สัตว์หากินกลางคืน
+e|pernicious|A pernicious influence.|อิทธิพลร้ายกาจ
+e|numeral|Roman numerals.|เลขโรมัน
+e|enumerate|Enumerate the reasons.|แจกแจงเหตุผล
+e|innumerable|Innumerable stars.|ดาวนับไม่ถ้วน
+e|numeric|A numeric code.|รหัสตัวเลข
+e|cooperate|Cooperate with police.|ให้ความร่วมมือกับตำรวจ
+e|operative|The operative clause.|ข้อที่มีผลบังคับ
+e|opus|His greatest opus.|ผลงานชิ้นเอกของเขา
+e|uncooperative|An uncooperative witness.|พยานไม่ให้ความร่วมมือ
+e|order|Order a pizza.|สั่งพิซซ่า
+e|disorder|A sleep disorder.|ความผิดปกติด้านการนอน
+e|ordinance|A city ordinance.|ข้อบัญญัติของเมือง
+e|ordain|Ordain a priest.|บวชเป็นพระ
+e|insubordinate|An insubordinate soldier.|ทหารไม่เชื่อฟัง
+e|abort|Abort the mission.|ยกเลิกภารกิจ
+e|disorient|Darkness disoriented me.|ความมืดทำให้ฉันเสียทิศ
+e|oriental|An oriental carpet.|พรมตะวันออก
+e|originality|Praise for originality.|ชมความคิดริเริ่ม
+e|peaceful|A peaceful town.|เมืองสงบสุข
+e|pacify|Pacify the crowd.|ทำให้ฝูงชนสงบ
+e|pacific|The Pacific Ocean.|มหาสมุทรแปซิฟิก
+e|pacifier|The baby's pacifier.|จุกนมของเด็ก
+e|appease|Appease the critics.|เอาใจผู้วิจารณ์
+e|pacifist|A committed pacifist.|ผู้รักสันติอย่างแท้จริง
+e|prepare|Prepare dinner.|เตรียมอาหารเย็น
+e|compare|Compare prices.|เปรียบเทียบราคา
+e|parity|Pay parity.|ค่าจ้างเท่าเทียม
+e|disparate|Disparate views.|มุมมองที่แตกต่างมาก
+e|impatient|Don't be impatient.|อย่าใจร้อน
+e|dispassionate|A dispassionate view.|มุมมองเป็นกลาง
+e|impassive|An impassive face.|ใบหน้าไร้อารมณ์
+e|compulsion|A compulsion to check.|อดไม่ได้ที่ต้องเช็ก
+e|propel|Propel the boat.|ขับเรือไปข้างหน้า
+e|propeller|A ship's propeller.|ใบพัดเรือ
+e|repel|Repel insects.|ไล่แมลง
+e|repellent|Insect repellent.|ยากันยุง
+e|dispel|Dispel the myth.|ขจัดความเชื่อผิดๆ
+e|expulsion|Expulsion from school.|ถูกไล่ออกจากโรงเรียน
+e|plenty|Plenty of time.|เวลาเหลือเฟือ
+e|plentiful|Fish are plentiful.|ปลามีมาก
+e|complete|Complete the form.|กรอกแบบฟอร์มให้เสร็จ
+e|incomplete|An incomplete list.|รายการไม่ครบ
+e|replenish|Replenish supplies.|เติมเสบียง
+e|deplete|Deplete resources.|ใช้ทรัพยากรจนหมด
+e|duplex|Live in a duplex.|อยู่บ้านแฝด
+e|perplex|The puzzle perplexed me.|ปริศนาทำให้ฉันงง
+e|complexion|A fair complexion.|ผิวหน้าขาว
+e|accomplice|An accomplice helped.|ผู้สมรู้ร่วมคิดช่วย
+e|appoint|Appoint a manager.|แต่งตั้งผู้จัดการ
+e|disappoint|Don't disappoint me.|อย่าทำให้ฉันผิดหวัง
+e|punctual|Be punctual.|ตรงเวลาหน่อย
+e|punctuate|Punctuate the sentence.|ใส่เครื่องหมายวรรคตอน
+e|puncture|A tire puncture.|ยางรั่ว
+e|pinpoint|Pinpoint the cause.|ระบุสาเหตุแน่ชัด
+e|principal|The principal reason.|เหตุผลหลัก
+e|primate|A primate lives here.|สัตว์ไพรเมตอยู่ที่นี่
+e|primer|A paint primer.|สีรองพื้น
+e|quadrant|The upper quadrant.|ส่วนบนหนึ่งในสี่
+e|quadruple|Quadruple the sales.|เพิ่มยอดสี่เท่า
+e|quartet|A string quartet.|วงสตริงควอร์เต็ต
+e|quarantine|Place in quarantine.|กักตัว
+e|eradication|Eradication of disease.|การกำจัดโรค
+e|abrasive|An abrasive manner.|กิริยาหยาบกระด้าง
+e|radiate|Heat radiates.|ความร้อนแผ่ออก
+e|rapture|Listen in rapture.|ฟังอย่างปลื้มปีติ
+e|raptor|A raptor circled.|นกล่าเหยื่อบินวน
+e|ravage|War ravaged the city.|สงครามทำลายเมือง
+e|rapid|Rapid growth.|การเติบโตรวดเร็ว
+e|rapids|Raft the rapids.|ล่องแก่ง
+e|enrapture|The music enraptured us.|ดนตรีทำให้เราปีติ
+e|ravenous|I'm ravenous.|ฉันหิวโซ
+e|abduct|Abduct a child.|ลักพาตัวเด็ก
+e|sanctify|Sanctify the ground.|ทำให้ที่ศักดิ์สิทธิ์
+e|consecrate|Consecrate the church.|ถวายโบสถ์
+e|sacrament|Receive the sacrament.|รับศีล
+e|sacrilege|An act of sacrilege.|การลบหลู่ของศักดิ์สิทธิ์
+e|desecrate|Desecrate the temple.|ทำให้วัดเสื่อมเสีย
+e|condescend|Don't condescend to me.|อย่าทำเหมือนฉันต่ำกว่า
+e|scaffold|Climb the scaffold.|ปีนนั่งร้าน
+e|ascent|The ascent of Everest.|การปีนเอเวอเรสต์
+e|secure|A secure place.|ที่ปลอดภัย
+e|security|Airport security.|การรักษาความปลอดภัยสนามบิน
+e|select|Select a color.|เลือกสี
+e|secrete|Glands secrete hormones.|ต่อมหลั่งฮอร์โมน
+e|dissect|Dissect a frog.|ผ่ากบ
+e|intersect|Lines intersect.|เส้นตัดกัน
+e|intersection|At the intersection.|ที่สี่แยก
+e|bisect|Bisect the angle.|แบ่งครึ่งมุม
+e|sectional|A sectional sofa.|โซฟาแยกส่วน
+e|solvent|Use a solvent.|ใช้ตัวทำละลาย
+e|insoluble|An insoluble problem.|ปัญหาแก้ไม่ตก
+e|resolute|Stay resolute.|แน่วแน่ไว้
+e|absolution|Seek absolution.|ขอการอภัยบาป
+e|atmosphere|A relaxed atmosphere.|บรรยากาศผ่อนคลาย
+e|atmospheric|Atmospheric pressure.|ความกดอากาศ
+e|biosphere|Protect the biosphere.|ปกป้องชีวมณฑล
+e|stratosphere|The stratosphere is cold.|สตราโตสเฟียร์เย็น
+e|spherical|A spherical shape.|รูปทรงกลม
+e|consider|Consider the options.|พิจารณาตัวเลือก
+e|desire|A strong desire.|ความปรารถนาแรงกล้า
+e|constrict|Blood vessels constrict.|หลอดเลือดหดตัว
+e|stringent|Stringent rules.|กฎเข้มงวด
+e|assume|I assume so.|ฉันคิดว่าอย่างนั้น
+e|resume|Resume the game.|เล่นต่อ
+e|sumptuous|A sumptuous feast.|งานเลี้ยงหรูหรา
+e|entail|It entails risk.|มีความเสี่ยงเกี่ยวข้อง
+e|tally|Keep a tally.|นับคะแนนไว้
+e|toxin|Remove toxins.|กำจัดสารพิษ
+e|detox|A detox diet.|อาหารล้างสารพิษ
+e|intoxicate|Alcohol intoxicates.|เหล้าทำให้มึนเมา
+e|intoxicated|Drive while intoxicated.|ขับรถขณะเมา
+e|toxicity|Test for toxicity.|ทดสอบความเป็นพิษ
+e|contribute|Contribute ideas.|ร่วมเสนอไอเดีย
+e|retribution|Divine retribution.|การลงโทษจากสวรรค์
+e|protrude|Nails protrude.|ตะปูยื่นออกมา
+e|intrusive|Intrusive questions.|คำถามล่วงล้ำ
+e|suburb|Live in a suburb.|อยู่ชานเมือง
+e|urbanize|Cities urbanize.|เมืองขยายตัว
+e|urbane|An urbane manner.|กิริยาสุภาพ
+e|urbanization|Rapid urbanization.|เมืองขยายตัวเร็ว
+e|vagrant|A vagrant slept there.|คนเร่ร่อนนอนที่นั่น
+e|vagabond|A wandering vagabond.|คนจรจัดเร่ร่อน
+e|extravagance|Avoid extravagance.|หลีกเลี่ยงความฟุ่มเฟือย
+e|verification|Identity verification.|ยืนยันตัวตน
+e|verdict|The jury's verdict.|คำตัดสินของคณะลูกขุน
+e|veracity|Doubt his veracity.|สงสัยความสัตย์จริง
+e|veritable|A veritable feast.|งานเลี้ยงสมบูรณ์แบบ
+e|universe|The universe is vast.|จักรวาลกว้างใหญ่
+e|invest|Invest wisely.|ลงทุนอย่างชาญฉลาด
+e|vestige|A vestige of the past.|ร่องรอยของอดีต
+e|previous|The previous day.|วันก่อนหน้า
+e|deviate|Don't deviate from the plan.|อย่าออกนอกแผน
+e|viaduct|A railway viaduct.|สะพานรถไฟ
+e|obviate|Obviate the need.|ทำให้ไม่จำเป็น
+e|deviant|Deviant behavior.|พฤติกรรมเบี่ยงเบน
+e|impervious|Impervious to rain.|ฝนซึมไม่เข้า
+e|victor|The victor smiled.|ผู้ชนะยิ้ม
+e|invincible|An invincible army.|กองทัพไร้เทียมทาน
+e|evict|Evict the tenant.|ไล่ผู้เช่าออก
+e|vanquish|Vanquish the enemy.|พิชิตศัตรู
+e|devour|Devour a meal.|กินอย่างตะกละ
+e|voracious|A voracious reader.|นักอ่านตัวยง
+e|herbivore|A cow is a herbivore.|วัวกินพืช
+e|insectivore|A bat is an insectivore.|ค้างคาวกินแมลง
+e|abstract|An abstract idea.|ความคิดเชิงนามธรรม
+e|abrupt|An abrupt stop.|หยุดกะทันหัน
+e|admit|Admit your mistake.|ยอมรับความผิด
+e|adjust|Adjust the seat.|ปรับเบาะ
+e|advertise|Advertise online.|โฆษณาออนไลน์
+e|accept|Accept the offer.|รับข้อเสนอ
+e|achieve|Achieve your goals.|บรรลุเป้าหมาย
+e|affect|Stress affects sleep.|ความเครียดส่งผลต่อการนอน
+e|afford|I can't afford it.|ฉันซื้อไม่ไหว
+e|apply|Apply for a job.|สมัครงาน
+e|arrive|Arrive early.|มาถึงเร็ว
+e|assist|Assist the doctor.|ช่วยหมอ
+e|attack|Attack the problem.|ลุยแก้ปัญหา
+e|attend|Attend the meeting.|เข้าประชุม
+e|attract|Honey attracts bees.|น้ำผึ้งดึงดูดผึ้ง
+e|depress|Rainy days depress me.|วันฝนตกทำให้ฉันซึม
+e|decline|Sales declined.|ยอดขายลดลง
+e|describe|Describe the man.|บรรยายลักษณะชายคนนั้น
+e|design|Design a logo.|ออกแบบโลโก้
+e|destroy|Fire destroyed it.|ไฟทำลายมัน
+e|deceive|Don't deceive me.|อย่าหลอกฉัน
+e|depend|It depends.|แล้วแต่
+e|deposit|Pay a deposit.|จ่ายเงินมัดจำ
+e|degrade|Degrade the quality.|ทำให้คุณภาพเสื่อม
+e|obstacle|Overcome obstacles.|เอาชนะอุปสรรค
+e|obstruct|Obstruct justice.|ขัดขวางกระบวนการยุติธรรม
+e|obtain|Obtain a visa.|ขอวีซ่า
+e|occur|When did it occur?|เกิดขึ้นเมื่อไหร่
+e|offer|Offer help.|เสนอความช่วยเหลือ
+e|oppose|Oppose the plan.|คัดค้านแผน
+e|oppress|Oppress the poor.|กดขี่คนจน
+e|observe|Observe the birds.|สังเกตนก
+e|obsolete|An obsolete system.|ระบบล้าสมัย
+e|perfect|A perfect day.|วันที่สมบูรณ์แบบ
+e|perform|Perform on stage.|แสดงบนเวที
+e|permit|Permit entry.|อนุญาตให้เข้า
+e|persist|Persist and win.|อดทนแล้วจะชนะ
+e|perspective|A new perspective.|มุมมองใหม่
+e|perceive|Perceive danger.|รับรู้ถึงอันตราย
+e|permission|Ask for permission.|ขออนุญาต
+e|permeate|Smoke permeated the room.|ควันซึมทั่วห้อง
+e|persevere|Persevere through hardship.|พากเพียรผ่านความยากลำบาก
+e|semifinal|Reach the semifinal.|เข้ารอบรอง
+e|semiconductor|A semiconductor chip.|ชิปสารกึ่งตัวนำ
+e|supernatural|Supernatural powers.|พลังเหนือธรรมชาติ
+e|superhuman|Superhuman strength.|พละกำลังเหนือมนุษย์
+e|surcharge|A fuel surcharge.|ค่าธรรมเนียมน้ำมันเพิ่ม
+e|contradict|Don't contradict me.|อย่าขัดฉัน
+e|controversy|A heated controversy.|ข้อถกเถียงดุเดือด
+e|counterfeit|Counterfeit money.|เงินปลอม
+e|foresight|Show foresight.|มองการณ์ไกล
+e|foretell|Foretell the future.|ทำนายอนาคต
+e|foreground|Look at the foreground.|ดูฉากหน้า
+e|nonfiction|Read nonfiction.|อ่านหนังสือสารคดี
+e|nonexistent|A nonexistent problem.|ปัญหาที่ไม่มีจริง
+e|nonviolent|A nonviolent protest.|การประท้วงอย่างสันติ
+e|outstanding|Outstanding work.|ผลงานโดดเด่น
+e|outlaw|Outlaw smoking.|ห้ามสูบบุหรี่ตามกฎหมาย
+e|postgraduate|A postgraduate degree.|ปริญญาบัณฑิตศึกษา
+e|postscript|Add a postscript.|เพิ่มข้อความต่อท้าย
+e|postman|The postman is here.|บุรุษไปรษณีย์มาแล้ว
+e|posterity|Preserve it for posterity.|เก็บไว้ให้คนรุ่นหลัง
+e|posterior|The posterior wall.|ผนังด้านหลัง
+e|monologue|A dramatic monologue.|การพูดคนเดียวอันเร้าใจ
+e|monastery|A mountain monastery.|วัดบนภูเขา
+e|monorail|Take the monorail.|นั่งโมโนเรล
+e|polymer|A plastic polymer.|พอลิเมอร์พลาสติก
+e|polyglot|A true polyglot.|ผู้รู้หลายภาษา
+e|multimedia|A multimedia show.|การแสดงสื่อผสม
+e|multiply|Multiply by two.|คูณด้วยสอง
+e|multiple|Multiple choice.|ปรนัย
+e|panorama|A mountain panorama.|วิวภูเขากว้างไกล
+e|panacea|Not a panacea.|ไม่ใช่ยาครอบจักรวาล
+e|pandemonium|Pandemonium broke out.|เกิดความโกลาหล
+e|polytheism|Ancient polytheism.|ลัทธิพหุเทพโบราณ
+e|hypertension|Treat hypertension.|รักษาความดันสูง
+e|hyperactive|A hyperactive child.|เด็กไฮเปอร์
+e|hypothermia|Die of hypothermia.|เสียชีวิตเพราะหนาวเกิน
+e|hyperbole|That's just hyperbole.|แค่พูดเกินจริง
+e|hyperlink|Click the hyperlink.|คลิกไฮเปอร์ลิงก์
+e|euphoria|Feel euphoria.|รู้สึกปีติสุข
+e|eulogy|Deliver a eulogy.|กล่าวคำไว้อาลัย
+e|euphemism|"Passed away" is a euphemism.|"จากไป" เป็นคำเลี่ยง
+e|evangelist|A TV evangelist.|ผู้เผยแผ่ทางทีวี
+e|euthanasia|Debate euthanasia.|ถกเรื่องการุณยฆาต
+e|eucalyptus|Eucalyptus oil.|น้ำมันยูคาลิปตัส
+e|periphery|The periphery of the city.|ขอบเมือง
+e|circumscribe|Circumscribe their power.|จำกัดอำนาจ
+e|periodical|A medical periodical.|วารสารการแพทย์
+e|antibiotic|Take an antibiotic.|กินยาปฏิชีวนะ
+e|antique|An antique clock.|นาฬิกาโบราณ
+e|anticipate|Anticipate problems.|คาดการณ์ปัญหา
+e|antisocial|Antisocial behavior.|พฤติกรรมต่อต้านสังคม
+e|anticlimax|The ending was an anticlimax.|ตอนจบน่าผิดหวัง
+e|antibody|Produce antibodies.|สร้างแอนติบอดี
+e|antifreeze|Add antifreeze.|เติมน้ำยากันเยือกแข็ง
+e|anterior|The anterior view.|มุมมองด้านหน้า
+e|ancient|Ancient Egypt.|อียิปต์โบราณ
+e|antenna|Adjust the antenna.|ปรับเสาอากาศ
+e|paragraph|Write a paragraph.|เขียนหนึ่งย่อหน้า
+e|parasite|A parasite lives inside.|ปรสิตอาศัยอยู่ข้างใน
+e|paramedic|The paramedic arrived.|เจ้าหน้าที่กู้ชีพมาถึง
+e|paranoid|Don't be paranoid.|อย่าหวาดระแวง
+e|paralysis|Leg paralysis.|ขาเป็นอัมพาต
+e|biology|Study biology.|เรียนชีววิทยา
+e|geology|Study geology.|เรียนธรณีวิทยา
+e|anthropology|Study anthropology.|เรียนมานุษยวิทยา
+e|apology|Accept my apology.|รับคำขอโทษของฉัน
+e|criminology|Study criminology.|เรียนอาชญาวิทยา
+e|pessimism|Overcome pessimism.|เอาชนะความมองโลกแง่ร้าย
+e|feminism|Modern feminism.|สตรีนิยมยุคใหม่
+e|activism|Climate activism.|การเคลื่อนไหวด้านสภาพอากาศ
+e|scientist|A famous scientist.|นักวิทยาศาสตร์ชื่อดัง
+e|pessimist|Don't be a pessimist.|อย่ามองโลกแง่ร้าย
+e|servant|A faithful servant.|คนรับใช้ซื่อสัตย์
+e|defendant|The defendant pleaded.|จำเลยให้การ
+e|opponent|Defeat your opponent.|เอาชนะคู่ต่อสู้
+e|independent|An independent woman.|ผู้หญิงที่เป็นอิสระ
+e|different|A different color.|สีที่ต่างออกไป
+e|evidence|Show the evidence.|แสดงหลักฐาน
+e|science|Study science.|เรียนวิทยาศาสตร์
+e|dictionary|Use a dictionary.|ใช้พจนานุกรม
+e|factory|Work in a factory.|ทำงานในโรงงาน
+e|observatory|Visit the observatory.|ไปหอดูดาว
+e|dormitory|Live in a dormitory.|อยู่หอพัก
+e|fantastic|A fantastic idea.|ไอเดียยอดเยี่ยม
+e|scientific|Scientific method.|วิธีทางวิทยาศาสตร์
+e|medical|Medical care.|การรักษาพยาบาล
+e|musical|A musical talent.|พรสวรรค์ทางดนตรี
+e|physical|Physical exercise.|การออกกำลังกาย
+e|educate|Educate children.|ให้การศึกษาเด็ก
+e|concentrate|Concentrate on work.|จดจ่อกับงาน
+e|generate|Generate power.|ผลิตไฟฟ้า
+e|indicate|Signs indicate rain.|สัญญาณบ่งชี้ว่าฝนจะตก
+e|motivate|Motivate the team.|จูงใจทีม
+e|simplify|Simplify the process.|ทำกระบวนการให้ง่าย
+e|clarify|Clarify your point.|ชี้แจงประเด็น
+e|beautify|Beautify the park.|ตกแต่งสวนให้สวย
+e|amplify|Amplify the sound.|ขยายเสียง
+e|lengthen|Lengthen the skirt.|ต่อกระโปรงให้ยาว
+e|brighten|Brighten the room.|ทำห้องให้สว่าง
+e|lighten|Lighten the load.|ลดภาระ
+e|sweeten|Sweeten the tea.|ใส่น้ำตาลในชา
+e|backward|Step backward.|ก้าวถอยหลัง
+e|downward|A downward trend.|แนวโน้มลดลง
+e|onward|March onward.|เดินหน้าต่อไป
+e|toward|Walk toward me.|เดินมาทางฉัน
+e|homeward|Head homeward.|มุ่งหน้ากลับบ้าน
+e|afterward|Afterward we left.|หลังจากนั้นเราก็ไป
+e|eastward|Travel eastward.|เดินทางไปทางตะวันออก
+e|westward|Sail westward.|แล่นไปทางตะวันตก
+e|northward|Fly northward.|บินไปทางเหนือ
+e|southward|Drive southward.|ขับไปทางใต้
+e|clockwise|Turn clockwise.|หมุนตามเข็มนาฬิกา
+e|anticlockwise|Turn anticlockwise.|หมุนทวนเข็ม
+e|counterclockwise|Turn counterclockwise.|หมุนทวนเข็ม
+e|lengthwise|Cut it lengthwise.|ตัดตามยาว
+e|wholesome|Wholesome food.|อาหารมีประโยชน์
+e|fearsome|A fearsome beast.|สัตว์น่ากลัว
+e|cumbersome|A cumbersome bag.|กระเป๋าเทอะทะ
+e|burdensome|A burdensome task.|งานที่เป็นภาระ
+e|worrisome|A worrisome sign.|สัญญาณน่ากังวล
+e|bothersome|A bothersome noise.|เสียงน่ารำคาญ
+e|loathsome|A loathsome habit.|นิสัยน่ารังเกียจ
+e|employee|A new employee.|ลูกจ้างใหม่
+e|absentee|An absentee landlord.|เจ้าของที่ไม่อยู่
+e|payee|Name the payee.|ระบุชื่อผู้รับเงิน
+e|attendee|Each attendee signs in.|ผู้เข้าร่วมทุกคนลงชื่อ
+e|interviewee|The interviewee spoke.|ผู้ถูกสัมภาษณ์พูด
+e|devotee|A devotee of jazz.|ผู้คลั่งไคล้แจ๊ส
+e|engineer|An engineer built it.|วิศวกรสร้างมัน
+e|auctioneer|The auctioneer shouted.|ผู้ประมูลตะโกน
+e|profiteer|War profiteers.|พ่อค้ากำไรจากสงคราม
+e|statuesque|A statuesque woman.|หญิงสูงสง่า
+e|burlesque|A burlesque show.|การแสดงล้อเลียน
+e|duckling|A yellow duckling.|ลูกเป็ดสีเหลือง
+e|sapling|Plant a sapling.|ปลูกต้นกล้า
+e|seedling|Water the seedling.|รดน้ำต้นกล้า
+e|underling|Blame an underling.|โทษลูกน้อง
+e|starlet|A young starlet.|ดาราสาวหน้าใหม่
+e|piglet|A cute piglet.|ลูกหมูน่ารัก
+e|droplet|A water droplet.|หยดน้ำเล็ก
+e|cutlet|A pork cutlet.|หมูชิ้นบาง
+e|hamlet|A quiet hamlet.|หมู่บ้านเล็กเงียบสงบ
