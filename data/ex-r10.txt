@@ -1,0 +1,975 @@
+e|mortality|Infant mortality has fallen.|อัตราการตายของทารกลดลง
+e|mosaic|The floor is a mosaic.|พื้นเป็นลายโมเสก
+e|mosquito|A mosquito bit me.|ยุงกัดฉัน
+e|moss|Moss grew on the rock.|ตะไคร่ขึ้นบนหิน
+e|moth|A moth flew to the lamp.|ผีเสื้อกลางคืนบินเข้าหาไฟ
+e|motif|The motif repeats.|ลวดลายซ้ำกัน
+e|motorist|Motorists must slow down.|ผู้ขับขี่ต้องชะลอ
+e|mould|Mould grew on the bread.|ขนมปังขึ้นรา
+e|mound|A mound of earth stood there.|มีเนินดินอยู่ตรงนั้น
+e|mountainous|It's a mountainous region.|เป็นภูมิภาคภูเขา
+e|mourn|They mourned his death.|พวกเขาไว้อาลัยการจากไปของเขา
+e|multicultural|It's a multicultural city.|เป็นเมืองหลากวัฒนธรรม
+e|multinational|He works for a multinational.|เขาทำงานบริษัทข้ามชาติ
+e|multitude|A multitude gathered.|ผู้คนจำนวนมากมารวมตัว
+e|mundane|It's a mundane task.|เป็นงานน่าเบื่อ
+e|municipal|It's a municipal park.|เป็นสวนของเทศบาล
+e|muster|She mustered her courage.|เธอรวบรวมความกล้า
+e|mutate|The virus mutated.|ไวรัสกลายพันธุ์
+e|mutation|A mutation occurred.|เกิดการกลายพันธุ์
+e|mutual|The feeling is mutual.|ความรู้สึกเป็นของทั้งสองฝ่าย
+e|mutually|It's mutually beneficial.|เป็นประโยชน์ร่วมกัน
+e|mystical|It's a mystical place.|เป็นสถานที่ลึกลับ
+e|mythology|He loves Greek mythology.|เขาชอบเทพนิยายกรีก
+e|naive|Don't be so naive.|อย่าไร้เดียงสานัก
+e|narrate|He narrated the film.|เขาพากย์หนัง
+e|narrative|It's a gripping narrative.|เป็นเรื่องเล่าที่น่าติดตาม
+e|narrator|The narrator is a child.|ผู้เล่าเรื่องเป็นเด็ก
+e|narrowly|He narrowly escaped.|เขารอดอย่างฉิวเฉียด
+e|nationalism|Nationalism is rising.|ชาตินิยมกำลังขึ้น
+e|naval|It's a naval base.|เป็นฐานทัพเรือ
+e|navigation|Use GPS navigation.|ใช้การนำทางจีพีเอส
+e|necessitate|It necessitates a change.|ทำให้ต้องเปลี่ยน
+e|needless|It's needless to say.|ไม่จำเป็นต้องพูด
+e|negotiator|The negotiator arrived.|ผู้เจรจามาถึง
+e|neighbouring|It's a neighbouring town.|เป็นเมืองข้างเคียง
+e|newcomer|He is a newcomer.|เขาเป็นผู้มาใหม่
+e|niche|They found a niche.|พวกเขาหาตลาดเฉพาะกลุ่มเจอ
+e|nickname|His nickname is Tom.|ชื่อเล่นเขาคือทอม
+e|nightclub|We went to a nightclub.|เราไปไนต์คลับ
+e|noble|It's a noble cause.|เป็นเหตุผลอันสูงส่ง
+e|nominal|He paid a nominal fee.|เขาจ่ายค่าธรรมเนียมเล็กน้อย
+e|nominate|They nominated her.|พวกเขาเสนอชื่อเธอ
+e|nomination|She won a nomination.|เธอได้เข้าชิง
+e|nonstop|It rained nonstop.|ฝนตกไม่หยุด
+e|norm|It's the cultural norm.|เป็นบรรทัดฐานทางวัฒนธรรม
+e|normality|Life returned to normality.|ชีวิตกลับสู่ปกติ
+e|nostalgia|I feel nostalgia.|ฉันคิดถึงอดีต
+e|nosy|Don't be nosy.|อย่าสอดรู้
+e|notify|Please notify me.|กรุณาแจ้งฉัน
+e|novelty|The novelty wore off.|ความแปลกใหม่หมดไป
+e|numerical|List in numerical order.|เรียงตามลำดับตัวเลข
+e|nutrient|Vegetables have nutrients.|ผักมีสารอาหาร
+e|nutrition|Nutrition matters.|โภชนาการสำคัญ
+e|nutritional|Check the nutritional value.|ดูคุณค่าทางโภชนาการ
+e|oath|He took an oath.|เขาให้คำสาบาน
+e|obedience|Dogs learn obedience.|สุนัขเรียนรู้การเชื่อฟัง
+e|obedient|He is an obedient child.|เขาเป็นเด็กเชื่อฟัง
+e|obese|He is obese.|เขาอ้วนมาก
+e|obesity|Obesity is rising.|ภาวะอ้วนเพิ่มขึ้น
+e|obligatory|Attendance is obligatory.|ต้องเข้าร่วมเป็นข้อบังคับ
+e|oblige|I was obliged to go.|ฉันจำต้องไป
+e|obscene|It was an obscene joke.|เป็นมุกอนาจาร
+e|obsess|Don't obsess over it.|อย่าหมกมุ่นกับมัน
+e|obsession|It's an obsession.|เป็นความหมกมุ่น
+e|obstruction|There's an obstruction.|มีสิ่งกีดขวาง
+e|occupant|The occupant left.|ผู้พักอาศัยออกไป
+e|occupational|It's an occupational hazard.|เป็นอันตรายจากอาชีพ
+e|occurrence|It's a rare occurrence.|เป็นเรื่องที่เกิดน้อย
+e|oddly|She acted oddly.|เธอทำตัวแปลก
+e|odour|There was a bad odour.|มีกลิ่นเหม็น
+e|offset|Gains offset the loss.|กำไรชดเชยขาดทุน
+e|offspring|Animals protect offspring.|สัตว์ปกป้องลูก
+e|omission|It was an omission.|เป็นการตกหล่น
+e|onset|The onset of winter came.|ฤดูหนาวเริ่มต้น
+e|onwards|From now onwards, be careful.|นับจากนี้ต้องระวัง
+e|opaque|The glass is opaque.|แก้วทึบแสง
+e|operational|The plant is operational.|โรงงานใช้งานได้
+e|oppression|They fought oppression.|พวกเขาสู้กับการกดขี่
+e|oppressive|The heat is oppressive.|ความร้อนอบอ้าวอึดอัด
+e|optical|It's an optical illusion.|เป็นภาพลวงตา
+e|optimal|It's the optimal choice.|เป็นตัวเลือกที่ดีที่สุด
+e|optimum|Find the optimum level.|หาระดับที่เหมาะสมที่สุด
+e|orbit|The moon orbits Earth.|ดวงจันทร์โคจรรอบโลก
+e|orchard|We picked apples in the orchard.|เราเก็บแอปเปิลในสวน
+e|ordeal|It was a terrible ordeal.|เป็นประสบการณ์ย่ำแย่
+e|orderly|The line was orderly.|แถวเป็นระเบียบ
+e|organism|It's a tiny organism.|เป็นสิ่งมีชีวิตเล็กจิ๋ว
+e|orient|Orient yourself with the map.|ใช้แผนที่หาทิศทาง
+e|orientation|Orientation starts at 9.|ปฐมนิเทศเริ่ม 9 โมง
+e|ornament|It's a Christmas ornament.|เป็นของประดับคริสต์มาส
+e|orphan|He was an orphan.|เขาเป็นเด็กกำพร้า
+e|orthodox|It's an orthodox view.|เป็นความเห็นตามแบบแผน
+e|outburst|His outburst shocked us.|การระเบิดอารมณ์ของเขาทำให้เราตกใจ
+e|outgoing|She is outgoing.|เธอร่าเริงเข้าสังคมเก่ง
+e|outing|We had a school outing.|เราไปทัศนศึกษา
+e|out-of-date|This map is out-of-date.|แผนที่นี้ล้าสมัย
+e|outrage|There was public outrage.|ประชาชนโกรธแค้น
+e|outrageous|The price is outrageous.|ราคาสูงเกินเหตุ
+e|outright|He refused outright.|เขาปฏิเสธเด็ดขาด
+e|outset|I said so from the outset.|ฉันบอกตั้งแต่แรก
+e|outsider|He felt like an outsider.|เขารู้สึกเป็นคนนอก
+e|outskirts|They live on the outskirts.|พวกเขาอยู่ชานเมือง
+e|outward|Outward appearances deceive.|ภายนอกอาจหลอกตา
+e|outwards|The door opens outwards.|ประตูเปิดออกนอก
+e|outweigh|Benefits outweigh risks.|ประโยชน์มากกว่าความเสี่ยง
+e|oval|The table is oval.|โต๊ะเป็นรูปไข่
+e|overcast|The sky is overcast.|ฟ้าครึ้ม
+e|overcrowded|The bus is overcrowded.|รถแออัด
+e|overdue|My library book is overdue.|หนังสือห้องสมุดเกินกำหนด
+e|overestimate|Don't overestimate yourself.|อย่าประเมินตัวเองสูง
+e|overhear|I overheard them.|ฉันแอบได้ยินพวกเขา
+e|overlap|The schedules overlap.|ตารางทับซ้อนกัน
+e|overly|Don't be overly worried.|อย่ากังวลเกินไป
+e|override|Override the setting.|ยกเลิกการตั้งค่า
+e|oversight|It was an oversight.|เป็นความพลั้งเผลอ
+e|overt|It was overt racism.|เป็นการเหยียดเชื้อชาติโจ่งแจ้ง
+e|overtake|Don't overtake here.|อย่าแซงตรงนี้
+e|overthrow|They overthrew the king.|พวกเขาโค่นกษัตริย์
+e|overview|Give me an overview.|สรุปภาพรวมให้หน่อย
+e|overwhelm|Emotions overwhelmed her.|อารมณ์ท่วมท้นเธอ
+e|overwhelming|It was an overwhelming victory.|เป็นชัยชนะขาดลอย
+e|overwhelmingly|They voted overwhelmingly yes.|พวกเขาโหวตเห็นด้วยท่วมท้น
+e|packaging|The packaging is plastic.|บรรจุภัณฑ์เป็นพลาสติก
+e|packed|The room was packed.|ห้องแน่นขนัด
+e|pact|They signed a pact.|พวกเขาลงนามสนธิสัญญา
+e|paddle|We paddled the canoe.|เราพายเรือแคนู
+e|painfully|It was painfully slow.|ช้าอย่างทรมาน
+e|painkiller|Take a painkiller.|กินยาแก้ปวด
+e|painless|The injection was painless.|ฉีดยาไม่เจ็บ
+e|painstaking|It was painstaking work.|เป็นงานพิถีพิถัน
+e|paintbrush|Wash the paintbrush.|ล้างพู่กัน
+e|pamphlet|Read the pamphlet.|อ่านแผ่นพับ
+e|pant|The dog panted.|สุนัขหอบ
+e|paperback|I bought a paperback.|ฉันซื้อหนังสือปกอ่อน
+e|paperwork|I have lots of paperwork.|ฉันมีงานเอกสารเยอะ
+e|parachute|He jumped with a parachute.|เขากระโดดร่มชูชีพ
+e|paradigm|It's a new paradigm.|เป็นกรอบความคิดใหม่
+e|paradox|It's a strange paradox.|เป็นข้อขัดแย้งแปลก ๆ
+e|paradoxically|Paradoxically, he lost by winning.|น่าแปลกที่เขาแพ้จากการชนะ
+e|parameter|Set the parameters.|ตั้งค่าพารามิเตอร์
+e|paramount|Safety is paramount.|ความปลอดภัยสำคัญที่สุด
+e|paraphrase|Paraphrase the text.|เรียบเรียงข้อความใหม่
+e|parental|Get parental consent.|ขอความยินยอมจากผู้ปกครอง
+e|parenthesis|Put it in parenthesis.|ใส่ในวงเล็บ
+e|parliamentary|It's a parliamentary debate.|เป็นการอภิปรายในสภา
+e|parody|It's a parody of the film.|เป็นหนังล้อเลียน
+e|partial|It was a partial success.|สำเร็จบางส่วน
+e|partially|It is partially true.|จริงบางส่วน
+e|particle|A dust particle floated.|อนุภาคฝุ่นลอย
+e|pastime|Reading is my pastime.|การอ่านเป็นงานอดิเรก
+e|patriotic|He is very patriotic.|เขารักชาติมาก
+e|patrol|Police patrol the streets.|ตำรวจลาดตระเวนถนน
+e|patron|She's a patron of the arts.|เธอเป็นผู้อุปถัมภ์ศิลปะ
+e|patronizing|Don't be patronizing.|อย่าพูดเหมือนดูถูก
+e|pebble|He threw a pebble.|เขาขว้างก้อนกรวด
+e|peg|Hang it on the peg.|แขวนบนที่แขวน
+e|penetrate|The bullet penetrated the wall.|กระสุนทะลุกำแพง
+e|peninsula|It's a peninsula.|เป็นคาบสมุทร
+e|perch|A bird perched on a branch.|นกเกาะกิ่งไม้
+e|perfection|Aim for perfection.|มุ่งสู่ความสมบูรณ์
+e|peril|They are in peril.|พวกเขาตกอยู่ในอันตราย
+e|periodic|Take periodic breaks.|พักเป็นระยะ
+e|peripheral|It's a peripheral device.|เป็นอุปกรณ์ต่อพ่วง
+e|perpetual|It's a perpetual problem.|เป็นปัญหาไม่จบสิ้น
+e|perpetuate|Don't perpetuate myths.|อย่าสืบทอดความเชื่อผิด ๆ
+e|persecution|They fled persecution.|พวกเขาหนีการกดขี่
+e|persistence|Persistence pays off.|ความเพียรให้ผล
+e|persistent|He is persistent.|เขาไม่ยอมแพ้
+e|persuasion|It took some persuasion.|ต้องใช้การโน้มน้าว
+e|persuasive|She is very persuasive.|เธอโน้มน้าวเก่งมาก
+e|pessimistic|Don't be so pessimistic.|อย่ามองในแง่ร้ายนัก
+e|pest|Pests ate the crops.|ศัตรูพืชกินพืชผล
+e|pesticide|The farm uses pesticide.|ฟาร์มใช้ยาฆ่าแมลง
+e|petition|Sign the petition.|ลงชื่อในคำร้อง
+e|petty|Don't be so petty.|อย่าจุกจิกนัก
+e|pharmaceutical|It's a pharmaceutical company.|เป็นบริษัทยา
+e|phenomenal|Her success is phenomenal.|ความสำเร็จของเธอยอดเยี่ยม
+e|philosopher|The philosopher spoke.|นักปรัชญาพูด
+e|philosophical|It's a philosophical question.|เป็นคำถามเชิงปรัชญา
+e|physicist|He is a physicist.|เขาเป็นนักฟิสิกส์
+e|pianist|She is a concert pianist.|เธอเป็นนักเปียโนคอนเสิร์ต
+e|picturesque|It's a picturesque village.|เป็นหมู่บ้านงดงามดั่งภาพวาด
+e|pier|We walked along the pier.|เราเดินตามสะพานท่าเรือ
+e|pierce|She had her ears pierced.|เธอเจาะหู
+e|pigeon|A pigeon landed.|นกพิราบลง
+e|pilgrimage|They made a pilgrimage.|พวกเขาไปแสวงบุญ
+e|pinch|Add a pinch of salt.|ใส่เกลือหยิบมือ
+e|pioneer|He is a pioneer.|เขาเป็นผู้บุกเบิก
+e|pipeline|The pipeline burst.|ท่อส่งแตก
+e|pirate|Pirates attacked the ship.|โจรสลัดโจมตีเรือ
+e|placement|She got a placement.|เธอได้ที่ฝึกงาน
+e|plagiarism|Plagiarism is cheating.|การลอกงานคือการโกง
+e|plagiarize|Don't plagiarize.|อย่าลอกงานคนอื่น
+e|plague|A plague spread.|โรคระบาดแพร่
+e|plainly|He plainly lied.|เขาโกหกชัด ๆ
+e|planner|She is a wedding planner.|เธอเป็นผู้วางแผนงานแต่ง
+e|plantation|It's a tea plantation.|เป็นไร่ชา
+e|plaque|A plaque marks the spot.|แผ่นป้ายบอกตำแหน่ง
+e|plaster|Put on a plaster.|แปะพลาสเตอร์
+e|plateau|Sales hit a plateau.|ยอดขายคงที่
+e|plausible|It's a plausible theory.|เป็นทฤษฎีที่น่าเชื่อ
+e|playwright|He is a playwright.|เขาเป็นนักเขียนบทละคร
+e|plea|She made a plea for help.|เธอวิงวอนขอความช่วยเหลือ
+e|pledge|They made a pledge.|พวกเขาให้คำมั่นสัญญา
+e|plight|Take pity on his plight.|สงสารสภาพของเขา
+e|pluck|She plucked a flower.|เธอเด็ดดอกไม้
+e|plump|The baby is plump.|เด็กอ้วนจ้ำม่ำ
+e|poetic|It's a poetic description.|เป็นคำบรรยายเหมือนบทกวี
+e|pointer|Give me some pointers.|ให้คำแนะนำหน่อย
+e|pointless|It's pointless to argue.|เถียงไปก็ไร้ประโยชน์
+e|poised|She is poised to win.|เธอพร้อมจะชนะ
+e|portfolio|Show me your portfolio.|ขอดูแฟ้มผลงาน
+e|portrayal|It's an honest portrayal.|เป็นการแสดงที่จริงใจ
+e|posh|It's a posh hotel.|เป็นโรงแรมหรู
+e|positively|Think positively.|คิดบวก
+e|posture|Fix your posture.|แก้ท่าทางการนั่ง
+e|potent|It's a potent drug.|เป็นยาออกฤทธิ์แรง
+e|poultry|He farms poultry.|เขาเลี้ยงสัตว์ปีก
+e|pounce|The cat pounced.|แมวกระโจนใส่
+e|powerless|I felt powerless.|ฉันรู้สึกไร้อำนาจ
+e|pragmatic|Take a pragmatic approach.|ใช้วิธีที่เป็นรูปธรรม
+e|prawn|I ordered prawns.|ฉันสั่งกุ้ง
+e|preach|He preaches every Sunday.|เขาเทศนาทุกวันอาทิตย์
+e|preacher|The preacher spoke.|นักเทศน์พูด
+e|precaution|Take precautions.|ใช้ความระมัดระวัง
+e|precede|Silence preceded the storm.|ความเงียบมาก่อนพายุ
+e|precedent|It sets a precedent.|เป็นแบบอย่าง
+e|precision|It requires precision.|ต้องการความแม่นยำ
+e|preclude|This precludes any deal.|ทำให้ตกลงไม่ได้เลย
+e|predator|Lions are predators.|สิงโตเป็นผู้ล่า
+e|predetermined|It's a predetermined plan.|เป็นแผนที่กำหนดไว้ล่วงหน้า
+e|preface|Read the preface.|อ่านคำนำ
+e|preferable|Tea is preferable.|ชาน่าจะดีกว่า
+e|preferably|Come early, preferably at 8.|มาแต่เช้า ควรเป็น 8 โมง
+e|preliminary|It's a preliminary report.|เป็นรายงานเบื้องต้น
+e|premature|It's too premature to say.|เร็วเกินไปที่จะพูด
+e|premier|The premier spoke.|นายกฯ แถลง
+e|premium|We pay a premium.|เราจ่ายเบี้ยประกัน
+e|preoccupation|His preoccupation is work.|เขาหมกมุ่นกับงาน
+e|presenter|She is a TV presenter.|เธอเป็นพิธีกรทีวี
+e|presently|He is presently abroad.|ตอนนี้เขาอยู่ต่างประเทศ
+e|preservation|Wildlife preservation matters.|การอนุรักษ์สัตว์ป่าสำคัญ
+e|presidency|He won the presidency.|เขาได้ตำแหน่งประธานาธิบดี
+e|pressing|It's a pressing issue.|เป็นประเด็นเร่งด่วน
+e|prestige|The job has prestige.|งานนี้มีเกียรติ
+e|prestigious|It's a prestigious award.|เป็นรางวัลมีเกียรติ
+e|presumption|It's a false presumption.|เป็นข้อสันนิษฐานผิด
+e|pretentious|It's a pretentious film.|เป็นหนังที่ทำเป็นลึกซึ้ง
+e|prevail|Justice will prevail.|ความยุติธรรมจะชนะ
+e|prevailing|The prevailing view is positive.|ความเห็นส่วนใหญ่เป็นบวก
+e|prevalence|The prevalence of obesity grew.|ภาวะอ้วนแพร่หลาย
+e|prevalent|The disease is prevalent.|โรคนี้พบมาก
+e|priceless|It's a priceless painting.|เป็นภาพวาดล้ำค่า
+e|prime|He is in his prime.|เขาอยู่ในช่วงรุ่งโรจน์
+e|principally|It's principally used for cooking.|ใช้เป็นหลักในการปรุงอาหาร
+e|prioritize|Prioritize your tasks.|จัดลำดับความสำคัญของงาน
+e|privately|Let's talk privately.|คุยกันส่วนตัวนะ
+e|probe|Police probed the case.|ตำรวจสอบสวนคดี
+e|problematic|It's problematic.|เป็นปัญหา
+e|proceeding|Legal proceedings began.|เริ่มดำเนินคดี
+e|proceeds|Proceeds go to charity.|รายได้ให้การกุศล
+e|procession|A procession passed by.|ขบวนผ่านไป
+e|processor|The processor is fast.|ตัวประมวลผลเร็ว
+e|proclaim|They proclaimed victory.|พวกเขาประกาศชัยชนะ
+e|productivity|Productivity increased.|ผลิตภาพเพิ่มขึ้น
+e|profoundly|It profoundly affected me.|มันส่งผลลึกซึ้งต่อฉัน
+e|programmer|He is a programmer.|เขาเป็นโปรแกรมเมอร์
+e|programming|I'm learning programming.|ฉันเรียนเขียนโปรแกรม
+e|progression|It's a natural progression.|เป็นความก้าวหน้าตามธรรมชาติ
+e|progressive|It's a progressive policy.|เป็นนโยบายก้าวหน้า
+e|progressively|It got progressively worse.|แย่ลงเรื่อย ๆ
+e|prohibition|There's a prohibition on smoking.|มีข้อห้ามสูบบุหรี่
+e|projection|The projection is optimistic.|การคาดการณ์เป็นบวก
+e|prolong|Don't prolong the pain.|อย่ายืดความเจ็บปวด
+e|prolonged|He had a prolonged illness.|เขาป่วยเรื้อรังนาน
+e|prominence|She rose to prominence.|เธอโด่งดัง
+e|promising|He is a promising player.|เขาเป็นนักกีฬามีอนาคต
+e|promptly|She promptly replied.|เธอตอบทันที
+e|prophet|The prophet preached.|ศาสดาเทศนา
+e|proponent|He is a proponent of change.|เขาสนับสนุนการเปลี่ยนแปลง
+e|proposition|It's an attractive proposition.|เป็นข้อเสนอน่าสนใจ
+e|prose|She writes beautiful prose.|เธอเขียนร้อยแก้วไพเราะ
+e|prosecutor|The prosecutor spoke.|อัยการแถลง
+e|prospective|Meet prospective clients.|พบลูกค้าที่คาดหวัง
+e|prospectus|Read the prospectus.|อ่านหนังสือชี้ชวน
+e|prosper|The town prospered.|เมืองเจริญรุ่งเรือง
+e|prosperity|Peace brings prosperity.|สันติสุขนำความรุ่งเรือง
+e|protective|She is protective of her kids.|เธอปกป้องลูก
+e|protocol|Follow the protocol.|ทำตามระเบียบ
+e|prototype|They built a prototype.|พวกเขาสร้างต้นแบบ
+e|proven|It's a proven method.|เป็นวิธีที่พิสูจน์แล้ว
+e|provider|Choose an internet provider.|เลือกผู้ให้บริการอินเทอร์เน็ต
+e|provincial|It's a provincial town.|เป็นเมืองต่างจังหวัด
+e|provisional|It's a provisional licence.|เป็นใบอนุญาตชั่วคราว
+e|provocative|It was a provocative remark.|เป็นคำพูดยั่วยุ
+e|proximity|It's in close proximity.|อยู่ใกล้มาก
+e|prudent|It's prudent to wait.|รอไว้จะรอบคอบกว่า
+e|publication|It's a monthly publication.|เป็นสิ่งพิมพ์รายเดือน
+e|puff|He took a puff.|เขาสูดหนึ่งที
+e|pulse|Check his pulse.|ตรวจชีพจรเขา
+e|punitive|They took punitive action.|พวกเขาลงโทษ
+e|puppet|He played with a puppet.|เขาเล่นหุ่นกระบอก
+e|purity|The water has purity.|น้ำบริสุทธิ์
+e|pursuit|He joined the pursuit.|เขาร่วมไล่ล่า
+e|pyramid|We saw a pyramid.|เราเห็นพีระมิด
+e|quaint|It's a quaint village.|เป็นหมู่บ้านน่ารักเก่า ๆ
+e|qualitative|It's qualitative research.|เป็นการวิจัยเชิงคุณภาพ
+e|quantify|It's hard to quantify.|วัดปริมาณยาก
+e|quantitative|It's quantitative data.|เป็นข้อมูลเชิงปริมาณ
+e|quarterly|It's a quarterly report.|เป็นรายงานรายไตรมาส
+e|quest|It's a quest for truth.|เป็นการแสวงหาความจริง
+e|questionable|It's a questionable claim.|เป็นข้ออ้างน่าสงสัย
+e|quilt|She made a quilt.|เธอทำผ้าห่มนวม
+e|quota|We filled the quota.|เราทำโควตาครบ
+e|racing|He loves car racing.|เขาชอบแข่งรถ
+e|racist|That's a racist remark.|นั่นเป็นคำพูดเหยียดเชื้อชาติ
+e|radar|The radar detected it.|เรดาร์ตรวจพบ
+e|radiation|Radiation is dangerous.|รังสีเป็นอันตราย
+e|radically|It changed radically.|เปลี่ยนอย่างสิ้นเชิง
+e|radioactive|The waste is radioactive.|กากเป็นกัมมันตรังสี
+e|radius|Within a 5 km radius.|ในรัศมี 5 กม.
+e|raft|They crossed on a raft.|พวกเขาข้ามด้วยแพ
+e|rag|Wipe it with a rag.|เช็ดด้วยผ้าขี้ริ้ว
+e|rally|They held a rally.|พวกเขาจัดชุมนุม
+e|ramp|Use the wheelchair ramp.|ใช้ทางลาดรถเข็น
+e|ration|Food was rationed.|อาหารถูกปันส่วน
+e|rationale|Explain the rationale.|อธิบายเหตุผล
+e|rattle|The windows rattled.|หน้าต่างสั่นกึกกัก
+e|ray|A ray of light came in.|แสงลำหนึ่งส่องเข้ามา
+e|razor|He cut himself with a razor.|เขาโกนหนวดบาด
+e|reactor|It's a nuclear reactor.|เป็นเตาปฏิกรณ์นิวเคลียร์
+e|realism|The film shows realism.|หนังแสดงความสมจริง
+e|realist|I'm a realist.|ฉันเป็นคนมองตามจริง
+e|realization|A sudden realization hit me.|ฉันตระหนักได้ทันที
+e|realm|It's outside the realm of possibility.|เกินขอบเขตความเป็นไปได้
+e|reap|You reap what you sow.|ทำดีได้ดี ทำชั่วได้ชั่ว
+e|reappear|The sun reappeared.|ดวงอาทิตย์โผล่อีกครั้ง
+e|reasoning|I don't follow his reasoning.|ฉันตามเหตุผลเขาไม่ทัน
+e|reassurance|She needs reassurance.|เธอต้องการความมั่นใจ
+e|rebellious|He's a rebellious teen.|เขาเป็นวัยรุ่นขบถ
+e|rebuke|He rebuked the child.|เขาตำหนิเด็ก
+e|recede|The flood receded.|น้ำท่วมลดลง
+e|recession|The country is in recession.|ประเทศอยู่ในภาวะถดถอย
+e|recipient|The recipient signed.|ผู้รับลงนาม
+e|reciprocal|It's a reciprocal agreement.|เป็นข้อตกลงตอบแทนกัน
+e|recite|Recite the poem.|ท่องบทกวี
+e|reclaim|Reclaim your luggage.|รับกระเป๋าคืน
+e|recollection|I have no recollection of it.|ฉันจำเรื่องนั้นไม่ได้
+e|reconcile|They reconciled.|พวกเขาคืนดีกัน
+e|reconciliation|Reconciliation takes time.|การปรองดองใช้เวลา
+e|reconsider|Please reconsider.|กรุณาพิจารณาใหม่
+e|reconstruct|They reconstructed the bridge.|พวกเขาสร้างสะพานใหม่
+e|reconstruction|Reconstruction took years.|การฟื้นฟูใช้เวลาหลายปี
+e|recount|He recounted the story.|เขาเล่าเรื่อง
+e|recreate|Recreate the scene.|จำลองฉากขึ้นใหม่
+e|rectangular|It's a rectangular box.|เป็นกล่องสี่เหลี่ยมผืนผ้า
+e|rectify|We will rectify the error.|เราจะแก้ไขข้อผิดพลาด
+e|recurrence|Prevent a recurrence.|ป้องกันการเกิดซ้ำ
+e|redeem|Redeem your voucher.|แลกบัตรกำนัล
+e|referendum|They held a referendum.|พวกเขาจัดลงประชามติ
+e|refine|Refine your skills.|ฝึกทักษะให้ดีขึ้น
+e|refrain|Please refrain from smoking.|กรุณางดสูบบุหรี่
+e|refreshment|Refreshments are served.|มีของว่างบริการ
+e|refuge|They took refuge.|พวกเขาหลบภัย
+e|regime|The regime collapsed.|ระบอบล่มสลาย
+e|regiment|The regiment marched.|กรมเดินสวนสนาม
+e|regulate|Rules regulate traffic.|กฎควบคุมการจราจร
+e|rehearsal|We have a rehearsal today.|วันนี้เรามีซ้อม
+e|rehearse|They rehearsed the play.|พวกเขาซ้อมละคร
+e|reign|It was under his reign.|เป็นช่วงรัชสมัยของเขา
+e|reiterate|Let me reiterate.|ขอย้ำอีกครั้ง
+e|relay|Relay the message.|ส่งต่อข้อความ
+e|relentless|She is relentless.|เธอไม่ลดละ
+e|reliant|They are reliant on aid.|พวกเขาพึ่งความช่วยเหลือ
+e|relic|It's a relic of the past.|เป็นของเหลือจากอดีต
+e|relish|He relished the challenge.|เขาเพลิดเพลินกับความท้าทาย
+e|relocate|They relocated to Bangkok.|พวกเขาย้ายไปกรุงเทพ
+e|reluctance|She showed reluctance.|เธอแสดงความไม่เต็มใจ
+e|remainder|Keep the remainder.|เก็บส่วนที่เหลือไว้
+e|reminiscent|It's reminiscent of my youth.|ชวนให้นึกถึงวัยเยาว์
+e|remnant|A remnant of the wall remains.|เหลือซากกำแพง
+e|render|It rendered him speechless.|ทำให้เขาพูดไม่ออก
+e|renew|Renew your passport.|ต่ออายุหนังสือเดินทาง
+e|renewable|Solar is renewable energy.|โซลาร์เป็นพลังงานทดแทน
+e|renewal|It's time for renewal.|ถึงเวลาต่ออายุ
+e|renewed|There's renewed hope.|มีความหวังใหม่
+e|reopen|The shop will reopen.|ร้านจะเปิดใหม่
+e|repayment|Repayment starts in May.|เริ่มชำระคืนเดือนพฤษภาคม
+e|repeated|Despite repeated warnings, he went.|แม้เตือนซ้ำ เขาก็ไป
+e|repertoire|Her repertoire is wide.|ชุดเพลงของเธอกว้าง
+e|replay|Watch the replay.|ดูภาพรีเพลย์
+e|replicate|Scientists replicated it.|นักวิทยาศาสตร์ทำซ้ำได้
+e|repress|He repressed his anger.|เขากดความโกรธ
+e|repression|They fought repression.|พวกเขาสู้กับการกดขี่
+e|reproduction|It's a reproduction of a painting.|เป็นสำเนาภาพวาด
+e|repulsive|The smell was repulsive.|กลิ่นน่ารังเกียจ
+e|resemblance|There's a strong resemblance.|คล้ายกันมาก
+e|resemble|She resembles her mother.|เธอหน้าเหมือนแม่
+e|resentment|He felt resentment.|เขารู้สึกขุ่นเคือง
+e|reserved|He is quiet and reserved.|เขาเงียบและเก็บตัว
+e|reside|She resides in Chiang Mai.|เธอพำนักที่เชียงใหม่
+e|residence|It's his permanent residence.|เป็นที่พักถาวรของเขา
+e|residual|Residual heat remains.|ยังมีความร้อนเหลือ
+e|residue|Wash off the residue.|ล้างสิ่งตกค้าง
+e|resistant|It's water-resistant.|กันน้ำได้
+e|resolution|I made a New Year resolution.|ฉันตั้งความตั้งใจปีใหม่
+e|respectful|Be respectful.|ให้เกียรติผู้อื่น
+e|responsive|The staff is responsive.|พนักงานตอบสนองดี
+e|restless|He felt restless.|เขารู้สึกกระสับกระส่าย
+e|restrain|She restrained her anger.|เธอกดความโกรธ
+e|restraint|Show some restraint.|รู้จักยั้งตัว
+e|restricted|It's a restricted area.|เป็นเขตหวงห้าม
+e|restrictive|The rules are restrictive.|กฎเข้มงวดจำกัด
+e|restructure|They restructured the firm.|พวกเขาปรับโครงสร้างบริษัท
+e|retail|He works in retail.|เขาทำงานค้าปลีก
+e|retailer|The retailer cut prices.|ผู้ค้าปลีกลดราคา
+e|retention|Staff retention is vital.|การรักษาพนักงานสำคัญ
+e|retreat|The army retreated.|กองทัพถอย
+e|retrieve|Retrieve your files.|เรียกไฟล์คืน
+e|reunion|We had a class reunion.|เราจัดงานรวมรุ่น
+e|revelation|It was a revelation.|เป็นเรื่องที่เปิดหูเปิดตา
+e|reversal|It's a total reversal.|เป็นการกลับตาลปัตร
+e|revert|It reverted to normal.|กลับสู่ปกติ
+e|reviewer|The reviewer liked it.|ผู้วิจารณ์ชอบ
+e|revision|I'm doing revision.|ฉันกำลังทบทวนบทเรียน
+e|revival|It's a revival of old music.|เป็นการฟื้นเพลงเก่า
+e|revive|They revived the tradition.|พวกเขาฟื้นประเพณี
+e|revolt|The people revolted.|ประชาชนก่อกบฏ
+e|revolting|It's revolting.|น่าขยะแขยง
+e|revolutionary|It's a revolutionary idea.|เป็นไอเดียปฏิวัติ
+e|revolutionize|It revolutionized medicine.|ปฏิวัติวงการแพทย์
+e|revolve|The Earth revolves around the sun.|โลกหมุนรอบดวงอาทิตย์
+e|rewarding|It's a rewarding job.|เป็นงานที่คุ้มค่า
+e|rhetoric|It's empty rhetoric.|เป็นแค่คำพูดสวยหรู
+e|rhyme|Cat rhymes with hat.|cat สัมผัสกับ hat
+e|rhythmic|It's a rhythmic dance.|เป็นการเต้นเป็นจังหวะ
+e|ridge|They walked along the ridge.|พวกเขาเดินตามสันเขา
+e|rift|A rift formed between them.|เกิดรอยร้าวระหว่างพวกเขา
+e|right-wing|He has right-wing views.|เขามีแนวคิดฝ่ายขวา
+e|rigorous|It's a rigorous test.|เป็นการทดสอบเข้มงวด
+e|rim|Fill it to the rim.|เติมถึงขอบ
+e|rising|Rising prices worry me.|ราคาที่สูงขึ้นทำให้กังวล
+e|rite|It's a rite of passage.|เป็นพิธีก้าวผ่านวัย
+e|ritual|It's a daily ritual.|เป็นกิจวัตรประจำวัน
+e|rivalry|There's a rivalry between them.|พวกเขาเป็นคู่แข่ง
+e|roam|They roamed the streets.|พวกเขาเดินเตร่ตามถนน
+e|robust|The system is robust.|ระบบแข็งแกร่ง
+e|rocky|It's a rocky path.|เป็นทางเต็มไปด้วยหิน
+e|rod|He holds a fishing rod.|เขาถือคันเบ็ด
+e|rotate|Rotate the image.|หมุนรูป
+e|rotation|Crop rotation helps soil.|การหมุนเวียนพืชช่วยดิน
+e|routinely|He routinely arrives late.|เขามาสายเป็นประจำ
+e|rugged|It's rugged terrain.|เป็นภูมิประเทศขรุขระ
+e|ruling|The court's ruling was fair.|คำตัดสินของศาลยุติธรรม
+e|rust|The bike has rust.|จักรยานเป็นสนิม
+e|rusty|The nail is rusty.|ตะปูเป็นสนิม
+e|ruthless|He is a ruthless boss.|เขาเป็นเจ้านายไร้ปรานี
+e|safeguard|Safeguard your data.|ปกป้องข้อมูลของคุณ
+e|salon|She works in a hair salon.|เธอทำงานร้านเสริมสวย
+e|sanction|They imposed sanctions.|พวกเขาใช้มาตรการลงโทษ
+e|sanctuary|It's a bird sanctuary.|เป็นเขตรักษาพันธุ์นก
+e|sane|He seems sane.|เขาดูมีสติดี
+e|sarcasm|I detect sarcasm.|ฉันจับได้ว่าประชด
+e|satire|It's political satire.|เป็นการเสียดสีการเมือง
+e|savage|It was a savage attack.|เป็นการโจมตีป่าเถื่อน
+e|scarlet|She wore a scarlet dress.|เธอใส่ชุดสีแดงสด
+e|scenario|Imagine this scenario.|ลองนึกสถานการณ์นี้
+e|scent|I love the scent of roses.|ฉันชอบกลิ่นกุหลาบ
+e|sceptical|I'm sceptical about it.|ฉันไม่ค่อยเชื่อ
+e|scepticism|He met it with scepticism.|เขาตอบรับด้วยความสงสัย
+e|scholar|She is a scholar.|เธอเป็นนักวิชาการ
+e|scholarship|He won a scholarship.|เขาได้รับทุน
+e|scoop|Scoop the ice cream.|ตักไอศกรีม
+e|scorch|The sun scorched the grass.|แดดเผาหญ้าไหม้
+e|scowl|He scowled at me.|เขามองฉันหน้าบึ้ง
+e|scrawl|He scrawled a note.|เขาเขียนโน้ตหวัด ๆ
+e|screech|The tyres screeched.|ยางเสียดสีดังแหลม
+e|scribble|He scribbled on the page.|เขาขีดเขียนบนหน้ากระดาษ
+e|scrutiny|It faced close scrutiny.|ถูกตรวจสอบอย่างละเอียด
+e|secrecy|It was done in secrecy.|ทำอย่างลับ ๆ
+e|sect|He belongs to a sect.|เขาอยู่ในนิกายหนึ่ง
+e|secular|It's a secular state.|เป็นรัฐโลกวิสัย
+e|seduce|He was seduced by money.|เขาถูกเงินล่อลวง
+e|seemingly|It's seemingly easy.|ดูเหมือนง่าย
+e|segment|Cut it into segments.|หั่นเป็นส่วน ๆ
+e|segregated|The school was segregated.|โรงเรียนถูกแบ่งแยก
+e|segregation|They fought segregation.|พวกเขาต่อสู้การแบ่งแยก
+e|seizure|The seizure lasted a minute.|อาการชักนานหนึ่งนาที
+e|selective|Be selective.|เลือกให้ดี
+e|semantic|It's a semantic issue.|เป็นประเด็นด้านความหมาย
+e|senate|The Senate voted.|วุฒิสภาลงมติ
+e|sensational|It was a sensational story.|เป็นข่าวสะเทือนอารมณ์
+e|sensitivity|Show cultural sensitivity.|แสดงความเข้าใจวัฒนธรรม
+e|sentimental|It has sentimental value.|มีคุณค่าทางใจ
+e|sequel|The sequel is better.|ภาคต่อดีกว่า
+e|sergeant|The sergeant gave orders.|จ่าสั่งการ
+e|sermon|He gave a sermon.|เขาเทศนา
+e|settler|Settlers arrived.|ผู้ตั้งถิ่นฐานมาถึง
+e|set-up|I like the set-up.|ฉันชอบการจัดวาง
+e|sever|They severed ties.|พวกเขาตัดความสัมพันธ์
+e|sewing|She loves sewing.|เธอชอบเย็บผ้า
+e|sexism|Sexism still exists.|การเหยียดเพศยังมีอยู่
+e|sexy|She wore a sexy dress.|เธอใส่ชุดเซ็กซี่
+e|shabby|The coat looks shabby.|เสื้อดูซอมซ่อ
+e|shaky|His voice was shaky.|เสียงเขาสั่น
+e|shareholder|Shareholders voted.|ผู้ถือหุ้นลงมติ
+e|sharpen|Sharpen the knife.|ลับมีดให้คม
+e|shipment|The shipment arrived.|สินค้าส่งมาถึง
+e|shoplifting|He was caught shoplifting.|เขาถูกจับขโมยของในร้าน
+e|shortcoming|Everyone has shortcomings.|ทุกคนมีข้อบกพร่อง
+e|shorten|Shorten the speech.|ย่อคำปราศรัยให้สั้นลง
+e|shortfall|There's a budget shortfall.|งบขาดอยู่
+e|short-lived|The joy was short-lived.|ความสุขอยู่ได้ไม่นาน
+e|shove|He shoved me.|เขาผลักฉัน
+e|shrewd|He is a shrewd businessman.|เขาเป็นนักธุรกิจเฉียบแหลม
+e|shriek|She shrieked.|เธอกรีดร้อง
+e|shrimp|I ordered fried shrimp.|ฉันสั่งกุ้งทอด
+e|shrub|Plant a shrub.|ปลูกไม้พุ่ม
+e|shudder|She shuddered.|เธอตัวสั่น
+e|shuffle|Shuffle the cards.|สับไพ่
+e|shutdown|There was a system shutdown.|ระบบปิดตัว
+e|shuttle|Take the airport shuttle.|ขึ้นรถรับส่งสนามบิน
+e|sibling|She has two siblings.|เธอมีพี่น้องสองคน
+e|sideways|He moved sideways.|เขาขยับไปข้าง ๆ
+e|signify|Red signifies danger.|สีแดงหมายถึงอันตราย
+e|simile|"As brave as a lion" is a simile.|"กล้าเหมือนสิงโต" เป็นการเปรียบเทียบ
+e|simplicity|I love its simplicity.|ฉันชอบความเรียบง่าย
+e|simplistic|It's a simplistic view.|เป็นมุมมองที่ง่ายเกินไป
+e|simulate|They simulated a flight.|พวกเขาจำลองการบิน
+e|simulated|It's simulated leather.|เป็นหนังเทียม
+e|simulation|It's a computer simulation.|เป็นการจำลองด้วยคอมพิวเตอร์
+e|simultaneous|There were simultaneous events.|มีเหตุการณ์พร้อมกัน
+e|sincerely|I sincerely apologize.|ฉันขอโทษอย่างจริงใจ
+e|sinister|He had a sinister smile.|เขามีรอยยิ้มน่ากลัว
+e|skeleton|They found a skeleton.|พวกเขาพบโครงกระดูก
+e|skinny|He is tall and skinny.|เขาสูงและผอม
+e|slab|A slab of stone lay there.|แผ่นหินวางอยู่
+e|slaughter|The animals were slaughtered.|สัตว์ถูกฆ่า
+e|slavery|Slavery was abolished.|ยกเลิกระบบทาสแล้ว
+e|slender|She has a slender figure.|เธอรูปร่างเพรียว
+e|slum|They live in a slum.|พวกเขาอยู่ในชุมชนแออัด
+e|slump|Sales slumped.|ยอดขายตกฮวบ
+e|smog|Smog covered the city.|หมอกควันปกคลุมเมือง
+e|smoothly|It went smoothly.|ผ่านไปอย่างราบรื่น
+e|smuggle|He smuggled drugs.|เขาลักลอบนำยา
+e|snail|A snail crawled.|หอยทากคลาน
+e|snatch|He snatched my bag.|เขาฉกกระเป๋าฉัน
+e|sneak|He sneaked out.|เขาแอบออกไป
+e|sneaky|That was sneaky.|นั่นแอบลับ ๆ ล่อ ๆ
+e|snob|He is a snob.|เขาเป็นคนหัวสูง
+e|snore|He snores loudly.|เขากรนดัง
+e|snort|He snorted with laughter.|เขาหัวเราะฟุดฟิด
+e|snowman|They built a snowman.|พวกเขาปั้นตุ๊กตาหิมะ
+e|sober|He stayed sober.|เขาไม่เมา
+e|socialism|He studies socialism.|เขาศึกษาสังคมนิยม
+e|socialist|He is a socialist.|เขาเป็นนักสังคมนิยม
+e|sociology|She studies sociology.|เธอเรียนสังคมวิทยา
+e|socket|Plug it into the socket.|เสียบเข้าเต้ารับ
+e|solemn|He looked solemn.|เขาดูเคร่งขรึม
+e|solidarity|They showed solidarity.|พวกเขาแสดงความสามัคคี
+e|soothe|Music soothes me.|ดนตรีปลอบใจฉัน
+e|soppy|Don't be soppy.|อย่าอ่อนไหวเกินไป
+e|sorrow|She felt deep sorrow.|เธอเศร้าโศกมาก
+e|sovereign|It's a sovereign state.|เป็นรัฐเอกราช
+e|spa|We visited a spa.|เราไปสปา
+e|spark|A spark started the fire.|ประกายไฟก่อไฟไหม้
+e|speciality|Pad Thai is their speciality.|ผัดไทยเป็นของเด่นของพวกเขา
+e|specialize|He specializes in law.|เขาเชี่ยวชาญด้านกฎหมาย
+e|specialized|It needs specialized training.|ต้องการการฝึกเฉพาะทาง
+e|specification|Check the specifications.|ตรวจข้อกำหนด
+e|specimen|They studied a specimen.|พวกเขาศึกษาตัวอย่าง
+e|spectacle|It was quite a spectacle.|เป็นภาพตระการตา
+e|spectrum|There's a wide spectrum.|มีหลากหลายมาก
+e|speculate|Don't speculate.|อย่าเดา
+e|speculation|It's pure speculation.|เป็นแค่การเดา
+e|spike|Prices spiked.|ราคาพุ่ง
+e|spiral|A spiral staircase went up.|บันไดเวียนขึ้นไป
+e|sponsor|The firm is our sponsor.|บริษัทเป็นผู้สนับสนุนเรา
+e|sponsorship|We need sponsorship.|เราต้องการผู้สนับสนุน
+e|spontaneous|It was a spontaneous decision.|เป็นการตัดสินใจฉับพลัน
+e|spotlight|She loves the spotlight.|เธอชอบเป็นจุดสนใจ
+e|spouse|Bring your spouse.|พาคู่สมรสมาด้วย
+e|sprawl|Urban sprawl is a problem.|การขยายเมืองไร้ระเบียบเป็นปัญหา
+e|spreadsheet|Update the spreadsheet.|อัปเดตสเปรดชีต
+e|sprinkle|Sprinkle some sugar.|โรยน้ำตาล
+e|squat|Do ten squats.|ทำสควอทสิบครั้ง
+e|squeal|The pig squealed.|หมูร้องเสียงแหลม
+e|stability|Peace brings stability.|สันติสุขนำความมั่นคง
+e|stabilize|The patient stabilized.|อาการผู้ป่วยทรงตัว
+e|stack|A stack of books fell.|กองหนังสือล้ม
+e|stain|There's a stain on my shirt.|มีคราบที่เสื้อฉัน
+e|stake|Much is at stake.|เดิมพันสูง
+e|stamina|Running builds stamina.|การวิ่งสร้างความทรหด
+e|stance|What's your stance?|จุดยืนคุณคืออะไร
+e|standardize|They standardized the sizes.|พวกเขากำหนดขนาดมาตรฐาน
+e|standpoint|From my standpoint, it's fine.|ในมุมมองฉัน ก็ดี
+e|startle|The noise startled me.|เสียงนั้นทำให้ฉันสะดุ้ง
+e|statesman|He was a great statesman.|เขาเป็นรัฐบุรุษยิ่งใหญ่
+e|static|The picture is static.|ภาพนิ่ง
+e|stationary|The car was stationary.|รถจอดนิ่ง
+e|statute|It's written in the statute.|เขียนไว้ในกฎหมาย
+e|statutory|It's a statutory right.|เป็นสิทธิตามกฎหมาย
+e|stern|He gave a stern warning.|เขาเตือนอย่างเข้มงวด
+e|stigma|There's a stigma attached.|มีตราบาปติดตัว
+e|stimulate|Coffee stimulates the brain.|กาแฟกระตุ้นสมอง
+e|stimulating|It's a stimulating talk.|เป็นการพูดคุยที่กระตุ้นความคิด
+e|stimulus|It's a stimulus for growth.|เป็นตัวกระตุ้นการเติบโต
+e|stipulate|The contract stipulates this.|สัญญากำหนดไว้เช่นนี้
+e|stitch|Stitch the hole.|เย็บรู
+e|storey|It's a three-storey house.|เป็นบ้านสามชั้น
+e|straighten|Straighten your back.|ยืดหลังให้ตรง
+e|strait|Ships cross the strait.|เรือข้ามช่องแคบ
+e|strand|A strand of hair fell.|ผมเส้นหนึ่งหลุด
+e|stray|A stray dog followed me.|สุนัขจรจัดตามฉัน
+e|stressful|It's a stressful job.|เป็นงานเครียด
+e|striking|It's a striking difference.|เป็นความต่างที่เด่นชัด
+e|structural|It needs structural repair.|ต้องซ่อมโครงสร้าง
+e|stuffed|We had stuffed peppers.|เรากินพริกยัดไส้
+e|sturdy|It's a sturdy table.|เป็นโต๊ะแข็งแรง
+e|stylish|She looks stylish.|เธอดูเก๋
+e|subjective|Taste is subjective.|รสนิยมเป็นเรื่องส่วนตัว
+e|sublime|The view was sublime.|วิวเลิศมาก
+e|submission|The submission deadline is Friday.|กำหนดส่งวันศุกร์
+e|subordinate|He is my subordinate.|เขาเป็นลูกน้องฉัน
+e|subsection|See subsection 2.|ดูหัวข้อย่อย 2
+e|subside|The pain subsided.|ความเจ็บลดลง
+e|subsidiary|It's a subsidiary of Sony.|เป็นบริษัทลูกของโซนี่
+e|subsidize|They subsidize farmers.|พวกเขาอุดหนุนเกษตรกร
+e|subsidy|Farmers get a subsidy.|เกษตรกรได้เงินอุดหนุน
+e|substantially|Prices rose substantially.|ราคาขึ้นมาก
+e|substantive|They made substantive changes.|พวกเขาเปลี่ยนแปลงสาระสำคัญ
+e|succession|He won three in succession.|เขาชนะสามครั้งติด
+e|successive|It was the third successive win.|เป็นชัยชนะครั้งที่สามติดต่อกัน
+e|successor|She is his successor.|เธอเป็นผู้สืบทอดเขา
+e|sue|He sued the company.|เขาฟ้องบริษัท
+e|suffering|There's much suffering.|มีความทุกข์มาก
+e|suffice|A few words will suffice.|แค่ไม่กี่คำก็พอ
+e|suicide|Suicide prevention matters.|การป้องกันการฆ่าตัวตายสำคัญ
+e|suitably|She was suitably dressed.|เธอแต่งตัวเหมาะสม
+e|suite|We booked a suite.|เราจองห้องสวีท
+e|summit|They reached the summit.|พวกเขาถึงยอดเขา
+e|summon|He was summoned to court.|เขาถูกเรียกตัวไปศาล
+e|superficial|It's a superficial wound.|เป็นแผลผิวเผิน
+e|superiority|They felt superiority.|พวกเขารู้สึกเหนือกว่า
+e|superstition|It's just superstition.|เป็นแค่โชคลาง
+e|superstitious|He is superstitious.|เขาเชื่อโชคลาง
+e|supervision|Kids need supervision.|เด็กต้องมีคนดูแล
+e|supervisor|Ask your supervisor.|ถามหัวหน้างานคุณ
+e|supplement|Take a vitamin supplement.|กินวิตามินเสริม
+e|supplementary|It's supplementary material.|เป็นเอกสารเพิ่มเติม
+e|supportive|My family is supportive.|ครอบครัวสนับสนุนฉัน
+e|supposed|You're supposed to be here.|คุณควรมาที่นี่
+e|supposedly|He is supposedly rich.|เขาว่ากันว่ารวย
+e|supreme|It's the Supreme Court.|นี่คือศาลฎีกา
+e|supremely|She is supremely confident.|เธอมั่นใจสุด ๆ
+e|surf|We surf every weekend.|เราเล่นเซิร์ฟทุกสุดสัปดาห์
+e|surgical|Wear a surgical mask.|สวมหน้ากากอนามัยผ่าตัด
+e|surpass|He surpassed expectations.|เขาเกินความคาดหมาย
+e|surplus|There's a food surplus.|มีอาหารเกิน
+e|susceptible|Kids are susceptible to colds.|เด็กเป็นหวัดง่าย
+e|suspension|He got a suspension.|เขาถูกพักงาน
+e|sustainable|It's sustainable energy.|เป็นพลังงานยั่งยืน
+e|swamp|They crossed the swamp.|พวกเขาข้ามหนองน้ำ
+e|sweeping|They made sweeping changes.|พวกเขาเปลี่ยนแปลงใหญ่
+e|swell|My ankle swelled.|ข้อเท้าฉันบวม
+e|swirl|Leaves swirled in the wind.|ใบไม้หมุนวนในลม
+e|symbolic|It's a symbolic gesture.|เป็นท่าทีเชิงสัญลักษณ์
+e|symbolism|The film is full of symbolism.|หนังเต็มไปด้วยสัญลักษณ์
+e|symbolize|A dove symbolizes peace.|นกพิราบเป็นสัญลักษณ์สันติภาพ
+e|symmetrical|The design is symmetrical.|ลายสมมาตร
+e|symmetry|I like the symmetry.|ฉันชอบความสมมาตร
+e|symptom|Fever is a symptom.|ไข้เป็นอาการ
+e|syndrome|It's a rare syndrome.|เป็นกลุ่มอาการหายาก
+e|synonym|Find a synonym.|หาคำพ้อง
+e|synonymous|Fame isn't synonymous with success.|ชื่อเสียงไม่เท่ากับความสำเร็จ
+e|syntax|Check the syntax.|ตรวจไวยากรณ์
+e|synthesis|It's a synthesis of ideas.|เป็นการสังเคราะห์ความคิด
+e|synthetic|It's synthetic fibre.|เป็นใยสังเคราะห์
+e|systematic|Be systematic.|ทำให้เป็นระบบ
+e|tact|He handled it with tact.|เขาจัดการอย่างมีไหวพริบ
+e|tactical|It was a tactical error.|เป็นความผิดพลาดเชิงยุทธวิธี
+e|tailor|The tailor made my suit.|ช่างตัดสูทให้ฉัน
+e|takeover|The takeover was approved.|การเข้าซื้อได้รับอนุมัติ
+e|tangible|There's tangible proof.|มีหลักฐานจับต้องได้
+e|tariff|They imposed a tariff.|พวกเขาเก็บภาษีนำเข้า
+e|taxation|Taxation funds services.|ภาษีเป็นทุนบริการ
+e|taxpayer|Taxpayers are angry.|ผู้เสียภาษีโกรธ
+e|team-mate|My team-mate scored.|เพื่อนร่วมทีมยิงประตู
+e|teamwork|Teamwork wins games.|การทำงานเป็นทีมชนะเกม
+e|technically|Technically, you're right.|ในทางเทคนิค คุณถูก
+e|telecommunications|He works in telecommunications.|เขาทำงานโทรคมนาคม
+e|televise|The match was televised.|ถ่ายทอดสดการแข่ง
+e|telly|What's on the telly?|ทีวีฉายอะไร
+e|temperament|She has a calm temperament.|เธออารมณ์เยือกเย็น
+e|tender|The meat is tender.|เนื้อนุ่ม
+e|tentative|It's a tentative plan.|เป็นแผนชั่วคราว
+e|terminology|Learn the terminology.|เรียนศัพท์เฉพาะ
+e|terrain|It's rough terrain.|เป็นภูมิประเทศขรุขระ
+e|territorial|It's a territorial dispute.|เป็นข้อพิพาทดินแดน
+e|testify|He testified in court.|เขาให้การในศาล
+e|testimony|Her testimony was key.|คำให้การเธอสำคัญ
+e|thankfully|Thankfully, no one was hurt.|โชคดีที่ไม่มีใครเจ็บ
+e|theatrical|It's a theatrical performance.|เป็นการแสดงละคร
+e|theoretically|Theoretically, it works.|ในทางทฤษฎี มันใช้ได้
+e|theorist|He is an economic theorist.|เขาเป็นนักทฤษฎีเศรษฐศาสตร์
+e|therapeutic|Walking is therapeutic.|การเดินช่วยบำบัด
+e|thereafter|Soon thereafter, he left.|หลังจากนั้นไม่นานเขาไป
+e|thereby|He quit, thereby saving money.|เขาลาออก จึงประหยัดเงิน
+e|thesis|She wrote her thesis.|เธอเขียนวิทยานิพนธ์
+e|thickness|Check the thickness.|ตรวจความหนา
+e|thinker|He is a deep thinker.|เขาเป็นนักคิดลึกซึ้ง
+e|thorn|A thorn pricked me.|หนามทิ่มฉัน
+e|thoughtless|That was thoughtless.|นั่นไม่ทันคิดเลย
+e|three-dimensional|It's a three-dimensional model.|เป็นแบบจำลองสามมิติ
+e|threshold|He stood at the threshold.|เขายืนที่ธรณีประตู
+e|thrive|Plants thrive here.|พืชเติบโตดีที่นี่
+e|thug|A thug attacked him.|อันธพาลทำร้ายเขา
+e|thump|He thumped the table.|เขาทุบโต๊ะ
+e|thwart|They thwarted the plan.|พวกเขาขัดขวางแผน
+e|tier|It has three tiers.|มีสามชั้น
+e|tilt|Tilt the screen.|เอียงจอ
+e|time-consuming|It's time-consuming.|เสียเวลามาก
+e|timeless|It's a timeless classic.|เป็นงานคลาสสิกไร้กาลเวลา
+e|timely|Thanks for the timely help.|ขอบคุณที่ช่วยทันเวลา
+e|timescale|What's the timescale?|กรอบเวลาเป็นอย่างไร
+e|tire|Long walks tire me.|การเดินไกลทำให้ฉันเหนื่อย
+e|tiresome|He is tiresome.|เขาน่าเบื่อ
+e|titled|It's a book titled "Home".|เป็นหนังสือชื่อ "Home"
+e|toddler|The toddler giggled.|เด็กหัดเดินหัวเราะคิกคัก
+e|toenail|Cut your toenails.|ตัดเล็บเท้า
+e|token|It's a token gesture.|เป็นท่าทีพอเป็นพิธี
+e|toll|Pay the toll.|จ่ายค่าผ่านทาง
+e|tomb|They visited the tomb.|พวกเขาไปเยี่ยมสุสาน
+e|topple|The tower toppled.|หอคอยล้ม
+e|torture|Torture is illegal.|การทรมานผิดกฎหมาย
+e|touchdown|The plane made a touchdown.|เครื่องบินลงจอด
+e|touching|It's a touching story.|เป็นเรื่องซาบซึ้ง
+e|tout|They touted the product.|พวกเขาโปรโมตสินค้า
+e|tow|They towed the car.|พวกเขาลากรถ
+e|tract|A tract of land was sold.|ที่ดินผืนหนึ่งถูกขาย
+e|trader|He is a trader.|เขาเป็นพ่อค้า
+e|trading|Trading starts at 9.|เริ่มซื้อขาย 9 โมง
+e|traitor|He was called a traitor.|เขาถูกเรียกว่าผู้ทรยศ
+e|tram|Take the tram.|ขึ้นรถราง
+e|transcend|It transcends borders.|ข้ามพ้นพรมแดน
+e|transformation|A transformation occurred.|เกิดการเปลี่ยนแปลงครั้งใหญ่
+e|transit|It's in transit.|อยู่ระหว่างขนส่ง
+e|transitional|It's a transitional period.|เป็นช่วงเปลี่ยนผ่าน
+e|transmission|Virus transmission slowed.|การแพร่เชื้อลดลง
+e|trauma|He suffered trauma.|เขาได้รับบาดแผลทางใจ
+e|traumatic|It was a traumatic event.|เป็นเหตุการณ์ที่บอบช้ำ
+e|travelling|Travelling broadens the mind.|การเดินทางเปิดโลก
+e|tread|Tread carefully.|เดินระวัง
+e|trek|We went on a trek.|เราไปเดินป่า
+e|trench|They dug a trench.|พวกเขาขุดคู
+e|triangular|It's a triangular sign.|เป็นป้ายสามเหลี่ยม
+e|tribal|It's a tribal dance.|เป็นการเต้นของชนเผ่า
+e|tribunal|The tribunal ruled.|ศาลพิเศษตัดสิน
+e|triumphant|She was triumphant.|เธอกระหยิ่มยิ้มย่อง
+e|trolley|Push the trolley.|เข็นรถเข็น
+e|trot|The horse trotted.|ม้าวิ่งเหยาะ
+e|troubled|He is a troubled teen.|เขาเป็นวัยรุ่นมีปัญหา
+e|troublesome|It's a troublesome cough.|เป็นอาการไอที่รบกวน
+e|trout|We caught a trout.|เราจับปลาเทราต์ได้
+e|truce|They agreed to a truce.|พวกเขาตกลงพักรบ
+e|trustee|The trustee managed funds.|ผู้ดูแลจัดการเงิน
+e|trying|It's a trying time.|เป็นช่วงเวลายากลำบาก
+e|tub|Fill the tub.|เติมน้ำในอ่าง
+e|tumble|He tumbled down.|เขาล้มกลิ้ง
+e|tumour|The tumour was removed.|เนื้องอกถูกผ่าออก
+e|tuna|I like tuna sandwiches.|ฉันชอบแซนด์วิชทูน่า
+e|turbulence|We hit turbulence.|เราเจอแรงปั่นป่วน
+e|turbulent|It was a turbulent year.|เป็นปีที่ปั่นป่วน
+e|turf|Players ran on the turf.|นักกีฬาวิ่งบนสนามหญ้า
+e|turmoil|The country is in turmoil.|ประเทศอยู่ในความวุ่นวาย
+e|turnout|Voter turnout was high.|ผู้มาใช้สิทธิ์สูง
+e|turnover|Annual turnover rose.|ยอดขายรายปีเพิ่ม
+e|turtle|A turtle crossed the road.|เต่าข้ามถนน
+e|tutorial|Watch the tutorial.|ดูบทเรียนสอนใช้
+e|twilight|We walked at twilight.|เราเดินตอนสนธยา
+e|two-dimensional|It's a two-dimensional image.|เป็นภาพสองมิติ
+e|tyrant|The tyrant ruled with fear.|ทรราชปกครองด้วยความกลัว
+e|ubiquitous|Phones are ubiquitous.|มือถือมีทุกที่
+e|ulcer|He has a stomach ulcer.|เขาเป็นแผลในกระเพาะ
+e|ultimatum|They gave an ultimatum.|พวกเขาให้คำขาด
+e|umpire|The umpire made a call.|กรรมการตัดสิน
+e|unaffected|He was unaffected.|เขาไม่ได้รับผลกระทบ
+e|unambiguous|The rule is unambiguous.|กฎชัดเจน
+e|unanimous|The vote was unanimous.|การลงมติเป็นเอกฉันท์
+e|unauthorized|It's unauthorized use.|เป็นการใช้โดยไม่ได้รับอนุญาต
+e|unavailable|He is unavailable.|เขาไม่ว่าง
+e|unavoidable|Delay was unavoidable.|ความล่าช้าหลีกเลี่ยงไม่ได้
+e|unbelievable|It's unbelievable!|เหลือเชื่อ
+e|uncommon|It's uncommon here.|พบน้อยที่นี่
+e|unconditional|It's unconditional love.|เป็นความรักไม่มีเงื่อนไข
+e|unconstitutional|The law is unconstitutional.|กฎหมายขัดรัฐธรรมนูญ
+e|underpin|Values underpin our work.|ค่านิยมเป็นรากฐานงาน
+e|underscore|It underscores the need.|เน้นย้ำความจำเป็น
+e|understandable|It's understandable.|เข้าใจได้
+e|understatement|That's an understatement.|นั่นพูดน้อยไป
+e|underway|Work is underway.|งานกำลังดำเนินอยู่
+e|undesirable|It's an undesirable result.|เป็นผลที่ไม่พึงประสงค์
+e|unequal|It's an unequal fight.|เป็นการต่อสู้ไม่สมดุล
+e|uneven|The floor is uneven.|พื้นไม่เรียบ
+e|unfaithful|He was unfaithful.|เขานอกใจ
+e|unfamiliar|It's an unfamiliar word.|เป็นคำที่ไม่คุ้น
+e|unfounded|The fear was unfounded.|ความกลัวไม่มีมูล
+e|unification|The unification took years.|การรวมประเทศใช้เวลาหลายปี
+e|uniformity|There's no uniformity.|ไม่มีความเหมือนกัน
+e|unify|They unified the nation.|พวกเขารวมชาติเป็นหนึ่ง
+e|unilateral|It's a unilateral decision.|เป็นการตัดสินใจฝ่ายเดียว
+e|uniquely|It's uniquely Thai.|เป็นเอกลักษณ์ไทย
+e|universally|It's universally known.|เป็นที่รู้กันทั่วโลก
+e|unjust|It's an unjust law.|เป็นกฎหมายไม่เป็นธรรม
+e|unlawful|It's unlawful to park here.|จอดตรงนี้ผิดกฎหมาย
+e|unleash|It unleashed anger.|มันปลุกความโกรธ
+e|unload|Unload the truck.|ขนของลงจากรถ
+e|unmarried|She is unmarried.|เธอยังไม่แต่งงาน
+e|unmistakable|It's an unmistakable sound.|เป็นเสียงที่จำได้แน่
+e|unnatural|It looks unnatural.|ดูไม่เป็นธรรมชาติ
+e|unofficial|It's an unofficial visit.|เป็นการเยือนไม่เป็นทางการ
+e|unorthodox|He uses unorthodox methods.|เขาใช้วิธีนอกกรอบ
+e|unpack|Unpack your bags.|แกะกระเป๋า
+e|unpaid|It's unpaid work.|เป็นงานไม่มีค่าจ้าง
+e|unplug|Unplug the TV.|ถอดปลั๊กทีวี
+e|unprecedented|It's unprecedented.|ไม่เคยมีมาก่อน
+e|unpredictable|Weather is unpredictable.|อากาศคาดเดายาก
+e|unravel|The mystery unravelled.|ปริศนาถูกคลี่คลาย
+e|unreal|It felt unreal.|รู้สึกเหมือนไม่จริง
+e|unrealistic|It's an unrealistic goal.|เป็นเป้าหมายไม่สมจริง
+e|unrelated|The cases are unrelated.|คดีไม่เกี่ยวกัน
+e|unrest|There's civil unrest.|มีความไม่สงบ
+e|unsafe|The bridge is unsafe.|สะพานไม่ปลอดภัย
+e|unsatisfactory|The result was unsatisfactory.|ผลไม่น่าพอใจ
+e|unscrupulous|He's an unscrupulous dealer.|เขาเป็นพ่อค้าไร้จรรยาบรรณ
+e|unseen|It went unseen.|ไม่มีใครเห็น
+e|unskilled|It's unskilled work.|เป็นงานไม่ต้องใช้ทักษะ
+e|unspecified|At an unspecified time.|ในเวลาที่ไม่ระบุ
+e|unspoiled|The beach is unspoiled.|ชายหาดยังบริสุทธิ์
+e|unstable|The ladder is unstable.|บันไดไม่มั่นคง
+e|unsuitable|It's unsuitable for kids.|ไม่เหมาะกับเด็ก
+e|unsure|I'm unsure.|ฉันไม่แน่ใจ
+e|untouched|The food was untouched.|อาหารไม่มีใครแตะ
+e|untrained|He is untrained.|เขาไม่ได้รับการฝึก
+e|unused|It's an unused room.|เป็นห้องไม่ได้ใช้
+e|unveil|They unveiled a new car.|พวกเขาเปิดตัวรถใหม่
+e|unwanted|Delete unwanted emails.|ลบอีเมลที่ไม่ต้องการ
+e|unwell|I feel unwell.|ฉันรู้สึกไม่สบาย
+e|unwise|It's unwise to wait.|การรอไม่ฉลาด
+e|upbringing|She had a strict upbringing.|เธอถูกเลี้ยงดูอย่างเข้มงวด
+e|upheaval|The country faced upheaval.|ประเทศเผชิญความปั่นป่วน
+e|uphold|Uphold the law.|ยึดมั่นกฎหมาย
+e|upright|Sit upright.|นั่งตัวตรง
+e|uprising|There was an uprising.|เกิดการลุกฮือ
+e|upward|Prices are trending upward.|ราคามีแนวโน้มขึ้น
+e|urgency|It's a matter of urgency.|เป็นเรื่องเร่งด่วน
+e|usage|Check the data usage.|ตรวจการใช้ข้อมูล
+e|usefulness|Its usefulness is clear.|ประโยชน์ชัดเจน
+e|user-friendly|The app is user-friendly.|แอปใช้ง่าย
+e|usher|He ushered us in.|เขานำเราเข้าไป
+e|utensil|Kitchen utensils are here.|เครื่องใช้ในครัวอยู่ที่นี่
+e|utility|Pay the utility bills.|จ่ายค่าสาธารณูปโภค
+e|utilize|Utilize your time.|ใช้เวลาให้เป็นประโยชน์
+e|utter|It was utter nonsense.|เป็นเรื่องไร้สาระสิ้นดี
+e|vacancy|There's a job vacancy.|มีตำแหน่งงานว่าง
+e|vaccine|Get the vaccine.|ไปฉีดวัคซีน
+e|vaguely|I vaguely remember.|ฉันจำได้รางเลือน
+e|vain|It was in vain.|ทำไปก็ไร้ผล
+e|validate|Validate the data.|ตรวจสอบข้อมูล
+e|valve|Close the valve.|ปิดวาล์ว
+e|vandalism|Vandalism is a crime.|การทำลายทรัพย์สินเป็นความผิด
+e|vandalize|They vandalized the wall.|พวกเขาทำลายกำแพง
+e|vanity|It was pure vanity.|เป็นแค่ความหลงตัวเอง
+e|vapour|Water vapour rose.|ไอน้ำลอยขึ้น
+e|variant|It's a new variant.|เป็นสายพันธุ์ใหม่
+e|variously|He was variously called.|เขาถูกเรียกหลายชื่อ
+e|vastly|It's vastly different.|ต่างกันมาก
+e|vault|Money is in the vault.|เงินอยู่ในห้องนิรภัย
+e|vegetation|Dense vegetation covers it.|พืชพรรณหนาแน่นปกคลุม
+e|veil|She wore a veil.|เธอสวมผ้าคลุมหน้า
+e|velocity|Calculate the velocity.|คำนวณความเร็ว
+e|velvet|It's a velvet dress.|เป็นชุดกำมะหยี่
+e|vengeance|He sought vengeance.|เขาแสวงแก้แค้น
+e|venture|It's a new venture.|เป็นกิจการใหม่
+e|verge|She was on the verge of tears.|เธอจะร้องไห้แล้ว
+e|verify|Verify your email.|ยืนยันอีเมล
+e|vessel|The vessel sank.|เรือจม
+e|veteran|He is a war veteran.|เขาเป็นทหารผ่านศึก
+e|veterinarian|The veterinarian examined it.|สัตวแพทย์ตรวจ
+e|veto|The president vetoed it.|ประธานาธิบดียับยั้ง
+e|viable|It's a viable plan.|เป็นแผนที่ทำได้จริง
+e|vibrant|It's a vibrant city.|เป็นเมืองมีชีวิตชีวา
+e|vibrate|My phone vibrated.|มือถือฉันสั่น
+e|vibration|I felt a vibration.|ฉันรู้สึกสั่นสะเทือน
+e|vicinity|Is there a bank in the vicinity?|แถวนี้มีธนาคารไหม
+e|victorious|The team was victorious.|ทีมได้ชัยชนะ
+e|vigorous|Do vigorous exercise.|ออกกำลังกายหนัก
+e|vigorously|He denied it vigorously.|เขาปฏิเสธอย่างแข็งขัน
+e|villain|He plays the villain.|เขาเล่นเป็นตัวร้าย
+e|vine|Grapes grow on a vine.|องุ่นขึ้นบนเถา
+e|vineyard|We visited a vineyard.|เราไปไร่องุ่น
+e|violate|They violated the rules.|พวกเขาละเมิดกฎ
+e|violation|It's a violation of law.|เป็นการละเมิดกฎหมาย
+e|violently|He shook violently.|เขาสั่นอย่างรุนแรง
+e|viral|The video went viral.|วิดีโอกลายเป็นไวรัล
+e|visibility|Visibility was poor.|ทัศนวิสัยไม่ดี
+e|visualize|Visualize your goal.|จินตนาการเป้าหมาย
+e|visually|It's visually stunning.|สวยตระการตา
+e|vitality|She has great vitality.|เธอมีพลังชีวิตมาก
+e|vocal|He is very vocal.|เขาแสดงความเห็นเสียงดัง
+e|vocational|It's vocational training.|เป็นการฝึกอาชีพ
+e|void|It left a void.|ทิ้งความว่างเปล่า
+e|volatile|The market is volatile.|ตลาดผันผวน
+e|volcano|The volcano erupted.|ภูเขาไฟระเบิด
+e|voltage|Check the voltage.|ตรวจแรงดันไฟ
+e|voluntarily|She left voluntarily.|เธอลาออกเอง
+e|vomit|He vomited.|เขาอาเจียน
+e|vow|He vowed to return.|เขาสาบานว่าจะกลับ
+e|vulgar|It's a vulgar joke.|เป็นมุกหยาบคาย
+e|wade|We waded across.|เราลุยข้าม
+e|wag|The dog wagged its tail.|สุนัขกระดิกหาง
+e|wagon|A horse pulled the wagon.|ม้าลากเกวียน
+e|walker|He is a fast walker.|เขาเดินเร็ว
+e|wanted|He is a wanted man.|เขาเป็นผู้ต้องหา
+e|warfare|Modern warfare uses drones.|สงครามสมัยใหม่ใช้โดรน
+e|warmly|She greeted us warmly.|เธอต้อนรับอย่างอบอุ่น
+e|warrant|Police got a warrant.|ตำรวจได้หมาย
+e|warranty|It has a one-year warranty.|รับประกันหนึ่งปี
+e|warrior|The warrior fought.|นักรบต่อสู้
+e|wartime|It was wartime.|เป็นยามสงคราม
+e|wary|Be wary of strangers.|ระวังคนแปลกหน้า
+e|wasp|A wasp stung me.|ต่อต่อยฉัน
+e|wasteful|It's wasteful.|สิ้นเปลือง
+e|waterfall|We visited a waterfall.|เราไปน้ำตก
+e|watt|It's a 60-watt bulb.|เป็นหลอด 60 วัตต์
+e|wavelength|We're on the same wavelength.|เราคิดเข้ากัน
+e|weave|She weaves baskets.|เธอสานตะกร้า
+e|wedge|Use a wedge.|ใช้ลิ่ม
+e|weed|Pull out the weeds.|ถอนวัชพืช
+e|well-being|Care for your well-being.|ดูแลสุขภาวะตัวเอง
+e|well-established|It's a well-established firm.|เป็นบริษัทมั่นคง
+e|whisk|Whisk the eggs.|ตีไข่
+e|whisker|The cat has whiskers.|แมวมีหนวด
+e|wholesale|Buy at wholesale prices.|ซื้อราคาขายส่ง
+e|wholly|I wholly agree.|ฉันเห็นด้วยทั้งหมด
+e|wide-ranging|It was a wide-ranging talk.|เป็นการคุยกว้างขวาง
+e|wield|He wields great power.|เขามีอำนาจมาก
+e|willingness|I appreciate your willingness.|ขอบคุณที่เต็มใจ
+e|windscreen|Clean the windscreen.|เช็ดกระจกหน้า
+e|windshield|The windshield cracked.|กระจกหน้ารถร้าว
+e|winning|It's the winning goal.|เป็นประตูชัย
+e|wit|She has a sharp wit.|เธอมีไหวพริบเฉียบ
+e|withdrawal|Make a cash withdrawal.|ถอนเงินสด
+e|withhold|They withheld payment.|พวกเขาระงับการจ่ายเงิน
+e|withstand|It can withstand heat.|ทนความร้อนได้
+e|wizard|The wizard cast a spell.|พ่อมดร่ายมนตร์
+e|woe|He told his woes.|เขาเล่าความทุกข์
+e|womb|The baby is in the womb.|ทารกอยู่ในครรภ์
+e|wonderfully|She sings wonderfully.|เธอร้องเพลงยอดเยี่ยม
+e|wording|Check the wording.|ตรวจถ้อยคำ
+e|workforce|The workforce is large.|กำลังแรงงานใหญ่
+e|workload|I have a heavy workload.|ฉันมีงานเยอะ
+e|workman|The workman fixed it.|คนงานซ่อมให้
+e|workstation|Set up your workstation.|ตั้งโต๊ะทำงานคอม
+e|world-class|It's a world-class hotel.|เป็นโรงแรมระดับโลก
+e|worn|The shoes are worn.|รองเท้าสึก
+e|worsen|The weather worsened.|อากาศแย่ลง
+e|worthless|The shares are worthless.|หุ้นไร้ค่า
+e|would-be|He's a would-be actor.|เขาเป็นนักแสดงที่ใฝ่ฝัน
+e|wreckage|They found the wreckage.|พวกเขาพบซาก
+e|wrestle|They wrestled on the floor.|พวกเขาปล้ำกันบนพื้น
+e|yarn|She bought some yarn.|เธอซื้อไหมพรม
+e|yearly|It's a yearly event.|เป็นงานประจำปี
+e|youngster|Youngsters love it.|วัยรุ่นชอบมาก
+e|youthful|She looks youthful.|เธอดูอ่อนเยาว์
