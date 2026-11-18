@@ -66,7 +66,7 @@ h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
 .spk{height:30px;min-width:34px;padding:0 10px;border-radius:15px;border:1px solid var(--line);background:rgba(255,255,255,.07);color:var(--fg);font-size:13px;cursor:pointer}
 .spk:active{background:rgba(255,255,255,.2)}
 .modes{display:inline-flex;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--panel)}
-.modes button{height:30px;padding:0 11px;border:0;background:none;color:var(--mut);font-size:13px;font-weight:600;cursor:pointer}
+.modes button{height:30px;padding:0 9px;border:0;background:none;color:var(--mut);font-size:13px;font-weight:600;cursor:pointer}
 .modes button.on{background:#e8edf7;color:#0a0d16}
 #dict{position:fixed;inset:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(var(--hh,140px) + 4px) 12px calc(40px + env(safe-area-inset-bottom));display:none;z-index:3}
 #dict .in{max-width:760px;margin:0 auto}
@@ -131,6 +131,13 @@ body.fc .srow{display:none}
 .fcsum{display:flex;gap:10px;margin-top:10px;width:100%}
 .fcsum div{flex:1;padding:12px;border-radius:14px;border:1px solid var(--line);font-size:14px}
 .fcsum b{display:block;font-size:26px}
+
+#ph{position:fixed;inset:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(var(--hh,140px) + 4px) 12px calc(40px + env(safe-area-inset-bottom));display:none;z-index:3}
+#ph .in{max-width:760px;margin:0 auto}
+.phc{grid-column:1/-1;font-size:11px;color:var(--mut)}
+.fcw.sm{font-size:28px}
+.pnote{margin-top:8px;padding:10px 12px;border-radius:12px;background:rgba(138,180,255,.1);border:1px solid rgba(138,180,255,.3);font-size:14px;line-height:1.55;text-align:left}
+.pnote b{display:block;font-size:12px;color:#8ab4ff;margin-bottom:2px}
 </style>
 </head>
 <body>
@@ -138,12 +145,13 @@ body.fc .srow{display:none}
 <div id="msg">กำลังโหลด…</div>
 <div id="dict"><div class="in"></div></div>
 <div id="fc"><div class="in"></div></div>
+<div id="ph"><div class="in"></div></div>
 
 <div class="top">
   <div class="row">
     <h1>POTADIC</h1>
     <span class="stat" id="stat"></span>
-    <span class="modes" id="modes"><button data-m="dict" class="on">พจนานุกรม</button><button data-m="fc">แฟลชการ์ด</button><button data-m="graph">กราฟ 3D</button></span>
+    <span class="modes" id="modes"><button data-m="dict" class="on">พจนานุกรม</button><button data-m="ph">วลี</button><button data-m="fc">แฟลชการ์ด</button><button data-m="graph">กราฟ 3D</button></span>
   </div>
   <div class="row srow">
     <div class="search">
@@ -183,6 +191,7 @@ function parseInto(text,store){
       }
       continue;
     }
+    if(p[0].trim()==="ph"){const cat=(p[1]||"").trim(),ph=(p[2]||"").trim(),key=ph.toLowerCase();if(!ph||!cat||store.phr.has(key))continue;const cf=(p[3]||"B1").trim().toUpperCase();store.phr.set(key,{key,word:ph,cat,cefr:LV.includes(cf)?cf:"B1",th:(p[4]||"").trim(),en:(p[5]||"").trim(),exth:(p[6]||"").trim(),note:(p[7]||"").trim()});continue;}
     if(p[0].trim()==="e"){const w=(p[1]||"").trim().toLowerCase(),en=(p[2]||"").trim();if(w&&en&&!store.ex.has(w))store.ex.set(w,{en,th:(p[3]||"").trim()});continue;}
     if(p[0].trim()==="d"){
       const w=(p[1]||"").trim().toLowerCase();if(!w)continue;
@@ -211,13 +220,14 @@ function parseInto(text,store){
 }
 //</parse>
 
-const store={roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map(),ex:new Map()};
-const state={mode:"dict",favOnly:false,dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
+const store={phr:new Map(),roots:new Map(),words:new Map(),syn:new Map(),pron:new Map(),dict:new Map(),ex:new Map()};
+const state={mode:"dict",favOnly:false,pc:"all",pfav:false,pnote:false,dl:new Set(LV),acc:"en-US",kinds:new Set(["root","prefix","suffix"]),levels:new Set(LV),showTh:false,sel:null,rotate:false};
 let Graph=null;
 
 const LS=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}};
 const fav=new Set(LS("wr-fav",[])),hard=new Set(LS("wr-hard",[]));
 const saveSet=(k,s)=>{try{localStorage.setItem(k,JSON.stringify([...s]))}catch(e){}};
+const favW=()=>[...fav].filter(x=>!x.startsWith("p:")).length;
 function toggleFav(w){fav.has(w)?fav.delete(w):fav.add(w);saveSet("wr-fav",fav);return fav.has(w);}
 
 const labelOf=r=>r.kind==="prefix"?r.names[0]+"-":r.kind==="suffix"?"-"+r.names[0]:r.names.join(" / ");
@@ -299,8 +309,8 @@ document.addEventListener("click",e=>{
   tip.innerHTML=r?`<b>${esc(t)}</b>${r.w!==t?` <small>(${esc(r.w)})</small>`:""} <span class="badge" style="background:${LVC[r.cefr]}">${r.cefr}</span> ${esc(r.th)} <button class="spk" type="button" data-w="${esc(t)}">🔊</button>`:`<b>${esc(t)}</b> ยังไม่มีในพจนานุกรม · <a href="${gt}" target="_blank" rel="noopener">ดูคำแปลใน Google แปลภาษา</a> <button class="spk" type="button" data-w="${esc(t)}">🔊</button>`;
 });
 
-function exBlock(w){
-  const x=store.ex.get(w);if(!x)return "";
+function exBlock(w,x0){
+  const x=x0||store.ex.get(w);if(!x)return "";
   const re=new RegExp("\\b("+w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\w*)","i");
   const en=x.en.split(/([A-Za-z][A-Za-z'’-]*)/).map(t=>/^[A-Za-z]/.test(t)?`<span class="tw${re.test(t)?" xw":""}" data-t="${esc(t.toLowerCase())}">${esc(t)}</span>`:esc(t)).join("");
   return `<div class="lv">ตัวอย่างประโยค</div><div class="ex"><div class="exr"><span class="exe">${en}</span><button class="spk" type="button" data-w="${esc(x.en)}" aria-label="ฟังประโยค">🔊</button></div>${x.th?`<div class="exth">${esc(x.th)}</div>`:""}<div class="tip" hidden></div><div class="hint">แตะคำในประโยคเพื่อดูคำแปล</div></div>`;
@@ -351,7 +361,7 @@ function renderDict(){
   const box=document.querySelector("#dict .in"),v=document.getElementById("q").value.trim().toLowerCase();
   const list=dictList.filter(d=>state.dl.has(d.cefr)&&(!state.favOnly||fav.has(d.word))&&(!v||d.word.includes(v)||d.th.includes(v)||(d.nuance||"").toLowerCase().includes(v)));
   const avail=new Set(list.map(d=>d.word[0].toUpperCase()));
-  let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip${state.favOnly?"":" off"}" id="favb">★ ที่บันทึก (${fav.size})</button><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
+  let h=`<div class="chips" id="dchips">${LV.map(l=>`<button class="chip${state.dl.has(l)?"":" off"}" data-l="${l}"><i style="--c:${LVC[l]}"></i>${l}</button>`).join("")}<span class="sep"></span><button class="chip${state.favOnly?"":" off"}" id="favb">★ ที่บันทึก (${favW()})</button><button class="chip" id="accb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
   h+=`<div class="letters">${"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(c=>`<button data-a="${c}"${avail.has(c)?"":' class="dis"'}>${c}</button>`).join("")}</div>`;
   h+=`<div class="dcount">${list.length} คำ · <b style="color:#fbbf24">ตัวหนาเหลือง</b> = พยางค์ที่เน้น · แตะแถวเพื่อดูรายละเอียด</div>`;
   h+=`<div id="drows"></div><div id="dmore"></div>`;
@@ -365,7 +375,7 @@ function renderDict(){
   box.querySelectorAll(".letters button").forEach(b=>b.onclick=()=>{const a=b.dataset.a,i=dv.list.findIndex(d=>d.word[0].toUpperCase()===a);if(i<0)return;document.getElementById("drows").innerHTML="";dv.n=i;dv.cur="";dictMore(150);const sc=document.getElementById("dict");sc.scrollTop=0;if(dIO){dIO.disconnect();dIO.observe(box.querySelector("#dmore"));}});
   box.onclick=ev=>{
     const st=ev.target.closest&&ev.target.closest(".fav");
-    if(st&&box.contains(st)){const on=toggleFav(st.dataset.f);st.classList.toggle("on",on);st.textContent=on?"★":"☆";const fb=box.querySelector("#favb");if(fb)fb.textContent=`★ ที่บันทึก (${fav.size})`;return;}
+    if(st&&box.contains(st)){const on=toggleFav(st.dataset.f);st.classList.toggle("on",on);st.textContent=on?"★":"☆";const fb=box.querySelector("#favb");if(fb)fb.textContent=`★ ที่บันทึก (${favW()})`;return;}
     const m=ev.target.closest&&ev.target.closest(".dm");if(!m||!box.contains(m))return;
     const e=m.parentNode,dd=e.querySelector(".dd2");
     if(!dd.innerHTML){dd.innerHTML=dictDetail(dictList.find(x=>x.word===e.dataset.w));
@@ -379,16 +389,18 @@ addEventListener("resize",hh);
 function setMode(m){
   state.mode=m;
   document.querySelectorAll("#modes button").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
-  const g=m==="graph",d=m==="dict",f=m==="fc",q=document.getElementById("q");
+  const g=m==="graph",d=m==="dict",f=m==="fc",ph=m==="ph",q=document.getElementById("q");
   document.getElementById("graph").style.display=g?"block":"none";
   document.getElementById("chips").style.display=g?"flex":"none";
   document.getElementById("dict").style.display=d?"block":"none";
   document.getElementById("fc").style.display=f?"block":"none";
+  document.getElementById("ph").style.display=ph?"block":"none";
   document.getElementById("dd").style.display="none";
-  q.value="";q.placeholder=g?"ค้นหาคำ / ราก / คำแปลไทย":"ค้นหาในพจนานุกรม (อังกฤษ / ไทย)";
+  q.value="";q.placeholder=g?"ค้นหาคำ / ราก / คำแปลไทย":ph?"ค้นหาวลี (อังกฤษ / ไทย)":"ค้นหาในพจนานุกรม (อังกฤษ / ไทย)";
   closePanel();document.body.classList.toggle("dm",!g);document.body.classList.toggle("fc",f);hh();
   if(g){libs().then(()=>{if(state.mode!=="graph")return;if(!Graph)build();else Graph.width(innerWidth).height(innerHeight);}).catch(()=>{});}
   else if(d)renderDict();
+  else if(ph)renderPH();
   else renderFC();
 }
 
@@ -411,7 +423,7 @@ async function load(){
   buildSyn();
   try{state.acc=localStorage.getItem("wr-acc")||"en-US";}catch(e){}
   msg.style.display="none";
-  document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${new Set([...store.words.keys(),...synIndex.keys(),...store.dict.keys()]).size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง`;
+  document.getElementById("stat").textContent=`${store.roots.size} กลุ่มราก · ${new Set([...store.words.keys(),...synIndex.keys(),...store.dict.keys()]).size} คำ · ${store.syn.size} กลุ่มคำใกล้เคียง · ${store.phr.size} วลี`;
   initUI();
   document.querySelectorAll("#modes button").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
   initFC();
@@ -419,8 +431,43 @@ async function load(){
 }
 
 
+
+/* ---------- phrases ---------- */
+const PCL={pv:"Phrasal verbs",id:"สำนวน",ev:"ใช้บ่อยในชีวิตจริง",mv:"ประโยคในหนัง/ซีรีส์",sl:"สแลงวัยรุ่น",tx:"แชท/ตัวย่อ"};
+const phSort=(a,b)=>Object.keys(PCL).indexOf(a.cat)-Object.keys(PCL).indexOf(b.cat)||a.word.localeCompare(b.word);
+let phList=null;
+function phAll(){if(!phList)phList=[...store.phr.values()].sort(phSort);return phList;}
+function phDeck(p){return {word:p.word,k:"p:"+p.key,cefr:p.cefr,th:p.th,nuance:PCL[p.cat],roots:[],ph:true,ex:{en:p.en,th:p.exth},note:p.note};}
+function renderPH(){
+  const box=document.querySelector("#ph .in"),v=document.getElementById("q").value.trim().toLowerCase();
+  const all=phAll(),cnt={};all.forEach(p=>cnt[p.cat]=(cnt[p.cat]||0)+1);
+  const list=all.filter(p=>(state.pc==="all"||p.cat===state.pc)&&(!state.pfav||fav.has("p:"+p.key))&&(!state.pnote||p.note)&&(!v||p.word.toLowerCase().includes(v)||p.th.includes(v)||p.en.toLowerCase().includes(v)));
+  const favN=[...fav].filter(x=>x.startsWith("p:")).length;
+  let h=`<div class="chips" id="pchips"><button class="chip${state.pc==="all"?"":" off"}" data-pc="all">ทั้งหมด (${all.length})</button>${Object.keys(PCL).map(c=>`<button class="chip${state.pc===c?"":" off"}" data-pc="${c}">${PCL[c]} (${cnt[c]||0})</button>`).join("")}<span class="sep"></span><button class="chip${state.pnote?"":" off"}" id="pnoteb">📖 มีที่มา (${all.filter(p=>p.note).length})</button><button class="chip${state.pfav?"":" off"}" id="pfavb">★ ที่บันทึก (${favN})</button><button class="chip" id="paccb">เสียง: ${state.acc==="en-US"?"US":"UK"}</button></div>`;
+  h+=`<div class="dcount">${list.length} วลี · แตะแถวเพื่อดูตัวอย่างประโยค</div>`;
+  let cur="";
+  for(const p of list){
+    if(state.pc==="all"&&p.cat!==cur){cur=p.cat;h+=`<div class="dh">${PCL[p.cat]}</div>`;}
+    const w2=esc(p.word),k=esc("p:"+p.key),on=fav.has("p:"+p.key);
+    h+=`<div class="de" data-k="${esc(p.key)}"><div class="dm"><div class="dw"><span style="color:${LVC[p.cefr]}">${w2}</span><span class="badge" style="background:${LVC[p.cefr]}">${p.cefr}</span>${p.note?" 📖":""}</div><div class="dr"><button class="fav${on?" on":""}" type="button" data-f="${k}">${on?"★":"☆"}</button><button class="spk" type="button" data-w="${w2}">🔊</button></div><div class="dt">${esc(p.th)}</div></div><div class="dd2"></div></div>`;
+  }
+  box.innerHTML=h;
+  box.querySelectorAll("[data-pc]").forEach(b=>b.onclick=()=>{state.pc=b.dataset.pc;renderPH();});
+  box.querySelector("#pnoteb").onclick=()=>{state.pnote=!state.pnote;renderPH();};
+  box.querySelector("#pfavb").onclick=()=>{state.pfav=!state.pfav;renderPH();};
+  box.querySelector("#paccb").onclick=()=>{state.acc=state.acc==="en-US"?"en-GB":"en-US";try{localStorage.setItem("wr-acc",state.acc)}catch(e){}renderPH();};
+  box.onclick=ev=>{
+    const st=ev.target.closest&&ev.target.closest(".fav");
+    if(st&&box.contains(st)){const on=toggleFav(st.dataset.f);st.classList.toggle("on",on);st.textContent=on?"★":"☆";const fb=box.querySelector("#pfavb");if(fb)fb.textContent=`★ ที่บันทึก (${[...fav].filter(x=>x.startsWith("p:")).length})`;return;}
+    const m=ev.target.closest&&ev.target.closest(".dm");if(!m||!box.contains(m))return;
+    const e=m.parentNode,dd=e.querySelector(".dd2");
+    if(!dd.innerHTML){const p=store.phr.get(e.dataset.k);dd.innerHTML=p?exBlock(p.key,{en:p.en,th:p.exth})+(p.note?`<div class="pnote"><b>📖 ที่มา / ความรู้เพิ่มเติม</b>${esc(p.note)}</div>`:""):"";}
+    e.classList.toggle("open");
+  };
+}
+
 /* ---------- flashcards ---------- */
-const fc={stage:"setup",src:"random",cat:"root",val:"",n:20,shuf:true,saved:"fav",dir:"en",lv:new Set(LV),deck:[],i:0,flip:false,res:{}};
+const fc={stage:"setup",pcat:"all",src:"random",cat:"root",val:"",n:20,shuf:true,saved:"fav",dir:"en",lv:new Set(LV),deck:[],i:0,flip:false,res:{}};
 let dmap=null;
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
 function fcAll(){if(!dictList)buildDict();if(!dmap)dmap=new Map(dictList.map(d=>[d.word,d]));return dictList;}
@@ -434,7 +481,8 @@ function fcOpts(){
 function fcPool(){
   fcAll();let p=[];
   if(fc.src==="random")p=dictList;
-  else if(fc.src==="saved")p=[...(fc.saved==="fav"?fav:hard)].map(w=>dmap.get(w)).filter(Boolean);
+  else if(fc.src==="phrase")p=phAll().filter(x=>fc.pcat==="all"||x.cat===fc.pcat).map(phDeck);
+  else if(fc.src==="saved")p=[...(fc.saved==="fav"?fav:hard)].map(w=>w.startsWith("p:")?(store.phr.get(w.slice(2))?phDeck(store.phr.get(w.slice(2))):null):dmap.get(w)).filter(Boolean);
   else{
     const v=fc.val||(fcOpts()[0]||[])[0];
     if(fc.cat==="root"){const r=[...store.roots.values()].find(x=>x.id===v);p=r?r.words.map(w=>dmap.get(w.word)).filter(Boolean):[];}
@@ -451,9 +499,10 @@ function renderFC(){
 }
 function fcSetup(box){
   const pool=fcPool(),sg=(k,arr)=>`<div class="seg">${arr.map(([v,t])=>`<button data-a="${k}" data-v="${v}" class="${String(fc[k])===String(v)?"on":""}">${t}</button>`).join("")}</div>`;
-  let h=`<div class="fcs">แหล่งคำ</div>${sg("src",[["random","🔀 สุ่ม"],["cat","📂 ตามหมวด"],["saved","★ ที่บันทึกไว้"]])}`;
+  let h=`<div class="fcs">แหล่งคำ</div>${sg("src",[["random","🔀 สุ่ม"],["phrase","💬 วลี"],["cat","📂 ตามหมวด"],["saved","★ ที่บันทึกไว้"]])}`;
   h+=`<div class="fcs">ระดับ</div><div class="seg">${LV.map(l=>`<button data-lv="${l}" class="${fc.lv.has(l)?"on":""}" style="${fc.lv.has(l)?"":"opacity:.5"}">${l}</button>`).join("")}</div>`;
-  if(fc.src==="random")h+=`<div class="fcs">จำนวนการ์ด</div>${sg("n",[[10,"10"],[20,"20"],[50,"50"],[100,"100"],[0,"ไม่จำกัด"]])}`;
+  if(fc.src==="phrase")h+=`<div class="fcs">หมวดวลี</div><select class="fcsel" id="fcpc"><option value="all">ทั้งหมด</option>${Object.keys(PCL).map(c=>`<option value="${c}"${fc.pcat===c?" selected":""}>${PCL[c]}</option>`).join("")}</select>`;
+  if(fc.src==="random"||fc.src==="phrase")h+=`<div class="fcs">จำนวนการ์ด</div>${sg("n",[[10,"10"],[20,"20"],[50,"50"],[100,"100"],[0,"ไม่จำกัด"]])}`;
   if(fc.src==="cat"){
     h+=`<div class="fcs">หมวด</div>${sg("cat",[["root","รากศัพท์"],["syn","คำใกล้เคียง"],["letter","ตัวอักษร"],["level","ระดับ"]])}`;
     const o=fcOpts(),cur=fc.val||(o[0]||[])[0];
@@ -462,7 +511,7 @@ function fcSetup(box){
   if(fc.src==="saved")h+=`<div class="fcs">ชุดที่บันทึก</div>${sg("saved",[["fav",`★ คำโปรด (${fav.size})`],["hard",`⚠ ยังไม่แน่ใจ (${hard.size})`]])}<div class="fchint" style="margin-top:6px">กด ☆ ที่คำในพจนานุกรมหรือบนการ์ดเพื่อบันทึก · คำที่กด "ยังไม่แน่ใจ" จะเข้าชุด ⚠ อัตโนมัติ</div>`;
   h+=`<div class="fcs">โจทย์</div>${sg("dir",[["en","อังกฤษ→ไทย"],["th","ไทย→อังกฤษ"],["ear","ฟังเสียง"]])}`;
   h+=`<div class="fcs">ลำดับ</div>${sg("shuf",[[true,"สลับ"],[false,"A→Z"]])}`;
-  const n=fc.src==="random"&&fc.n?Math.min(fc.n,pool.length):pool.length;
+  const n=(fc.src==="random"||fc.src==="phrase")&&fc.n?Math.min(fc.n,pool.length):pool.length;
   h+=`<button class="fcgo" id="fcgo"${n?"":" disabled"}>เริ่ม · ${n} คำ</button>`;
   box.innerHTML=h;
 }
@@ -471,17 +520,18 @@ function fcStart(words){
 }
 function fcCard(box){
   const d=fc.deck[fc.i],w2=esc(d.word),done=Object.keys(fc.res).length;
-  const star=`<button class="fav${fav.has(d.word)?" on":""}" type="button" data-f="${w2}">${fav.has(d.word)?"★":"☆"}</button>`;
+  const fk=d.k||d.word,star=`<button class="fav${fav.has(fk)?" on":""}" type="button" data-f="${esc(fk)}">${fav.has(fk)?"★":"☆"}</button>`;
   let c;
   if(!fc.flip){
-    if(fc.dir==="en")c=`<div class="fcw" style="color:${LVC[d.cefr]}">${w2}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button>`;
+    if(fc.dir==="en")c=`<div class="fcw${d.word.length>18?" sm":""}" style="color:${LVC[d.cefr]}">${w2}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button>`;
     else if(fc.dir==="th")c=`<div class="fcth">${esc(d.th)}</div><div class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</div>`;
     else c=`<button class="spk" type="button" data-w="${w2}" style="height:64px;width:64px;font-size:28px;border-radius:32px">🔊</button><div class="fchint">ฟังแล้วนึกคำและความหมาย</div>`;
     c+=`<div class="fchint">แตะการ์ดเพื่อดูเฉลย</div>`;
   }else{
-    c=`<div class="fcw" style="color:${LVC[d.cefr]}">${w2}</div><div class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button><div class="fcth">${esc(d.th)}</div>`;
+    c=`<div class="fcw${d.word.length>18?" sm":""}" style="color:${LVC[d.cefr]}">${w2}</div><div class="badge" style="background:${LVC[d.cefr]}">${d.cefr}</div>${pronHTML(d.word)}<button class="spk" type="button" data-w="${w2}">🔊</button><div class="fcth">${esc(d.th)}</div>`;
     if(d.nuance)c+=`<div class="nu">${esc(d.nuance)}</div>`;
-    c+=exBlock(d.word);
+    c+=exBlock(d.word,d.ex);
+    if(d.note&&d.ph)c+=`<div class="pnote"><b>📖 ที่มา / ความรู้เพิ่มเติม</b>${esc(d.note)}</div>`;
     if(d.roots.length)c+=`<div class="tags">${d.roots.map(r=>`<span class="tag" style="border-color:${KC[r.kind]}">${esc(labelOf(r))}<small>${esc(r.th)}</small></span>`).join("")}</div>`;
   }
   box.innerHTML=`<div class="fcbar"><span class="fchint">${fc.i+1} / ${fc.deck.length}</span>${star}<button class="fcbtn" data-act="quit">ออก</button></div><div class="prog"><i style="width:${100*done/fc.deck.length}%"></i></div><div class="fcard${fc.flip?"":" tap"}" id="fcard">${c}</div>`+
@@ -495,7 +545,7 @@ function fcNext(){
   renderFC();document.getElementById("fc").scrollTop=0;
 }
 function fcDone(box){
-  const ok=fc.deck.filter(d=>fc.res[d.word]==="ok").length,bad=fc.deck.filter(d=>fc.res[d.word]==="bad"),sk=fc.deck.length-ok-bad.length;
+  const ok=fc.deck.filter(d=>fc.res[d.k||d.word]==="ok").length,bad=fc.deck.filter(d=>fc.res[d.k||d.word]==="bad"),sk=fc.deck.length-ok-bad.length;
   box.innerHTML=`<div class="fcard"><div class="fcs" style="margin:0">จบชุดแล้ว</div><div class="fcbig">${ok} / ${fc.deck.length}</div><div class="fcsum"><div><b style="color:#34d399">${ok}</b>จำได้</div><div><b style="color:#fb923c">${bad.length}</b>ยังไม่แน่ใจ</div><div><b>${sk}</b>ข้าม</div></div></div>`+
    `<div class="fcact" style="flex-direction:column">${bad.length?`<button class="bad" data-act="redo">ทบทวนเฉพาะที่ไม่แน่ใจ (${bad.length})</button>`:""}<button data-act="again">เล่นชุดนี้อีกครั้ง</button><button data-act="quit">กลับไปตั้งค่า</button></div>`;
 }
@@ -510,8 +560,8 @@ function initFC(){
     const sg=t.closest&&t.closest("[data-a]");
     if(sg){const k=sg.dataset.a;let v=sg.dataset.v;if(k==="n")v=+v;else if(k==="shuf")v=v==="true";fc[k]=v;if(k==="cat")fc.val="";renderFC();return;}
     if(t.closest&&t.closest("#fcgo")){
-      let p=fcPool();if(fc.src==="random"&&fc.n){p=shuffle(p).slice(0,fc.n);}else if(fc.shuf)p=shuffle(p);
-      if(fc.src==="random"&&!fc.shuf)p=p.slice().sort((a,b)=>a.word.localeCompare(b.word));
+      let p=fcPool();if((fc.src==="random"||fc.src==="phrase")&&fc.n){p=shuffle(p).slice(0,fc.n);}else if(fc.shuf)p=shuffle(p);
+      if((fc.src==="random"||fc.src==="phrase")&&!fc.shuf)p=p.slice().sort((a,b)=>a.word.localeCompare(b.word));
       if(p.length)fcStart(p);return;
     }
     if(t.closest&&t.closest(".spk"))return;
@@ -520,15 +570,15 @@ function initFC(){
     const a=t.closest&&t.closest("[data-act]");if(!a)return;
     const act=a.dataset.act,d=fc.deck[fc.i];
     if(act==="flip"){fc.flip=true;renderFC();}
-    else if(act==="ok"){fc.res[d.word]="ok";if(hard.delete(d.word))saveSet("wr-hard",hard);fcNext();}
-    else if(act==="bad"){fc.res[d.word]="bad";hard.add(d.word);saveSet("wr-hard",hard);fcNext();}
+    else if(act==="ok"){const k=d.k||d.word;fc.res[k]="ok";if(hard.delete(k))saveSet("wr-hard",hard);fcNext();}
+    else if(act==="bad"){const k=d.k||d.word;fc.res[k]="bad";hard.add(k);saveSet("wr-hard",hard);fcNext();}
     else if(act==="skip")fcNext();
     else if(act==="prev"&&fc.i>0){fc.i--;fc.flip=false;renderFC();}
     else if(act==="quit"){fc.stage="setup";renderFC();}
     else if(act==="again")fcStart(fc.shuf?shuffle(fc.deck):fc.deck);
-    else if(act==="redo")fcStart(shuffle(fc.deck.filter(x=>fc.res[x.word]==="bad")));
+    else if(act==="redo")fcStart(shuffle(fc.deck.filter(x=>fc.res[x.k||x.word]==="bad")));
   };
-  box.addEventListener("change",ev=>{if(ev.target.id==="fcval"){fc.val=ev.target.value;renderFC();}});
+  box.addEventListener("change",ev=>{if(ev.target.id==="fcval"){fc.val=ev.target.value;renderFC();}else if(ev.target.id==="fcpc"){fc.pcat=ev.target.value;renderFC();}});
 }
 
 /* ---------- textures ---------- */
@@ -703,7 +753,7 @@ function initUI(){
   const all=()=>[...store.roots.values(),...store.words.values(),...[...synIndex.keys()].filter(w=>!store.words.has(w)).map(synNode)];
   let dT=0;
   q.oninput=()=>{
-    if(state.mode==="dict"){clearTimeout(dT);dT=setTimeout(renderDict,150);return;}
+    if(state.mode==="dict"||state.mode==="ph"){clearTimeout(dT);dT=setTimeout(state.mode==="ph"?renderPH:renderDict,150);return;}
     const v=q.value.trim().toLowerCase();
     if(!v){dd.style.display="none";return;}
     const hit=all().filter(n=>n.type==="root"?(n.names.some(x=>x.toLowerCase().includes(v))||n.th.includes(v)||n.en.toLowerCase().includes(v)):(n.word.toLowerCase().includes(v)||n.th.includes(v)||(n.nuance||"").toLowerCase().includes(v)))
