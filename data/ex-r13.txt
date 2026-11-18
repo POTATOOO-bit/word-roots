@@ -1,0 +1,47 @@
+e|maximise|Maximise your profit.|ทำกำไรให้สูงสุด
+e|minimise|Minimise the risk.|ลดความเสี่ยงให้น้อยที่สุด
+e|negate|Stress can negate the benefits.|ความเครียดล้างประโยชน์ได้
+e|despite|We went out despite the rain.|เราออกไปทั้งที่ฝนตก
+e|academy|A police academy.|โรงเรียนตำรวจ
+e|whereas|He is rich, whereas I am poor.|เขารวยในขณะที่ฉันจน
+e|incidence|The incidence of disease fell.|อัตราการเกิดโรคลดลง
+e|underlie|What underlies this problem?|อะไรเป็นรากของปัญหานี้
+e|utilise|Utilise every resource.|ใช้ทรัพยากรทุกอย่าง
+e|append|Append a note.|ต่อท้ายหมายเหตุ
+e|plus|Two plus two is four.|สองบวกสองเป็นสี่
+e|practitioner|A medical practitioner.|ผู้ประกอบวิชาชีพแพทย์
+e|via|Send it via email.|ส่งผ่านอีเมล
+e|assure|I assure you it's safe.|ฉันรับรองว่าปลอดภัย
+e|converse|They conversed for hours.|พวกเขาคุยกันหลายชั่วโมง
+e|albeit|A good, albeit short, film.|หนังดีแม้จะสั้น
+e|incline|I incline to agree.|ฉันค่อนข้างเห็นด้วย
+e|notwithstanding|Notwithstanding the cost, we bought it.|แม้ราคาแพงเราก็ซื้อ
+e|pollutant|A harmful pollutant.|สารมลพิษอันตราย
+e|tsunami|A tsunami hit the coast.|สึนามิถล่มชายฝั่ง
+e|typhoon|A typhoon is coming.|ไต้ฝุ่นกำลังมา
+e|monsoon|The monsoon season.|ฤดูมรสุม
+e|tumor|A benign tumor.|เนื้องอกไม่ร้ายแรง
+e|shares|Buy shares.|ซื้อหุ้น
+e|equity|Home equity.|มูลค่าส่วนของบ้าน
+e|startup|A tech startup.|สตาร์ทอัปเทค
+e|logistics|Manage the logistics.|จัดการโลจิสติกส์
+e|algorithm|A search algorithm.|อัลกอริทึมค้นหา
+e|encryption|Use strong encryption.|ใช้การเข้ารหัสที่แข็งแรง
+e|firewall|Block it with a firewall.|บล็อกด้วยไฟร์วอลล์
+e|malware|Remove the malware.|ลบมัลแวร์
+e|bandwidth|Not enough bandwidth.|แบนด์วิดท์ไม่พอ
+e|debug|Debug the code.|แก้บั๊กในโค้ด
+e|pixel|A dead pixel.|พิกเซลเสีย
+e|smartphone|Buy a smartphone.|ซื้อสมาร์ทโฟน
+e|router|Restart the router.|รีสตาร์ทเราเตอร์
+e|boarding|Boarding begins now.|เริ่มขึ้นเครื่องแล้ว
+e|customs|Go through customs.|ผ่านศุลกากร
+e|arrival|Time of arrival.|เวลามาถึง
+e|layover|A two-hour layover.|แวะพักสองชั่วโมง
+e|appliance|A kitchen appliance.|เครื่องใช้ไฟฟ้าในครัว
+e|balcony|Sit on the balcony.|นั่งที่ระเบียง
+e|fiance|This is my fiance.|นี่คือคู่หมั้นของฉัน
+e|newborn|A newborn baby.|ทารกแรกเกิด
+e|sprint|Sprint to the finish.|วิ่งเร็วเข้าเส้นชัย
+e|athlete|A professional athlete.|นักกีฬาอาชีพ
+e|striker|The striker scored.|กองหน้ายิงประตู

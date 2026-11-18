@@ -1,0 +1,161 @@
+# วลี รอบ 3 — สแลงวัยรุ่น (sl) + ตัวย่อแชท/โซเชียล (tx)
+ph|sl|no cap|C1|ไม่โกหก จริงๆ (สแลง)|That movie was amazing, no cap.|หนังเรื่องนั้นเจ๋งจริง ไม่โกหก|“cap” แปลว่าโกหก มาจากสแลงของภาษาอังกฤษแบบคนผิวสีในอเมริกา (AAVE) และวัฒนธรรมฮิปฮอป ก่อนแพร่หลายผ่านโซเชียลมีเดีย
+ph|sl|cap|C1|โกหก / โม้ (สแลง)|He says he's rich, but that's cap.|เขาบอกว่ารวย แต่โม้ชัดๆ|สแลงที่หมายถึงโกหก มาจากภาษาอังกฤษแบบคนผิวสีในอเมริกา (AAVE) และวัฒนธรรมฮิปฮอป
+ph|sl|for real|B1|จริงเหรอ / จริงๆ นะ|For real? You won?|จริงเหรอ คุณชนะ
+ph|sl|lowkey|C1|แอบๆ นิดหน่อย (สแลง)|I lowkey love this song.|ฉันแอบชอบเพลงนี้
+ph|sl|highkey|C1|ชัดเจนเต็มที่ (สแลง)|I highkey want pizza.|ฉันอยากกินพิซซ่ามากๆ
+ph|sl|vibe|B2|บรรยากาศ / ฟีลลิ่ง|This place has a good vibe.|ที่นี่ฟีลดี|ย่อมาจาก vibrations (เช่น “Good Vibrations” ของ The Beach Boys ปี 1966) ใช้กับบรรยากาศหรือความรู้สึกรอบตัว
+ph|sl|vibe check|C1|เช็กอารมณ์/ฟีลลิ่ง|Quick vibe check — how's everyone feeling?|เช็กฟีลหน่อย ทุกคนเป็นไงบ้าง
+ph|sl|slay|C1|เริ่ดมาก / ทำได้ปัง|You slayed that presentation!|คุณพรีเซนต์ได้ปังมาก|คำนี้แพร่หลายผ่านวัฒนธรรมบอลรูมของชุมชน LGBTQ+ คนผิวสีและลาตินในอเมริกา ก่อนกลายเป็นสแลงชมว่าทำได้ปัง
+ph|sl|ghost someone|C1|หายเงียบไม่ตอบ|He ghosted me after our date.|เขาหายเงียบหลังเดตของเรา|เปรียบกับผีที่ปรากฏแล้วหายไป ใช้กับการเลิกตอบข้อความโดยไม่บอกกล่าว นิยมในวงการเดตช่วงทศวรรษ 2010
+ph|sl|flex|C1|อวด|Stop flexing your new car.|เลิกอวดรถใหม่ได้แล้ว
+ph|sl|salty|C1|หงุดหงิดขุ่นเคือง|He's salty because he lost.|เขาหงุดหงิดเพราะแพ้
+ph|sl|sus|C1|น่าสงสัย (สแลง)|That guy looks kinda sus.|ผู้ชายคนนั้นดูน่าสงสัย|ย่อจาก suspicious/suspect ใช้ในสแลงอเมริกันมานาน แต่ระเบิดความนิยมจากเกม Among Us ช่วงปี 2020
+ph|sl|mid|C1|ธรรมดาๆ ไม่ได้เด็ด (สแลง)|The food was mid.|อาหารธรรมดามาก
+ph|sl|bet|C1|โอเค ตกลง (สแลง)|Wanna hang out? — Bet.|ไปเที่ยวไหม — ได้เลย|ใช้แปลว่า “ได้เลย/ตกลง” มาจากสแลงภาษาอังกฤษแบบ AAVE และแพร่หลายในกลุ่มวัยรุ่นอเมริกันผ่านโซเชียลมีเดีย
+ph|sl|bruh|C1|เฮ้ย / พี่ (สแลง)|Bruh, you're serious?|เฮ้ย จริงดิ|ย่อมาจาก brother ในภาษาพูดและสแลงอเมริกัน ใช้ได้ทั้งเรียกเพื่อนและแสดงความงงหรือเอือม
+ph|sl|dude|B1|เพื่อน / นายนี่|Dude, that's awesome!|เพื่อน เจ๋งมาก|เดิมใช้เรียกชายที่แต่งตัวเนี้ยบเกินตัวในอเมริกาช่วงปลายศตวรรษที่ 19 ก่อนกลายเป็นคำเรียกเพื่อนผู้ชายทั่วไป
+ph|sl|fam|C1|เพื่อนสนิท / ครอบครัว (สแลง)|Thanks, fam!|ขอบใจนะเพื่อน
+ph|sl|cringe|C1|น่าอาย / เขิน|That video is so cringe.|คลิปนั้นเขินสุดๆ|เดิมแปลว่าหดตัวด้วยความกลัวหรือเขิน (cringe at the sight) ต่อมากลายเป็นสแลงอินเทอร์เน็ตแทนความอายแทน
+ph|sl|glow up|C1|เปลี่ยนโฉมดีขึ้น|She had a major glow up.|เธอเปลี่ยนโฉมสวยขึ้นมาก
+ph|sl|stan|C1|เป็นแฟนตัวยง|I stan this band.|ฉันเป็นแฟนตัวยงวงนี้|มาจากเพลง “Stan” ของ Eminem (2000) เล่าเรื่องแฟนเพลงคลั่งไคล้ที่ชื่อ Stan จนกลายเป็นคำเรียกแฟนตัวยง
+ph|sl|simp|C1|คนที่ตามเอาใจจนเสียศักดิ์ศรี (สแลง)|Stop being a simp for her.|เลิกตามเอาใจเธอซะที
+ph|sl|rizz|C2|เสน่ห์ในการจีบ (สแลง)|He's got rizz.|เขามีเสน่ห์ในการจีบ|มาจากคำว่า charisma ถูกทำให้ฮิตโดยสตรีมเมอร์ Kai Cenat ราวปี 2021 และ Oxford เลือกให้เป็นคำแห่งปี 2023
+ph|sl|goat|C1|ที่สุดตลอดกาล (G.O.A.T.)|Messi is the GOAT.|เมสซี่คือที่สุดตลอดกาล|ย่อจาก Greatest Of All Time ถูกใช้ในฮิปฮอปและวงการกีฬา ผู้ที่ทำให้ฮิตมีทั้งมูฮัมหมัด อาลี และอัลบั้ม G.O.A.T. ของ LL Cool J (1990)
+ph|sl|bussin|C2|อร่อยสุดๆ (สแลง)|This burger is bussin.|เบอร์เกอร์นี้อร่อยสุดๆ
+ph|sl|fire|B2|เจ๋ง / ยอดเยี่ยม (สแลง)|That new song is fire.|เพลงใหม่นั้นเจ๋งมาก
+ph|sl|lit|C1|สนุกมาก / ปังมาก|The party was lit.|ปาร์ตี้ปังมาก|“lit” เดิมแปลว่าเมา/สว่าง ใช้ในสแลงอเมริกันมานาน และกลับมานิยมในความหมายว่าสนุกมากในช่วงทศวรรษ 2010 ผ่านฮิปฮอป
+ph|sl|chill|B1|ผ่อนคลาย / ชิล|Let's just chill at home.|อยู่บ้านชิลๆ กัน
+ph|sl|chill out|B2|ใจเย็นๆ|Chill out, it's just a game.|ใจเย็นๆ แค่เกมเอง
+ph|sl|hang tight|C1|รอก่อนนะ|Hang tight, I'm coming.|รอก่อนนะ กำลังไป
+ph|sl|bail|C1|ยกเลิกไม่ไป (สแลง)|He bailed on us last minute.|เขาเทเราตอนนาทีสุดท้าย
+ph|sl|crash at someone's place|C1|ไปนอนค้างบ้านใคร|Can I crash at your place?|ขอไปนอนค้างบ้านนายได้ไหม
+ph|sl|hit me up|C1|ติดต่อฉันมานะ|Hit me up when you're free.|ว่างเมื่อไหร่ทักมานะ
+ph|sl|my bad|B1|ขอโทษ ผมผิดเอง|Oh, my bad!|โอ๊ะ ผมผิดเอง
+ph|sl|cool|A2|เจ๋ง / โอเค|That's cool.|เจ๋งดี
+ph|sl|awesome|A2|เจ๋งมาก|You passed? Awesome!|สอบผ่านเหรอ เจ๋งมาก
+ph|sl|epic|B2|สุดยอด / ยิ่งใหญ่|It was an epic trip.|เป็นทริปที่สุดยอด
+ph|sl|legit|C1|ของจริง / เชื่อถือได้|Is this site legit?|เว็บนี้เชื่อถือได้ไหม
+ph|sl|sketchy|C1|ดูไม่น่าไว้ใจ|The alley looked sketchy.|ซอยนั้นดูไม่น่าไว้ใจ
+ph|sl|shady|C1|ไม่น่าไว้ใจ|That deal seems shady.|ดีลนั้นดูไม่ชอบมาพากล
+ph|sl|savage|C1|แสบ / ตรงจนเจ็บ|That reply was savage.|คำตอบนั้นแสบมาก
+ph|sl|roast|C1|แซวแรงๆ|They roasted him at the party.|พวกเขาแซวเขาในปาร์ตี้
+ph|sl|tea|C1|เรื่องซุบซิบ|Spill the tea!|เล่าเรื่องซุบซิบมาเลย|สแลง “tea” ที่แปลว่าเรื่องซุบซิบมาจากวัฒนธรรมบอลรูมของชุมชน LGBTQ+ คนผิวสีในอเมริกา และแพร่หลายผ่านโซเชียลมีเดีย
+ph|sl|shade|C1|เหน็บแนม|She threw shade at me.|เธอเหน็บฉัน|“throw shade” แปลว่าเหน็บแนม มาจากวัฒนธรรมบอลรูมของชุมชน LGBTQ+ คนผิวสีในอเมริกา ก่อนแพร่หลายทางสื่อ
+ph|sl|drama|B2|ดราม่า|I don't need the drama.|ฉันไม่ต้องการดราม่า
+ph|sl|extra|C1|เกินพอดี / ทำเว่อร์|Don't be so extra.|อย่าเว่อร์นักสิ
+ph|sl|clap back|C2|ตอบโต้กลับ|She clapped back at the haters.|เธอตอบโต้พวกกระแนะกระแหน
+ph|sl|hype|B2|ตื่นเต้นเร้าใจ|I'm so hyped for the concert!|ฉันตื่นเต้นมากกับคอนเสิร์ต
+ph|sl|obsessed|B2|คลั่งไคล้|I'm obsessed with this show.|ฉันคลั่งซีรีส์เรื่องนี้
+ph|sl|iconic|C1|ระดับตำนาน|That outfit is iconic.|ชุดนั้นระดับตำนาน
+ph|sl|aesthetic|C1|สวยมีสไตล์ / ธีมภาพ|I love your room's aesthetic.|ฉันชอบสไตล์ห้องของเธอ
+ph|sl|main character energy|C2|พลังนางเอก/พระเอก|She has main character energy.|เธอมีออร่านางเอก
+ph|sl|touch grass|C2|ออกไปสัมผัสโลกจริงบ้าง (สแลง)|Go touch grass.|ออกไปสัมผัสโลกภายนอกบ้าง|มุกอินเทอร์เน็ตราวปี 2020 บอกคนที่ติดจออยู่นานให้ลุกไปสัมผัสโลกภายนอก
+ph|sl|it's giving...|C2|ให้ฟีลแบบ... (สแลง)|It's giving old Hollywood.|ให้ฟีลฮอลลีวูดยุคเก่า|สแลงที่แพร่หลายผ่านวัฒนธรรมบอลรูมและโซเชียลมีเดีย ใช้บอกว่าสิ่งนั้นให้ความรู้สึกคล้ายอะไรบางอย่าง
+ph|sl|living rent free|C2|ยังคิดถึงไม่หยุด|That song lives in my head rent free.|เพลงนั้นติดอยู่ในหัวไม่หายไป
+ph|sl|red flag|B2|สัญญาณอันตราย|Lying is a red flag.|การโกหกคือสัญญาณอันตราย|ธงแดงเป็นสัญลักษณ์เตือนอันตรายมานาน (เรือ แข่งรถ ทหาร) ต่อมานำมาใช้เรียกพฤติกรรมน่ากังวลของคนที่คบด้วย
+ph|sl|green flag|C1|สัญญาณที่ดี|He listens. That's a green flag.|เขาตั้งใจฟัง นั่นคือสัญญาณที่ดี
+ph|sl|situationship|C2|สถานะคลุมเครือไม่ใช่แฟน|It's a situationship, not a relationship.|เป็นแค่สถานะคลุมเครือ ไม่ใช่แฟน
+ph|sl|crush|B1|คนที่แอบชอบ|I have a crush on him.|ฉันแอบชอบเขา
+ph|sl|catfish|C2|คนปลอมตัวหลอกออนไลน์|He turned out to be a catfish.|เขากลายเป็นคนปลอมตัวหลอก|คำนี้แพร่หลายจากสารคดี Catfish (2010) ที่เล่าเรื่องคนถูกหลอกให้รักกับโปรไฟล์ปลอมออนไลน์
+ph|sl|slide into someone's DMs|C2|ทักแชทส่วนตัว|He slid into my DMs.|เขาทักแชทส่วนตัวมา
+ph|sl|binge-watch|B2|ดูรวดเดียวจบ|I binge-watched the whole season.|ฉันดูรวดทั้งซีซัน
+ph|sl|go viral|B2|ไวรัล|The video went viral.|คลิปนั้นไวรัล
+ph|sl|trending|B2|กำลังเป็นกระแส|That hashtag is trending.|แฮชแท็กนั้นกำลังฮิต
+ph|sl|clout|C2|อิทธิพล / ชื่อเสียงออนไลน์|He's chasing clout.|เขากำลังไล่ล่าชื่อเสียง
+ph|sl|influencer|B2|อินฟลูเอนเซอร์|She's a famous influencer.|เธอเป็นอินฟลูเอนเซอร์ดัง
+ph|sl|FOMO|B2|กลัวตกกระแส|I have FOMO when friends travel.|ฉันกลัวพลาดเวลาเพื่อนเที่ยว|ย่อจาก Fear Of Missing Out นักลงทุน Patrick McGinnis ใช้คำนี้ในบทความที่ Harvard Business School ปี 2004 ก่อนแพร่หลายพร้อมโซเชียลมีเดีย
+ph|sl|YOLO|B2|ชีวิตมีครั้งเดียว|YOLO! Let's go skydiving.|ชีวิตมีครั้งเดียว ไปกระโดดร่มกัน|ย่อจาก You Only Live Once ถูกทำให้ฮิตจากเพลง “The Motto” ของ Drake (2011)
+ph|sl|adulting|C2|การทำตัวเป็นผู้ใหญ่|Paying bills is adulting.|การจ่ายบิลคือการเป็นผู้ใหญ่|ใช้แพร่หลายในช่วงทศวรรษ 2010 โดยเฉพาะหลังหนังสือ Adulting ของ Kelly Williams Brown (2013) หมายถึงการทำเรื่องของผู้ใหญ่เช่นจ่ายบิล
+ph|sl|hangry|C1|หงุดหงิดเพราะหิว|I get hangry when I skip lunch.|ฉันหงุดหงิดถ้าไม่กินข้าวเที่ยง
+ph|sl|couch potato|B2|คนขี้เกียจนั่งดูทีวี|He's a couch potato.|เขาเป็นคนขี้เกียจนั่งหน้าทีวี|คำนี้ถูกทำให้ดังโดยกลุ่มเพื่อนในแคลิฟอร์เนียราวปี 1976 ที่ตั้ง “Couch Potatoes” ล้อเลียนคนนั่งดูทีวีทั้งวัน
+ph|sl|nerd|B1|เด็กเรียน/คนหมกมุ่น|I'm a total nerd about space.|ฉันหมกมุ่นเรื่องอวกาศมาก|มักอ้างว่าคำนี้ปรากฏในหนังสือของ Dr. Seuss เรื่อง If I Ran the Zoo (1950) ในฐานะสิ่งมีชีวิตสมมติ ก่อนกลายเป็นคำเรียกคนเรียนเก่งหมกมุ่น
+ph|sl|geek|B2|คนคลั่งไคล้ (เทค/เกม)|He's a computer geek.|เขาเป็นคนคลั่งคอมพิวเตอร์|เดิมหมายถึงนักแสดงในคณะละครสัตว์ที่ทำการแสดงแปลกๆ ต่อมาเปลี่ยนความหมายเป็นคนที่หมกมุ่นกับสิ่งใดสิ่งหนึ่ง โดยเฉพาะเทคโนโลยี
+ph|sl|bestie|B2|เพื่อนสนิท|She's my bestie.|เธอเป็นเพื่อนสนิทของฉัน
+ph|sl|squad|B2|แก๊งเพื่อน|My squad is going out.|แก๊งฉันกำลังจะออกไปเที่ยว
+ph|sl|buddy|B1|เพื่อน|Hey buddy, what's up?|เฮ้ เพื่อน เป็นไง
+ph|sl|dope|C1|เจ๋งมาก|That's a dope jacket.|แจ็คเก็ตตัวนั้นเจ๋งมาก
+ph|sl|sick|B2|เจ๋ง (สแลง)|That trick was sick!|ท่านั้นเจ๋งมาก
+ph|sl|bomb|C1|เจ๋งมาก / ระเบิด|The show was the bomb.|การแสดงเจ๋งมาก
+ph|sl|yeet|C2|ขว้างไปเลย (สแลง)|He yeeted the ball.|เขาขว้างลูกบอลไปเลย
+ph|sl|ratio|C2|ถูกคนเห็นด้วยกับคอมเมนต์ตอบมากกว่าโพสต์|His tweet got ratioed.|ทวีตของเขาถูกคอมเมนต์ตอบท่วม
+ph|sl|W|C2|ชนะ / ดี (สแลง)|Passing was a big W.|การสอบผ่านคือชัยชนะ
+ph|sl|L|C2|แพ้ / แย่ (สแลง)|That was an L.|นั่นแพ้ชัดๆ
+ph|sl|let him cook|C2|ปล่อยเขาทำไป|Just let him cook.|ปล่อยเขาทำไปเถอะ
+ph|sl|ate and left no crumbs|C2|ทำได้ปังเต็มที่|She ate and left no crumbs.|เธอทำได้ปังเต็มที่
+ph|sl|periodt|C2|จบ ไม่ต้องเถียง (สแลง)|I'm not going. Periodt.|ฉันไม่ไป จบ|เป็นการสะกดแบบเน้นเสียงของ “period” (จบเลย) มาจากภาษาอังกฤษแบบ AAVE แล้วแพร่หลายผ่านโซเชียลมีเดีย
+ph|sl|bye Felicia|C2|ไปได้แล้ว (ประชด)|You don't like it? Bye Felicia.|ไม่ชอบเหรอ ไปได้เลย|มาจากหนังตลกเรื่อง Friday (1995) กลายเป็นมีมประโยคไล่อย่างประชดช่วงทศวรรษ 2010
+ph|sl|yikes|B2|โอ๊ะ แย่จัง|Yikes, that looks painful.|โอ๊ย ดูเจ็บมาก
+ph|sl|oof|C1|โอ๊ย (รู้สึกเจ็บ/เขินแทน)|Oof, that was awkward.|โอ๊ย กระอักกระอ่วนมาก
+ph|sl|awkward|B2|กระอักกระอ่วน|It got awkward.|มันเริ่มกระอักกระอ่วน
+ph|sl|cheesy|C1|เลี่ยน / ติ๊ต่าง|That line was so cheesy.|ประโยคนั้นเลี่ยนมาก
+ph|sl|basic|C1|ธรรมดาตามกระแส|Pumpkin spice is so basic.|พัมพ์กินสไปซ์ธรรมดาตามกระแสมาก
+ph|sl|pressed|C2|หงุดหงิดเรื่องเล็กน้อย|Why are you so pressed?|ทำไมหงุดหงิดขนาดนั้น
+ph|sl|ship|C2|เชียร์ให้เป็นคู่กัน|I ship them so hard.|ฉันเชียร์ให้สองคนนั้นคู่กันสุดๆ|ย่อจาก relationship ใช้ในกลุ่มแฟนซีรีส์/แฟนฟิกที่เชียร์ให้ตัวละครสองคนเป็นคู่กัน เริ่มแพร่หลายราวทศวรรษ 1990
+ph|sl|spill the tea|C2|เม้าท์เรื่องซุบซิบ|Come on, spill the tea.|มาเถอะ เม้าท์ให้ฟังหน่อย|มาจากสแลง “tea” ที่แปลว่าเรื่องซุบซิบ (ดูวลี tea) มีต้นทางจากภาษาอังกฤษแบบ AAVE และวัฒนธรรมบอลรูม
+ph|sl|the vibes are off|C2|ฟีลไม่ดี|The vibes are off today.|วันนี้ฟีลไม่ดีเลย
+ph|sl|I'm dead|C1|ขำจนตาย (สแลง)|That meme — I'm dead.|มีมนั้น ขำจนตาย
+ph|sl|I can't even|C2|พูดไม่ออกเลย|I can't even right now.|ตอนนี้พูดอะไรไม่ออกเลย
+ph|sl|low-key|C1|ลับๆ / นิดๆ|She low-key hates it.|เธอแอบเกลียดมัน
+ph|sl|big mood|C2|ตรงใจมาก|Sleeping in is a big mood.|การนอนตื่นสายตรงใจมาก
+ph|sl|same|B1|เหมือนกันเลย|I'm broke. — Same.|ฉันเงินหมด — เหมือนกันเลย
+ph|sl|slaps|C2|เพลงเพราะมาก (สแลง)|This song slaps.|เพลงนี้เพราะมาก
+ph|tx|lol|A2|ขำมาก (laughing out loud)|That's so funny, lol.|ตลกมาก ขำๆ|เริ่มใช้กันในกลุ่มผู้ใช้อินเทอร์เน็ตยุคแรกราวทศวรรษ 1980 ปัจจุบันหลายคนใช้เพียงเป็นเครื่องหมายน้ำเสียง ไม่ได้ขำจริง
+ph|tx|LMAO|B1|ขำจนตัวโยน|He fell, LMAO.|เขาล้ม ขำหนักมาก
+ph|tx|omg|A2|โอ้พระเจ้า (Oh my god)|OMG, I can't believe it!|โอ้พระเจ้า ไม่อยากเชื่อ|ตัวย่อนี้เก่ากว่าที่คิด พบในจดหมายของ Lord Fisher ผู้บัญชาการทหารเรืออังกฤษ ปี 1917 ก่อนกลับมาฮิตตอนยุคแชทและมือถือ
+ph|tx|brb|B1|เดี๋ยวกลับมา (be right back)|brb, grabbing a snack.|เดี๋ยวกลับ ไปหยิบขนม
+ph|tx|btw|B1|ว่าแต่ (by the way)|btw, are you coming?|ว่าแต่ คุณมาไหม
+ph|tx|idk|B1|ไม่รู้ (I don't know)|idk what to eat.|ไม่รู้ว่าจะกินอะไร
+ph|tx|imo|B2|ในความเห็นของฉัน (in my opinion)|imo, it's too long.|ฉันว่ามันยาวไป
+ph|tx|tbh|B2|พูดตามตรง (to be honest)|tbh, I didn't like it.|พูดตรงๆ ฉันไม่ชอบ
+ph|tx|ngl|C1|ไม่โกหก (not gonna lie)|ngl, I was scared.|ไม่โกหก ฉันกลัว
+ph|tx|fyi|B2|เพื่อทราบ (for your information)|fyi, the meeting moved.|เพื่อทราบ ประชุมเลื่อน
+ph|tx|asap|B1|โดยเร็วที่สุด (as soon as possible)|Reply asap please.|ตอบกลับโดยเร็วที่สุด|ใช้ในวงการทหารและธุรกิจสหรัฐฯ มาตั้งแต่ช่วงกลางศตวรรษที่ 20
+ph|tx|ttyl|B2|คุยกันทีหลัง (talk to you later)|Gotta go, ttyl!|ต้องไปแล้ว คุยทีหลังนะ
+ph|tx|np|B1|ไม่เป็นไร (no problem)|Thanks! — np.|ขอบใจ — ไม่เป็นไร
+ph|tx|thx|A2|ขอบคุณ (thanks)|thx for the help.|ขอบคุณที่ช่วย
+ph|tx|pls|A2|ได้โปรด (please)|pls call me.|โทรหาหน่อย
+ph|tx|irl|C1|ในชีวิตจริง (in real life)|Let's meet irl.|นัดเจอตัวจริงกันเถอะ
+ph|tx|DM|B2|ข้อความส่วนตัว (direct message)|Send me a DM.|ส่งข้อความส่วนตัวมา
+ph|tx|smh|C1|ส่ายหัว (shaking my head)|He did it again, smh.|เขาทำอีกแล้ว เซ็ง
+ph|tx|jk|B1|ล้อเล่น (just kidding)|I'm leaving, jk!|ฉันจะไปแล้ว ล้อเล่น
+ph|tx|ily|B2|รักเธอ (I love you)|ily so much.|รักเธอมากเลย
+ph|tx|gtg|B2|ต้องไปแล้ว (got to go)|gtg, bye!|ต้องไปแล้ว บาย
+ph|tx|nvm|B1|ช่างเถอะ (never mind)|nvm, I found it.|ช่างเถอะ เจอแล้ว
+ph|tx|bff|B1|เพื่อนสนิทตลอดกาล|She's my bff.|เธอเป็นเพื่อนซี้ฉัน
+ph|tx|rn|C1|ตอนนี้ (right now)|I'm busy rn.|ตอนนี้ฉันยุ่ง
+ph|tx|ikr|C1|นั่นสิ ใช่มั้ย (I know, right?)|It's so hot! — ikr?|ร้อนมาก — นั่นสิ
+ph|tx|afk|C1|ไม่อยู่หน้าจอ (away from keyboard)|afk for 5 mins.|ไม่อยู่ห้านาที
+ph|tx|lmk|C1|บอกด้วยนะ (let me know)|lmk if you're free.|ถ้าว่างบอกด้วยนะ
+ph|tx|tmi|C1|บอกมากเกินไป (too much information)|Ew, tmi!|เอ๊ย บอกมากไปแล้ว
+ph|tx|eta|B2|เวลาที่คาดว่าจะถึง|What's your eta?|คุณจะถึงกี่โมง
+ph|tx|hmu|C2|ทักมาหาฉัน (hit me up)|hmu if you're bored.|เบื่อก็ทักมา
+ph|tx|wyd|C2|ทำอะไรอยู่ (what are you doing)|wyd tonight?|คืนนี้ทำอะไร
+ph|tx|omw|B2|กำลังไป (on my way)|omw, five mins.|กำลังไป ห้านาที
+ph|tx|ootd|C1|ชุดที่ใส่วันนี้ (outfit of the day)|My ootd for work.|ชุดวันนี้ของฉันไปทำงาน
+ph|tx|tbf|C2|ยุติธรรมแล้ว (to be fair)|tbf, he tried.|ถ้ายุติธรรมก็คือเขาพยายามแล้ว
+ph|tx|fr|C1|จริงๆ (for real)|That's fire fr.|เจ๋งจริงๆ นะ
+ph|tx|ik|B2|ฉันรู้ (I know)|ik, but I can't.|ฉันรู้ แต่ทำไม่ได้
+ph|tx|ty|A2|ขอบคุณ (thank you)|ty for coming!|ขอบคุณที่มา
+ph|tx|yw|B1|ด้วยความยินดี (you're welcome)|Thanks! — yw.|ขอบคุณ — ยินดี
+ph|tx|b4|B1|ก่อน (before)|See you b4 class.|เจอกันก่อนเรียน
+ph|tx|2day|A2|วันนี้ (today)|What's up 2day?|วันนี้เป็นไง
+ph|tx|2nite|A2|คืนนี้ (tonight)|Party 2nite!|คืนนี้ปาร์ตี้
+ph|tx|gr8|A2|ยอดเยี่ยม (great)|That's gr8!|เยี่ยมไปเลย
+ph|tx|cu|A2|เจอกัน (see you)|cu tomorrow.|เจอพรุ่งนี้
+ph|tx|ur|A2|ของคุณ / คุณคือ (your/you're)|ur the best.|คุณเยี่ยมที่สุด
+ph|tx|u|A1|คุณ (you)|How are u?|คุณเป็นไงบ้าง
+ph|tx|r|A1|คือ/เป็น (are)|Where r u?|คุณอยู่ที่ไหน
+ph|tx|wfh|B2|ทำงานที่บ้าน (work from home)|I'm wfh today.|วันนี้ฉันทำงานที่บ้าน
+ph|tx|OOO|C1|ไม่อยู่ที่ทำงาน (out of office)|I'm OOO until Monday.|ฉันไม่อยู่จนถึงวันจันทร์
+ph|tx|TL;DR|C1|ยาวไปไม่อ่าน/สรุปสั้นๆ|TL;DR: we lost.|สรุปสั้นๆ คือเราแพ้|เริ่มจากฟอรัมออนไลน์ในช่วงปี 2000 ย่อจาก too long; didn't read ใช้บอกว่ายาวไปไม่อ่าน หรือเป็นสรุปสั้นๆ ของข้อความยาว
+ph|tx|AMA|C2|ถามอะไรก็ได้ (ask me anything)|I'm doing an AMA tonight.|คืนนี้ฉันเปิดให้ถามได้ทุกอย่าง|ย่อจาก Ask Me Anything แพร่หลายจากเว็บบอร์ด Reddit ที่เปิดให้คนถามเจ้าของกระทู้ได้ทุกเรื่อง
+ph|tx|FAQ|B2|คำถามที่พบบ่อย|Check the FAQ.|ดูคำถามที่พบบ่อย
+ph|tx|ROFL|C1|ขำกลิ้ง (rolling on the floor laughing)|ROFL, that's hilarious.|ขำกลิ้งเลย
+ph|tx|TBA|B2|จะประกาศภายหลัง (to be announced)|Date TBA.|วันที่จะประกาศภายหลัง
+ph|tx|ETA|B2|เวลาถึงโดยประมาณ|ETA is 6 pm.|คาดว่าถึงหกโมงเย็น
+ph|tx|RSVP|B2|ตอบรับคำเชิญ|Please RSVP by Friday.|กรุณาตอบรับภายในวันศุกร์|ย่อจากภาษาฝรั่งเศส “répondez s'il vous plaît” แปลว่า โปรดตอบกลับ ใช้บนบัตรเชิญ
+ph|tx|BTW|B1|ว่าแต่|BTW, I'm late.|ว่าแต่ ฉันสาย
+ph|tx|IMHO|C1|ตามความเห็นส่วนตัว|IMHO, it's overrated.|ส่วนตัวฉันว่ามันเกินจริง
+ph|tx|DIY|B2|ทำเอง (do it yourself)|A DIY project.|โปรเจกต์ทำเอง
+ph|tx|VIP|B1|ผู้มีเกียรติ|VIP seating.|ที่นั่งวีไอพี

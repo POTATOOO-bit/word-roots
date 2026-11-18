@@ -1,0 +1,145 @@
+# วลี รอบ 2 — ใช้บ่อยในชีวิตประจำวัน (ev) + ประโยคแบบในหนัง/ซีรีส์ (mv)
+ph|ev|What's up?|A1|เป็นไงบ้าง / มีอะไรเหรอ|Hey, what's up?|เฮ้ เป็นไงบ้าง
+ph|ev|How's it going?|A1|เป็นไงบ้าง|How's it going, man?|เป็นไงบ้างเพื่อน
+ph|ev|Long time no see.|A2|ไม่เจอกันนานเลย|Long time no see! How have you been?|ไม่เจอกันนานเลย สบายดีไหม|เชื่อว่าเลียนมาจากสำนวนภาษาอังกฤษสำเนียงผู้พูดภาษาอื่น (เช่น พิจินของจีน) ซึ่งแพร่หลายในอเมริกาช่วงศตวรรษที่ 19 ไม่ตรงตามไวยากรณ์แต่กลายเป็นคำทักทายที่ใช้ทั่วไป
+ph|ev|Nice to meet you.|A1|ยินดีที่ได้รู้จัก|Nice to meet you, Anna.|ยินดีที่ได้รู้จักนะ แอนนา
+ph|ev|No worries.|A2|ไม่เป็นไร|Sorry I'm late. — No worries.|ขอโทษที่มาสาย — ไม่เป็นไร|นิยมมากในออสเตรเลียและนิวซีแลนด์ แล้วแพร่ไปทั่วโลกที่ใช้ภาษาอังกฤษ
+ph|ev|No problem.|A1|ไม่มีปัญหา / ยินดี|Thanks for helping. — No problem.|ขอบคุณที่ช่วย — ไม่เป็นไร
+ph|ev|You're welcome.|A1|ด้วยความยินดี|Thank you! — You're welcome.|ขอบคุณ — ด้วยความยินดี
+ph|ev|Excuse me.|A1|ขอโทษนะ (เรียก/ขอทาง)|Excuse me, where's the restroom?|ขอโทษครับ ห้องน้ำอยู่ไหน
+ph|ev|I'm sorry to hear that.|A2|เสียใจด้วยนะ|I'm sorry to hear that.|ฉันเสียใจที่ได้ยินแบบนั้น
+ph|ev|Take your time.|A2|ค่อยๆ ทำนะ|Take your time. No rush.|ค่อยๆ ทำนะ ไม่ต้องรีบ
+ph|ev|Make yourself at home.|B1|ตามสบายเลยนะ|Come in and make yourself at home.|เข้ามาเลย ทำตัวตามสบาย
+ph|ev|Help yourself.|B1|เชิญตามสบาย (หยิบเอง)|There's food. Help yourself.|มีอาหาร เชิญตามสบาย
+ph|ev|It's on me.|B1|ฉันเลี้ยงเอง|Dinner is on me tonight.|คืนนี้ฉันเลี้ยงมื้อเย็นเอง
+ph|ev|Let's split the bill.|B1|หารบิลกันเถอะ|Let's split the bill.|หารบิลกันเถอะ
+ph|ev|Keep the change.|B1|ไม่ต้องทอน|Here's 100. Keep the change.|นี่ร้อยบาท ไม่ต้องทอน
+ph|ev|I'm just looking.|A2|ขอดูเฉยๆ|I'm just looking, thanks.|ขอดูเฉยๆ ขอบคุณค่ะ
+ph|ev|How much is this?|A1|อันนี้เท่าไหร่|How much is this?|อันนี้เท่าไหร่
+ph|ev|Could you do me a favor?|B1|ช่วยอะไรหน่อยได้ไหม|Could you do me a favor?|ช่วยฉันหน่อยได้ไหม
+ph|ev|Can I get a refund?|B1|ขอเงินคืนได้ไหม|Can I get a refund?|ขอเงินคืนได้ไหม
+ph|ev|I'll have the same.|B1|ขอเหมือนกัน|I'll have the same, please.|ขอเหมือนกันครับ
+ph|ev|Could I have the check, please?|B1|ขอบิลหน่อย|Could I have the check, please?|ขอบิลหน่อยครับ
+ph|ev|I'm on my way.|A2|กำลังไป|I'm on my way. Five minutes.|กำลังไป อีกห้านาที
+ph|ev|I'll be right there.|A2|เดี๋ยวไปเลย|Hold on, I'll be right there.|รอแป๊บ เดี๋ยวไป
+ph|ev|Are you kidding me?|B1|ล้อเล่นใช่ไหม|Are you kidding me? That's crazy!|ล้อเล่นใช่ไหม บ้าไปแล้ว
+ph|ev|You've got to be kidding.|B1|ไม่น่าเชื่อ|You've got to be kidding.|ล้อเล่นแน่ๆ
+ph|ev|I couldn't agree more.|B2|เห็นด้วยที่สุด|I couldn't agree more.|ฉันเห็นด้วยที่สุดเลย
+ph|ev|I see your point.|B1|ฉันเข้าใจที่คุณพูด|I see your point, but I disagree.|ฉันเข้าใจที่คุณพูด แต่ไม่เห็นด้วย
+ph|ev|That makes sense.|B1|ฟังดูมีเหตุผล|That makes sense to me.|ฟังดูมีเหตุผลสำหรับฉัน
+ph|ev|It depends.|B1|แล้วแต่|Is it expensive? — It depends.|แพงไหม — แล้วแต่
+ph|ev|I'm not sure.|A2|ไม่แน่ใจ|I'm not sure about that.|ฉันไม่แน่ใจเรื่องนั้น
+ph|ev|I have no idea.|A2|ไม่รู้เลย|I have no idea what you mean.|ฉันไม่เข้าใจที่คุณหมายถึงเลย
+ph|ev|I'm afraid not.|B1|เกรงว่าไม่ได้|Can you come? — I'm afraid not.|มาได้ไหม — เกรงว่าไม่ได้
+ph|ev|Never mind.|A2|ช่างเถอะ|Never mind, I'll do it myself.|ช่างเถอะ ฉันทำเอง
+ph|ev|Fair enough.|B2|ก็สมเหตุสมผล|Fair enough. Let's do it your way.|ก็สมเหตุสมผล ทำตามที่คุณว่า
+ph|ev|That's the thing.|B2|นั่นแหละประเด็น|That's the thing — I don't have time.|นั่นแหละประเด็น ฉันไม่มีเวลา
+ph|ev|What do you mean?|A2|หมายความว่าไง|What do you mean by that?|หมายความว่าไง
+ph|ev|Could you repeat that?|A2|พูดอีกทีได้ไหม|Sorry, could you repeat that?|ขอโทษ พูดอีกทีได้ไหม
+ph|ev|Could you speak more slowly?|A2|พูดช้าลงได้ไหม|Could you speak more slowly?|พูดช้าลงได้ไหม
+ph|ev|How do you say it in English?|A2|พูดว่าอะไรในภาษาอังกฤษ|How do you say "เสร็จแล้ว" in English?|"เสร็จแล้ว" ภาษาอังกฤษพูดว่าไง
+ph|ev|I'm running late.|B1|กำลังจะไปสาย|Sorry, I'm running late.|ขอโทษ ฉันกำลังจะไปสาย
+ph|ev|I overslept.|B1|ตื่นสาย|I overslept this morning.|เช้านี้ฉันตื่นสาย
+ph|ev|I'm starving.|B1|หิวมาก|I'm starving! Let's eat.|หิวมาก กินข้าวกันเถอะ
+ph|ev|I'm exhausted.|B1|เหนื่อยสุดๆ|I'm exhausted after work.|เลิกงานแล้วฉันเหนื่อยสุดๆ
+ph|ev|I can't make it.|B1|ไปไม่ได้|Sorry, I can't make it tonight.|ขอโทษ คืนนี้ฉันไปไม่ได้
+ph|ev|Let me know.|A2|บอกด้วยนะ|Let me know if you need help.|ถ้าต้องการความช่วยเหลือบอกด้วยนะ
+ph|ev|Keep in touch.|B1|ติดต่อกันนะ|Let's keep in touch.|ติดต่อกันนะ
+ph|ev|See you around.|B1|เจอกันใหม่|See you around!|เจอกันใหม่นะ
+ph|ev|Take care.|A2|ดูแลตัวเองนะ|Take care and stay safe.|ดูแลตัวเองและปลอดภัยนะ
+ph|ev|Good luck with that.|B1|โชคดีนะ|Good luck with your interview.|ขอให้สัมภาษณ์งานโชคดี
+ph|ev|Congratulations!|A2|ขอแสดงความยินดี|Congratulations on your promotion!|ยินดีด้วยที่ได้เลื่อนตำแหน่ง
+ph|ev|Cheers!|A2|ชนแก้ว / ขอบคุณ|Cheers! To a great year.|ชนแก้ว เพื่อปีที่ยอดเยี่ยม|คำว่า cheer มาจากภาษาฝรั่งเศสโบราณ chiere แปลว่าใบหน้า/สีหน้า ต่อมาหมายถึงอารมณ์ร่าเริง ใช้เป็นคำชนแก้วและคำขอบคุณในอังกฤษ
+ph|ev|Bless you.|A2|ขอให้พระคุ้มครอง (เมื่อจาม)|Achoo! — Bless you.|ฮัดเช้ย — ขอให้หายไวๆ|ไม่ทราบที่มาแน่ชัด มีความเชื่อเก่าว่าการจามอาจทำให้วิญญาณหลุดหรือเป็นสัญญาณของโรค คนจึงอวยพรให้ (เรื่องเล่าที่ว่ามาจากสมัยกาฬโรคยังไม่มีหลักฐานแน่ชัด)
+ph|ev|After you.|B1|เชิญก่อนเลย|After you, please.|เชิญก่อนเลยครับ
+ph|ev|Can you give me a hand?|B1|ช่วยหน่อยได้ไหม|Can you give me a hand with this box?|ช่วยยกกล่องนี้หน่อยได้ไหม
+ph|ev|Is this seat taken?|A2|ที่นี่มีคนนั่งไหม|Is this seat taken?|ที่นี่มีคนนั่งหรือยัง
+ph|ev|I'll think about it.|B1|ขอคิดดูก่อน|I'll think about it and let you know.|ขอคิดดูก่อนแล้วจะบอก
+ph|ev|It's up to you.|B1|แล้วแต่คุณ|Where to eat? — It's up to you.|กินที่ไหนดี — แล้วแต่คุณ
+ph|ev|It's a deal.|B1|ตกลง|Okay, it's a deal.|โอเค ตกลงตามนั้น
+ph|ev|You name it.|B2|อะไรก็ได้ที่คุณพูด|Pizza, pasta, you name it.|พิซซ่า พาสต้า อะไรก็ได้
+ph|ev|Same here.|A2|ฉันก็เหมือนกัน|I'm tired. — Same here.|ฉันเหนื่อย — ฉันก็เหมือนกัน
+ph|ev|Me neither.|A2|ฉันก็ไม่เหมือนกัน|I don't like it. — Me neither.|ฉันไม่ชอบ — ฉันก็ไม่ชอบ
+ph|ev|I guess so.|A2|คิดว่าอย่างนั้น|Is it good? — I guess so.|ดีไหม — น่าจะนะ
+ph|ev|To be honest,|B1|พูดตามตรง|To be honest, I didn't like it.|พูดตามตรง ฉันไม่ชอบ
+ph|ev|By the way,|B1|ว่าแต่|By the way, did you call her?|ว่าแต่ คุณโทรหาเธอหรือยัง
+ph|ev|Anyway,|B1|ยังไงก็ตาม|Anyway, let's get back to work.|ยังไงก็ตาม กลับมาทำงานต่อ
+ph|ev|As far as I know,|B2|เท่าที่ฉันรู้|As far as I know, he's still here.|เท่าที่ฉันรู้ เขายังอยู่ที่นี่
+ph|ev|In my opinion,|B1|ในความเห็นของฉัน|In my opinion, it's too expensive.|ในความเห็นฉัน มันแพงเกินไป
+ph|ev|On the other hand,|B2|ในอีกด้านหนึ่ง|On the other hand, it's cheaper.|ในอีกด้านหนึ่ง มันถูกกว่า
+ph|ev|All of a sudden,|B2|อยู่ๆ ก็|All of a sudden, it started to rain.|อยู่ๆ ฝนก็ตกลงมา
+ph|ev|Sooner or later,|B2|ไม่ช้าก็เร็ว|Sooner or later, you'll understand.|ไม่ช้าก็เร็วคุณจะเข้าใจ
+ph|ev|It's about time.|B2|ได้เวลาสักที|It's about time you called me.|ได้เวลาที่คุณโทรมาสักที
+ph|ev|What's the matter?|A2|เป็นอะไรไป|What's the matter? You look sad.|เป็นอะไรไป ดูเศร้า
+ph|ev|Don't worry about it.|A2|ไม่ต้องกังวลเรื่องนั้น|Don't worry about it. I'll handle it.|ไม่ต้องกังวล ฉันจัดการเอง
+ph|ev|I'm all ears.|B2|ฉันฟังอยู่|Go on, I'm all ears.|พูดเลย ฉันตั้งใจฟังอยู่
+ph|ev|You'll get used to it.|B1|เดี๋ยวก็ชินเอง|It's hard now, but you'll get used to it.|ตอนนี้ยาก แต่เดี๋ยวก็ชิน
+ph|ev|It's not a big deal.|B1|ไม่ใช่เรื่องใหญ่|It's not a big deal.|ไม่ใช่เรื่องใหญ่หรอก
+ph|ev|That's a relief.|B1|โล่งอกไปที|The test is over. That's a relief.|สอบเสร็จแล้ว โล่งอกไปที
+ph|ev|What a shame!|B1|น่าเสียดายจัง|You missed the show? What a shame!|พลาดงานเหรอ น่าเสียดายจัง
+ph|ev|I'm dying to know.|B2|อยากรู้แทบแย่|Tell me! I'm dying to know.|บอกมาเลย อยากรู้แทบแย่
+ph|ev|You've made my day.|B2|ทำให้วันนี้ฉันมีความสุข|Thanks for the call. You've made my day.|ขอบคุณที่โทรมา วันนี้มีความสุขเลย
+ph|ev|That rings a bell.|C1|ฟังคุ้นๆ|His name rings a bell.|ชื่อเขาฟังคุ้นๆ
+ph|ev|It slipped my mind.|B2|ลืมไปเลย|Sorry, it slipped my mind.|ขอโทษ ฉันลืมไปเลย
+ph|ev|I'm into it.|B2|ฉันชอบอันนี้|I'm really into jazz lately.|ช่วงนี้ฉันชอบแจ๊สมาก
+ph|ev|I'm not in the mood.|B1|ไม่มีอารมณ์|I'm not in the mood for pizza.|ไม่มีอารมณ์กินพิซซ่า
+ph|ev|Count me in.|B2|นับฉันด้วย|Count me in for the trip.|นับฉันไปทริปด้วย
+ph|ev|Count me out.|B2|ไม่เอาฉันด้วย|Count me out. I'm busy.|ไม่เอาฉันด้วย ฉันยุ่ง
+ph|ev|Let's get started.|A2|เริ่มกันเลย|Let's get started.|เริ่มกันเลย
+ph|ev|Let's call it a night.|B2|พอแค่คืนนี้|It's late. Let's call it a night.|ดึกแล้ว พอแค่คืนนี้
+ph|ev|Do you mind if I sit here?|B1|ขอนั่งตรงนี้ได้ไหม|Do you mind if I sit here?|ขอนั่งตรงนี้ได้ไหม
+ph|ev|Would you mind opening the window?|B1|ช่วยเปิดหน้าต่างให้หน่อยได้ไหม|Would you mind opening the window?|รบกวนเปิดหน้าต่างหน่อยได้ไหม
+ph|ev|I didn't catch your name.|B1|ฉันไม่ได้ยินชื่อคุณ|Sorry, I didn't catch your name.|ขอโทษ ฉันไม่ได้ยินชื่อคุณ
+ph|ev|What do you do for a living?|B1|คุณทำงานอะไร|What do you do for a living?|คุณทำงานอะไรเหรอ
+ph|ev|How long have you been here?|B1|อยู่ที่นี่มานานแค่ไหน|How long have you been here?|คุณอยู่ที่นี่มานานเท่าไหร่
+ph|ev|What brings you here?|B2|มาที่นี่ทำไม|What brings you here?|อะไรทำให้คุณมาที่นี่
+ph|ev|I'll catch you later.|B1|เจอกันนะ|I have to go. Catch you later!|ฉันต้องไปแล้ว เจอกันนะ
+ph|mv|We need to talk.|A2|เราต้องคุยกัน|We need to talk. Now.|เราต้องคุยกัน เดี๋ยวนี้
+ph|mv|Let's get out of here.|B1|ไปจากที่นี่กันเถอะ|It's not safe. Let's get out of here!|ไม่ปลอดภัย รีบไปกันเถอะ
+ph|mv|It's not what it looks like.|B2|ไม่ใช่อย่างที่เห็น|Wait, it's not what it looks like!|เดี๋ยว มันไม่ใช่อย่างที่เห็น
+ph|mv|I'll be right back.|A2|เดี๋ยวกลับมา|Stay here. I'll be right back.|อยู่นี่ เดี๋ยวกลับมา
+ph|mv|You have no idea.|B1|คุณไม่รู้อะไรเลย|You have no idea what I've been through.|คุณไม่รู้เลยว่าฉันผ่านอะไรมา
+ph|mv|Trust me.|A2|เชื่อฉันสิ|Trust me, I know what I'm doing.|เชื่อฉัน ฉันรู้ว่าทำอะไรอยู่
+ph|mv|I've got a bad feeling about this.|B2|ฉันรู้สึกไม่ดีเลย|I've got a bad feeling about this.|ฉันรู้สึกไม่ดีเรื่องนี้เลย|เป็นประโยคที่ตัวละครใน Star Wars พูดซ้ำในหลายภาค จนกลายเป็นมุกประจำแฟรนไชส์
+ph|mv|Get down!|B1|หมอบลง!|Get down! Someone's coming!|หมอบลง! มีคนมา
+ph|mv|Watch your back.|B2|ระวังตัวไว้|Watch your back out there.|ระวังตัวข้างนอกนั่นนะ
+ph|mv|We're running out of time.|B2|เวลาเหลือน้อยแล้ว|Hurry! We're running out of time.|เร็วเข้า เวลาเหลือน้อยแล้ว
+ph|mv|It's now or never.|B2|ตอนนี้หรือไม่มีอีกแล้ว|It's now or never.|ตอนนี้หรือไม่มีอีกเลย
+ph|mv|You can't handle the truth.|C1|คุณรับความจริงไม่ได้หรอก|Why tell you? You can't handle the truth.|จะบอกทำไม คุณรับความจริงไม่ได้หรอก|ประโยคเด่นจากภาพยนตร์ A Few Good Men (1992)
+ph|mv|Are you out of your mind?|B2|คุณบ้าไปแล้วเหรอ|Are you out of your mind?|คุณบ้าไปแล้วเหรอ
+ph|mv|Over my dead body.|C1|ข้ามศพฉันไปก่อน|You'll take her over my dead body.|ข้ามศพฉันไปก่อนถึงจะเอาเธอไปได้
+ph|mv|Not on my watch.|C1|ไม่ได้ถ้ามีฉันอยู่|Nobody gets hurt on my watch.|ไม่มีใครเจ็บตัวถ้ามีฉันอยู่
+ph|mv|What's going on?|A2|เกิดอะไรขึ้น|What's going on in there?|ข้างในเกิดอะไรขึ้น
+ph|mv|Don't do anything stupid.|B1|อย่าทำอะไรโง่ๆ|Put it down. Don't do anything stupid.|วางลง อย่าทำอะไรโง่ๆ
+ph|mv|I owe you one.|B1|ฉันเป็นหนี้บุญคุณคุณ|Thanks for the help. I owe you one.|ขอบคุณที่ช่วย ฉันติดค้างคุณ
+ph|mv|I'm done with this.|B1|ฉันพอแล้วกับเรื่องนี้|I'm done with this. I quit.|ฉันพอแล้ว ฉันลาออก
+ph|mv|You're fired.|B1|คุณถูกไล่ออก|You're late again. You're fired.|คุณมาสายอีกแล้ว คุณถูกไล่ออก
+ph|mv|You're under arrest.|B2|คุณถูกจับกุม|You're under arrest.|คุณถูกจับกุม
+ph|mv|You have the right to remain silent.|C1|คุณมีสิทธิ์ที่จะไม่พูด|You have the right to remain silent.|คุณมีสิทธิ์ที่จะไม่ให้การ
+ph|mv|Freeze!|B1|อยู่นิ่งๆ!|Freeze! Hands up!|อยู่นิ่งๆ! ยกมือขึ้น
+ph|mv|Hold your fire!|C1|หยุดยิง!|Hold your fire! He's unarmed.|หยุดยิง! เขาไม่มีอาวุธ
+ph|mv|Mission accomplished.|B2|ภารกิจสำเร็จ|Mission accomplished. Let's go home.|ภารกิจสำเร็จ กลับบ้านกัน
+ph|mv|It's too late.|A2|สายเกินไปแล้ว|It's too late to turn back.|สายเกินกว่าจะย้อนกลับ
+ph|mv|I'm not going anywhere.|B1|ฉันไม่ไปไหนทั้งนั้น|I'm not going anywhere without you.|ฉันไม่ไปไหนถ้าไม่มีเธอ
+ph|mv|We've got company.|C1|มีแขกมาแล้ว (ศัตรู)|Look out. We've got company.|ระวัง มีคนมาแล้ว
+ph|mv|Say that again.|A2|พูดอีกทีสิ|Say that again, I dare you.|พูดอีกทีสิ ถ้ากล้า
+ph|mv|Nobody move!|B1|ห้ามใครขยับ!|Nobody move! This is a robbery!|ห้ามใครขยับ! นี่คือการปล้น
+ph|mv|Tell me everything.|B1|เล่าให้ฟังหมดเลย|Tell me everything you saw.|เล่าทุกอย่างที่คุณเห็น
+ph|mv|You had me at hello.|C1|แค่ทักก็ใจละลายแล้ว|You had me at hello.|แค่คำทักทายก็ทำให้ฉันใจละลาย|ประโยคเด่นจากภาพยนตร์ Jerry Maguire (1996)
+ph|mv|I love you more than anything.|B1|ฉันรักเธอมากกว่าสิ่งใด|I love you more than anything.|ฉันรักเธอมากกว่าสิ่งอื่นใด
+ph|mv|Will you marry me?|A2|แต่งงานกับฉันนะ|Will you marry me?|แต่งงานกับฉันนะ
+ph|mv|I'll never forget you.|B1|ฉันจะไม่ลืมเธอ|I'll never forget you.|ฉันจะไม่มีวันลืมเธอ
+ph|mv|Don't leave me.|B1|อย่าทิ้งฉัน|Please don't leave me.|ได้โปรดอย่าทิ้งฉัน
+ph|mv|It's not your fault.|B1|ไม่ใช่ความผิดของเธอ|It's not your fault.|ไม่ใช่ความผิดของเธอ
+ph|mv|Let it go.|B1|ปล่อยมันไป|You have to let it go.|เธอต้องปล่อยมันไป
+ph|mv|Everything's going to be okay.|B1|ทุกอย่างจะโอเค|Everything's going to be okay.|ทุกอย่างจะไม่เป็นไร
+ph|mv|I'll always be there for you.|B2|ฉันจะอยู่ข้างเธอเสมอ|I'll always be there for you.|ฉันจะอยู่เคียงข้างเธอเสมอ
+ph|mv|You mean the world to me.|B2|เธอคือโลกทั้งใบของฉัน|You mean the world to me.|เธอสำคัญกับฉันที่สุด
+ph|mv|Cut!|B1|คัต!|Cut! Let's do it again.|คัต! เอาใหม่อีกที|ผู้กำกับตะโกนสั่งหยุดกล้องตั้งแต่ยุคหนังเงียบ ส่วน “Lights, camera, action!” เป็นคำสั่งเริ่มถ่ายที่เรียงตามขั้นตอนการถ่ายทำ
+ph|mv|Lights, camera, action!|B1|ไฟ กล้อง แอ็กชัน!|Lights, camera, action!|ไฟ กล้อง แอ็กชัน!|คำสั่งเริ่มถ่ายทำที่เรียงตามขั้นตอนบนกองถ่าย: เปิดไฟ เปิดกล้อง แล้วนักแสดงเริ่มแสดง
+ph|mv|Plot twist!|B2|พล็อตหักมุม|Plot twist! He was the killer.|พล็อตหักมุม เขาเป็นฆาตกร
+ph|mv|Spoiler alert!|B2|ระวังสปอยล์|Spoiler alert! Don't read on.|ระวังสปอยล์ อย่าอ่านต่อ|เริ่มใช้ในเว็บบอร์ดและกลุ่มสนทนายุคแรกของอินเทอร์เน็ตราวทศวรรษ 1990 เพื่อเตือนก่อนเปิดเผยเนื้อเรื่อง
+ph|mv|To be continued.|B1|โปรดติดตามตอนต่อไป|To be continued...|โปรดติดตามตอนต่อไป
+ph|mv|Previously on...|B2|ตอนที่แล้ว|Previously on the show...|ตอนที่แล้วในเรื่อง
+ph|mv|Based on a true story.|B1|สร้างจากเรื่องจริง|The film is based on a true story.|หนังสร้างจากเรื่องจริง
+ph|mv|Happily ever after.|B1|อยู่ด้วยกันอย่างมีความสุขตลอดไป|They lived happily ever after.|พวกเขาอยู่ด้วยกันอย่างมีความสุขตลอดไป|ประโยคปิดท้ายนิทานยุโรปแบบ “Once upon a time … and they lived happily ever after”

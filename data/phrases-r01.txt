@@ -1,0 +1,193 @@
+# วลี รอบ 1 — phrasal verbs (pv) + สำนวน (id)
+# รูปแบบ: ph|หมวด|วลี|CEFR|ความหมายไทย|ตัวอย่างอังกฤษ|ตัวอย่างไทย
+ph|pv|give up|A2|ยอมแพ้ / เลิก|Don't give up on your dream.|อย่ายอมแพ้ต่อความฝัน
+ph|pv|look forward to|B1|รอคอย / ตั้งตารอ|I'm looking forward to the weekend.|ฉันตั้งตารอวันหยุดสุดสัปดาห์
+ph|pv|find out|A2|รู้ / ค้นพบ|I found out the truth yesterday.|เมื่อวานฉันรู้ความจริงแล้ว
+ph|pv|turn on|A1|เปิด (เครื่อง)|Turn on the light, please.|ช่วยเปิดไฟหน่อย
+ph|pv|turn off|A1|ปิด (เครื่อง)|Please turn off your phone.|กรุณาปิดโทรศัพท์
+ph|pv|pick up|A2|หยิบ / ไปรับ|I'll pick you up at six.|ฉันจะไปรับคุณตอนหกโมง
+ph|pv|drop off|B1|ไปส่ง|Can you drop me off at the station?|ไปส่งฉันที่สถานีได้ไหม
+ph|pv|take off|A2|ถอด / (เครื่องบิน) ขึ้น|The plane takes off at noon.|เครื่องบินขึ้นตอนเที่ยง
+ph|pv|put on|A2|สวมใส่|Put on your jacket. It's cold.|ใส่แจ็คเก็ตซะ หนาวนะ
+ph|pv|put off|B2|เลื่อนออกไป|Don't put off your homework.|อย่าเลื่อนการบ้านออกไป
+ph|pv|set up|B1|ตั้งค่า / จัดตั้ง|He set up his own business.|เขาตั้งธุรกิจของตัวเอง
+ph|pv|set off|B2|ออกเดินทาง|We set off at dawn.|เราออกเดินทางตอนรุ่งสาง
+ph|pv|run out of|B1|หมด|We've run out of milk.|นมหมดแล้ว
+ph|pv|come up with|B1|คิดออก|She came up with a great idea.|เธอคิดไอเดียเจ๋งๆ ออก
+ph|pv|get along with|B1|เข้ากันได้กับ|I get along with my boss.|ฉันเข้ากับเจ้านายได้ดี
+ph|pv|get over|B2|หายจาก / ทำใจได้|It took me a year to get over him.|ฉันใช้เวลาปีหนึ่งกว่าจะลืมเขา
+ph|pv|get away|B1|หนีไปได้ / ไปพักผ่อน|I need to get away for a while.|ฉันต้องหนีไปพักสักหน่อย
+ph|pv|get back|A2|กลับมา|When did you get back?|คุณกลับมาเมื่อไหร่
+ph|pv|get up|A1|ลุกขึ้น / ตื่นนอน|I get up at seven.|ฉันตื่นเจ็ดโมง
+ph|pv|go on|A2|ดำเนินต่อไป / เกิดขึ้น|What's going on here?|ที่นี่เกิดอะไรขึ้น
+ph|pv|go out|A2|ออกไปข้างนอก|Let's go out tonight.|คืนนี้ออกไปเที่ยวกันเถอะ
+ph|pv|go ahead|B1|เชิญเลย / ทำเลย|Go ahead, I'm listening.|พูดเลย ฉันฟังอยู่
+ph|pv|break down|B1|พัง / เสีย|My car broke down on the way.|รถฉันเสียกลางทาง
+ph|pv|break up|B1|เลิกกัน|They broke up last month.|พวกเขาเลิกกันเดือนที่แล้ว
+ph|pv|bring up|B2|เลี้ยงดู / พูดถึง|Don't bring up that topic.|อย่าพูดเรื่องนั้นขึ้นมา
+ph|pv|call off|B2|ยกเลิก|They called off the match.|พวกเขายกเลิกการแข่งขัน
+ph|pv|carry on|B1|ทำต่อไป|Carry on with your work.|ทำงานต่อไปเลย
+ph|pv|check in|B1|เช็กอิน|We checked in at noon.|เราเช็กอินตอนเที่ยง
+ph|pv|check out|B1|เช็กเอาต์ / ลองดู|Check out this video!|ลองดูคลิปนี้สิ
+ph|pv|cheer up|B1|ร่าเริงขึ้น|Cheer up! It's not that bad.|ยิ้มหน่อย ไม่ได้แย่ขนาดนั้น
+ph|pv|clean up|A2|ทำความสะอาด|Clean up your room.|ไปเก็บห้องให้เรียบร้อย
+ph|pv|come back|A2|กลับมา|Come back soon.|กลับมาเร็วๆ นะ
+ph|pv|come on|A2|เร็วเข้า / ไหนลองสิ|Come on, we're late!|เร็วเข้า เราสายแล้ว
+ph|pv|come over|B1|แวะมา|Come over for dinner.|แวะมากินข้าวเย็นสิ
+ph|pv|cut down on|B2|ลดการ...|I'm cutting down on sugar.|ฉันกำลังลดน้ำตาล
+ph|pv|deal with|B1|รับมือกับ|How do you deal with stress?|คุณรับมือกับความเครียดยังไง
+ph|pv|dress up|B1|แต่งตัวสวย|We dressed up for the party.|เราแต่งตัวสวยไปงานปาร์ตี้
+ph|pv|end up|B2|ลงเอยด้วย|We ended up staying home.|สุดท้ายเราอยู่บ้านกัน
+ph|pv|fall apart|C1|พังทลาย|Her life fell apart.|ชีวิตเธอพังทลาย
+ph|pv|fill in|B1|กรอก|Fill in this form.|กรอกแบบฟอร์มนี้ด้วย
+ph|pv|fill out|B1|กรอก|Please fill out the application.|กรุณากรอกใบสมัคร
+ph|pv|figure out|B2|หาคำตอบได้|I can't figure out this puzzle.|ฉันแก้ปริศนานี้ไม่ออก
+ph|pv|follow up|C1|ติดตามผล|I'll follow up with an email.|ฉันจะส่งอีเมลติดตามผล
+ph|pv|give back|B1|คืน|Give my book back.|คืนหนังสือฉันมา
+ph|pv|give in|B2|ยอมจำนน|He finally gave in.|สุดท้ายเขาก็ยอม
+ph|pv|go through|B2|ผ่านเรื่องยาก / ตรวจดู|She's going through a tough time.|เธอกำลังผ่านช่วงเวลาแย่ๆ
+ph|pv|grow up|A2|เติบโต|I grew up in Chiang Mai.|ฉันโตที่เชียงใหม่
+ph|pv|hang out|B1|ไปเที่ยวด้วยกัน|We hang out every Friday.|เราไปเที่ยวด้วยกันทุกวันศุกร์
+ph|pv|hang up|B1|วางสาย|Don't hang up on me!|อย่าวางสายใส่ฉันนะ
+ph|pv|hold on|B1|รอสักครู่|Hold on, I'll be right back.|รอแป๊บ เดี๋ยวมา
+ph|pv|hurry up|A2|รีบหน่อย|Hurry up or we'll be late.|รีบหน่อยไม่งั้นสาย
+ph|pv|keep up|B2|ตามให้ทัน / รักษาไว้|Keep up the good work.|รักษาผลงานดีๆ ไว้
+ph|pv|keep on|B1|ทำต่อไปเรื่อยๆ|Keep on trying.|พยายามต่อไป
+ph|pv|let down|B2|ทำให้ผิดหวัง|I won't let you down.|ฉันจะไม่ทำให้คุณผิดหวัง
+ph|pv|log in|B1|ล็อกอิน|Log in to your account.|ล็อกอินเข้าบัญชีของคุณ
+ph|pv|log out|B1|ล็อกเอาต์|Don't forget to log out.|อย่าลืมล็อกเอาต์
+ph|pv|look after|B1|ดูแล|She looks after her grandma.|เธอดูแลยาย
+ph|pv|look for|A2|มองหา|I'm looking for my keys.|ฉันกำลังหากุญแจ
+ph|pv|look into|C1|ตรวจสอบ|We'll look into the problem.|เราจะตรวจสอบปัญหานี้
+ph|pv|look out|B1|ระวัง|Look out! A car is coming!|ระวัง! รถมา
+ph|pv|look up|B1|ค้นหา|Look up the word in a dictionary.|ไปเปิดดูคำนั้นในพจนานุกรม
+ph|pv|make up|B1|แต่งเรื่อง / คืนดี|She made up an excuse.|เธอแต่งข้อแก้ตัวขึ้นมา
+ph|pv|make out|C1|มองเห็นเลือนๆ / เข้าใจ|I can't make out what he said.|ฉันฟังไม่ออกว่าเขาพูดอะไร
+ph|pv|mix up|B2|สับสน|I mixed up the dates.|ฉันสับสนวันที่
+ph|pv|move on|B2|ก้าวต่อไป|It's time to move on.|ถึงเวลาก้าวต่อไปแล้ว
+ph|pv|move in|B1|ย้ายเข้า|They moved in last week.|พวกเขาย้ายเข้ามาเมื่อสัปดาห์ก่อน
+ph|pv|move out|B1|ย้ายออก|She moved out of the dorm.|เธอย้ายออกจากหอ
+ph|pv|pass away|B2|เสียชีวิต (สุภาพ)|His grandfather passed away.|ปู่ของเขาเสียชีวิต
+ph|pv|pass out|B2|เป็นลม|He passed out from the heat.|เขาเป็นลมเพราะอากาศร้อน
+ph|pv|pay back|B1|จ่ายคืน|I'll pay you back tomorrow.|พรุ่งนี้ฉันจ่ายคืน
+ph|pv|point out|B2|ชี้ให้เห็น|She pointed out my mistake.|เธอชี้ข้อผิดพลาดของฉัน
+ph|pv|put away|B1|เก็บให้เข้าที่|Put your toys away.|เก็บของเล่นเข้าที่
+ph|pv|put up with|C1|ทนกับ|I can't put up with the noise.|ฉันทนเสียงดังไม่ไหว
+ph|pv|run into|B2|บังเอิญเจอ|I ran into my ex yesterday.|เมื่อวานฉันบังเอิญเจอแฟนเก่า
+ph|pv|run away|B1|หนีไป|The kids ran away.|เด็กๆ วิ่งหนีไป
+ph|pv|show off|B2|อวด|He likes to show off.|เขาชอบอวด
+ph|pv|show up|B2|โผล่มา|He didn't show up.|เขาไม่มา
+ph|pv|shut down|B2|ปิดตัว|The shop shut down.|ร้านปิดกิจการ
+ph|pv|sign up|B1|สมัคร|Sign up for the course.|สมัครเรียนคอร์สนี้
+ph|pv|sit down|A1|นั่งลง|Please sit down.|เชิญนั่ง
+ph|pv|slow down|B1|ชะลอ|Slow down, you're driving too fast.|ช้าลงหน่อย คุณขับเร็วเกินไป
+ph|pv|stand up|A2|ลุกยืน|Everyone stood up.|ทุกคนลุกขึ้นยืน
+ph|pv|stand for|C1|ย่อมาจาก / สนับสนุน|What does UN stand for?|UN ย่อมาจากอะไร
+ph|pv|stay up|B1|นอนดึก|I stayed up all night.|ฉันนอนดึกทั้งคืน
+ph|pv|take care of|A2|ดูแล|Take care of yourself.|ดูแลตัวเองด้วยนะ
+ph|pv|take over|B2|เข้ามาแทน|She took over the company.|เธอเข้ามาบริหารบริษัท
+ph|pv|take part in|B1|เข้าร่วม|Everyone took part in the game.|ทุกคนเข้าร่วมเกม
+ph|pv|talk over|B2|ปรึกษา|Let's talk it over.|ปรึกษากันก่อนเถอะ
+ph|pv|tear down|C1|รื้อถอน|They tore down the old house.|พวกเขารื้อบ้านเก่า
+ph|pv|think over|B2|ครุ่นคิด|Let me think it over.|ขอฉันคิดดูก่อน
+ph|pv|throw away|B1|ทิ้ง|Don't throw it away.|อย่าทิ้งมันนะ
+ph|pv|try on|A2|ลองสวม|Can I try this on?|ขอลองใส่ตัวนี้ได้ไหม
+ph|pv|try out|B2|ทดลอง|I'm trying out a new recipe.|ฉันกำลังลองสูตรใหม่
+ph|pv|turn down|B2|ปฏิเสธ / ลดเสียง|He turned down the offer.|เขาปฏิเสธข้อเสนอ
+ph|pv|turn up|B2|โผล่มา / เร่งเสียง|Turn up the volume.|เร่งเสียงหน่อย
+ph|pv|wake up|A1|ตื่นนอน|Wake up! It's late.|ตื่นได้แล้ว สายแล้ว
+ph|pv|warm up|B1|วอร์มอัป|Warm up before you run.|วอร์มอัปก่อนวิ่ง
+ph|pv|watch out|B1|ระวัง|Watch out for the step.|ระวังขั้นบันได
+ph|pv|work out|B1|ออกกำลังกาย / ได้ผล|I work out three times a week.|ฉันออกกำลังกายสัปดาห์ละสามครั้ง
+ph|pv|wrap up|C1|สรุป / ห่อ|Let's wrap up the meeting.|มาสรุปการประชุมกันเถอะ
+ph|pv|back up|B2|สำรองข้อมูล / สนับสนุน|Back up your files.|สำรองไฟล์ของคุณ
+ph|pv|blow up|B2|ระเบิด / โมโห|The bomb blew up.|ระเบิดทำงาน
+ph|pv|burn out|C1|หมดไฟ|I'm totally burned out.|ฉันหมดไฟสุดๆ
+ph|pv|catch up|B1|ตามให้ทัน|Let's catch up over coffee.|ไปนั่งคุยอัปเดตกันเหนือกาแฟนะ
+ph|pv|count on|B2|พึ่งพา|You can count on me.|พึ่งฉันได้เลย
+ph|pv|drop out|B2|ลาออกกลางคัน|He dropped out of college.|เขาลาออกจากมหาวิทยาลัย
+ph|pv|fall for|C1|หลงรัก / หลงเชื่อ|I fell for her instantly.|ฉันตกหลุมรักเธอทันที
+ph|pv|fall behind|B2|ตามไม่ทัน|I'm falling behind at school.|ฉันตามเรียนไม่ทัน
+ph|pv|get by|C1|พออยู่ได้|We can barely get by.|เราอยู่กันแบบแทบไม่พอ
+ph|pv|get through|B2|ผ่านพ้น|We'll get through this together.|เราจะผ่านเรื่องนี้ไปด้วยกัน
+ph|pv|give away|B2|แจก / เผยความลับ|They gave away free tickets.|พวกเขาแจกตั๋วฟรี
+ph|pv|hold back|C1|ยั้งไว้|She held back her tears.|เธอกลั้นน้ำตา
+ph|pv|join in|B2|เข้าร่วมวง|Come on, join in!|มาเข้าร่วมสิ
+ph|pv|knock out|C1|น็อก / ทำให้สลบ|The punch knocked him out.|หมัดนั้นทำให้เขาสลบ
+ph|pv|lay off|C1|ปลดพนักงาน|The company laid off 200 workers.|บริษัทปลดพนักงาน 200 คน
+ph|pv|leave out|B2|ละไว้|Don't leave me out.|อย่าทิ้งฉันไว้นอกวง
+ph|pv|let go|B2|ปล่อยวาง|Let go of the past.|ปล่อยวางอดีตซะ
+ph|pv|line up|B1|เข้าแถว|Line up outside.|เข้าแถวข้างนอก
+ph|pv|make it|B2|ทำสำเร็จ / ไปถึงทัน|We made it just in time.|เราไปถึงทันพอดี
+ph|pv|miss out|B2|พลาดโอกาส|Don't miss out on this deal.|อย่าพลาดดีลนี้
+ph|pv|open up|B2|เปิดใจ|He finally opened up to me.|ในที่สุดเขาก็เปิดใจกับฉัน
+ph|pv|pull off|C1|ทำสำเร็จ (เรื่องยาก)|I can't believe we pulled it off.|ไม่อยากเชื่อว่าเราทำสำเร็จ
+ph|pv|run over|B2|ขับทับ|A car ran over the cat.|รถทับแมว
+ph|pv|settle down|B2|ตั้งหลักแหล่ง / สงบลง|It's time to settle down.|ถึงเวลาตั้งหลักปักฐาน
+ph|pv|sort out|B2|จัดการ|I'll sort it out.|ฉันจะจัดการเอง
+ph|pv|speak up|B2|พูดให้ดังขึ้น|Speak up, I can't hear you.|พูดดังหน่อย ฉันไม่ได้ยิน
+ph|pv|take up|B2|เริ่มทำ (งานอดิเรก)|I took up yoga last year.|ฉันเริ่มเล่นโยคะเมื่อปีที่แล้ว
+ph|pv|tell off|C1|ดุ|The teacher told him off.|ครูดุเขา
+ph|pv|walk out|C1|เดินออก (ทิ้ง)|She walked out on him.|เธอเดินจากเขาไป
+ph|pv|work on|B1|ทำงานเกี่ยวกับ|I'm working on a project.|ฉันกำลังทำโปรเจกต์
+ph|id|break the ice|B2|ทำลายความอึดอัดเมื่อเริ่มคุย|A joke can break the ice.|มุกตลกช่วยละลายความอึดอัดได้|ภาพคือเรือที่ต้องทุบน้ำแข็งให้ทางเดินเรือเปิด จึงเปรียบเป็นการทำลายความเย็นชาตอนเริ่มคุย พบในวรรณกรรมอังกฤษตั้งแต่ศตวรรษที่ 16 เช่นบทละคร The Taming of the Shrew ของเชกสเปียร์
+ph|id|piece of cake|B1|ง่ายมาก|The test was a piece of cake.|ข้อสอบง่ายมาก|ใช้ในอเมริกาตั้งแต่ราวทศวรรษ 1930 เปรียบว่าง่ายเหมือนกินเค้กชิ้นหนึ่ง บางคนเชื่อมโยงกับ “cakewalk” งานเต้นรำที่ผู้ชนะได้เค้กเป็นรางวัล แต่ที่มาไม่ชัดเจน
+ph|id|hit the books|B2|ตั้งใจอ่านหนังสือ|I need to hit the books tonight.|คืนนี้ฉันต้องอ่านหนังสือจริงจัง|“hit” ในภาษาอังกฤษใช้กับการลงมือทำจริงจังหลายแบบ เช่น hit the road, hit the gym ส่วน books คือหนังสือเรียน สำนวนนี้นิยมในหมู่นักศึกษาอเมริกันราวศตวรรษที่ 20 (ที่มาไม่มีบันทึกแน่ชัด)
+ph|id|once in a blue moon|C1|นานๆ ครั้ง|He visits once in a blue moon.|เขามาเยี่ยมนานๆ ครั้ง|“blue moon” ความหมายสมัยใหม่คือพระจันทร์เต็มดวงดวงที่สองในเดือนเดียวกัน (เกิดราวทุก 2–3 ปี) แต่สำนวนเก่ากว่านั้น ในศตวรรษที่ 16 “พระจันทร์สีฟ้า” หมายถึงสิ่งที่เป็นไปไม่ได้ จึงกลายเป็น “เกิดขึ้นนานมาก”
+ph|id|under the weather|B2|ไม่ค่อยสบาย|I'm feeling under the weather.|ฉันรู้สึกไม่ค่อยสบาย|ทฤษฎีที่นิยมที่สุดคือกะลาสีที่ป่วยจะถูกส่งลงไปพักใต้ดาดฟ้าเรือเพื่อหลบสภาพอากาศ (weather) แต่ยังไม่มีหลักฐานยืนยันแน่ชัด
+ph|id|spill the beans|C1|หลุดปากความลับ|Who spilled the beans?|ใครหลุดปากเรื่องความลับ|มีเรื่องเล่าว่ากรีกโบราณโหวตด้วยถั่วขาว/ถั่วดำใส่โถ ถ้าโถหกก็เปิดเผยผลก่อนเวลา แต่หลักฐานค่อนข้างอ่อน สำนวนนี้พบชัดในอเมริกาช่วงต้นศตวรรษที่ 20
+ph|id|cost an arm and a leg|C1|แพงมาก|That bag cost an arm and a leg.|กระเป๋าใบนั้นแพงมาก|ที่มาไม่ชัดเจน เป็นสำนวนที่ใช้ในอเมริการาวกลางศตวรรษที่ 20 เปรียบว่าแพงจนต้องเสียแขนขา มีเรื่องเล่าว่ามาจากราคาภาพวาดบุคคลที่แพงขึ้นถ้าวาดแขนขาด้วย แต่ไม่มีหลักฐานรองรับ
+ph|id|let the cat out of the bag|C1|เผลอเปิดเผยความลับ|He let the cat out of the bag.|เขาเผลอเปิดเผยความลับ|ทฤษฎีที่พบบ่อยคือตลาดสมัยกลางมีพ่อค้าหลอกขายแมวใส่ถุงแทนลูกหมู ถ้าเปิดถุงปล่อยแมวออกมาก็แปลว่าความลับ (การโกง) ถูกเปิดโปง แต่ยังเป็นเพียงทฤษฎี สำนวนพบในศตวรรษที่ 18
+ph|id|bite the bullet|C1|กัดฟันทำ|I'll just bite the bullet and do it.|ฉันกัดฟันทำไปเลย|มีเรื่องเล่าว่าทหารสมัยก่อนต้องกัดกระสุนเวลาผ่าตัดโดยไม่มียาสลบ แต่ที่ยืนยันได้คือสำนวนนี้ถูกใช้ในความหมายปัจจุบันตั้งแต่ศตวรรษที่ 19 เช่นในงานของ Rudyard Kipling (1891)
+ph|id|on the same page|B2|เข้าใจตรงกัน|Let's make sure we're on the same page.|มาเช็กให้แน่ใจว่าเราเข้าใจตรงกัน
+ph|id|call it a day|B2|เลิกงานวันนี้|Let's call it a day.|วันนี้พอแค่นี้เถอะ
+ph|id|hit the sack|C1|เข้านอน|I'm going to hit the sack.|ฉันจะไปนอนแล้ว|“sack” แปลว่าเตียง/ที่นอนมาตั้งแต่ศตวรรษที่ 19 เพราะที่นอนสมัยก่อนคือถุงผ้ากระสอบยัดฟางหรือหญ้าแห้ง ส่วน “hit” คือทิ้งตัวลงไป สำนวนนี้พบใช้ในอเมริกาช่วงต้นศตวรรษที่ 20 (ที่มาเป๊ะๆ ไม่มีบันทึกชัด)
+ph|id|in the same boat|C1|เจอปัญหาเดียวกัน|We're all in the same boat.|เราเจอเรื่องเดียวกันหมด|คนที่อยู่เรือลำเดียวกันย่อมรอดหรือจมไปพร้อมกัน จึงหมายถึงเจอสถานการณ์เดียวกัน พบในภาษาอังกฤษมานานหลายร้อยปี
+ph|id|the last straw|C1|ฟางเส้นสุดท้าย|That was the last straw.|นั่นคือฟางเส้นสุดท้าย|ย่อจากสุภาษิต “It is the last straw that breaks the camel's back” ฟางเส้นสุดท้ายที่ทำให้หลังอูฐหัก คือเรื่องเล็กๆ ที่ทำให้ทนไม่ไหว
+ph|id|a blessing in disguise|C1|เรื่องร้ายที่กลับกลายเป็นดี|Losing that job was a blessing in disguise.|การตกงานครั้งนั้นกลับกลายเป็นเรื่องดี|พบในบทกวีของ James Hervey ปี 1746 ซึ่งมักถูกอ้างเป็นที่มาในภาษาอังกฤษ
+ph|id|better late than never|B2|ช้าดีกว่าไม่มา|Better late than never.|มาช้าดีกว่าไม่มา|เก่ามาก ย้อนไปถึงนักประวัติศาสตร์โรมัน Livy (ละติน: potius sero quam numquam) และถูกใช้ในภาษาอังกฤษตั้งแต่สมัย Chaucer
+ph|id|time flies|B1|เวลาผ่านไปเร็ว|Time flies when you're having fun.|เวลาผ่านไปเร็วเวลาสนุก|มาจากภาษาละติน “tempus fugit” ในบทกวี Georgics ของ Virgil (ราว 29 ปีก่อนคริสตกาล)
+ph|id|actions speak louder than words|C1|การกระทำสำคัญกว่าคำพูด|Actions speak louder than words.|การกระทำดังกว่าคำพูด|สุภาษิตเก่าที่พบในภาษาอังกฤษตั้งแต่ศตวรรษที่ 17 และมีแนวคิดคล้ายกันในหลายภาษา
+ph|id|the ball is in your court|C1|ถึงตาคุณตัดสินใจ|I've made my offer; the ball is in your court.|ฉันเสนอไปแล้ว ถึงตาคุณตัดสินใจ|ส่วนใหญ่เชื่อว่ามาจากเทนนิส เมื่อลูกอยู่ฝั่งสนามคุณ คุณต้องเป็นฝ่ายตีกลับ
+ph|id|beat around the bush|C1|พูดอ้อมค้อม|Stop beating around the bush.|เลิกพูดอ้อมค้อมได้แล้ว|มาจากการล่าสัตว์ ผู้ช่วยล่าจะตีพุ่มไม้เพื่อไล่นกออกมา แทนที่จะตรงเข้าเป้าหมาย จึงเปรียบเป็นการพูดอ้อมค้อม พบตั้งแต่ศตวรรษที่ 15
+ph|id|get cold feet|C1|ใจฝ่อ|He got cold feet before the wedding.|เขาใจฝ่อก่อนงานแต่ง|ที่มาไม่แน่ชัด แต่ภาพคือกลัวจนเท้าเย็น มีการใช้ในอเมริกาปลายศตวรรษที่ 19 และมีบันทึกคล้ายกันในบทละครศตวรรษที่ 17
+ph|id|go the extra mile|C1|ทุ่มเทเกินคาด|She always goes the extra mile.|เธอทุ่มเทเกินหน้าที่เสมอ|มักโยงกับพระธรรมมัทธิว 5:41 “ถ้าใครบังคับให้เจ้าเดินไปหนึ่งไมล์ จงไปกับเขาสองไมล์” แล้วกลายเป็นสำนวนทำเกินหน้าที่
+ph|id|hit the jackpot|C1|โชคดีสุดๆ|We hit the jackpot with this hotel.|เราโชคดีมากที่ได้โรงแรมนี้|“jackpot” มาจากโป๊กเกอร์ในอเมริกาศตวรรษที่ 19 เงินเดิมพันสะสมไว้จนมีคนได้ไพ่ jacks หรือดีกว่าถึงเปิดเล่นได้ ต่อมาใช้กับรางวัลใหญ่
+ph|id|in a nutshell|C1|สรุปสั้นๆ|In a nutshell, we lost.|สรุปสั้นๆ คือเราแพ้|Pliny ผู้เฒ่าเล่าว่ามีสำเนา Iliad เขียนเล็กจนใส่ในเปลือกถั่วได้ และเชกสเปียร์เขียน “bounded in a nutshell” ใน Hamlet จึงหมายถึงสรุปให้กระชับ
+ph|id|it's not rocket science|C1|ไม่ได้ยากขนาดนั้น|Just try it. It's not rocket science.|ลองทำดู ไม่ได้ยากขนาดนั้น|สำนวนสมัยใหม่ (ยุคอวกาศ) ใช้ภาพ “นักวิทยาศาสตร์จรวด” แทนงานที่ยากสุดๆ แล้วบอกว่าเรื่องนี้ไม่ได้ยากขนาดนั้น
+ph|id|keep an eye on|B2|คอยดู|Keep an eye on my bag.|ช่วยดูกระเป๋าฉันหน่อย
+ph|id|lose your temper|B2|โมโห|He lost his temper.|เขาโมโห
+ph|id|make ends meet|C1|หาเงินพอใช้|She works two jobs to make ends meet.|เธอทำสองงานเพื่อให้พออยู่|ที่มาไม่ชัด มักอธิบายว่าให้ “ปลายสองข้าง” ของรายได้กับรายจ่ายมาบรรจบกัน พบในภาษาอังกฤษราวศตวรรษที่ 17
+ph|id|miss the boat|C1|พลาดโอกาส|If you wait, you'll miss the boat.|ถ้ารอ คุณจะพลาดโอกาส
+ph|id|on thin ice|C1|เสี่ยงอันตราย|You're on thin ice with the boss.|คุณกำลังเสี่ยงกับเจ้านายอยู่|เปรียบเหมือนเดินบนน้ำแข็งบางที่พร้อมจะแตก มีบันทึกในงานของ Ralph Waldo Emerson (1841) ว่าความปลอดภัยบนน้ำแข็งบางอยู่ที่ความเร็ว
+ph|id|out of the blue|C1|อยู่ๆ ก็|She called me out of the blue.|อยู่ๆ เธอก็โทรมา|ย่อมาจาก “a bolt from the blue” สายฟ้าฟาดจากฟ้าสีครามที่ไม่มีเมฆ คือเหตุการณ์ที่เกิดขึ้นโดยไม่คาดคิด
+ph|id|pull someone's leg|C1|แกล้งหยอก|Are you pulling my leg?|คุณล้อฉันเล่นอยู่เหรอ|ที่มาไม่ชัดเจน มีเรื่องเล่าว่าโจรดึงขาคนให้ล้มก่อนปล้น แต่นักภาษาศาสตร์ไม่ค่อยเชื่อ สำนวนพบในศตวรรษที่ 19
+ph|id|see eye to eye|C1|เห็นตรงกัน|We don't see eye to eye.|เราไม่ค่อยเห็นตรงกัน|มาจากหนังสืออิสยาห์ 52:8 ในพระคัมภีร์ (“เห็นกันต่อหน้าต่อตา”) ต่อมาหมายความว่ามีความเห็นตรงกัน
+ph|id|sleep on it|B2|ขอคิดข้ามคืน|Let me sleep on it.|ขอฉันคิดข้ามคืนก่อน
+ph|id|take it easy|B1|ใจเย็นๆ / พักผ่อน|Take it easy this weekend.|สุดสัปดาห์นี้พักผ่อนบ้างนะ
+ph|id|the best of both worlds|C1|ได้ทั้งสองอย่าง|Working from home gives you the best of both worlds.|ทำงานที่บ้านได้ทั้งสองอย่าง
+ph|id|throw in the towel|C1|ยอมแพ้|He threw in the towel.|เขายอมแพ้|มาจากมวย เซคันด์โยนผ้าเข้าไปในเวทีเพื่อยอมแพ้แทนนักมวยที่บาดเจ็บ
+ph|id|up in the air|C1|ยังไม่แน่นอน|Our plans are still up in the air.|แผนของเรายังไม่แน่นอน
+ph|id|a dime a dozen|C2|หาได้ง่ายดาษดื่น|Singers like him are a dime a dozen.|นักร้องแบบเขามีดาษดื่น|“dime” คือเหรียญ 10 เซนต์ของสหรัฐฯ ของที่ขายโหลละ 10 เซนต์ย่อมถูกและหาง่ายมาก
+ph|id|add fuel to the fire|C1|เติมเชื้อไฟ|Don't add fuel to the fire.|อย่าเติมเชื้อไฟ
+ph|id|barking up the wrong tree|C2|เข้าใจผิดคน/เรื่อง|You're barking up the wrong tree.|คุณคิดผิดคนแล้ว|มาจากการล่าสัตว์ สุนัขล่าเหยื่อเห่าอยู่ใต้ต้นไม้ที่เหยื่อไม่ได้อยู่แล้ว สำนวนพบในอเมริกาศตวรรษที่ 19
+ph|id|burn the midnight oil|C2|ทำงานดึก|He burned the midnight oil to finish.|เขาทำงานดึกจนเสร็จ|ก่อนมีไฟฟ้า คนต้องจุดตะเกียงน้ำมันเพื่ออ่านหนังสือหรือทำงานตอนดึก
+ph|id|cut corners|C1|ทำลวกๆ ประหยัดขั้นตอน|Don't cut corners on safety.|อย่าลดขั้นตอนเรื่องความปลอดภัย|ตัดมุมถนนเพื่อไปให้ถึงเร็วขึ้น แต่ข้ามส่วนที่ควรทำ จึงหมายถึงทำลวกเพื่อประหยัดเวลาหรือเงิน
+ph|id|drive someone up the wall|C2|ทำให้หงุดหงิดสุดๆ|This noise drives me up the wall.|เสียงนี้ทำฉันหงุดหงิดสุดๆ
+ph|id|every cloud has a silver lining|C1|ทุกเรื่องร้ายมีด้านดี|Every cloud has a silver lining.|ทุกเรื่องร้ายมีด้านดีเสมอ|มาจากบทละคร Comus ของ John Milton (1634) ที่พูดถึงเมฆดำที่มีขอบสีเงิน หมายถึงเรื่องร้ายมักมีด้านดีซ่อนอยู่
+ph|id|get out of hand|C1|เกินควบคุม|The party got out of hand.|ปาร์ตี้เกินควบคุม
+ph|id|give someone the cold shoulder|C2|ทำเมินใส่|She gave me the cold shoulder.|เธอทำเมินใส่ฉัน|มีทฤษฎีว่ามาจากการเสิร์ฟเนื้อไหล่เย็นๆ ให้แขกที่ไม่อยากต้อนรับ พบการใช้ในงานของ Walter Scott ปี 1816 (ที่มาเป๊ะๆ ยังไม่แน่ชัด)
+ph|id|go down in flames|C2|ล้มเหลวอย่างยับเยิน|The project went down in flames.|โปรเจกต์ล้มเหลวยับเยิน
+ph|id|jump the gun|C2|รีบทำก่อนเวลา|Don't jump the gun.|อย่าเพิ่งรีบทำ|มาจากการแข่งวิ่ง นักวิ่งที่ออกตัวก่อนเสียงปืนสตาร์ท
+ph|id|kill two birds with one stone|C1|ได้สองต่อ|Let's kill two birds with one stone.|มาทำให้ได้สองอย่างพร้อมกัน|เป็นสำนวนเก่าในภาษาอังกฤษ พบในงานเขียนศตวรรษที่ 17 และมีสำนวนคล้ายกันในหลายภาษา
+ph|id|on cloud nine|C1|ลอยอยู่บนฟ้า (ดีใจมาก)|She's on cloud nine.|เธอดีใจมากจนลอย|ที่มาไม่ชัด มีทฤษฎีว่ามาจากการจำแนกเมฆของสำนักงานอากาศสหรัฐฯ (cloud nine คือเมฆสูงสุด) หรือจากรายการวิทยุยุค 1950
+ph|id|pull yourself together|C1|ตั้งสติ|Pull yourself together!|ตั้งสติหน่อย
+ph|id|rain check|C1|ขอเลื่อนไปครั้งหน้า|Can I take a rain check?|ขอเลื่อนไปครั้งหน้าได้ไหม|มาจากเบสบอลในอเมริกาช่วงปลายศตวรรษที่ 19 ถ้าเกมถูกเลื่อนเพราะฝน ผู้ชมจะได้ตั๋วไว้ใช้ดูเกมถัดไป
+ph|id|read between the lines|C1|อ่านความนัย|You have to read between the lines.|ต้องอ่านความนัยเอาเอง|มาจากการเขียนจดหมายลับที่ซ่อนข้อความจริงไว้ระหว่างบรรทัด คนอ่านต้องอ่านสิ่งที่ไม่ได้เขียนตรงๆ
+ph|id|rock the boat|C2|ก่อปัญหา|Don't rock the boat.|อย่าก่อเรื่อง
+ph|id|speak of the devil|C1|นึกถึงใครก็มาเลย|Speak of the devil, here he comes.|พูดถึงใครก็มาเลย|เชื่อกันมาแต่ก่อนว่าถ้าพูดถึงปีศาจ ปีศาจจะปรากฏตัว สำนวนนี้พบในศตวรรษที่ 16
+ph|id|steal the show|C1|เด่นที่สุด|Her dress stole the show.|ชุดของเธอเด่นที่สุด
+ph|id|the elephant in the room|C2|เรื่องที่ไม่มีใครพูดถึง|Money is the elephant in the room.|เรื่องเงินคือเรื่องที่ไม่มีใครกล้าพูด|มักโยงกับนิทานของ Ivan Krylov (1814) ชายคนหนึ่งเดินดูพิพิธภัณฑ์แล้วสังเกตเรื่องเล็กๆ แต่ไม่เห็น “ช้างตัวใหญ่” ตรงหน้า
+ph|id|the tip of the iceberg|C1|แค่ส่วนเล็กน้อย|That's just the tip of the iceberg.|นั่นแค่ปลายยอดภูเขาน้ำแข็ง|ภูเขาน้ำแข็งส่วนใหญ่ (ราว 90%) จมอยู่ใต้น้ำ เห็นแค่ปลายยอด จึงเปรียบว่าที่เห็นเป็นเพียงส่วนน้อยของปัญหา
+ph|id|through thick and thin|C2|ผ่านทุกสถานการณ์|They stayed together through thick and thin.|พวกเขาอยู่ด้วยกันผ่านทุกเรื่อง|พบใน Canterbury Tales ของ Chaucer (ปลายศตวรรษที่ 14) “thick” คือป่าทึบ ส่วน “thin” คือป่าโปร่ง หมายถึงผ่านทุกสภาพ
+ph|id|you can't judge a book by its cover|B2|อย่าตัดสินจากภายนอก|You can't judge a book by its cover.|อย่าตัดสินจากหน้าตา
